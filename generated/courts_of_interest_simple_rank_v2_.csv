@@ -1,0 +1,31 @@
+state_code,dist_code,court_no,total_cases,total_valid_cases,median_decision_days,mean_decision_days,state_name,district_name,court_name
+10.0,9.0,5.0,21595.0,19789.0,5.0,75.92,Tamil Nadu,Thoothukudi,"Principal District court complex, Thoothukudi"
+10.0,7.0,7.0,16154.0,16051.0,5.0,135.14,Tamil Nadu,Kanniyakumari,Principal District and Sessions Court
+13.0,2.0,10.0,619.0,539.0,5.0,247.58,Uttar Pradesh,Bareilly,acjmnerbly
+17.0,14.0,19.0,4942.0,4882.0,5.0,115.03,Gujarat,SURAT,bardoli_addldj Court
+9.0,25.0,6.0,3202.0,2771.0,5.0,195.57,Rajasthan,Banswara,DJ ADJ Banswara District HQ
+17.0,35.0,1.0,17710.0,17689.0,6.0,209.77,Gujarat,Valsad,valsad_district Court
+10.0,3.0,12.0,40286.0,40234.0,6.0,70.71,Tamil Nadu,Tirunelveli,"PDJ, I ADJ, Mahila, III ADJ, IV ADJ Tirunelveli"
+10.0,8.0,9.0,18930.0,18903.0,6.0,116.55,Tamil Nadu,Tiruchirappalli,Principal District and Session Court Establishment
+17.0,36.0,1.0,10153.0,10037.0,6.0,204.23,Gujarat,Porbandar,"DISTRICT AND SESSIONS COURT, PORBANDAR"
+10.0,29.0,11.0,9054.0,8780.0,7.0,163.73,Tamil Nadu,Sivagangai,CHIEF JUDICIAL MAGISTRATE
+9.0,20.0,8.0,16393.0,13865.0,7.0,185.87,Rajasthan,Kota,DJ ADJ - Kota HQ
+9.0,19.0,9.0,7473.0,6593.0,7.0,187.36,Rajasthan,Pali,DJ ADJ SCST-PALI DISTRICT HQ
+10.0,15.0,3.0,33566.0,31387.0,7.0,120.16,Tamil Nadu,Madurai,Principal District Judge
+10.0,17.0,1.0,22832.0,22010.0,8.0,103.65,Tamil Nadu,Thanjavur,"PRINCIPAL DISTRICT COURT, THANJAVUR"
+9.0,10.0,5.0,9668.0,8054.0,8.0,175.25,Rajasthan,Bundi,DJ ADJ - Bundi HQ
+8.0,12.0,5.0,587.0,587.0,1329.0,1430.23,Bihar,Madhepura,Uda-Kishunganj CJM Division
+8.0,1.0,12.0,1298.0,1298.0,1366.5,1459.16,Bihar,Patna,Barh CJM Div.
+8.0,31.0,4.0,365.0,365.0,1388.0,1187.52,Bihar,Sitamarhi,Pupri CJM Division
+8.0,36.0,5.0,426.0,426.0,1391.0,1566.07,Bihar,Jehanabad,Arwal CJM Division
+9.0,22.0,31.0,226.0,226.0,1413.0,1592.48,Rajasthan,Jhalawar,ACJM Manoharthana Jhalawar District
+8.0,37.0,2.0,476.0,476.0,1414.0,1470.04,Bihar,Sheohar,Sheohar CJM Div.
+9.0,39.0,2.0,454.0,453.0,1428.0,1402.76,Rajasthan,Jodhpur District,CJM ACJM JM-Jodhpur District HQ
+18.0,21.0,4.0,6047.0,5105.0,1554.0,1516.11,Chhattisgarh,Surajpur,Chief Judicial Magistrate Surajpur
+11.0,27.0,3.0,8747.0,8607.0,1569.0,1591.65,Orissa,Anugul,"Chief Judicial Magistrate, Anugul"
+8.0,17.0,9.0,311.0,311.0,1629.0,1659.07,Bihar,Darbhanga,Biraul CJM Division
+8.0,1.0,11.0,153.0,153.0,1750.0,1714.02,Bihar,Patna,Barh D.J Div.
+9.0,38.0,35.0,412.0,411.0,1827.0,1781.30,Rajasthan,Jaipur District,ACJM JM-Kotputli
+8.0,9.0,8.0,292.0,292.0,1926.0,1810.27,Bihar,Purnea,CJM Division
+8.0,6.0,11.0,385.0,385.0,1927.0,2053.06,Bihar,Begusarai,Balia CJM Division
+8.0,1.0,15.0,170.0,170.0,2320.0,2099.60,Bihar,Patna,Masaurhi CJM Div.

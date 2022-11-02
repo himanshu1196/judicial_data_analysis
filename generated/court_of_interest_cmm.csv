@@ -1,0 +1,31 @@
+state_code,dist_code,court_no,total_cases,total_valid_cases,median_decision_days,mean_decision_days,state_name,district_name,court_name
+3.0,20.0,2.0,400678.0,293816.0,135.0,308.03465774498324,Karnataka,BENGALURU,Chief Metropolitan Magistrate Court
+3.0,20.0,8.0,65237.0,58406.0,197.0,314.9318734376605,Karnataka,BENGALURU,"AddlChief Metropolitan Magistrate Court, Bengaluru"
+26.0,11.0,2.0,68454.0,63435.0,217.0,437.919870733822,Delhi,South East,"Chief Metropolitan Magistrate, South-East, Saket"
+26.0,10.0,2.0,49417.0,46455.0,225.0,370.87090732967386,Delhi,South,"Chief Metropolitan Magistrate, South, Saket"
+1.0,23.0,10.0,90622.0,79389.0,232.0,360.4574185340537,Maharashtra,Mumbai CMM Courts,ADDL. CHIEF METROPOLITAN MAGISTRATE COURT
+29.0,2.0,3.0,103723.0,102961.0,276.0,485.77667272073893,Telangana,Hyderabad,Chief Metropolitan Magistrate
+26.0,8.0,2.0,72056.0,69901.0,281.0,498.0201856911918,Delhi,Central,"Chief Metropolitan Magistrate, Central, THC"
+26.0,6.0,2.0,107588.0,107247.0,303.0,389.09829645584495,Delhi,South West,"Chief Metropolitan Magistrate, South-West, DWK"
+26.0,4.0,2.0,22703.0,21631.0,314.0,562.7289538162822,Delhi,North,"Chief Metropolitan Magistrate, North, RHC"
+29.0,2.0,18.0,376.0,376.0,318.0,401.67287234042567,Telangana,Hyderabad,V ADDL. CMM
+9.0,4.0,32.0,9860.0,5620.0,331.0,434.01423487544486,Rajasthan,Jaipur Metro,CMM ACMM MM BASSI COURT COMPLEX
+9.0,4.0,31.0,20498.0,20490.0,338.0,398.6021473889703,Rajasthan,Jaipur Metro I,CMM ACMM Nagar Nigam Court Complex Jaipur Metro
+26.0,5.0,2.0,25727.0,24789.0,356.0,556.6456896203962,Delhi,North West,"Chief Metropolitan Magistrate, North-West, RHC"
+10.0,13.0,17.0,12264.0,12134.0,383.0,731.1431514751938,Tamil Nadu,Chennai,"Chief Metropolitan Magistratre Court, Egmore, Ch-8"
+26.0,9.0,2.0,39122.0,38392.0,403.0,588.4590018753908,Delhi,West,"Chief Metropolitan Magistrate, West, THC"
+1.0,23.0,1.0,44471.0,39321.0,431.0,564.0120800590015,Maharashtra,Mumbai CMM Courts,"CMM COURT, ESPLANADE COURT, MUMBAI"
+26.0,3.0,2.0,24498.0,23003.0,436.0,630.9365734904143,Delhi,East,"Chief Metropolitan Magistrate, East, KKD"
+29.0,2.0,24.0,18739.0,18612.0,455.0,656.7607457554267,Telangana,Hyderabad,X Addl Chief Metropolitan Magistrate  Secunderabad
+2.0,11.0,5.0,38357.0,37780.0,463.0,614.560878771837,Andhra Pradesh,Krishna,"Chief Metropolitan Magistrate, Vijayawada"
+13.0,19.0,3.0,26098.0,25821.0,474.0,662.1598698733587,Uttar Pradesh,Kanpur Nagar,Chief Metropolitan Magistrate
+26.0,2.0,2.0,25136.0,23331.0,486.0,661.2702841712743,Delhi,Shahdara,"Chief Metropolitan Magistrate, Shahdara, KKD"
+1.0,23.0,9.0,47678.0,42938.0,496.0,661.523312683404,Maharashtra,Mumbai CMM Courts,"ADDL. CHIEF METROPOLITAN MAGISTRATES COURT, KURLA"
+1.0,23.0,15.0,19807.0,18097.0,508.0,783.2294855500912,Maharashtra,Mumbai CMM Courts,"ADDL.CHIEF METROPOLITAN MAGISTRATE, DADAR, MUMBAI."
+9.0,4.0,15.0,107355.0,79301.0,524.0,668.9816647961565,Rajasthan,Jaipur Metro,CMM ACMM MM Jaipur Metro HQ
+26.0,7.0,2.0,35985.0,34547.0,553.0,684.1836917822097,Delhi,New Delhi,"Chief Metropolitan Magistrate, New Delhi, PHC"
+9.0,40.0,7.0,64641.0,52075.0,661.0,813.8320883341335,Rajasthan,Jaipur Metro II,CMM ACMM Jaipur Metro HQ II
+9.0,4.0,30.0,4994.0,4845.0,777.0,895.3382868937049,Rajasthan,Jaipur Metro,CMM ACMM MM Mini Secretariat Jaipur
+2.0,20.0,11.0,6125.0,6096.0,812.5,931.4670275590552,Andhra Pradesh,Visakapatnam,CHIEF METROPOLITAN MAGISTRATE COURT
+9.0,40.0,23.0,1229.0,1170.0,880.0,1065.3982905982905,Rajasthan,Jaipur Metro II,CMM MINI SECRETARIAT JAIPUR METRO II
+9.0,40.0,14.0,1047.0,1047.0,976.0,1051.367717287488,Rajasthan,Jaipur Metro II,CMM ACMM JDA JAIPUR METRO II

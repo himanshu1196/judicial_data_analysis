@@ -1,0 +1,33 @@
+,Unnamed: 0_x,Unnamed: 0.1,state_code,dist_code,court_no,state_name,district_name,court_name,median_decision_days,Unnamed: 0_y,total_judge_days,avg_judge_count,mean_tenure_days,median_tenure_days,num_judges,num_valid_entries
+0,960,960,9,6,25,Rajasthan,Bikaner,POCSO Bikaner District HQ,2.0,772.0,809.0,0.2462709284627093,1540.0,1540.0,1.0,1.0
+1,743,743,17,35,1,Gujarat,Valsad,valsad_district Court,6.0,585.0,11026.0,3.3564687975646876,629.4761904761905,523.0,21.0,21.0
+2,345,345,10,9,5,Tamil Nadu,Thoothukudi,Principal District court complex,6.0,243.0,2975.0,0.9056316590563166,633.8571428571429,729.0,7.0,7.0
+3,334,334,10,7,7,Tamil Nadu,Kanniyakumari,Principal District and Sessions Court,6.0,232.0,1975.0,0.6012176560121766,451.0,473.5,6.0,6.0
+4,941,941,9,7,48,Rajasthan,Ganganagar,POCSO -Sri Ganganagar District HQ,6.0,,,,,,,
+5,744,744,17,36,1,Gujarat,Porbandar,DISTRICT AND SESSIONS COURT,7.0,586.0,5791.0,1.762861491628615,861.5454545454545,784.0,11.0,11.0
+6,943,943,9,28,22,Rajasthan,Jodhpur Metro,POCSO-Jodhpur Metro District HQ,7.0,758.0,3973.0,1.2094368340943684,776.4285714285713,652.0,7.0,7.0
+7,978,978,9,11,26,Rajasthan,Hanumangarh,POCSO-Hanumangarh District HQ,7.5,,,,,,,
+8,797,797,21,1,3,Meghalaya,East Khasi Hills,Asst District Judge,8.0,,,,,,,
+9,708,708,17,13,18,Gujarat,Ahmedabad,ADDL DISTRICT COURT,8.0,553.0,7853.0,2.390563165905632,110.91176470588236,39.0,106.0,102.0
+10,977,977,9,5,28,Rajasthan,Tonk,POCSO-Tonk District HQ,8.5,,,,,,,
+11,341,341,10,8,9,Tamil Nadu,Tiruchirappalli,Principal District and Session Court,9.0,238.0,3141.0,0.9561643835616438,430.22222222222223,179.0,9.0,9.0
+12,17,17,1,13,13,Maharashtra,Chandrapur,District Judge-1 and ASJ Warora,9.0,16.0,4923.0,1.498630136986301,495.6153846153846,362.0,13.0,13.0
+13,735,735,17,29,18,Gujarat,Sabarkantha at Himmatnagar,ADDITIONAL DISTRICT AND SESSIONS,10.0,577.0,788.0,0.23987823439878234,788.0,788.0,1.0,1.0
+14,384,384,10,15,3,Tamil Nadu,Madurai,Principal District Judge,10.0,269.0,1959.0,0.5963470319634703,1345.0,1345.0,2.0,2.0
+15,302,302,10,1,20,Tamil Nadu,Dharmapuri,District Munsif Court,1395.0,,,,,,,
+16,474,474,10,32,5,Tamil Nadu,Tiruvallur,District Munsif Court,1396.0,332.0,4227.0,1.2867579908675801,1137.8,1204.0,5.0,5.0
+17,253,253,9,2,12,Rajasthan,Alwar,LABOUR-Alwar District HQ,1416.0,183.0,2948.0,0.8974124809741248,1102.5,1102.5,4.0,4.0
+18,795,795,20,11,8,Tripura,Dhalai Tripura,District and Sessions Judge Establishment,1427.0,,,,,,,
+19,377,377,10,12,24,Tamil Nadu,Salem,District Munsif,1443.0,264.0,998.0,0.30380517503805177,1729.0,1729.0,1.0,1.0
+20,1043,1043,9,31,17,Rajasthan,Bhilwara,LABOUR BHILWARA DISTRICT HQ,1448.0,722.0,1782.0,0.5424657534246575,540.6666666666666,428.5,6.0,6.0
+21,1043,1043,9,31,17,Rajasthan,Bhilwara,LABOUR BHILWARA DISTRICT HQ,1448.0,782.0,1782.0,0.5424657534246575,540.6666666666666,428.5,6.0,6.0
+22,383,383,10,14,18,Tamil Nadu,Virudhunagar,Principal District Munisf Court,1578.5,,,,,,,
+23,923,923,15,9,13,Uttarakhand,Haridwar,Additional District and Sessions Judge,1635.5,737.0,6445.0,1.9619482496194824,619.0,717.0,14.0,14.0
+24,970,970,21,7,1,Meghalaya,West Khasi Hills,District And Sessions Judge,1643.0,,,,,,,
+25,311,311,10,3,21,Tamil Nadu,Tirunelveli,Additional District Munsif Court,1757.0,222.0,1664.0,0.5065449010654489,781.5,824.0,4.0,4.0
+26,792,792,20,9,7,Tripura,Sepahijala Tripura,Addl. District and Sessions Judge,1822.0,,,,,,,
+27,375,375,10,12,18,Tamil Nadu,Salem,District Munsif,1841.5,262.0,2442.0,0.7433789954337899,453.28571428571433,368.0,7.0,7.0
+28,1007,1007,10,12,26,Tamil Nadu,Salem,District Munsif,1891.0,265.0,998.0,0.30380517503805177,864.5,864.5,2.0,2.0
+29,1007,1007,10,12,26,Tamil Nadu,Salem,District Munsif,1891.0,773.0,998.0,0.30380517503805177,864.5,864.5,2.0,2.0
+30,458,458,10,27,22,Tamil Nadu,Dindigul,Principal District Munsif Court,2491.5,,,,,,,
+31,776,776,18,16,9,Chhattisgarh,Jashpur,Additional District Judge Pathalgaon,3537.0,,,,,,,

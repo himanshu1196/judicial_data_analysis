@@ -1,0 +1,31 @@
+state_code,dist_code,court_no,total_cases,total_valid_cases,median_decision_days,mean_decision_days,state_name,district_name,court_name
+10.0,9.0,5.0,21595.0,19789.0,5.0,75.9204608620951,Tamil Nadu,Thoothukudi,"Principal District court complex, Thoothukudi"
+10.0,7.0,7.0,16154.0,16051.0,5.0,135.147965858825,Tamil Nadu,Kanniyakumari,Principal District and Sessions Court
+17.0,14.0,19.0,4942.0,4882.0,5.0,115.03318312167143,Gujarat,SURAT,bardoli_addldj Court
+9.0,25.0,6.0,3202.0,2771.0,5.0,195.5716347888849,Rajasthan,Banswara,DJ ADJ Banswara District HQ
+17.0,35.0,1.0,17710.0,17689.0,6.0,209.7773757702527,Gujarat,Valsad,valsad_district Court
+10.0,3.0,12.0,40286.0,40234.0,6.0,70.7181736839489,Tamil Nadu,Tirunelveli,"PDJ, I ADJ, Mahila, III ADJ, IV ADJ Tirunelveli"
+10.0,8.0,9.0,18930.0,18903.0,6.0,116.55805956726444,Tamil Nadu,Tiruchirappalli,Principal District and Session Court Establishment
+17.0,36.0,1.0,10153.0,10037.0,6.0,204.2339344425625,Gujarat,Porbandar,"DISTRICT AND SESSIONS COURT, PORBANDAR"
+9.0,20.0,8.0,16393.0,13865.0,7.0,185.87609087630725,Rajasthan,Kota,DJ ADJ - Kota HQ
+9.0,19.0,9.0,7473.0,6593.0,7.0,187.36447747611103,Rajasthan,Pali,DJ ADJ SCST-PALI DISTRICT HQ
+10.0,15.0,3.0,33566.0,31387.0,7.0,120.16360276547616,Tamil Nadu,Madurai,Principal District Judge
+9.0,24.0,5.0,5696.0,5404.0,8.0,181.56495188749076,Rajasthan,Dungarpur,DJ ADJ Dungarpur District HQ
+9.0,10.0,5.0,9668.0,8054.0,8.0,175.2518003476533,Rajasthan,Bundi,DJ ADJ - Bundi HQ
+10.0,17.0,1.0,22832.0,22010.0,8.0,103.65365742844162,Tamil Nadu,Thanjavur,"PRINCIPAL DISTRICT COURT, THANJAVUR"
+3.0,11.0,1.0,25652.0,24803.0,9.0,98.94057170503568,Karnataka,HAVERI,Prl District and Sessions Judge
+2.0,10.0,30.0,815.0,815.0,872.0,968.4846625766874,Andhra Pradesh,Kurnool,"V Addl.District Court Complex,Allagadda"
+13.0,10.0,9.0,200.0,200.0,874.5,1012.59,Uttar Pradesh,Lakhimpur,District and Sessions Judge
+11.0,29.0,9.0,272.0,271.0,927.0,1021.0922509225093,Orissa,Bargarh,Addl. District and Sessions Judge Padampur
+2.0,11.0,19.0,1698.0,1698.0,964.0,1089.9358068315669,Andhra Pradesh,Krishna,"XI Addl District Court, GUDIVADA"
+2.0,4.0,22.0,1137.0,1137.0,965.0,1010.8698328935795,Andhra Pradesh,East Godavari,XII Addl. District and Sessions Judges court
+2.0,4.0,34.0,122.0,122.0,999.5,1080.770491803279,Andhra Pradesh,East Godavari,"VII ADDL. DISTRICT AND SESSIONS COURT, PEDDAPURAM"
+2.0,7.0,15.0,2094.0,2094.0,1001.5,1147.6914995224452,Andhra Pradesh,Kadapa,"II Additional District  Court, Proddatur"
+29.0,7.0,8.0,233.0,232.0,1039.0,1198.8491379310346,Telangana,Nalgonda,V Addl District and Sessions Judge Court
+29.0,1.0,25.0,147.0,147.0,1077.0,1180.3537414965986,Telangana,Adilabad,VII Addl. District and Sessions Judge Court
+10.0,6.0,16.0,149.0,149.0,1149.0,1300.711409395973,Tamil Nadu,Nagapattinam,"Additional District Court, Mayiladuthurai"
+9.0,2.0,61.0,153.0,153.0,1156.0,1325.0849673202615,Rajasthan,Alwar,ADJ Mundawar HQ
+2.0,15.0,10.0,957.0,957.0,1158.0,1305.2800417972833,Andhra Pradesh,Nellore,VII Addl. District and Session Court
+21.0,5.0,2.0,171.0,148.0,1183.0,1227.7162162162165,Meghalaya,Ri Bhoi,District and Sessions Judge Nongpoh
+9.0,38.0,34.0,1067.0,899.0,1310.0,1439.515016685206,Rajasthan,Jaipur District,ADJ-Kotputli
+8.0,1.0,11.0,153.0,153.0,1750.0,1714.0261437908496,Bihar,Patna,Barh D.J Div.

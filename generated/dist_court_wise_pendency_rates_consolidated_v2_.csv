@@ -1,0 +1,1662 @@
+state_code,dist_code,court_no,total_cases,total_valid_cases,median_decision_days,mean_decision_days,state_name,district_name,court_name
+10.0,9.0,5.0,21595.0,19789.0,5.0,75.9204608620951,Tamil Nadu,Thoothukudi,"Principal District court complex, Thoothukudi"
+10.0,7.0,7.0,16154.0,16051.0,5.0,135.147965858825,Tamil Nadu,Kanniyakumari,Principal District and Sessions Court
+13.0,2.0,10.0,619.0,539.0,5.0,247.58441558441558,Uttar Pradesh,Bareilly,acjmnerbly
+17.0,14.0,19.0,4942.0,4882.0,5.0,115.03318312167143,Gujarat,SURAT,bardoli_addldj Court
+9.0,25.0,6.0,3202.0,2771.0,5.0,195.5716347888849,Rajasthan,Banswara,DJ ADJ Banswara District HQ
+17.0,35.0,1.0,17710.0,17689.0,6.0,209.7773757702527,Gujarat,Valsad,valsad_district Court
+10.0,3.0,12.0,40286.0,40234.0,6.0,70.7181736839489,Tamil Nadu,Tirunelveli,"PDJ, I ADJ, Mahila, III ADJ, IV ADJ Tirunelveli"
+10.0,8.0,9.0,18930.0,18903.0,6.0,116.55805956726444,Tamil Nadu,Tiruchirappalli,Principal District and Session Court Establishment
+17.0,36.0,1.0,10153.0,10037.0,6.0,204.2339344425625,Gujarat,Porbandar,"DISTRICT AND SESSIONS COURT, PORBANDAR"
+10.0,29.0,11.0,9054.0,8780.0,7.0,163.7389521640091,Tamil Nadu,Sivagangai,CHIEF JUDICIAL MAGISTRATE
+9.0,20.0,8.0,16393.0,13865.0,7.0,185.87609087630725,Rajasthan,Kota,DJ ADJ - Kota HQ
+9.0,19.0,9.0,7473.0,6593.0,7.0,187.36447747611103,Rajasthan,Pali,DJ ADJ SCST-PALI DISTRICT HQ
+10.0,15.0,3.0,33566.0,31387.0,7.0,120.16360276547616,Tamil Nadu,Madurai,Principal District Judge
+9.0,24.0,5.0,5696.0,5404.0,8.0,181.56495188749076,Rajasthan,Dungarpur,DJ ADJ Dungarpur District HQ
+9.0,4.0,24.0,23196.0,3098.0,8.0,115.3089089735313,Rajasthan,Jaipur Metro,ACMM RAILWAY JAIPUR METRO
+9.0,10.0,5.0,9668.0,8054.0,8.0,175.2518003476533,Rajasthan,Bundi,DJ ADJ - Bundi HQ
+10.0,17.0,1.0,22832.0,22010.0,8.0,103.65365742844162,Tamil Nadu,Thanjavur,"PRINCIPAL DISTRICT COURT, THANJAVUR"
+3.0,11.0,1.0,25652.0,24803.0,9.0,98.94057170503568,Karnataka,HAVERI,Prl District and Sessions Judge
+3.0,22.0,1.0,28946.0,28109.0,9.0,110.27087409726423,Karnataka,MANDYA,PRL. DISTRICT AND SESSIONS JUDGE
+9.0,40.0,19.0,26101.0,3587.0,9.0,155.9874546975188,Rajasthan,Jaipur Metro II,ACMM RAILWAY JAIPUR METRO II
+17.0,29.0,18.0,4232.0,4192.0,10.0,226.88740458015263,Gujarat,Sabarkantha at Himmatnagar,ADDITIONAL DISTRICT AND SESSIONS COURT AT IDAR
+13.0,39.0,9.0,1213.0,946.0,10.0,127.96828752642706,Uttar Pradesh,Banda,Addl.Chief Judicial Magistrate(Railway)
+17.0,39.0,1.0,6113.0,6102.0,10.0,226.70091773189117,Gujarat,MORBI,District  Court - Morbi
+9.0,39.0,1.0,4174.0,3645.0,10.0,221.958573388203,Rajasthan,Jodhpur District,DJ ADJ-Jodhpur District HQ
+17.0,13.0,18.0,2612.0,2603.0,11.0,301.00153668843643,Gujarat,Ahmedabad,"ADDL DISTRICT COURT, VIRAMGAM"
+10.0,10.0,27.0,2578.0,2313.0,11.0,206.00345871162992,Tamil Nadu,Viluppuram,"Additional District Court No.1, Tindivanam"
+13.0,64.0,3.0,12152.0,11388.0,12.0,173.89866526167896,Uttar Pradesh,Hamirpur,Chief Judicial Magistrate
+17.0,14.0,1.0,55162.0,53485.0,12.0,247.48787510516968,Gujarat,SURAT,"District Court, Surat"
+17.0,38.0,7.0,7704.0,7658.0,12.0,405.3554452859754,Gujarat,Aravalli at Modasa,Principal District Court Arvalli
+13.0,3.0,9.0,3680.0,2778.0,12.0,121.31929445644349,Uttar Pradesh,Gorakhpur,ACJM Railway
+26.0,2.0,1.0,19667.0,19127.0,12.0,175.31588853453235,Delhi,Shahdara,"District and Sessions Judge, Shahdara, KKD"
+9.0,1.0,11.0,7197.0,5956.0,12.0,254.84267965077237,Rajasthan,Rajsamand,DJ ADJ-Rajsamand District HQ
+10.0,3.0,16.0,2987.0,2981.0,12.0,122.22978866152296,Tamil Nadu,Tirunelveli,"II Additional District Court (PCR), Tirunelveli"
+6.0,19.0,1.0,4221.0,3994.0,13.0,181.74987481221837,Assam,Golaghat,GLT_DJ_ESTT
+9.0,32.0,4.0,5819.0,3995.0,13.0,257.0833541927409,Rajasthan,Jaiselmer,DJ-Jaisalmer District HQ
+11.0,13.0,11.0,422.0,414.0,13.0,250.0193236714976,Orissa,Keonjhar,"Addl. District and Sessions Judge, Anandapur"
+3.0,30.0,1.0,8163.0,7954.0,14.0,117.64269549911992,Karnataka,YADGIR.,District and Sessions Judge
+3.0,15.0,1.0,26400.0,25892.0,14.0,156.534991503167,Karnataka,SHIVAMOGGA,Prl. District and Sessions Judge.
+17.0,32.0,1.0,10666.0,10637.0,14.0,275.48556923944716,Gujarat,Navsari,navsari_district Court
+17.0,41.0,1.0,5117.0,5110.0,14.0,416.6487279843444,Gujarat,Chhota Udepur,"DISTRICT COURT, CHHOTAUDEPUR"
+16.0,2.0,7.0,9190.0,9160.0,14.0,235.50283842794758,West Bengal,Hooghly,"ADDITIONAL DISTRICT & SESSIONS JUDGE ,CHANDERNAGOR"
+3.0,21.0,18.0,3871.0,3843.0,14.0,201.10278428311216,Karnataka,BENGALURU RURAL,V ADDITIONAL DIST  SESSIONS JUDGE  DEVANAHALLI.
+3.0,25.0,1.0,4113.0,4097.0,14.0,98.17427385892117,Karnataka,KODAGU,"PRL. DISTRICT AND SESSIONS JUDGE, MADIKERI"
+8.0,12.0,2.0,12479.0,12478.0,15.0,236.6458567078057,Bihar,Madhepura,D.J. Establishment
+3.0,18.0,1.0,38727.0,30431.0,15.0,187.31987118399,Karnataka,TUMAKURU,Prl. District and Sessions Judge
+3.0,28.0,1.0,13026.0,12620.0,15.0,164.7672741679873,Karnataka,RAMANAGARAM,"PRL.DISTRICT AND SESSIONS JUDGE, RAMANAGARA"
+13.0,27.0,9.0,17212.0,8091.0,15.0,55.34383883327153,Uttar Pradesh,Varanasi,ACJM NR
+6.0,20.0,1.0,7794.0,7641.0,15.0,108.83313702394976,Assam,Barpeta,District and Sessions Judge
+6.0,10.0,2.0,11688.0,10999.0,15.0,196.6946086007819,Assam,Nagaon,District and Sessions Judge
+3.0,16.0,1.0,14991.0,14555.0,15.0,129.80123668842322,Karnataka,UDUPI,PRL. DISTRICT AND SESSIONS JUDGE
+11.0,20.0,2.0,1658.0,1612.0,15.5,136.2803970223325,Orissa,Sonepur,"District and  Sessions Judge,Sonepur"
+8.0,30.0,1.0,6696.0,6641.0,16.0,152.0126486974853,Bihar,Nalanda,Dj Division
+13.0,50.0,3.0,29856.0,25589.0,16.0,419.55394896244485,Uttar Pradesh,Gonda,CJM
+8.0,14.0,1.0,14172.0,14170.0,16.0,175.799647141849,Bihar,Khagaria,DJ Division
+13.0,20.0,2.0,39260.0,37624.0,16.0,139.22118860301936,Uttar Pradesh,Gautam Buddha Nagar,District and Session Judge
+13.0,49.0,3.0,36895.0,34198.0,16.0,212.08529738581203,Uttar Pradesh,Faizabad,CJM court Faizabad
+8.0,17.0,5.0,3943.0,3933.0,16.0,83.1721332316298,Bihar,Darbhanga,"District Sessions Judge Sub-Division, Benipur"
+3.0,21.0,13.0,4067.0,3964.0,16.0,130.80196770938446,Karnataka,BENGALURU RURAL,"III Addl. District and Sessions Judge,  ANEKAL"
+13.0,36.0,3.0,53179.0,49982.0,16.0,138.01840662638548,Uttar Pradesh,Barabanki,Chief Judicial Magistrate
+16.0,13.0,2.0,11754.0,10870.0,16.0,162.1590616375345,West Bengal,South Dinajpur,DJ and ADJ Courts at Balurghat
+17.0,34.0,1.0,6557.0,6531.0,16.0,239.47925279436527,Gujarat,Tapi,tapi_district Court
+6.0,5.0,2.0,5000.0,4721.0,16.0,154.61575937301419,Assam,Lakhimpur,District and Sessions Judge
+10.0,11.0,6.0,2403.0,2374.0,16.5,250.0522325189553,Tamil Nadu,Vellore,"Addl Dist and Sess Court, Tirupattur"
+11.0,22.0,4.0,3880.0,3711.0,17.0,191.53327943950416,Orissa,Nayagarh,"District & Sessions Judge Court, Nayagarh"
+3.0,14.0,1.0,19933.0,18579.0,17.0,186.4120781527531,Karnataka,DAVANGERE,PRL DISTRICT AND SESSION JUDGE
+4.0,2.0,1.0,46665.0,46441.0,17.0,159.52221097736913,Kerala,Ernakulam,"DISTRICT AND SESSIONS COURT, ERNAKULAM"
+11.0,16.0,6.0,819.0,805.0,17.0,291.86583850931675,Orissa,Sundargarh,adj court bonai
+11.0,5.0,2.0,14270.0,13916.0,17.0,183.42799655073296,Orissa,Balasore,District  and Sessions Judge
+24.0,4.0,2.0,5868.0,5410.0,17.0,100.63641404805915,Sikkim,Gangtok,District and  Sessions Court
+16.0,20.0,11.0,9802.0,8554.0,17.0,189.10042085573997,West Bengal,South Twenty Four Parganas,Additional District and Sessions Judge
+8.0,24.0,1.0,17858.0,17821.0,17.0,211.26283598002357,Bihar,Araria,DJ DIVISION
+3.0,21.0,1.0,23246.0,22136.0,17.0,234.31573003252618,Karnataka,BENGALURU RURAL,PRL. DISTRICT AND SESSION JUDGE
+3.0,2.0,1.0,10673.0,8202.0,17.0,196.84284320897342,Karnataka,BAGALKOT,"PRL. DISTRICT AND SESSION JUDGE, BAGALKOT"
+11.0,18.0,2.0,10285.0,10101.0,17.0,125.2771012771013,Orissa,Bhadrak,"District and Sessions Judge,Bhadrak"
+13.0,35.0,2.0,12727.0,12599.0,17.0,98.00523851099295,Uttar Pradesh,Jyotiba Phule Nagar,District and Sessions Judge
+7.0,14.0,1.0,4876.0,4828.0,18.0,221.9262634631317,Jharkhand,Pakur,DISTRICT AND SESSIONS COURT PAKUR
+16.0,6.0,2.0,13743.0,13706.0,18.0,124.24040566175398,West Bengal,Coochbehar,"District and Sessions Judge , Cooch Behar"
+17.0,16.0,22.0,4018.0,3986.0,18.0,287.8660311088811,Gujarat,RAJKOT,Addl. District Court - Dhoraji
+13.0,73.0,4.0,20387.0,19921.0,18.0,376.9707344008835,Uttar Pradesh,Hapur,Chief Judicial Magistrate
+11.0,11.0,2.0,5008.0,4950.0,18.0,237.41474747474751,Orissa,Sambalpur,"District and Sessions Judge , Sambalpur"
+8.0,20.0,1.0,5144.0,5107.0,19.0,171.23927942040336,Bihar,Sheikhpura,"DJ Division, Sheikhpura"
+9.0,35.0,8.0,12543.0,9896.0,19.0,242.50717461600647,Rajasthan,Sikar,District  & Sessions Judge Sikar HQ
+17.0,20.0,11.0,7917.0,7847.0,19.0,354.98215878679747,Gujarat,Bharuch,"Additional District Court, Ankleshwar"
+16.0,21.0,1.0,13483.0,13455.0,19.0,136.05180230397622,West Bengal,North Dinajpur,District and Sessions Judge Raiganj
+16.0,12.0,6.0,5386.0,4971.0,19.0,178.02031784349225,West Bengal,Murshidabad,Addl District and Session Judge
+13.0,31.0,5.0,60647.0,58835.0,19.0,226.02843545508625,Uttar Pradesh,Pratapgarh,Chief Judicial Magistrate
+8.0,2.0,2.0,13701.0,13697.0,19.0,153.2280061327298,Bihar,Kaimur at Bhabhua,D J Division
+8.0,5.0,3.0,23382.0,23285.0,19.0,128.55718273566674,Bihar,Katihar,D J Division
+12.0,15.0,3.0,1549.0,1329.0,19.0,120.35816403310758,Jammu and Kashmir,Doda,Chief Judicial Magistrate
+8.0,19.0,2.0,10345.0,10217.0,19.0,199.1760790838798,Bihar,Lakhisarai,DJ Division
+16.0,18.0,3.0,9496.0,9169.0,19.0,304.53648162285964,West Bengal,Purba Bardhaman,CHIEF JUDICIAL MAGISTRATE
+8.0,35.0,1.0,8045.0,8044.0,19.0,109.40290900049726,Bihar,Gaya,District and Sessions Judge Div.
+3.0,22.0,18.0,5780.0,5761.0,19.0,172.16090956431177,Karnataka,MANDYA,"III ADL DISTRICT AND SESSIONS JUDGE, SRPATTANA"
+11.0,17.0,2.0,2871.0,2778.0,19.0,187.67710583153348,Orissa,Balangir,"District & Sessions Judge,Bolangir"
+13.0,8.0,2.0,55279.0,53287.0,19.0,154.73911085255315,Uttar Pradesh,Ghaziabad,District Sessions Judge
+3.0,28.0,7.0,1799.0,1793.0,20.0,207.28890128276632,Karnataka,RAMANAGARAM,"II ADJ, RAMANAGARA SITTING AT KANAKAPURA"
+16.0,3.0,6.0,5017.0,4950.0,20.0,160.51535353535354,West Bengal,Calcutta,City Sessions Court Calcutta
+8.0,4.0,2.0,34403.0,34398.0,20.0,139.50145357288216,Bihar,Saran at Chapra,"D J  Division,Saran at Chapra"
+17.0,11.0,1.0,22744.0,22375.0,20.0,276.0002234636872,Gujarat,GANDHINAGAR,Gandhinagar District
+11.0,24.0,2.0,1739.0,1684.0,20.0,185.80819477434682,Orissa,Boudh,"District & Sessions Judge,Boudh"
+13.0,37.0,2.0,7854.0,7192.0,20.0,159.76459955506118,Uttar Pradesh,Kaushambi,kaushambidj
+6.0,15.0,1.0,4590.0,4575.0,20.0,157.63956284153005,Assam,Nalbari,District and Sessions Judge
+21.0,1.0,2.0,2470.0,1743.0,20.0,176.66207687894436,Meghalaya,East Khasi Hills,District  Sessions Judge Shillong
+9.0,6.0,8.0,12307.0,11281.0,21.0,261.56794610406877,Rajasthan,Bikaner,DJ ADJ - Bikaner District HQ
+3.0,29.0,1.0,15951.0,13394.0,21.0,173.71464835000748,Karnataka,CHIKKABALLAPUR,Prl. District and Sessions Court
+29.0,1.0,1.0,16325.0,16092.0,21.0,274.9381680338056,Telangana,Adilabad,"District and Sessions Courts, Adilabad"
+8.0,31.0,1.0,25386.0,25013.0,21.0,150.02634629992403,Bihar,Sitamarhi,"District and Sessions Judge, Sitamarhi"
+13.0,11.0,2.0,2985.0,2852.0,21.0,160.84291725105192,Uttar Pradesh,Shravasti,"District and Sessions Judge, Shravasti"
+11.0,1.0,4.0,13944.0,13693.0,21.0,242.9691813335281,Orissa,Cuttack,"District and Sessions Court, Cuttack"
+16.0,4.0,2.0,20047.0,19831.0,21.0,143.51348898189704,West Bengal,Jalpaiguri,District & Session Judge
+1.0,8.0,11.0,1354.0,1348.0,21.0,124.61275964391693,Maharashtra,Wardha,"DISTRICT AND SESSIONS COURT, HINGANGHAT"
+9.0,30.0,18.0,3340.0,3225.0,21.0,249.12062015503875,Rajasthan,Chittorgarh,ADJ-NIMBHERA TALUKA
+16.0,21.0,5.0,6356.0,6068.0,21.0,261.3894199077126,West Bengal,North Dinajpur,Additional District Judge Islampur
+13.0,38.0,3.0,16978.0,13278.0,21.0,155.76336797710502,Uttar Pradesh,Mahoba,Chief Judicial Magistrate
+8.0,26.0,1.0,14343.0,14308.0,21.0,307.8436538999161,Bihar,Buxar,DJ Division
+3.0,19.0,1.0,16821.0,16126.0,21.0,243.0142006697259,Karnataka,KOLAR,PRL.DISTRICT AND SESSIONS JUDGE
+6.0,13.0,1.0,8233.0,7905.0,21.0,154.47590132827327,Assam,Cachar,District And Sessions Judge Court
+6.0,2.0,2.0,7334.0,7042.0,22.0,223.900454416359,Assam,Tinsukia,District and Sessions Judge
+7.0,15.0,1.0,5834.0,5673.0,22.0,251.5022034197074,Jharkhand,Seraikella,District And Sessions Court
+16.0,1.0,2.0,21383.0,21255.0,22.0,151.81519642437073,West Bengal,Malda,"District and Sessions Judge, Malda"
+13.0,5.0,2.0,10283.0,9630.0,22.0,203.06510903426792,Uttar Pradesh,Chitrakoot,District and Sessions Judge
+16.0,17.0,2.0,4403.0,4322.0,22.0,158.96205460434985,West Bengal,Darjeeling,District and Sessions Judge Court
+10.0,5.0,5.0,31802.0,24834.0,22.0,290.05315293549165,Tamil Nadu,Namakkal,Chief Judicial Magistrate
+13.0,66.0,3.0,72007.0,55460.0,22.0,213.77861521817528,Uttar Pradesh,Jhansi,Chief Judicial Magistrate
+16.0,17.0,18.0,347.0,326.0,22.0,180.89877300613497,West Bengal,Darjeeling,Additional District and Sessions Judge
+7.0,13.0,1.0,9065.0,8813.0,22.0,164.45376148870986,Jharkhand,Chatra,"P.D.J. ESTABLISHMENT, CHATRA, JHARKHAND"
+16.0,6.0,6.0,3452.0,3428.0,22.0,121.58343057176195,West Bengal,Coochbehar,"Addl. District & Sessions Judge , Dinhata"
+6.0,4.0,2.0,4712.0,4668.0,22.0,136.23714652956298,Assam,Morigaon,"District and Sessions Judge,Morigaon"
+3.0,13.0,1.0,25414.0,20092.0,23.0,189.97262592076447,Karnataka,CHITRADURGA,Prl. District and Sessions Judge
+6.0,1.0,4.0,20744.0,20442.0,23.0,197.6390274924176,Assam,Kamrup Metro,Dist Judge and Addl Dist Judges
+8.0,33.0,1.0,3749.0,3743.0,23.0,181.08736307774512,Bihar,Bhojpur,District and Sessional Judge Div.
+17.0,19.0,1.0,18642.0,18556.0,23.0,288.6024466479845,Gujarat,Banaskanth at Palanpur,DISTRICT AND SESSION COURT PALANPUR
+3.0,10.0,1.0,10122.0,9012.0,23.0,238.2561029738127,Karnataka,UTTARA KANNADA,"PRL. DISTRICT AND SESSIONS JUDGE COURT, U.K KARWAR"
+3.0,9.0,1.0,21372.0,20980.0,23.0,178.35305052430888,Karnataka,DHARWAD,PRL. DISTRICT AND SESSIONS JUDGE
+13.0,38.0,2.0,9362.0,8842.0,23.0,169.1630852748247,Uttar Pradesh,Mahoba,District Session Judge
+3.0,6.0,1.0,14052.0,14014.0,23.0,166.773298130441,Karnataka,RAICHUR,PRL DISTRICT AND SESSIONS JUDGE
+7.0,3.0,1.0,6646.0,6466.0,23.5,158.54979894834517,Jharkhand,Koderma,Principal District  Sessions Judge
+7.0,19.0,1.0,7003.0,6974.0,24.0,251.451390880413,Jharkhand,Latehar,District and Sessions Courts
+16.0,2.0,3.0,24720.0,24288.0,24.0,170.90023880105403,West Bengal,Hooghly,"DISTRICT SESSION JUDGE, HOOGHLY"
+9.0,11.0,2.0,8090.0,7408.0,24.0,187.92832073434124,Rajasthan,Hanumangarh,DJ ADJ-Hanumangarh District HQ
+16.0,17.0,3.0,4857.0,3975.0,24.0,227.79899371069183,West Bengal,Darjeeling,Chief Judicial Magistrate
+10.0,26.0,3.0,14542.0,8871.0,24.0,291.3854131439522,Tamil Nadu,Krishnagiri,"Chief Judicial Magistrate,Krishnagiri"
+13.0,29.0,2.0,30027.0,29233.0,24.0,200.24031060787468,Uttar Pradesh,Firozabad,District And Sessions Judge
+13.0,44.0,3.0,20070.0,18573.0,24.0,161.58595811123675,Uttar Pradesh,Azamgarh,Chief Judicial Magistrate
+13.0,43.0,2.0,28024.0,26808.0,24.0,135.49328558639212,Uttar Pradesh,Aligarh,District and Session Judge
+17.0,29.0,1.0,17585.0,17370.0,24.0,326.3496257915947,Gujarat,Sabarkantha at Himmatnagar,DISTRICT AND SESSIONS COURT SABARKANTHA
+8.0,27.0,1.0,17832.0,17762.0,24.0,224.68173629095818,Bihar,Nawada,DJ DIVISION
+3.0,15.0,13.0,2513.0,2512.0,24.0,200.67237261146497,Karnataka,SHIVAMOGGA,"V ADJ,SHIVAMOGGA SITTING AT SAGARA"
+7.0,5.0,1.0,5873.0,5639.0,25.0,294.4289767689307,Jharkhand,Gumla,"District and Sessions Court,Gumla"
+7.0,10.0,1.0,13906.0,13564.0,25.0,128.52646711884398,Jharkhand,Giridih,District And Sessions Courts Giridih
+16.0,13.0,3.0,13191.0,10462.0,25.0,257.11718600649965,West Bengal,South Dinajpur,"CJM , JM1 and JM2 Courts at Balurghat"
+17.0,13.0,1.0,46919.0,46761.0,25.0,342.0236949594748,Gujarat,Ahmedabad,AHMEDABAD DISTRICT COURT
+7.0,12.0,1.0,6474.0,6426.0,25.0,131.53439153439155,Jharkhand,Jamtara,District and Sessions Courts
+7.0,9.0,4.0,29978.0,28363.0,25.0,146.22638648944047,Jharkhand,Dhanbad,District and Sessions Judge Dhanbad
+3.0,23.0,1.0,37577.0,37359.0,25.0,199.96182981343185,Karnataka,HASSAN,Prl.District and Sessions Judge
+11.0,6.0,3.0,4026.0,3970.0,25.0,231.02720403022667,Orissa,Koraput,"District and Sessions Judge, Jeypore"
+8.0,7.0,2.0,10607.0,10598.0,25.0,183.2393847895829,Bihar,Banka,D J Division
+17.0,19.0,18.0,11149.0,11105.0,25.0,297.64547501125617,Gujarat,Banaskanth at Palanpur,ADDITIONAL DISTRICT COURT DEESA
+11.0,27.0,2.0,4215.0,4150.0,25.0,339.94457831325303,Orissa,Anugul,"District and Sessions Judge, Anugul"
+18.0,6.0,10.0,209.0,209.0,25.0,184.21052631578945,Chhattisgarh,Raigarh,"Addl. District and Sessions Judge, Gharghoda"
+25.0,2.0,5.0,8485.0,4392.0,26.0,118.48201275045535,Manipur,Imphal West,"Court of Chief Judicial Magistrate, Imphal West"
+17.0,42.0,3.0,5606.0,5596.0,26.0,243.19585418155827,Gujarat,Mahisagar at Lunawada,"DISTRICT COURT, MAHISAGAR"
+9.0,23.0,3.0,5076.0,4895.0,26.0,338.50112359550565,Rajasthan,Pratapgarh,DJ ADJ COURT PRATAPGARH DISTRICT HQ
+13.0,74.0,7.0,2437.0,2212.0,26.0,219.8024412296564,Uttar Pradesh,Sambhal at Chandausi,District and Sessions Court Sambhal at Chandausi Headquarter
+13.0,44.0,2.0,14965.0,14376.0,26.0,191.96772398441848,Uttar Pradesh,Azamgarh,District and Sessions Judge
+13.0,56.0,2.0,24281.0,22393.0,26.0,200.91756352431565,Uttar Pradesh,Rampur,District and Sessions Judge
+13.0,30.0,9.0,7342.0,3670.0,26.0,209.01471389645775,Uttar Pradesh,Agra,"Cheif Judical Magistrate,Railway"
+17.0,31.0,1.0,49768.0,49548.0,26.0,389.387664486962,Gujarat,Vadodara,vadodara_district Court
+13.0,31.0,2.0,17139.0,15016.0,26.0,171.67234949387318,Uttar Pradesh,Pratapgarh,District and session judge
+13.0,16.0,2.0,24180.0,23228.0,26.0,223.80088686068538,Uttar Pradesh,Sitapur,District and Sessions Judge
+6.0,3.0,2.0,5620.0,5484.0,26.0,245.5711159737418,Assam,Sivasagar,District and Sessions Judge Court
+13.0,52.0,2.0,13313.0,12781.0,27.0,177.4779751193177,Uttar Pradesh,Maharajganj,District and Sessions Judge
+13.0,13.0,2.0,15775.0,14711.0,27.0,180.27510026510774,Uttar Pradesh,Pilibhit,District and Sessions Judge
+3.0,10.0,18.0,1000.0,973.0,27.0,138.70503597122305,Karnataka,UTTARA KANNADA,"1st ADDL. Dist AND SESSIONS JUDGE,SITTING AT SIRSI"
+13.0,26.0,2.0,36387.0,35433.0,27.0,196.3808878728869,Uttar Pradesh,Muzaffarnagar,District and Session judge
+13.0,12.0,2.0,19793.0,19472.0,27.0,196.46523212818408,Uttar Pradesh,Jaunpur,District  and Sessions Judge
+12.0,4.0,4.0,29928.0,28597.0,27.0,88.45284470398992,Jammu and Kashmir,Anantnag,Chief Judicial Magistrate
+17.0,28.0,1.0,20976.0,20872.0,27.0,391.67717516289764,Gujarat,Patan,DISTRICT AND SESSIONS COURT PATAN
+17.0,23.0,1.0,21097.0,21001.0,27.0,379.3992667015857,Gujarat,Jamnagar,"DISTRICT AND SESSIONS COURT, JAMNAGAR"
+16.0,24.0,3.0,23487.0,22611.0,27.0,210.25836981999907,West Bengal,Paschim Bardhaman,Chief Judicial Magistrate
+8.0,36.0,1.0,2626.0,2626.0,27.0,207.94630616907844,Bihar,Jehanabad,District and Sessional Judge Div.
+13.0,18.0,2.0,33208.0,30001.0,28.0,250.79807339755345,Uttar Pradesh,Budaun,District and Session Judge
+16.0,22.0,5.0,15995.0,15704.0,28.0,241.30310748853802,West Bengal,Nadia,District and Sessions Judge
+3.0,20.0,7.0,14769.0,14712.0,28.0,250.1380505709625,Karnataka,BENGALURU,PRL. CITY CIVIL AND SESSIONS JUDGE
+7.0,4.0,2.0,6729.0,6704.0,28.0,293.62544749403344,Jharkhand,West Singhbhum at Chaibasa,District And Sessions Court
+11.0,15.0,14.0,864.0,841.0,28.0,392.3103448275862,Orissa,Puri,"Additional District and Sessions Judge, Nimapada"
+13.0,64.0,2.0,12880.0,11866.0,28.0,207.83802460812404,Uttar Pradesh,Hamirpur,District and Sessions Judge
+1.0,37.0,2.0,106706.0,100783.0,28.0,186.62268438129448,Maharashtra,Mumbai City Civil Court,CITY CIVIL AND SESSION COURT MUMBAI
+13.0,51.0,2.0,19818.0,18687.0,28.0,207.9095092845293,Uttar Pradesh,Kanpur Dehat,District & Session Judge
+13.0,73.0,1.0,13204.0,12861.0,28.0,237.83173936707882,Uttar Pradesh,Hapur,District and Session Court Hapur
+3.0,15.0,18.0,1767.0,1764.0,28.0,246.53571428571428,Karnataka,SHIVAMOGGA,"IV ADJ, Shivamogga sitting at Bhadravathi"
+11.0,6.0,6.0,1007.0,986.0,28.5,263.61663286004057,Orissa,Koraput,"Addl District and Sessions Jugde, Koraput"
+13.0,54.0,2.0,35335.0,34437.0,29.0,180.15140691697883,Uttar Pradesh,Moradabad,District & Session Court Moradabad
+17.0,16.0,19.0,5488.0,5471.0,29.0,305.95010053006763,Gujarat,RAJKOT,Addl. District Court - Gondal
+8.0,6.0,2.0,30679.0,30663.0,29.0,223.44222678798556,Bihar,Begusarai,D J Division
+1.0,13.0,1.0,13316.0,11939.0,29.0,397.67040790685996,Maharashtra,Chandrapur,DISTRICT AND SESSIONS COURT CHANDRAPUR MAH.
+8.0,38.0,1.0,4773.0,4773.0,29.0,327.04106432013407,Bihar,Muzaffarpur,DJ Division
+16.0,11.0,2.0,22881.0,22781.0,29.0,251.63188622097363,West Bengal,Howrah,District and Sessions Judge
+16.0,10.0,2.0,7841.0,7590.0,29.0,330.72358366271413,West Bengal,Purulia,District and Session Judge Purulia
+13.0,24.0,2.0,40401.0,38746.0,29.0,201.11113405254738,Uttar Pradesh,Lucknow,District and Sessions Judge Lucknow
+7.0,7.0,2.0,17325.0,16633.0,29.0,133.73660794805508,Jharkhand,Hazaribagh,Principal District & Sessions Judge Hazaribag
+13.0,56.0,3.0,62460.0,54559.0,29.0,180.85307648600602,Uttar Pradesh,Rampur,Chief Judicial Magistrate
+8.0,3.0,2.0,25685.0,25659.0,29.0,112.86570014419891,Bihar,Samastipur,"District and Sessions Judge, Samastipur"
+16.0,7.0,2.0,34941.0,34461.0,30.0,267.28118742926785,West Bengal,Paschim Medinpur,"district and session judge,medinipur"
+13.0,60.0,2.0,8547.0,8236.0,30.0,255.63938805245263,Uttar Pradesh,Sonbhadra,District & Session Judge
+3.0,27.0,1.0,9659.0,9602.0,30.0,240.39637575505105,Karnataka,CHAMRAJNAGAR,"Prl. District and Sessions Judge, Chamrajnagar"
+3.0,18.0,23.0,1969.0,1954.0,30.0,246.05220061412487,Karnataka,TUMAKURU,"IV Addl. District and Sessions Court, Madhugiri"
+13.0,67.0,2.0,4447.0,4302.0,30.0,179.53835425383542,Uttar Pradesh,Balrampur,District and  Session Judge
+11.0,15.0,3.0,8629.0,8407.0,30.0,223.3153324610444,Orissa,Puri,District and Sessions Judge Puri
+13.0,22.0,2.0,8932.0,8336.0,30.0,202.9060700575816,Uttar Pradesh,Bhadohi SR Nagar,District and Session Judge
+4.0,15.0,19.0,30083.0,29896.0,30.0,297.93400454910363,Kerala,Kollam,District and sessions court
+8.0,21.0,2.0,13861.0,13858.0,30.0,201.65312454899697,Bihar,Saharsa,DJ Division
+13.0,10.0,2.0,20401.0,19369.0,30.0,250.41865868139809,Uttar Pradesh,Lakhimpur,District and Sessions Judge
+11.0,8.0,2.0,9822.0,9600.0,30.0,260.2471875,Orissa,Khurda,"District and Sessions Court, Khurda, BBSR"
+13.0,15.0,2.0,10955.0,10605.0,30.0,224.47345591702026,Uttar Pradesh,Ambedkar Nagar,District and  Sessions Judge
+13.0,2.0,2.0,40037.0,38848.0,31.0,219.3431579489292,Uttar Pradesh,Bareilly,District and  Sessions Judge
+13.0,36.0,2.0,19406.0,18285.0,31.0,198.56302980585176,Uttar Pradesh,Barabanki,District and Sessions Judge
+8.0,11.0,1.0,17088.0,17064.0,31.0,216.43571261134556,Bihar,Munger,D J Division
+11.0,13.0,8.0,1560.0,1537.0,31.0,293.05139882888744,Orissa,Keonjhar,"Additional District and Session Judge, Champua"
+11.0,23.0,9.0,298.0,294.0,31.0,133.12585034013605,Orissa,Kandhamal,"Addl.District & Sessions Judge, Balliguda"
+9.0,36.0,11.0,2998.0,2773.0,31.0,248.6498377208799,Rajasthan,Sawai Madhopur,ADJ - Gangapur City Taluka
+3.0,8.0,1.0,12441.0,12378.0,31.0,267.5922604621102,Karnataka,GADAG,"Prl District and Sessions Judge, Gadag"
+8.0,10.0,1.0,34789.0,34761.0,31.0,181.76562814648602,Bihar,Motihari,DJ Division
+11.0,4.0,13.0,1629.0,1583.0,31.0,214.56032849020846,Orissa,Ganjam,ADJ Chatrapur
+3.0,4.0,1.0,28531.0,28293.0,31.0,230.4164280917541,Karnataka,KALABURAGI,Prl Dist and Sessions Court Kalaburagi
+7.0,11.0,1.0,25103.0,23105.0,31.0,260.13823847652026,Jharkhand,East Singhbhum at Jamshedpur,"District and Sessions Courts, Jamshedpur"
+3.0,3.0,1.0,27456.0,27301.0,32.0,222.86982161825574,Karnataka,VIJAYAPURA,PRL. DISTRICT AND SESSIONS COURT
+13.0,63.0,2.0,13697.0,12955.0,32.0,197.87827093786186,Uttar Pradesh,Farrukhabad,District & Sessions Judge
+17.0,21.0,1.0,38604.0,34756.0,32.0,360.41106571527223,Gujarat,Bhavnagar,bhavnagar_district Court
+3.0,21.0,5.0,2302.0,2296.0,32.0,223.20688153310104,Karnataka,BENGALURU RURAL,"IV ADDL. DISTRICT AND SESSIONS JUDGE, DODBALLAPUR"
+16.0,12.0,2.0,38009.0,37940.0,32.0,190.32973115445444,West Bengal,Murshidabad,"District and Session Judge,Murshidabad"
+13.0,62.0,2.0,22414.0,19685.0,32.0,187.23733807467616,Uttar Pradesh,Unnao,District & session Judge
+13.0,54.0,3.0,83074.0,65896.0,32.0,165.98760167536724,Uttar Pradesh,Moradabad,Chief Judicial Magistrate Moradabad
+13.0,30.0,2.0,49362.0,48386.0,32.0,239.61131318976564,Uttar Pradesh,Agra,District Judge
+16.0,9.0,2.0,18758.0,18006.0,32.0,318.65044985005,West Bengal,Purba Medinipur,"District and Sessions Judge,Tamluk"
+24.0,2.0,3.0,473.0,371.0,32.0,185.46900269541783,Sikkim,Mangan,CHIEF JUDICIAL MAGISTRATE
+13.0,3.0,2.0,37737.0,35825.0,32.0,160.25621772505238,Uttar Pradesh,Gorakhpur,District and Sessions Judge
+3.0,12.0,1.0,27097.0,26529.0,32.0,183.6246371894908,Karnataka,BALLARI,"PRL DISTRICT AND SESSIONS JUDGE, BALLARI"
+3.0,24.0,17.0,19336.0,19011.0,33.0,249.00378728104783,Karnataka,DAKSHINA KANNADA,PRL. DISTRICT  AND SESSIONS JUDGE
+13.0,48.0,2.0,45106.0,42059.0,33.0,203.2826030100573,Uttar Pradesh,Bulandshahr,District and Sessions Court
+13.0,2.0,3.0,63569.0,57496.0,33.0,251.8849833031863,Uttar Pradesh,Bareilly,Chief Judicial Magistrate
+13.0,39.0,2.0,11373.0,10774.0,33.0,175.93437906070167,Uttar Pradesh,Banda,District and Sessions Judge
+1.0,12.0,1.0,7671.0,7574.0,33.0,299.5596778452601,Maharashtra,Gadchiroli,DISTRICT AND SESSIONS COURT GADCHIROLI.
+3.0,7.0,1.0,7927.0,7791.0,33.0,170.77769220895902,Karnataka,KOPPAL,Prl.District and Sessions Court Koppal
+1.0,3.0,2.0,27099.0,26526.0,33.0,345.09025107441755,Maharashtra,Jalgaon,DISTRICT AND SESSIONS COURT JALGAON
+16.0,14.0,14.0,9854.0,9780.0,33.0,254.63200408997955,West Bengal,North  Twenty Four Parganas,ADJ Bongaon
+7.0,6.0,2.0,8203.0,7719.0,33.0,360.8529602280088,Jharkhand,Godda,District and Sessions Courts
+5.0,11.0,11.0,23409.0,15765.0,33.0,252.93771011734856,Himachal Pradesh,Shimla,Chief Judicial Magistrate Shimla
+13.0,9.0,2.0,19152.0,17955.0,33.0,244.37387914230015,Uttar Pradesh,Fatehpur,District and Session Court
+10.0,23.0,2.0,4819.0,4802.0,33.5,218.0047896709704,Tamil Nadu,Perambalur,Prl. DISTRICT AND SESSIONS COURT AND MAHILA COURT.
+8.0,22.0,2.0,6776.0,6685.0,34.0,341.97830964846673,Bihar,Supaul,DJ Division
+7.0,20.0,1.0,9213.0,8802.0,34.0,188.375482844808,Jharkhand,Garhwa,"Principal District Judge, Garhwa"
+7.0,2.0,2.0,6548.0,6341.0,34.0,382.7385270462072,Jharkhand,Dumka,District and Sessions Courts
+7.0,1.0,2.0,11571.0,11417.0,34.0,126.94937374091269,Jharkhand,Bokaro,Principal District and  Sessions Judge
+24.0,1.0,2.0,2677.0,2611.0,34.0,126.03523554193796,Sikkim,Namchi,ESTABLISHMENT OF DISTRICT AND SESSIONS JUDGE (S)
+17.0,20.0,1.0,18500.0,17025.0,34.0,292.4253744493392,Gujarat,Bharuch,"DISTRICT COURT, BHARUCH"
+13.0,53.0,2.0,27937.0,27253.0,34.0,174.71672843356694,Uttar Pradesh,Mathura,District and Session Judge
+9.0,9.0,12.0,13308.0,11887.0,35.0,224.64524270211155,Rajasthan,Udaipur,DJ ADJ-Udaipur District HQ
+22.0,13.0,1.0,16668.0,16433.0,35.0,219.5352035538246,Punjab,Mansa,Sessions Courts Mansa
+8.0,28.0,2.0,32709.0,32391.0,35.0,199.5161001512766,Bihar,Bettiah,D J Bettiah Division
+3.0,12.0,16.0,4101.0,4074.0,35.0,184.69587628865983,Karnataka,BALLARI,"III ADDL DISTRICT AND SESSIONS JUDGE, HOSAPETE"
+9.0,5.0,7.0,5724.0,5587.0,35.0,222.08662967603362,Rajasthan,Tonk,DJ ADJ - Tonk HQ
+15.0,13.0,3.0,7551.0,6625.0,35.0,110.1971320754717,Uttarakhand,Champawat,Chief Judicial Magistrate
+13.0,42.0,2.0,9667.0,9118.0,36.0,225.9939679754332,Uttar Pradesh,Mau,District and Sessions Judge
+3.0,27.0,8.0,1817.0,1812.0,36.0,398.614238410596,Karnataka,CHAMRAJNAGAR,"ADDL. DISTRICT AND SESSIONS COURT,Kollegal"
+17.0,15.0,1.0,24609.0,24483.0,36.0,333.5947392067965,Gujarat,Mahesana,"DISTRICT COURT, MEHSANA"
+25.0,1.0,6.0,9180.0,4503.0,36.0,127.16078170108815,Manipur,Imphal East,"Court of CJM cum JMFC, Imphal East"
+16.0,11.0,9.0,4473.0,4450.0,36.0,231.51168539325843,West Bengal,Howrah,Additional District Judge Uluberia
+13.0,1.0,2.0,40467.0,39331.0,36.0,313.16188248455416,Uttar Pradesh,Allahabad,District and Sessions Judge
+1.0,25.0,4.0,14325.0,14129.0,36.0,413.5169509519428,Maharashtra,Pune,ADDITIONAL DISTRICT AND SESSIONS COURT BARAMATI
+11.0,17.0,11.0,340.0,323.0,37.0,343.6439628482973,Orissa,Balangir,"Additional District Judge, Kantabanji"
+3.0,5.0,1.0,12005.0,11991.0,37.0,216.28863314152284,Karnataka,BIDAR,"District and Sessions Court, Bidar"
+7.0,17.0,1.0,11778.0,11474.0,37.0,196.97559700191738,Jharkhand,Daltonganj,Principal District and Sessions Judge Palamau
+11.0,9.0,2.0,1733.0,1700.0,37.0,255.3770588235294,Orissa,Gajapati,"District and Session Judge, Gajapati"
+8.0,25.0,1.0,7310.0,7222.0,37.0,260.22209914151205,Bihar,Kishanganj,DJ DIVISION
+24.0,2.0,4.0,274.0,255.0,38.0,98.63529411764706,Sikkim,Mangan,ESTABLISHMENT OF DISTRICT AND SESSIONS JUDGE NORTH
+3.0,18.0,22.0,3638.0,3634.0,38.0,255.33957072096862,Karnataka,TUMAKURU,"V Addl. District and Sessions Judge,Tiptur"
+17.0,19.0,23.0,241.0,241.0,38.0,90.9253112033195,Gujarat,Banaskanth at Palanpur,"ADDITIONAL DISTRICT COURT, THARAD"
+13.0,47.0,2.0,21517.0,21107.0,38.0,185.8525607618326,Uttar Pradesh,Bijnor,District and Session Judge
+6.0,17.0,1.0,2083.0,2039.0,39.0,278.16576753310454,Assam,Dhemaji,District and Sessions Judge
+13.0,59.0,3.0,19060.0,17013.0,39.0,224.87897490154592,Uttar Pradesh,Siddharthnagar,Chief Judicial Magistrate
+17.0,32.0,9.0,431.0,430.0,39.0,253.60930232558135,Gujarat,Navsari,ahwa_addldj Court
+13.0,58.0,2.0,23435.0,22551.0,39.0,313.63496075562057,Uttar Pradesh,Shahjahanpur,District and Sessions Judge
+13.0,45.0,2.0,6577.0,6282.0,39.0,243.55905762496025,Uttar Pradesh,Baghpat,District and Session Judge
+15.0,14.0,3.0,4362.0,3396.0,39.0,119.5326855123675,Uttarakhand,Bageshwar,Chief Judicial Magistrate
+8.0,23.0,2.0,34847.0,34838.0,39.0,244.6835352201619,Bihar,Gopalganj,DJ Division
+13.0,4.0,2.0,16737.0,15841.0,40.0,276.6853733981441,Uttar Pradesh,Hardoi,District and Session Judge
+15.0,13.0,2.0,1383.0,1355.0,40.0,162.59926199261992,Uttarakhand,Champawat,District and Sessions Judge
+1.0,24.0,1.0,18073.0,17577.0,40.0,349.1380781703362,Maharashtra,Raigad,DISTRICT COURT RAIGAD-ALIBAG
+17.0,40.0,1.0,7172.0,7146.0,41.0,397.2208228379513,Gujarat,Devbhumi Dwarka at Khambhaliya,DISTRICT COURT DEVBHUMI DWARKA @ KHAMBHALIA
+22.0,19.0,1.0,43421.0,41932.0,41.0,194.38371649337026,Punjab,Sangrur,"District and Sessions Court, Sangrur"
+13.0,28.0,2.0,9958.0,9549.0,41.0,206.46360875484345,Uttar Pradesh,Ghazipur,District and Sessions Judge
+13.0,66.0,13.0,7285.0,2634.0,41.0,269.4958238420653,Uttar Pradesh,Jhansi,"Addl. Chief Judicial Magistrate, Railway"
+22.0,14.0,1.0,18486.0,18232.0,41.5,203.56143045195262,Punjab,Sri Muktsar Sahib,"Sessions Court, Muktsar"
+9.0,22.0,7.0,6805.0,6047.0,42.0,298.8167686456094,Rajasthan,Jhalawar,DJ ADJ MACT - Jhalawar District HQ
+1.0,21.0,25.0,17682.0,17065.0,42.0,295.67828889539993,Maharashtra,Thane,ADDL.DIST.  SESSIONS COURT KALYAN
+6.0,21.0,1.0,5755.0,5696.0,42.0,254.20997191011242,Assam,Hailakandi,District and Sessions Judge
+24.0,3.0,4.0,1188.0,1113.0,42.0,91.75022461814915,Sikkim,Gyalshing,"ESTABLISHMENT OF DISTRICT AND SESSIONS JUDGE, WEST"
+24.0,4.0,5.0,5778.0,4972.0,42.0,169.49416733708767,Sikkim,Gangtok,Chief Judicial Magistrate
+17.0,11.0,7.0,4307.0,4295.0,42.0,340.32107101280565,Gujarat,GANDHINAGAR,Kalol Additional District Court
+15.0,14.0,2.0,1021.0,968.0,42.0,84.80681818181819,Uttarakhand,Bageshwar,District and Session Judge
+16.0,18.0,2.0,15948.0,15735.0,43.0,254.3341595170004,West Bengal,Purba Bardhaman,District and Sessions Judge
+10.0,30.0,4.0,3156.0,2924.0,43.0,187.91313269493844,Tamil Nadu,Ariyalur,Principal_District_Court_ Establisment_Ariyalur
+8.0,15.0,3.0,8134.0,8121.0,43.0,223.6846447481837,Bihar,Jamui,DJ Division
+13.0,27.0,8.0,10023.0,6017.0,43.0,75.66561409340203,Uttar Pradesh,Varanasi,ACJM NER
+7.0,18.0,1.0,3077.0,3027.0,44.0,206.09117938553024,Jharkhand,Simdega,District And Sessions Court
+8.0,30.0,4.0,1650.0,1650.0,44.0,588.3636363636364,Bihar,Nalanda,D.J Division
+13.0,71.0,2.0,8484.0,7961.0,44.0,276.7792990830298,Uttar Pradesh,Santkabir Nagar,District and Sessions Judge
+7.0,8.0,4.0,3883.0,3869.0,45.0,188.13853708968722,Jharkhand,Lohardaga,"Principal District Judge, Lohardaga"
+8.0,39.0,1.0,2108.0,2108.0,45.0,289.21062618595823,Bihar,Vaishali,DJ Division
+13.0,34.0,2.0,19334.0,17939.0,45.0,206.11778805953512,Uttar Pradesh,Kushinagar,District and Sessions Court
+13.0,55.0,3.0,28981.0,27219.0,45.0,241.27109739520188,Uttar Pradesh,Raebareli,Chief Judicial Magistrate
+6.0,11.0,2.0,5070.0,5037.0,45.0,243.9354774667461,Assam,Jorhat,District and Sessions Judge
+13.0,22.0,3.0,35040.0,32031.0,45.0,237.32331179170183,Uttar Pradesh,Bhadohi SR Nagar,Chief Judicial Magistrate
+13.0,46.0,3.0,27753.0,26880.0,45.0,250.88671875,Uttar Pradesh,Basti,Chief Judicial Magistrate
+7.0,21.0,1.0,4498.0,3885.0,45.0,226.45508365508368,Jharkhand,Sahibganj,Principal District Judge Espb
+11.0,10.0,4.0,2255.0,2232.0,45.5,330.93279569892474,Orissa,Kalahandi,"District and Sessions Judge, Kalahandi"
+8.0,9.0,2.0,23975.0,23917.0,46.0,295.29915959359454,Bihar,Purnea,DJ DIVISION
+13.0,70.0,3.0,7510.0,7226.0,46.0,318.3505397176862,Uttar Pradesh,Jalaun,Chief Judicial Magistrate
+1.0,25.0,1.0,76559.0,75259.0,46.0,296.072217276339,Maharashtra,Pune,DISTRICT AND SESSIONS COURT PUNE MAHARASHTRA
+5.0,7.0,1.0,7162.0,5486.0,47.0,157.0462996718921,Himachal Pradesh,Bilaspur,"District and Sessions Court, Bilaspur"
+7.0,23.0,1.0,2204.0,1996.0,47.0,472.9463927855712,Jharkhand,RAMGARH,District and Sessions Judge Courts
+9.0,35.0,28.0,4220.0,2685.0,47.0,219.86741154562387,Rajasthan,Sikar,ACJM  LAXMANGARH TALUKA HQ
+13.0,57.0,2.0,31853.0,31151.0,48.0,261.35864017206507,Uttar Pradesh,Saharanpur,District and Sessions Judge
+8.0,29.0,1.0,20468.0,20391.0,48.0,315.36060026482266,Bihar,Siwan,DJ Division
+13.0,51.0,3.0,53401.0,41679.0,48.0,206.12411526188248,Uttar Pradesh,Kanpur Dehat,Chief Judicial Magistrate
+13.0,25.0,2.0,28072.0,24750.0,48.0,242.6481616161616,Uttar Pradesh,Etah,District And Sessions Judge
+3.0,26.0,3.0,38679.0,38473.0,48.0,240.39874717334237,Karnataka,MYSURU,"PRL. DISTRICT AND SESSIONS JUDGE, MYSURU"
+16.0,22.0,12.0,933.0,852.0,48.5,441.61384976525824,West Bengal,Nadia,tehadjdb
+10.0,14.0,9.0,10255.0,7804.0,49.0,215.93964633521267,Tamil Nadu,Virudhunagar,"Chief Judicial Magistrate, Srivilliputtur"
+17.0,22.0,12.0,2858.0,2857.0,49.0,378.26426321316063,Gujarat,Dahod,llimkheda_addldj
+14.0,15.0,1.0,24488.0,20883.0,49.0,237.95757314562084,Haryana,Fatehabad,"District  and Sessions Courts, Fatehabad"
+13.0,63.0,3.0,18934.0,17080.0,49.0,204.51621779859485,Uttar Pradesh,Farrukhabad,Chief Judicial Majistrate
+6.0,26.0,3.0,2813.0,2809.0,49.0,286.2431470274119,Assam,Karbi Anglong,Chief Judicial Magistrate
+22.0,1.0,1.0,107005.0,105746.0,50.0,194.40855446068886,Punjab,Ludhiana,"District and Sessions Courts, Ludhiana"
+13.0,61.0,2.0,17125.0,16402.0,50.0,266.51310815754175,Uttar Pradesh,Sultanpur,District  Sessions Judge
+13.0,29.0,3.0,61870.0,57733.0,50.0,201.87608473490033,Uttar Pradesh,Firozabad,Chief Judicial Magistrate
+13.0,7.0,3.0,48870.0,46214.0,50.0,301.56991387891117,Uttar Pradesh,Bahraich,Chief Judicial Magistrate
+13.0,43.0,3.0,49955.0,39045.0,52.0,186.2945063388398,Uttar Pradesh,Aligarh,Chief Judicial Magistrate
+17.0,18.0,1.0,30919.0,30036.0,52.0,354.59365428152876,Gujarat,Anand,"DISTRICT COURT, ANAND"
+12.0,15.0,9.0,136.0,133.0,53.0,135.74436090225564,Jammu and Kashmir,Doda,Chief Judicial Magistrate
+9.0,33.0,22.0,5522.0,4471.0,53.0,239.08029523596508,Rajasthan,Churu,DJ ADJ DISTRICT HQ CHURU
+13.0,65.0,3.0,21803.0,20815.0,53.0,199.07153495075667,Uttar Pradesh,Hathras,Chief Judicial Magistrate
+22.0,17.0,1.0,37917.0,37464.0,53.0,223.7486653854367,Punjab,Bathinda,"District and Sessions Courts, Bathinda"
+1.0,8.0,1.0,21106.0,19955.0,54.0,330.0257579553996,Maharashtra,Wardha,DISTRICT AND SESSIONS COURT WARDHA.
+13.0,30.0,3.0,96264.0,88888.0,54.0,225.35373728737287,Uttar Pradesh,Agra,Chief Judicial Magistrate
+10.0,33.0,22.0,23868.0,18239.0,55.0,488.4583036350677,Tamil Nadu,Tiruppur,"Chief Judicial Magistrate Court, Tiruppur"
+13.0,7.0,2.0,19829.0,19223.0,55.0,351.86614992456947,Uttar Pradesh,Bahraich,District and Sessions Judge Bahraich
+13.0,58.0,3.0,36953.0,28474.0,55.0,404.20225468848776,Uttar Pradesh,Shahjahanpur,Chief Judicial Magistrate
+22.0,6.0,1.0,32360.0,31870.0,56.0,169.08685283966113,Punjab,Ferozepur,"Sessions Courts Complex, Ferozepur"
+17.0,26.0,1.0,14725.0,14713.0,56.0,396.2599741725005,Gujarat,kachchh at Bhuj,District and Sessions Court Bhuj
+9.0,20.0,27.0,1801.0,1709.0,56.0,274.08484493856054,Rajasthan,Kota,ADJ - Ramganjmandi Taluka
+3.0,29.0,7.0,1602.0,1595.0,56.0,303.9467084639498,Karnataka,CHIKKABALLAPUR,"II ADDL DISTRICT AND SESSIONS COURT,CHINTAMANI"
+9.0,26.0,7.0,4004.0,3494.0,56.0,238.60331997710358,Rajasthan,Sirohi,DJ ADJ-Sirohi District HQ
+17.0,15.0,15.0,9435.0,9396.0,56.0,492.7085994040017,Gujarat,Mahesana,visnagar_addldj Court
+13.0,52.0,3.0,21984.0,19055.0,57.0,413.50312254001574,Uttar Pradesh,Maharajganj,Chief Judicial Magistrate
+1.0,21.0,1.0,49680.0,48991.0,57.0,334.7752852564757,Maharashtra,Thane,"DISTRICT AND SESSIONS COURT, THANE"
+13.0,5.0,3.0,25111.0,19063.0,58.0,257.9127629439228,Uttar Pradesh,Chitrakoot,Cheif Judical Magistrate
+6.0,16.0,1.0,4478.0,4338.0,58.0,285.29760258183495,Assam,Dhubri,District and Sessions Judge
+15.0,7.0,3.0,5377.0,5149.0,58.0,145.27850067974364,Uttarakhand,Almora,"Chief Judicial Magistrate, Almora"
+13.0,3.0,3.0,142515.0,105061.0,58.0,177.29303928194096,Uttar Pradesh,Gorakhpur,Chief Judicial Magistrate
+9.0,28.0,10.0,17247.0,16514.0,58.0,234.43266319486497,Rajasthan,Jodhpur Metro,DJ ADJ Jodhpur Metro HQ
+1.0,12.0,2.0,11151.0,9047.0,58.0,154.43616668508898,Maharashtra,Gadchiroli,"CHIEF JUDICIAL MAGISTRATE, GADCHIROLI"
+10.0,19.0,2.0,4494.0,3472.0,58.5,226.9049539170507,Tamil Nadu,Karur,The Principal District Court
+13.0,48.0,3.0,60590.0,39494.0,59.0,250.02463665366886,Uttar Pradesh,Bulandshahr,Chief Judicial Magistrate
+31.0,1.0,1.0,2931.0,2210.0,59.0,239.1217194570136,Diu and Daman,Diu,"DISTRICT AND SESSIONS COURT, DIU"
+1.0,25.0,24.0,4776.0,4646.0,59.0,278.1037451571244,Maharashtra,Pune,"ADDL. DISTRICT COURT, KHED"
+14.0,7.0,5.0,19951.0,18947.0,59.0,234.5633609542408,Haryana,Hisar,Chief Judicial Magistrate
+9.0,36.0,8.0,11863.0,5604.0,60.0,246.12883654532482,Rajasthan,Sawai Madhopur,CJM ACJM JM - Sawai Madhopur HQ
+5.0,5.0,12.0,8016.0,5041.0,60.0,187.03134298750248,Himachal Pradesh,Solan,"Chief Judicial Magistrate,TC Kasauli"
+12.0,5.0,3.0,3110.0,3040.0,60.0,273.1595394736842,Jammu and Kashmir,Srinagar,Sessions Judge
+21.0,2.0,3.0,2035.0,2003.0,60.0,198.591113330005,Meghalaya,West Garo Hills,Chief Judicial Magistrate
+14.0,19.0,1.0,20277.0,19424.0,60.0,195.57068574958814,Haryana,Nuh,"Session Court Complex, Mewat"
+17.0,17.0,1.0,11591.0,11574.0,61.0,297.50846725419035,Gujarat,Amreli,DISTRICT AND SESSIONS COURT AMRELI
+26.0,7.0,1.0,32900.0,32164.0,61.0,143.97634000746174,Delhi,New Delhi,"District and Sessions Judge, New Delhi, PHC"
+5.0,2.0,8.0,10853.0,9088.0,61.0,194.43045774647888,Himachal Pradesh,Kangra,"Chief Judicial Magistrate, Kangra at Dharamshala"
+3.0,21.0,14.0,53157.0,32759.0,61.0,205.40446900088529,Karnataka,BENGALURU RURAL,"CJM RURAL COURT, BENGALURU"
+15.0,8.0,3.0,2577.0,1888.0,61.0,168.61546610169492,Uttarakhand,Chamoli,Chief Judicial Magistrate
+17.0,22.0,1.0,16640.0,16616.0,62.0,399.3152985074626,Gujarat,Dahod,dahod_district
+16.0,12.0,11.0,3827.0,3730.0,63.0,351.2286863270777,West Bengal,Murshidabad,"Additional District and Sessions Judge, Kandi, MSD"
+5.0,10.0,1.0,10542.0,9525.0,63.0,155.9781627296588,Himachal Pradesh,Kullu,"District and Session Judge,kullu"
+22.0,5.0,1.0,58509.0,58019.0,63.0,195.57898274703118,Punjab,Patiala,Sessions Court Patiala
+13.0,34.0,3.0,29839.0,26368.0,64.0,220.04285497572812,Uttar Pradesh,Kushinagar,Chief Judicial Magistrate
+13.0,40.0,2.0,12219.0,11904.0,64.0,326.81207997311833,Uttar Pradesh,Kanshi Ram Nagar,District and Sessions Judge
+5.0,10.0,3.0,19008.0,16201.0,65.0,205.3416455774335,Himachal Pradesh,Kullu,"Chief Judicial magistrate,Kullu"
+1.0,33.0,1.0,3686.0,3617.0,65.0,261.39867293337016,Maharashtra,Sindhudurg,District and Sessions Court Sindhudurg
+16.0,13.0,6.0,2354.0,2218.0,65.0,269.3187556357078,West Bengal,South Dinajpur,ADJ Court Buniadpur
+26.0,11.0,1.0,17854.0,17198.0,65.0,238.83684149319686,Delhi,South East,"District and Sessions Judge, South-East, Saket"
+22.0,4.0,1.0,17332.0,17118.0,65.0,232.84373174436263,Punjab,Fatehgarh Sahib,"District and Sessions Court, Fatehgarh Sahib"
+5.0,8.0,1.0,8492.0,6340.0,65.0,194.5238170347004,Himachal Pradesh,Chamba,District and Sessions Judge Chamba
+25.0,6.0,1.0,1365.0,612.0,66.0,178.01307189542484,Manipur,Churachandpur,"District and Sessions Judge, Churachandpur"
+2.0,17.0,1.0,19804.0,18605.0,66.0,297.7024455791454,Andhra Pradesh,Prakasham,"PRL. DISTRICT JUDGE COURT,ONGOLE,PRAKASAM DIST."
+22.0,2.0,1.0,79830.0,78322.0,66.0,188.12821429483412,Punjab,Jalandhar,DISTRICT AND SESSIONS COURT JALANDHAR
+6.0,24.0,3.0,904.0,904.0,66.0,241.94800884955748,Assam,Udalguri,"District And Sessions Court, Udalguri"
+13.0,25.0,3.0,51936.0,42028.0,66.0,249.03036071190635,Uttar Pradesh,Etah,Chief Judicial Magistrate
+22.0,12.0,1.0,29843.0,29606.0,66.0,221.74109977707218,Punjab,Moga,Sessions Court Moga
+8.0,13.0,1.0,17700.0,17693.0,67.0,386.4611993443735,Bihar,Rohtas Sasaram,D.J. Division
+13.0,9.0,3.0,52425.0,32469.0,68.0,328.89466876097197,Uttar Pradesh,Fatehpur,Chief Judicial Magistrat
+7.0,16.0,1.0,10009.0,9807.0,68.0,274.4227592535944,Jharkhand,Deoghar,"{PDJ Establishment,Deoghar,Jharkhand}"
+17.0,33.0,1.0,6423.0,6010.0,68.0,290.7139767054908,Gujarat,Narmada,"DISTRICT COURT, RAJPIPLA"
+5.0,8.0,4.0,17908.0,9294.0,68.0,189.666559070368,Himachal Pradesh,Chamba,Chief Judicial Magistrate Chamba
+11.0,30.0,1.0,1557.0,1534.0,68.0,448.5560625814863,Orissa,Deogarh,"District and Sessions Judge, Deogarh"
+5.0,11.0,8.0,5686.0,3781.0,69.0,197.333774133827,Himachal Pradesh,Shimla,"Additional Chief Judicial Magistrate , Rohru"
+26.0,6.0,1.0,39299.0,38953.0,69.0,175.44710291890223,Delhi,South West,"District and Sessions Judge, South-West, DWK"
+14.0,18.0,1.0,23277.0,22827.0,69.0,256.2989880404784,Haryana,Panipat,District and Sessions Court Panipat
+13.0,68.0,2.0,11503.0,11085.0,69.0,354.12882273342353,Uttar Pradesh,Mirzapur,District and Sessions Judge
+25.0,4.0,1.0,2435.0,1897.0,69.0,149.62045334739062,Manipur,Thoubal,"Court of District and Sessions Judge, Thoubal"
+4.0,3.0,5.0,16625.0,16561.0,69.0,140.46953686371594,Kerala,Kannur,ACJM Court Thalassery
+15.0,6.0,3.0,4968.0,4508.0,69.0,185.88176574977814,Uttarakhand,Uttarkashi,Chief Judicial Magistrate Uttarkashi
+11.0,13.0,2.0,3815.0,3761.0,70.0,299.68572188247805,Orissa,Keonjhar,"District and Sessions Judge,Keonjhar"
+1.0,21.0,28.0,4885.0,4816.0,70.0,463.16985049833886,Maharashtra,Thane,ADDIL. DISTRICT AND SESSEIONS COURT PALGHAR
+15.0,15.0,3.0,6747.0,6486.0,70.0,121.28276287388219,Uttarakhand,Pithoragarh,Chief Judicial Magistrate
+14.0,2.0,1.0,31815.0,31285.0,70.0,262.85181396835543,Haryana,Sirsa,"District and Sessions Courts, Sirsa"
+22.0,8.0,1.0,72739.0,71793.0,70.0,197.85069575028209,Punjab,Amritsar,"Sessions Court, Amritsar"
+25.0,3.0,1.0,1405.0,1092.0,71.0,161.92948717948718,Manipur,Bishnupur,"Court of District and Session,Bishnupur"
+26.0,9.0,1.0,29107.0,27293.0,71.0,302.77485069431725,Delhi,West,"District and Sessions Judge, West, THC"
+25.0,2.0,1.0,3217.0,2400.0,71.0,140.94291666666666,Manipur,Imphal West,"Court of District and  Session Judge, Imphal West"
+13.0,67.0,3.0,9327.0,9120.0,71.0,233.4952850877193,Uttar Pradesh,Balrampur,Chief Judicial Magistrate
+8.0,13.0,5.0,199.0,171.0,72.0,179.80116959064327,Bihar,Rohtas Sasaram,DJ Div
+12.0,3.0,10.0,118.0,113.0,72.0,208.62831858407083,Jammu and Kashmir,Baramulla,Chief Judicial Magistrate
+14.0,9.0,1.0,18622.0,18289.0,72.0,255.64213461643607,Haryana,Jind,"District and Sessions Court, Jind"
+1.0,4.0,1.0,12882.0,12570.0,72.0,416.19681782020683,Maharashtra,Buldhana,"DISTRICT COURT, BULDANA"
+9.0,14.0,9.0,12495.0,11171.0,72.0,281.70924715781933,Rajasthan,Ajmer,DJ ADJ-Ajmer District HQ
+15.0,3.0,2.0,1698.0,1573.0,72.0,147.09599491417674,Uttarakhand,Tehri Garhwal,District and Sessions Judge
+25.0,9.0,1.0,955.0,606.0,72.0,196.69966996699668,Manipur,Tamenglong,Court Of CJM cum CJSD Tamenglong
+14.0,16.0,1.0,21507.0,20233.0,72.0,228.150941531162,Haryana,Kaithal,"District & Session Judge, Kaithal"
+9.0,33.0,16.0,2370.0,2234.0,73.5,250.4265890778872,Rajasthan,Churu,DJ ADJ SUJANGARH COURT COMPLEX
+9.0,7.0,47.0,385.0,350.0,74.0,118.41428571428571,Rajasthan,Ganganagar,ADJ- GHARSHANA TALUKA
+22.0,11.0,1.0,24717.0,24504.0,74.0,214.4247061704212,Punjab,Kapurthala,"District and Sessions Courts, Kapurthala"
+25.0,1.0,1.0,2963.0,2488.0,74.0,161.2331189710611,Manipur,Imphal East,"Court of District and Session, Imphal East"
+12.0,15.0,4.0,219.0,180.0,75.0,305.3833333333333,Jammu and Kashmir,Doda,Chief Judicial Magistrate
+22.0,9.0,1.0,19633.0,19437.0,76.0,210.73041107166745,Punjab,Faridkot,"District and Sessions Courts, Faridkot"
+1.0,7.0,1.0,24226.0,23727.0,76.0,484.30395751675314,Maharashtra,Amravati,DISTRICT  AND SESSIONS COURT AMRAVATI
+13.0,16.0,3.0,39915.0,26570.0,76.0,313.97583741061345,Uttar Pradesh,Sitapur,Chief Judicial Magistrate
+10.0,15.0,6.0,17948.0,14733.0,76.0,306.4806896083622,Tamil Nadu,Madurai,Chief Judicial Magistrate
+3.0,1.0,1.0,53707.0,52965.0,76.0,249.8145001416029,Karnataka,BELAGAVI,"Prl.  District and Session Judge, Belagavi."
+13.0,13.0,3.0,28024.0,24767.0,76.0,241.3515968829491,Uttar Pradesh,Pilibhit,Chief Judicial Magistrate
+16.0,12.0,15.0,4770.0,4707.0,77.0,252.8364138517102,West Bengal,Murshidabad,Additional District and sessions Judge
+11.0,14.0,3.0,5662.0,5404.0,77.0,442.1108438193929,Orissa,Jagatsinghpur,Dist and Sessions Judge court Jagatsinghpur
+14.0,17.0,1.0,28755.0,28249.0,77.0,241.96927324861056,Haryana,Rewari,"District and Sessions Courts, Rewari"
+26.0,5.0,1.0,31818.0,30819.0,77.0,258.1736591063954,Delhi,North West,"District and Sessions Judge, North-West, RHC"
+22.0,18.0,3.0,33200.0,32895.0,77.0,237.5031767745858,Punjab,Hoshiarpurr,DISTRICT AND SESSIONS COURT HOSHIARPUR
+10.0,24.0,4.0,5696.0,5573.0,77.0,287.26143908128483,Tamil Nadu,Erode,"Chief Judicial Magistrate, Erode"
+26.0,4.0,1.0,33051.0,31902.0,78.0,274.4257099868347,Delhi,North,"District and Sessions Judge, North, RHC"
+13.0,12.0,3.0,57819.0,51729.0,78.0,322.99120416014233,Uttar Pradesh,Jaunpur,Chief Judicial Magistrate
+31.0,2.0,1.0,7851.0,7461.0,78.0,327.42621632488937,Diu and Daman,Daman,DISTRICT AND SESSIONS COURT
+13.0,17.0,2.0,11566.0,11301.0,78.0,341.54172197150695,Uttar Pradesh,Auraiya,District and Sessions Judge
+9.0,32.0,9.0,3487.0,1744.0,79.0,281.8595183486238,Rajasthan,Jaiselmer,CJM-Jaisalmer District HQ
+10.0,14.0,8.0,2433.0,2063.0,79.0,334.79156568104696,Tamil Nadu,Virudhunagar,"Principal District Court, Srivilliputtur"
+1.0,18.0,1.0,22567.0,21442.0,79.0,405.63944594720635,Maharashtra,Jalna,District  and Sessions Court Jalna
+11.0,16.0,9.0,4130.0,4070.0,79.5,299.8771498771498,Orissa,Sundargarh,adj court rourkela
+13.0,61.0,3.0,38484.0,32571.0,80.0,317.0918915599766,Uttar Pradesh,Sultanpur,Chief Judicial Magistrate
+11.0,21.0,2.0,3178.0,3145.0,80.0,305.60953895071543,Orissa,Rayagada,"District and Sessions Court, Rayagada"
+22.0,26.0,1.0,24141.0,23804.0,80.0,235.90875483112083,Punjab,Fazilka,"District and Sessions Courts, Fazilka"
+9.0,7.0,11.0,8585.0,6828.0,80.5,237.568834212068,Rajasthan,Ganganagar,DJ ADJ -Shri Ganganagar District HQ
+9.0,21.0,6.0,2593.0,1842.0,80.5,375.685667752443,Rajasthan,Jalore,ADJ-BHINMAL TALUKA
+1.0,31.0,17.0,3753.0,3706.0,81.0,538.9619535887749,Maharashtra,Satara,"District and Sessions Court, Vaduj"
+13.0,27.0,3.0,21044.0,19517.0,81.0,283.8789260644566,Uttar Pradesh,Varanasi,Chief Judicial Magistrate
+6.0,28.0,3.0,170.0,170.0,81.0,396.9176470588236,Assam,Dima Hasao,Chief Judicial Magistrate
+5.0,9.0,2.0,5566.0,4262.0,82.0,249.86227123416242,Himachal Pradesh,Kinnaur,"District  and Sessions Judge, Kinnaur at Rampur"
+7.0,7.0,3.0,18077.0,12869.0,82.0,453.41883596239023,Jharkhand,Hazaribagh,Chief Judicial Magistrate Hazaribag
+13.0,50.0,2.0,17272.0,16438.0,82.0,330.5299914831488,Uttar Pradesh,Gonda,District Judge Establishment
+14.0,12.0,1.0,33462.0,33062.0,82.0,230.97023773516426,Haryana,Rohtak,District and Sessions Court Rohtak
+26.0,1.0,1.0,22318.0,21910.0,83.0,232.55709721588315,Delhi,North East,"District and Sessions Judge, North-East, KKD"
+14.0,7.0,4.0,83658.0,77822.0,83.0,226.90068361131813,Haryana,Hisar,"Chief Judicial Magistrate, Hisar"
+11.0,1.0,7.0,1194.0,1130.0,83.5,276.7752212389381,Orissa,Cuttack,"Addl. District and Sessions Judge,Athagarh"
+22.0,15.0,1.0,20067.0,19561.0,84.0,183.1643065282961,Punjab,SBS Nagar,DISTRICT and SESSIONS COURT SBS NAGAR
+4.0,4.0,1.0,34535.0,34469.0,84.0,400.45075285038735,Kerala,Thrissur,DISTRICT COURT ESTABLISHMENT
+14.0,11.0,1.0,23056.0,22211.0,84.0,272.2425825041646,Haryana,Narnaul,"Sessions Courts, Narnaul"
+13.0,69.0,3.0,14645.0,12832.0,84.0,373.1136221945137,Uttar Pradesh,Kannauj,Chief Judicial Magistrate
+1.0,5.0,1.0,18598.0,18249.0,84.0,417.00991835169054,Maharashtra,Akola,"Principal District and Sessions Judge, Akola"
+1.0,36.0,9.0,1539.0,1525.0,84.0,427.7291803278689,Maharashtra,Washim,"Additional District and Sessions Court, Mangrulpir"
+9.0,33.0,23.0,5724.0,2701.0,85.0,264.6841910403554,Rajasthan,Churu,CJM ACJM JM DISTRICT HQ CHURU
+15.0,3.0,3.0,5740.0,4381.0,85.0,200.47865784067562,Uttarakhand,Tehri Garhwal,Chief Judicial Magistrate
+12.0,1.0,7.0,197.0,188.0,85.5,563.0053191489362,Jammu and Kashmir,Kathua,Chief Judicial Magistrate
+5.0,6.0,17.0,10324.0,9625.0,86.0,246.02888311688312,Himachal Pradesh,Mandi,"District and Sessions Court, Mandi, H.P"
+1.0,19.0,4.0,47756.0,47338.0,86.0,444.0002957454899,Maharashtra,Aurangabad,DISTRICT AND SESSIONS COURT AURANGABAD.
+1.0,24.0,2.0,3430.0,3173.0,86.0,361.9520958083832,Maharashtra,Raigad,"Chief Judicial Magistrate,Raigad-Alibag"
+10.0,30.0,5.0,7588.0,6568.0,86.0,180.70660779537153,Tamil Nadu,Ariyalur,Chief_Judicial_Magistrate_Court_Ariyalur
+17.0,25.0,1.0,38650.0,38554.0,86.0,389.50710691497636,Gujarat,Kheda at Nadiad,"DISTRICT COURT, NADIAD"
+22.0,3.0,1.0,24774.0,24415.0,87.0,222.8760597993037,Punjab,Rupnagar,"District and Sessions Court, Rupnagar"
+14.0,14.0,1.0,19302.0,18664.0,87.0,216.69449207029572,Haryana,Panchkula,DISTRICT AND  SESSIONS COURT PANCHKULA
+17.0,16.0,1.0,34436.0,34348.0,87.0,343.4992721555841,Gujarat,RAJKOT,DISTRICT COURT - RAJKOT
+9.0,4.0,14.0,151116.0,137314.0,87.0,223.87862854479516,Rajasthan,Jaipur Metro,DJ ADJ Jaipur Metro HQ
+8.0,18.0,4.0,22998.0,22940.0,88.0,350.0885353095031,Bihar,Madhubani,"District & Sessions Judge, Madhubani"
+2.0,2.0,1.0,20717.0,20692.0,88.0,298.1144403634255,Andhra Pradesh,Ananthapur,"District Court Complex, Ananthapuramu."
+10.0,8.0,11.0,14491.0,10465.0,88.0,253.1437171524128,Tamil Nadu,Tiruchirappalli,Chief Judicial Magistrate Court Establishment
+6.0,3.0,8.0,278.0,260.0,88.0,469.2538461538462,Assam,Sivasagar,Addl Dist and Sessions Judge
+13.0,1.0,3.0,87942.0,76242.0,88.0,311.97987985624724,Uttar Pradesh,Allahabad,Chief Judicial Magistrate
+25.0,5.0,1.0,518.0,363.0,88.0,229.228650137741,Manipur,Senapati,"Court of District and Sessions, Senapati"
+9.0,2.0,11.0,11907.0,10090.0,88.0,318.8719524281467,Rajasthan,Alwar,DJ ADJ-Alwar District HQ
+13.0,23.0,2.0,9045.0,8900.0,89.0,332.847191011236,Uttar Pradesh,Lalitpur,District and Sessions Judge
+11.0,24.0,3.0,5264.0,5052.0,90.0,245.97565320665086,Orissa,Boudh,"Chief Judicial Magistrate,Boudh"
+12.0,11.0,6.0,775.0,633.0,90.0,441.34123222748815,Jammu and Kashmir,Kupwara,Chief Judicial Magistrate
+9.0,14.0,26.0,25293.0,1376.0,91.0,262.9898255813953,Rajasthan,Ajmer,ACJM-RAILWAYS HQ
+5.0,4.0,1.0,12218.0,10294.0,91.0,226.14464736739845,Himachal Pradesh,Una,"District and Sessions Judge, Una"
+22.0,16.0,1.0,15688.0,15441.0,91.0,235.32471990156083,Punjab,Barnala,"District & Sessions Court, Barnala"
+10.0,26.0,2.0,5747.0,4280.0,91.0,219.2280373831776,Tamil Nadu,Krishnagiri,"Principal District Judge, Krishnagiri"
+26.0,3.0,1.0,24969.0,22727.0,92.0,261.72125665507986,Delhi,East,"District and Sessions Judge, East, KKD"
+4.0,3.0,4.0,9323.0,9305.0,92.0,260.4311660397636,Kerala,Kannur,"CJM Court,Thalassery."
+13.0,46.0,2.0,10582.0,10448.0,93.0,363.1646248085758,Uttar Pradesh,Basti,District and Session Judge
+13.0,6.0,3.0,143980.0,138563.0,93.0,270.81788789215017,Uttar Pradesh,Meerut,Chief Judicial Magistrate
+11.0,16.0,10.0,9297.0,9221.0,94.0,316.16234681704805,Orissa,Sundargarh,acjm court rourkela
+13.0,14.0,2.0,11937.0,11534.0,94.0,364.27509970521936,Uttar Pradesh,Mainpuri,District  Session Judge
+17.0,17.0,16.0,295.0,295.0,94.0,111.6,Gujarat,Amreli,ADJ COURT DHARI
+13.0,53.0,3.0,119287.0,104618.0,95.0,237.3154141734692,Uttar Pradesh,Mathura,Chief Judicial Magistrate
+12.0,6.0,4.0,291.0,242.0,96.0,136.0909090909091,Jammu and Kashmir,Pulwama,Chief Judicial Magistrate
+15.0,5.0,8.0,19122.0,18454.0,96.0,364.84317763086585,Uttarakhand,Dehradun,DJ_Dehradun
+2.0,2.0,16.0,3682.0,3682.0,96.0,432.9000543183053,Andhra Pradesh,Ananthapur,"II Addl.District Judges Court, Hindupur"
+6.0,6.0,4.0,42259.0,40749.0,96.0,285.794620726889,Assam,Sonitpur,Chief Judicial Magistrate Sonitpur Tezpur
+9.0,11.0,13.0,1507.0,1342.0,96.5,200.52980625931446,Rajasthan,Hanumangarh,ADJ-Sangaria HQ
+1.0,30.0,12.0,4351.0,4283.0,97.0,383.6388045762316,Maharashtra,Solapur,"District and Sessions Court, Malshiras"
+18.0,7.0,1.0,20158.0,19897.0,97.0,367.9020455345027,Chhattisgarh,Durg,"District and Sessions Court,  Durg (C.G.)"
+14.0,20.0,1.0,25482.0,25162.0,97.0,278.9234957475558,Haryana,Yamunanagar,"Sessions Courts, Yamunanagar"
+8.0,37.0,1.0,242.0,242.0,97.5,600.5495867768595,Bihar,Sheohar,Sheohar D.J Div.
+13.0,35.0,3.0,12011.0,11162.0,98.0,226.05912918831748,Uttar Pradesh,Jyotiba Phule Nagar,chief judicial magistrate
+13.0,59.0,2.0,8325.0,7908.0,98.0,275.94436014162875,Uttar Pradesh,Siddharthnagar,District and Session Judge
+10.0,4.0,7.0,5561.0,4797.0,98.0,273.151344590369,Tamil Nadu,Theni,Principal District Court Theni
+13.0,2.0,11.0,764.0,439.0,98.0,505.742596810934,Uttar Pradesh,Bareilly,acjmnrbly
+10.0,11.0,12.0,9110.0,8070.0,98.0,266.75551425030983,Tamil Nadu,Vellore,"Principal District Court, Vellore"
+1.0,15.0,2.0,19477.0,18837.0,99.0,476.13818548601165,Maharashtra,Nanded,DISTRICT  AND SESSIONS COURT NANDED
+27.0,1.0,1.0,48715.0,48191.0,99.0,230.05689859102318,Chandigarh,Chandigarh,DISTRICT AND SESSIONS COURT CHANDIGARH
+1.0,14.0,1.0,14660.0,14588.0,99.0,390.0270770496297,Maharashtra,Yavatmal,"District and Sessions Court, Yavatmal"
+1.0,26.0,1.0,38271.0,37737.0,99.0,511.30415772318946,Maharashtra,Ahmednagar,"District and Sessions Court, Ahmednagar"
+3.0,20.0,3.0,113817.0,113584.0,100.0,297.18216474151285,Karnataka,BENGALURU,PRL. CITY CIVIL AND SESSIONS JUDGE
+12.0,6.0,5.0,177.0,163.0,100.0,128.70552147239263,Jammu and Kashmir,Pulwama,Chief Judicial Civil Magistrate
+9.0,11.0,18.0,2305.0,2252.0,100.5,257.50222024866787,Rajasthan,Hanumangarh,ADJ-BHADRA TALUKA HQ
+4.0,11.0,1.0,25368.0,25175.0,101.0,351.5771201588878,Kerala,Malappuram,"District and Sessions Court, Manjeri"
+11.0,2.0,2.0,3750.0,3630.0,102.0,274.10633608815425,Orissa,Kendrapada,"District and Sessions Judge, Kendrapara"
+9.0,29.0,10.0,3659.0,3037.0,102.0,204.6661178794864,Rajasthan,Karauli,ADJ 1 ADJ 2- TALUKA HINDAUN
+13.0,33.0,2.0,18271.0,17169.0,102.0,314.2800978507776,Uttar Pradesh,Etawah,District and Sessions Judge
+13.0,68.0,3.0,43448.0,38255.0,102.0,333.39542543458373,Uttar Pradesh,Mirzapur,Chief Judicial Magistrate
+9.0,40.0,6.0,40231.0,39637.0,103.0,290.8260968287207,Rajasthan,Jaipur Metro II,DJ ADJ Jaipur Metro HQ II
+16.0,20.0,1.0,64381.0,60647.0,103.0,296.59350009068874,West Bengal,South Twenty Four Parganas,District and Sessions Judge Alipur
+9.0,20.0,23.0,8654.0,825.0,103.0,260.21696969696967,Rajasthan,Kota,ACJM - Railway District HQ
+13.0,17.0,3.0,10788.0,9969.0,103.0,359.8942722439562,Uttar Pradesh,Auraiya,Chief Judicial Magistrate
+14.0,6.0,1.0,63001.0,60707.0,104.0,250.48299207669623,Haryana,Gurugram,"District and Sessions Court,Gurugram"
+22.0,23.0,1.0,24033.0,23764.0,104.0,313.8347921225383,Punjab,Tarn Taran,"Sessions Court ,Tarn Taran"
+13.0,19.0,2.0,31638.0,31189.0,105.0,373.153259161884,Uttar Pradesh,Kanpur Nagar,District and Sessions Judge
+15.0,4.0,3.0,11520.0,10132.0,106.0,285.3361626529806,Uttarakhand,Udham Singh Nagar,usnagar_dj
+17.0,30.0,1.0,12857.0,11591.0,106.0,338.88637736174616,Gujarat,Surendranagar,"District Court, Surendranagar"
+5.0,4.0,3.0,35939.0,13459.0,106.0,273.75577680362585,Himachal Pradesh,Una,"Chief Judicial Magistrate, Una"
+13.0,71.0,3.0,21934.0,19361.0,107.0,347.85460461753013,Uttar Pradesh,Santkabir Nagar,Chief Judicial Magistrate
+18.0,5.0,1.0,5419.0,5310.0,107.0,243.5581920903955,Chhattisgarh,Dhamtari,District and Sessions Court Dhamtari
+15.0,7.0,2.0,1929.0,1841.0,108.0,193.82672460619233,Uttarakhand,Almora,"District and Session Judge, Almora"
+13.0,14.0,3.0,19311.0,16562.0,108.0,329.45701002294413,Uttar Pradesh,Mainpuri,Chief Judicial Magistrate
+14.0,3.0,1.0,35080.0,34673.0,109.0,242.0566434978225,Haryana,Ambala,"District and Sessions Court, Ambala"
+13.0,27.0,2.0,14939.0,14371.0,109.0,293.0522580196228,Uttar Pradesh,Varanasi,District and Sessions Judge
+5.0,5.0,1.0,8978.0,8439.0,110.0,229.74570446735402,Himachal Pradesh,Solan,District and Sessions Court
+1.0,31.0,3.0,38754.0,35387.0,110.0,348.7084805154435,Maharashtra,Satara,Chief Judicial Magistrate Satara
+12.0,16.0,3.0,181.0,127.0,111.0,264.0472440944882,Jammu and Kashmir,Leh,Chief Judicial Magistrate
+12.0,2.0,4.0,5924.0,4105.0,112.0,282.13154689403166,Jammu and Kashmir,Udhampur,"Chief Judicial Magistrate, Udhampur"
+9.0,11.0,22.0,3670.0,3456.0,112.0,278.747974537037,Rajasthan,Hanumangarh,ADJ-NOHAR TALUKA HQ
+7.0,18.0,2.0,4562.0,4095.0,112.0,273.22490842490845,Jharkhand,Simdega,Chief Judicial Magistrate
+13.0,49.0,2.0,15320.0,14485.0,113.0,271.76016568864344,Uttar Pradesh,Faizabad,District and session Judge Faizabad
+14.0,10.0,1.0,27377.0,24467.0,114.0,251.8830261168104,Haryana,Kurukshetra,"District  and Sessions Court, Kurukshetra"
+15.0,1.0,4.0,11838.0,10465.0,114.0,211.10186335403728,Uttarakhand,Nainital,nainital_cjm
+6.0,7.0,2.0,5704.0,5642.0,114.0,254.972172988302,Assam,Dibrugarh,District and Sessions Judge
+18.0,23.0,1.0,7611.0,7100.0,115.0,275.2911267605634,Chhattisgarh,Balodabazar,DISTRICT AND SESSION JUDGE EST.
+3.0,24.0,9.0,3112.0,3111.0,115.0,253.0748955319833,Karnataka,DAKSHINA KANNADA,"V ADDL.DISTRICT AND SESSIONS JUDGE,PUTTUR"
+12.0,10.0,3.0,3308.0,2097.0,115.0,341.7110157367668,Jammu and Kashmir,Shopian,Chief Judicial Magistrate Shopian
+13.0,66.0,2.0,23796.0,22788.0,115.0,388.64564683166583,Uttar Pradesh,Jhansi,District & Sessions Judge
+6.0,16.0,8.0,723.0,716.0,115.5,434.7290502793296,Assam,Dhubri,Additional District and Sessions Judge
+17.0,19.0,19.0,5842.0,5833.0,116.0,378.07097548431335,Gujarat,Banaskanth at Palanpur,Additional District Court  DEODAR
+5.0,1.0,4.0,12120.0,8544.0,116.0,235.41385767790266,Himachal Pradesh,Hamirpur,"CHIEF JUDICIAL MAGISTRATE, HAMIRPUR, H.P."
+17.0,30.0,15.0,7927.0,7847.0,117.0,365.38371352109084,Gujarat,Surendranagar,"Additional District Court, Dhrangadhra"
+6.0,7.0,4.0,34676.0,34622.0,117.0,278.00701865865636,Assam,Dibrugarh,Chief Judicial Magistrate
+18.0,13.0,3.0,1145.0,1053.0,117.0,194.28584995251663,Chhattisgarh,Kanker,Additional District And Session Judge
+13.0,6.0,2.0,33803.0,32837.0,118.0,384.83530773213135,Uttar Pradesh,Meerut,District and Sessions Judge
+11.0,17.0,8.0,407.0,377.0,118.0,270.81697612732097,Orissa,Balangir,"Additional District Judge, Titilagarh"
+9.0,30.0,6.0,9145.0,8038.0,118.5,309.7779298332918,Rajasthan,Chittorgarh,DJ ADJ - Chittorgarh District HQ
+1.0,9.0,1.0,63492.0,62760.0,119.0,438.2343212237093,Maharashtra,Nagpur,DISTRICT  AND  SESSIONS COURT NAGPUR
+18.0,9.0,1.0,7321.0,6223.0,120.0,256.1100755262735,Chhattisgarh,Kawardha,District and Session Judge Kabirdham
+5.0,2.0,14.0,4948.0,4360.0,120.0,250.42958715596333,Himachal Pradesh,Kangra,"Additional Chief Judicial Magistrate,  Palampur"
+12.0,3.0,11.0,163.0,163.0,120.0,311.53374233128835,Jammu and Kashmir,Baramulla,Chief Judicial Civil Magistrate
+17.0,27.0,1.0,29592.0,29448.0,120.0,543.5727044281446,Gujarat,Panchmahal at Godhra,"District Court, Godhra"
+9.0,29.0,5.0,4411.0,3100.0,120.0,252.49225806451614,Rajasthan,Karauli,DJ ADJ-Karauli District HQ
+9.0,19.0,17.0,1584.0,1490.0,121.0,263.789932885906,Rajasthan,Pali,ADJ-Sumerpur Taluka
+21.0,1.0,4.0,6481.0,3749.0,122.0,295.1872499333156,Meghalaya,East Khasi Hills,"Chief Judicial Magistrate, Shillong"
+1.0,11.0,3.0,5067.0,5008.0,122.0,392.25,Maharashtra,Gondia,"DISTRICT COURT, GONDIA"
+13.0,28.0,3.0,4240.0,3864.0,122.0,286.96092132505174,Uttar Pradesh,Ghazipur,Chief Judicial Magistrate
+11.0,32.0,1.0,2415.0,2389.0,122.0,274.1494349100042,Orissa,Nabarangpur,"District and Sessions Court , Nabarangpur"
+16.0,20.0,7.0,13183.0,12599.0,123.0,283.43384395586946,West Bengal,South Twenty Four Parganas,Additional District Judge Establishment
+13.0,60.0,3.0,28174.0,27036.0,123.0,328.7789243971002,Uttar Pradesh,Sonbhadra,Chief Judicial Magistrate
+10.0,21.0,7.0,5852.0,2831.0,123.0,333.8767220063582,Tamil Nadu,Ramanathapuram,"CJM, JM NO I And JM NO II, Ramanathapuram"
+6.0,6.0,2.0,5212.0,4248.0,123.0,284.6779661016949,Assam,Sonitpur,District and Sessions Judge Sonitpur Tezpur
+18.0,18.0,1.0,5032.0,4957.0,123.0,254.5097841436353,Chhattisgarh,Janjgir,DISTRICT AND SESSION COURT JANJGIR
+2.0,5.0,1.0,42191.0,38581.0,123.0,342.1439309504678,Andhra Pradesh,Guntur,District Court
+14.0,3.0,4.0,61884.0,58349.0,123.0,286.48422423691915,Haryana,Ambala,Chief Judicial Magistrate
+7.0,1.0,3.0,10586.0,8208.0,123.5,415.00706627680313,Jharkhand,Bokaro,Chief Judicial Magistrate
+14.0,1.0,1.0,43762.0,36569.0,125.0,284.8126555279061,Haryana,Karnal,Sessions Court
+9.0,8.0,18.0,6972.0,3439.0,125.0,309.20703692933995,Rajasthan,Merta (Nagaur),ADJ-Nagaur Taluka HQ
+22.0,10.0,1.0,30063.0,29769.0,126.0,282.43457959622424,Punjab,Gurdaspur,Sessions Court Gurdaspur
+10.0,25.0,10.0,6655.0,5124.0,126.0,269.00117096018744,Tamil Nadu,Tiruvarur,"Chief Judicial Magistrate Court, Tiruvarur"
+9.0,19.0,13.0,1302.0,1246.0,126.5,223.0481540930979,Rajasthan,Pali,ADJ -Sojat Taluka
+12.0,4.0,9.0,484.0,369.0,127.0,465.81029810298105,Jammu and Kashmir,Anantnag,Chief Judicial Magistrate
+17.0,16.0,21.0,3186.0,3058.0,128.0,415.8891432308699,Gujarat,RAJKOT,Jetpur Additional Dist. Court
+14.0,8.0,1.0,22000.0,21558.0,128.0,292.38384822339737,Haryana,Jhajjar,"District and Sessions Courts, Jhajjar"
+14.0,4.0,8.0,5165.0,4024.0,129.0,258.4165009940358,Haryana,Bhiwani,bwnloharucjm
+10.0,27.0,3.0,14071.0,11296.0,129.0,487.3049752124646,Tamil Nadu,Dindigul,"Chief Judicial Magistrate ,Dindigul"
+15.0,1.0,1.0,6730.0,5796.0,129.0,267.47463768115944,Uttarakhand,Nainital,nainital
+12.0,15.0,8.0,990.0,726.0,129.5,511.2190082644628,Jammu and Kashmir,Doda,Chief Judicial Magistrate
+1.0,20.0,9.0,9111.0,9051.0,130.0,404.97657717379303,Maharashtra,Nashik,"ADDITIONAL DISTRICT AND SESSIONS COURT, MALEGAON"
+12.0,6.0,2.0,1899.0,1838.0,130.0,218.39880304679002,Jammu and Kashmir,Pulwama,Principal District Judge
+18.0,10.0,1.0,8067.0,7781.0,130.0,343.82637193162833,Chhattisgarh,Rajnandgaon,District And Sessions Judge Rajnandgaon
+15.0,2.0,3.0,5893.0,3624.0,130.0,262.7003311258278,Uttarakhand,Pauri Garhwal,Chief Judicial Magistrate
+9.0,31.0,29.0,286.0,281.0,131.0,306.14946619217085,Rajasthan,Bhilwara,ACJM GANGAPUR CIVIL CASES
+1.0,1.0,3.0,4289.0,4206.0,131.0,450.0078459343795,Maharashtra,Nandurbar,"DISTRICT AND SESSIONS COURT, NANDURBAR"
+6.0,23.0,6.0,148.0,148.0,132.5,236.6891891891892,Assam,Kamrup,Additional District and Sessions Judge Rangia
+13.0,65.0,2.0,13564.0,13331.0,134.0,323.782987022729,Uttar Pradesh,Hathras,District and Sessions Judge
+9.0,14.0,37.0,180.0,174.0,135.0,325.3793103448276,Rajasthan,Ajmer,ACJM -NASIRABAD TALUKA (CIVIL)
+5.0,11.0,10.0,7594.0,5227.0,135.0,362.60187488042857,Himachal Pradesh,Shimla,District and Sessions Judge Shimla
+3.0,20.0,2.0,400678.0,293816.0,135.0,308.03465774498324,Karnataka,BENGALURU,Chief Metropolitan Magistrate Court
+11.0,7.0,2.0,4124.0,4015.0,135.0,274.2899128268991,Orissa,Dhenkanal,District and Sessions Judge Dhenkanal
+15.0,9.0,7.0,23882.0,21858.0,136.0,407.01377070180257,Uttarakhand,Haridwar,Additional Chief Judicial Magistrate
+15.0,5.0,11.0,17107.0,15425.0,137.0,357.43954619124804,Uttarakhand,Dehradun,ACJM_Rishikesh
+14.0,4.0,12.0,5148.0,5104.0,137.0,391.72668495297813,Haryana,Bhiwani,"DISTRICT AND SESSIONS COURTS, CHARKHI DADRI"
+22.0,15.0,4.0,11087.0,7829.0,138.0,344.50926044194665,Punjab,SBS Nagar,CHIEF JUDICIAL MAGISTRATE SBS NAGAR
+13.0,39.0,3.0,19948.0,17369.0,138.0,257.6976222004721,Uttar Pradesh,Banda,Chief Judicial Magistrate
+9.0,36.0,6.0,4210.0,3998.0,139.0,285.45797898949473,Rajasthan,Sawai Madhopur,DJ ADJ - Sawai Madhopur HQ
+26.0,10.0,1.0,17272.0,17209.0,139.0,337.90330640943694,Delhi,South,"District and Sessions Judge, South, Saket"
+11.0,3.0,2.0,1055.0,1047.0,139.0,329.65616045845275,Orissa,Nuapada,District and  Sessions Judge Court Nuapada
+5.0,10.0,2.0,7090.0,6950.0,139.0,230.98776978417263,Himachal Pradesh,Kullu,"Judicial Magistrate 1st class,Manali"
+5.0,6.0,9.0,2157.0,1961.0,140.0,292.5762366139725,Himachal Pradesh,Mandi,"Chief Judicial Magistrate, TC Jogindernagar"
+18.0,16.0,1.0,1877.0,1873.0,140.0,259.45114789108385,Chhattisgarh,Jashpur,District And Sessions Judge Jashpur
+13.0,20.0,4.0,157910.0,127694.0,140.0,275.2310132034395,Uttar Pradesh,Gautam Buddha Nagar,Chief Judicial Magistrate
+9.0,9.0,40.0,1279.0,602.0,141.0,252.27906976744183,Rajasthan,Udaipur,ACJM - Kherwara Taluka
+6.0,12.0,1.0,3552.0,3506.0,141.5,313.2875071306332,Assam,Karimganj,District and Sessions Judge Court Karimganj
+14.0,13.0,1.0,36188.0,35137.0,142.0,286.2889546631756,Haryana,Sonepat,District and Sessions Judge Sonipat
+1.0,20.0,1.0,37229.0,36749.0,143.0,404.46989033715204,Maharashtra,Nashik,DISTRICT AND SESSIONS COURT NASHIK.
+22.0,24.0,1.0,39560.0,38986.0,143.0,281.93543836248915,Punjab,Mohali,"District and Sessions Courts, SAS Nagar"
+14.0,8.0,4.0,25453.0,24389.0,143.0,319.27557505432776,Haryana,Jhajjar,"Criminal Courts, Jhajjar"
+16.0,19.0,6.0,2179.0,2173.0,144.0,417.4325816843074,West Bengal,Bankura,"Addl. Chief Judicial Magistrate,Khatra"
+5.0,2.0,1.0,14716.0,13700.0,145.0,337.1543795620438,Himachal Pradesh,Kangra,"District and Sessions Court, Kangra at Dharamshala"
+13.0,15.0,3.0,30901.0,26186.0,145.0,417.51936149087305,Uttar Pradesh,Ambedkar Nagar,Chief Judicial Magistrate
+4.0,4.0,4.0,5863.0,3742.0,146.0,324.4706039551042,Kerala,Thrissur,"CJM COURT, THRISSUR"
+9.0,18.0,2.0,11493.0,11284.0,146.0,477.44877702942216,Rajasthan,Jhunjhunu,DJ ADJ - Jhunjhunu District HQ
+5.0,9.0,4.0,4517.0,4132.0,147.0,256.9106969990319,Himachal Pradesh,Kinnaur,"Chief Judicial Magistrate,Rampur"
+1.0,33.0,2.0,871.0,693.0,148.0,294.6060606060606,Maharashtra,Sindhudurg,CHIEF JUDICIAL MAGISTRATE SINDHUDURG
+4.0,16.0,2.0,18234.0,16008.0,148.0,294.39655172413785,Kerala,Wayanad,"CJM COURT,KALPETTA"
+18.0,3.0,1.0,32186.0,31319.0,149.0,381.09023276605257,Chhattisgarh,Raipur,"District and Sessions Court, Raipur"
+18.0,17.0,2.0,1167.0,981.0,149.0,283.2782874617737,Chhattisgarh,Dantewada,Chief Judicial Magistrate Court
+30.0,1.0,1.0,14112.0,13962.0,150.0,307.0005013608365,Goa,North Goa,DISTRICT AND SESSIONS COURT PANAJI
+17.0,27.0,17.0,3524.0,3472.0,150.0,253.27822580645162,Gujarat,Panchmahal at Godhra,"Addl District Court,Halol"
+6.0,11.0,4.0,26217.0,25561.0,152.0,348.1533977543914,Assam,Jorhat,Chief Judicial Magistrate
+17.0,24.0,1.0,21910.0,21818.0,152.0,494.56265468878905,Gujarat,Junagadh,"DISTRICT COURT, JUNAGADH"
+17.0,26.0,15.0,10212.0,9451.0,152.0,518.9365146545339,Gujarat,kachchh at Bhuj,gandhidham_adj Court
+23.0,44.0,1.0,97481.0,72224.0,153.0,453.1550315684537,Madhya Pradesh,Gwalior,DISTRICT AND SESSIONS COURT GWALIOR MP
+17.0,43.0,1.0,2725.0,2717.0,153.0,142.51417004048582,Gujarat,BOTAD,botad_district
+9.0,5.0,14.0,1787.0,1721.0,153.0,337.5043579314352,Rajasthan,Tonk,ADJ - Malpura Taluka
+4.0,5.0,11.0,4884.0,4026.0,154.0,298.66890213611526,Kerala,Kozhikode,"Chief Judicial Magistrate Court, Kozhikode"
+4.0,6.0,5.0,5278.0,5103.0,155.0,280.562414266118,Kerala,Alappuzha,Chief Judicial Magistrate Court  Alappuzha
+10.0,10.0,17.0,7387.0,4042.0,155.0,323.441118258288,Tamil Nadu,Viluppuram,Principal District Court Villupuram
+4.0,9.0,1.0,29007.0,28969.0,155.0,383.47450723186853,Kerala,Thiruvananthapuram,District and Sessions Court Thiruvananthapuram
+23.0,8.0,1.0,9004.0,5423.0,156.0,319.3171676193988,Madhya Pradesh,Alirajpur,DISTRICT AND SESSIONS COURT ALIRAJPUR MP
+6.0,24.0,2.0,5305.0,5292.0,156.0,312.1432350718065,Assam,Udalguri,Chief Judicial Magistrate
+10.0,18.0,10.0,20233.0,19800.0,156.0,368.0557070707071,Tamil Nadu,Coimbatore,"CHIEF JUDICIAL MAGISTRATE, COIMBATORE"
+14.0,16.0,4.0,29896.0,28046.0,156.0,306.5111602367539,Haryana,Kaithal,"Chief Judicial Magistrate, Kaithal"
+26.0,8.0,1.0,52566.0,49670.0,157.0,315.942460237568,Delhi,Central,"District and Sessions Judge, Central, THC"
+18.0,12.0,4.0,1331.0,1276.0,157.0,284.3996865203762,Chhattisgarh,Mahasamund,Additional District and Sessions court
+17.0,37.0,1.0,10113.0,9973.0,157.0,330.36027273638825,Gujarat,Gir Somnath at Veraval,District Court Veraval
+6.0,18.0,3.0,22607.0,21987.0,157.0,432.7650429799427,Assam,Goalpara,Chief Judicial Magistrate
+1.0,17.0,1.0,18818.0,18567.0,157.0,498.6874562395648,Maharashtra,Parbhani,DISTRICT  SESSIONS COURT PARBHANI.
+13.0,21.0,2.0,9174.0,8860.0,157.0,339.1492099322799,Uttar Pradesh,Ballia,District and Sessions Judge
+9.0,8.0,28.0,5074.0,2606.0,158.0,303.951650038373,Rajasthan,Merta (Nagaur),ACJM MJM-Didwana Taluka HQ
+5.0,5.0,11.0,2373.0,2183.0,158.0,313.11314704535044,Himachal Pradesh,Solan,District  & Sessions Judge
+4.0,10.0,1.0,21531.0,21490.0,159.0,370.76435551419263,Kerala,Kottayam,"District and Sessions Court, Kottayam"
+1.0,26.0,9.0,4566.0,4536.0,159.0,436.1399911816579,Maharashtra,Ahmednagar,"District  And Sessions Court, Kopergaon"
+18.0,6.0,5.0,1136.0,1117.0,160.0,332.1888988361684,Chhattisgarh,Raigarh,Addl District and session court
+1.0,36.0,1.0,9178.0,9082.0,161.0,462.46047126183663,Maharashtra,Washim,"Principal District and Sessions Court, Washim"
+13.0,47.0,3.0,12317.0,11872.0,161.0,391.1014993261455,Uttar Pradesh,Bijnor,Chief Judicial Magistrate
+14.0,4.0,7.0,11101.0,9423.0,162.0,317.8148148148148,Haryana,Bhiwani,bwndadricjm
+13.0,69.0,2.0,10905.0,10607.0,163.0,449.767794852456,Uttar Pradesh,Kannauj,District and Sessions Judge
+16.0,7.0,6.0,527.0,517.0,164.0,492.9941972920697,West Bengal,Paschim Medinpur,adj
+1.0,30.0,21.0,4197.0,4168.0,164.0,326.02927063339735,Maharashtra,Solapur,"Additional District Court, Barshi"
+15.0,15.0,2.0,1271.0,1232.0,164.0,295.1939935064935,Uttarakhand,Pithoragarh,District And Sessions Judge
+13.0,10.0,3.0,23426.0,22987.0,165.0,361.76421455605345,Uttar Pradesh,Lakhimpur,Chief Judicial Magistrate
+18.0,5.0,2.0,8935.0,5288.0,165.5,317.40695915279883,Chhattisgarh,Dhamtari,Chief Judicial Magistrate Dhamtari
+5.0,5.0,7.0,23096.0,15835.0,166.0,280.044205873066,Himachal Pradesh,Solan,Chief Judicial Magistrate(CJM)
+30.0,2.0,1.0,10234.0,10160.0,166.0,309.46761811023623,Goa,South Goa,DISTRICT AND SESSIONS COURT MARGAO
+5.0,1.0,1.0,9704.0,8628.0,167.0,295.25822902178953,Himachal Pradesh,Hamirpur,"DISTRICT AND SESSIONS COURT HAMIRPUR, H.P."
+9.0,12.0,25.0,2328.0,2018.0,167.5,434.25371655104067,Rajasthan,Baran,ADJ Chhabra Taluka
+14.0,23.0,1.0,23195.0,22861.0,168.0,289.14553169152714,Haryana,Palwal,"Sessions Courts Complex,Palwal"
+6.0,17.0,2.0,8282.0,8089.0,169.0,299.65582890344916,Assam,Dhemaji,Chief Judicial Magistrate
+11.0,21.0,7.0,595.0,573.0,170.0,282.18150087260034,Orissa,Rayagada,"Additional District Judge, Gunupur"
+18.0,3.0,6.0,1310.0,785.0,171.0,276.14649681528664,Chhattisgarh,Raipur,Chief Judicial Megistrate Tilda
+16.0,23.0,4.0,542.0,524.0,171.0,235.4580152671756,West Bengal,kalimpong,District and sessions Judge court
+11.0,19.0,2.0,4312.0,4226.0,171.0,446.15168007572174,Orissa,Jajpur,"District and Sessions Judge, Jajpur"
+18.0,19.0,1.0,3115.0,3062.0,171.0,390.50653167864135,Chhattisgarh,Balod,"District and Sessions Court, Balod"
+5.0,6.0,19.0,10198.0,7334.0,172.0,374.63212435233163,Himachal Pradesh,Mandi,"Chief Judicial Magistrate, Mandi"
+14.0,9.0,5.0,32529.0,23964.0,173.0,302.54172926055753,Haryana,Jind,"Chief Judicial Magistrate Courts, Jind"
+9.0,10.0,13.0,4022.0,1915.0,173.0,465.4422976501305,Rajasthan,Bundi,ACJM JM - K Patan Taluka
+13.0,74.0,10.0,3007.0,2646.0,173.0,148.8718820861678,Uttar Pradesh,Sambhal at Chandausi,Chief Judicial Magistrate Sambhal at Chandausi Headquarter
+1.0,35.0,13.0,27909.0,27589.0,174.0,546.5048388850629,Maharashtra,Sangli,DISTRICT AND SESSIONS COURT SANGLI
+16.0,9.0,10.0,2107.0,2097.0,174.0,252.78779208392945,West Bengal,Purba Medinipur,"Addl District and Seesion Judge, Haldia"
+1.0,2.0,1.0,24535.0,24070.0,174.0,559.7178230162027,Maharashtra,Dhule,"DISTRICT AND SESSIONS COURT, DHULE"
+15.0,2.0,7.0,5597.0,5336.0,175.0,342.8474512743628,Uttarakhand,Pauri Garhwal,Addl. Chief Judicial Magistrate
+5.0,5.0,8.0,3139.0,2257.0,176.0,292.3894550287993,Himachal Pradesh,Solan,"Chief Judicial Magistrate, TC Arki"
+11.0,10.0,8.0,883.0,857.0,176.0,328.4200700116686,Orissa,Kalahandi,"Additional District  and Sessions Judge,Dharamgarh"
+23.0,13.0,1.0,27637.0,21848.0,176.0,395.1425759794946,Madhya Pradesh,Datia,DISTRICT AND SESSIONS COURT DATIA MP
+23.0,43.0,1.0,89526.0,70570.0,176.0,401.6494969533797,Madhya Pradesh,Sagar,DISTRICT AND SESSIONS COURT SAGAR MP
+13.0,45.0,3.0,14849.0,13007.0,178.0,307.45221803644193,Uttar Pradesh,Baghpat,Chief Judicial Magistrate
+6.0,15.0,3.0,19025.0,18765.0,178.0,285.255102584599,Assam,Nalbari,Chief Judicial Magistrate
+18.0,15.0,1.0,4976.0,4822.0,179.0,284.1860223973455,Chhattisgarh,Bastar,District Court Bastar at Jagdalpur
+5.0,2.0,12.0,3762.0,2681.0,179.0,317.1932114882506,Himachal Pradesh,Kangra,"Additional Chief Judicial Magistrate, Dehra"
+19.0,1.0,1.0,271.0,269.0,179.0,342.42007434944236,Mizoram,Aizawl,Chief Judicial Magistrate
+1.0,21.0,2.0,22164.0,14724.0,180.0,346.87143439282806,Maharashtra,Thane,C.J.M. COURT THANE
+15.0,2.0,2.0,2215.0,1844.0,180.0,303.03091106290674,Uttarakhand,Pauri Garhwal,District and Sessions Judge
+12.0,4.0,2.0,4213.0,4199.0,180.0,326.42176708740175,Jammu and Kashmir,Anantnag,Principal District Judge
+9.0,11.0,19.0,6172.0,3107.0,180.0,365.1580302542646,Rajasthan,Hanumangarh,ACJM MJM-BHADRA TALUKA HQ
+5.0,7.0,2.0,1096.0,1017.0,180.0,300.5368731563422,Himachal Pradesh,Bilaspur,"Addl. District and Session Court,Ghumarwin"
+14.0,7.0,2.0,38586.0,38218.0,180.0,312.9327803652729,Haryana,Hisar,"District and Sessions Courts, Hisar"
+5.0,5.0,5.0,4774.0,3671.0,181.0,374.16208117679116,Himachal Pradesh,Solan,Chief Judicial Magistrate
+9.0,31.0,11.0,6696.0,5651.0,181.0,341.3440099097505,Rajasthan,Bhilwara,DJ/ADJ - Bhilwara District HQ
+16.0,2.0,10.0,8084.0,8047.0,182.0,272.95389586181193,West Bengal,Hooghly,"ADDITIONAL DISTRICT AND SESSIONS JUDGE, SERAMPORE"
+9.0,9.0,36.0,1530.0,955.0,182.0,268.82513089005244,Rajasthan,Udaipur,ACJM - Kanore Taluka
+9.0,8.0,11.0,3659.0,2534.0,182.5,337.08445146014213,Rajasthan,Merta (Nagaur),DJ-Merta District HQ
+16.0,8.0,2.0,7758.0,7714.0,183.0,374.1441534871662,West Bengal,Birbhum,District and Sessions Judges
+18.0,16.0,5.0,1096.0,692.0,183.0,345.58381502890165,Chhattisgarh,Jashpur,Civil Judge Class-2/Judicial Magistrate 1st Class
+14.0,5.0,1.0,54876.0,54387.0,183.0,303.38209498593415,Haryana,Faridabad,"District and Sessions Courts, Faridabad"
+16.0,20.0,19.0,1950.0,1809.0,183.0,342.62631288004417,West Bengal,South Twenty Four Parganas,Additional District Judge Establishment
+20.0,5.0,2.0,1704.0,1697.0,183.0,324.61402474955804,Tripura,Unakoti  Tripura,The District and Sessions Judge
+2.0,23.0,1.0,17136.0,17133.0,184.0,406.30327438277016,Andhra Pradesh,West Godavari,"Principal District and Sessions Court, Eluru"
+10.0,9.0,6.0,8319.0,8249.0,184.0,324.91841435325495,Tamil Nadu,Thoothukudi,"Chief Judicial Magistrate court complex, Thoothuku"
+16.0,4.0,8.0,3663.0,3429.0,184.0,292.0924467774861,West Bengal,Jalpaiguri,Addl Dist  and Sessions Judge Court
+12.0,15.0,2.0,750.0,739.0,185.0,267.06495263870096,Jammu and Kashmir,Doda,Principal District Judge
+5.0,6.0,4.0,4255.0,2080.0,186.0,306.32451923076917,Himachal Pradesh,Mandi,"Chief Judicial Magistrate, TC Gohar"
+16.0,25.0,1.0,1389.0,1365.0,186.0,516.1098901098901,West Bengal,Jhargram,dj
+15.0,5.0,15.0,15116.0,11610.0,186.0,473.7677863910422,Uttarakhand,Dehradun,ACJM_Vikasnagar
+16.0,8.0,13.0,923.0,890.0,186.5,257.4921348314606,West Bengal,Birbhum,BOLPUR ADJ COURT
+10.0,32.0,20.0,3817.0,3637.0,187.0,613.1608468518009,Tamil Nadu,Tiruvallur,"Chief Judicial Magistrate Court, Tiruvallur"
+16.0,14.0,4.0,19227.0,12536.0,187.0,392.849952137843,West Bengal,North  Twenty Four Parganas,Barasat Chief Judicial Magistrate
+16.0,22.0,9.0,1092.0,1087.0,187.0,216.87396504139838,West Bengal,Nadia,Addl. District Judge
+16.0,6.0,10.0,548.0,535.0,188.0,284.37196261682243,West Bengal,Coochbehar,"Addl. District & Sessions Judge , Tufanganj"
+16.0,14.0,3.0,25332.0,24550.0,188.0,272.59971486761714,West Bengal,North  Twenty Four Parganas,Barasat District Judge
+10.0,24.0,3.0,2895.0,2892.0,189.0,269.98547717842325,Tamil Nadu,Erode,"Principal District Court, Erode"
+9.0,35.0,30.0,3508.0,1731.0,189.0,369.0831889081456,Rajasthan,Sikar,ACJM REENGUS TALUKA HQ
+23.0,4.0,1.0,18784.0,12906.0,190.0,397.15698124903145,Madhya Pradesh,Harda,DISTRICT AND SESSIONS COURT HARDA MP
+22.0,21.0,1.0,16585.0,16537.0,190.0,321.91008042571207,Punjab,Pathankot,"DISTRICT AND SESSIONS COURTS, PATHANKOT"
+13.0,76.0,1.0,608.0,608.0,190.0,518.2138157894736,Uttar Pradesh,Shamli,"District and session judge,shamli"
+16.0,13.0,7.0,10027.0,5305.0,190.0,579.5604147031103,West Bengal,South Dinajpur,ACJM and JM Court Buniadpur
+6.0,20.0,8.0,1544.0,1538.0,190.0,344.1378413524057,Assam,Barpeta,Addl. District and Sessions Judge
+10.0,6.0,6.0,6503.0,3974.0,190.5,367.6502264720684,Tamil Nadu,Nagapattinam,"Chief Judicial Magistrate Court,Nagapattinam"
+18.0,16.0,2.0,1838.0,1372.0,190.5,367.79737609329453,Chhattisgarh,Jashpur,Chief Judicial Magistrate Court Jashpur
+5.0,4.0,2.0,5099.0,4054.0,191.0,332.96299950666014,Himachal Pradesh,Una,"Chief Judicial Magistrate,TC Amb"
+5.0,6.0,5.0,4977.0,1652.0,191.0,289.65799031477,Himachal Pradesh,Mandi,"Chief Judicial Magistrate, TC Karsog"
+12.0,4.0,10.0,380.0,324.0,192.0,386.52469135802465,Jammu and Kashmir,Anantnag,Chief Judicial Civil Magistrate
+13.0,11.0,3.0,10342.0,10195.0,193.0,338.2909269249633,Uttar Pradesh,Shravasti,"Cheif Judicial Magistrate, Shravasti"
+9.0,27.0,8.0,3297.0,3129.0,193.0,322.73282198785563,Rajasthan,Balotra Barmer,ADJ-Barmer
+13.0,41.0,2.0,6406.0,6343.0,195.0,342.00867097587894,Uttar Pradesh,Deoria,District and Sessions Judge
+9.0,9.0,44.0,1629.0,798.0,196.0,349.577694235589,Rajasthan,Udaipur,ACJM - Jhadol Taluka
+3.0,20.0,8.0,65237.0,58406.0,197.0,314.9318734376605,Karnataka,BENGALURU,"AddlChief Metropolitan Magistrate Court, Bengaluru"
+20.0,9.0,1.0,1333.0,1314.0,197.0,340.60654490106543,Tripura,Sepahijala Tripura,"District and Sessions Judge, Sepahijala, Sonamura"
+14.0,3.0,2.0,4949.0,4855.0,197.0,409.80926879505677,Haryana,Ambala,Chief Judicial Magistrate
+9.0,18.0,19.0,1979.0,1811.0,197.0,625.6924351187189,Rajasthan,Jhunjhunu,ADJ-CHIRAWA HQ
+9.0,33.0,11.0,1044.0,996.0,197.5,306.84738955823286,Rajasthan,Churu,DJ ADJ RATANGARH COURT COMPLEX CHURU
+18.0,13.0,1.0,3481.0,3371.0,198.0,306.06793236428365,Chhattisgarh,Kanker,District And Sessions Judge
+23.0,29.0,1.0,21416.0,18489.0,198.0,410.7308129157877,Madhya Pradesh,Bhind,DISTRICT AND SESSIONS COURT BHIND MP
+7.0,15.0,2.0,11935.0,10386.0,198.0,427.9084344309648,Jharkhand,Seraikella,Chief Judicial Magistrate
+9.0,33.0,12.0,2046.0,754.0,198.5,398.68037135278513,Rajasthan,Churu,CJM ACJM JM RATANGARH COURT COMPLEX CHURU
+22.0,18.0,8.0,2344.0,2115.0,199.0,333.8562647754137,Punjab,Hoshiarpurr,CHIEF JUDICIAL MAGISTRATE GARHSHANKAR
+9.0,6.0,20.0,3246.0,1581.0,199.0,353.33206831119537,Rajasthan,Bikaner,ACJM SRI DUNGARGARH
+9.0,6.0,19.0,278.0,272.0,200.0,318.66911764705884,Rajasthan,Bikaner,ACJM DUNGARGARH
+1.0,34.0,1.0,27632.0,27418.0,200.0,530.138886862645,Maharashtra,Kolhapur,DISTRICT AND SESSIONS COURT KOLHAPUR
+12.0,7.0,3.0,1351.0,1349.0,200.0,314.6634544106745,Jammu and Kashmir,Ganderbal,Principal District Judge
+13.0,10.0,8.0,883.0,760.0,200.5,281.0407894736842,Uttar Pradesh,Lakhimpur,Cheif Judicial Magistrate
+18.0,19.0,2.0,6305.0,3012.0,201.0,323.2795484727756,Chhattisgarh,Balod,"CJM and Judicial Magistrate,  Balod"
+4.0,16.0,1.0,8685.0,8154.0,201.0,343.1028942850134,Kerala,Wayanad,"DISTRICT COURT,  KALPETTA"
+16.0,17.0,19.0,676.0,667.0,201.0,341.8290854572714,West Bengal,Darjeeling,Additional Chief Judicial Magistrate
+1.0,27.0,1.0,32213.0,31684.0,202.0,512.4344464082818,Maharashtra,Beed,DIST.AND SESSION COURT BEED
+9.0,30.0,7.0,10895.0,6858.0,203.0,363.1125692621756,Rajasthan,Chittorgarh,CJM ACJM JM - Chittorgarh District HQ
+9.0,27.0,4.0,2521.0,2236.0,203.0,346.2254025044723,Rajasthan,Balotra Barmer,DJ ADJ-Balotra District HQ
+16.0,10.0,6.0,909.0,908.0,203.5,335.30176211453744,West Bengal,Purulia,ADJ Raghunathpur
+12.0,16.0,2.0,109.0,107.0,205.0,267.4672897196262,Jammu and Kashmir,Leh,Principal District Judge
+16.0,22.0,16.0,2741.0,1690.0,205.0,327.4846153846154,West Bengal,Nadia,Addl. District and Sessions Judge Ranaghat
+23.0,20.0,1.0,46923.0,30372.0,205.0,399.6612998814698,Madhya Pradesh,Chhindwara,DISTRICT AND SESSIONS COURT CHHINDWARA MP
+6.0,4.0,5.0,16565.0,16177.0,208.0,368.89936329356493,Assam,Morigaon,"Chief Judicial Magistrate,Morigaon"
+9.0,3.0,4.0,5695.0,5102.0,208.0,398.6324970599765,Rajasthan,Dausa,DJ ADJ MACT - Dausa District HQ
+10.0,31.0,9.0,16012.0,7100.0,208.0,443.32563380281687,Tamil Nadu,Kancheepuram,"Chief Judicial Magistrate Court, CGL"
+13.0,62.0,3.0,61289.0,45685.0,209.0,513.1211776294189,Uttar Pradesh,Unnao,Chief Judicial Magistrate
+10.0,19.0,3.0,6581.0,5631.0,209.0,355.85988279168885,Tamil Nadu,Karur,The Chief Judicial Magistrate Court
+1.0,31.0,1.0,20832.0,20470.0,209.0,518.9504152418173,Maharashtra,Satara,DISTRICT  SESSIONS COURT SATARA.
+6.0,9.0,3.0,1554.0,1331.0,210.0,338.7948910593538,Assam,Bongaigaon,District And Sessions Judge
+1.0,28.0,12.0,2421.0,2412.0,210.0,536.4423714759536,Maharashtra,Latur,Additional District and Sessions Court Nilanga
+10.0,32.0,19.0,4301.0,4239.0,210.0,357.0217032318943,Tamil Nadu,Tiruvallur,"Principal District and Sessions Court, Tiruvallur"
+10.0,3.0,15.0,11425.0,10277.0,210.0,353.197820375596,Tamil Nadu,Tirunelveli,"CJM, JM I, JM II, JM III, JM IV, JM V Tirunelveli"
+33.0,2.0,3.0,280.0,220.0,210.0,394.15,Ladakh,Leh,Chief Judicial Magistrate
+10.0,22.0,3.0,5887.0,3681.0,211.0,429.6321651725075,Tamil Nadu,Tiruvannamalai,"Chief Judicial Magistrate, Tiruvannamalai"
+14.0,13.0,5.0,38375.0,34331.0,212.0,394.7915003932306,Haryana,Sonepat,Chief Judicial Magistrate Sonipat
+15.0,9.0,1.0,14387.0,13332.0,212.0,334.22277227722765,Uttarakhand,Haridwar,District and Sessions Judge
+12.0,10.0,2.0,1025.0,1014.0,213.5,340.0226824457594,Jammu and Kashmir,Shopian,Principal District Judge Shopian
+9.0,38.0,9.0,7121.0,6334.0,214.0,470.15629933691184,Rajasthan,Jaipur District,DJ ADJ-Jaipur District HQ
+13.0,31.0,6.0,4263.0,3477.0,214.0,603.0330744895025,Uttar Pradesh,Pratapgarh,Addl. Chief Judicial Magistrate Outlying Kunda
+16.0,19.0,1.0,7596.0,7550.0,214.0,351.6390728476821,West Bengal,Bankura,"District and Sessions Judge ,Bankura"
+12.0,20.0,2.0,901.0,894.0,214.0,395.5458612975392,Jammu and Kashmir,Kulgam,Principal District Judge
+9.0,13.0,26.0,3282.0,3188.0,214.0,360.042973651192,Rajasthan,Bharatpur,ADJ - Deeg Taluka
+29.0,5.0,1.0,11451.0,11442.0,214.5,378.4118161160636,Telangana,Mahabubnagar,"Prl.District Court, Mahabubnagar"
+9.0,10.0,16.0,5575.0,2508.0,215.0,343.39513556618823,Rajasthan,Bundi,ACJM JM - Nainwan Taluka
+16.0,6.0,17.0,128.0,128.0,215.0,391.828125,West Bengal,Coochbehar,"Additional District and Sessions Judge, Mekhliganj"
+9.0,38.0,38.0,117.0,116.0,215.0,210.3793103448276,Rajasthan,Jaipur District,ADJ - Chomu
+12.0,14.0,3.0,1355.0,1348.0,215.0,410.1097922848664,Jammu and Kashmir,Ramban,Chief Judicial Magistrate
+9.0,34.0,2.0,4529.0,3603.0,215.0,440.9075770191507,Rajasthan,Dholpur,DJ ADJ - Dholpur District HQ
+16.0,7.0,12.0,874.0,874.0,215.5,370.5709382151029,West Bengal,Paschim Medinpur,pmghataladjdb
+9.0,35.0,25.0,5220.0,3233.0,216.0,389.2100216517168,Rajasthan,Sikar,ACJM JM SHRIMADHOPUR TALUKA HQ
+18.0,23.0,5.0,1561.0,1537.0,216.0,450.3083929733247,Chhattisgarh,Balodabazar,DISTRICT AND SESSION JUDGE EST.
+26.0,11.0,2.0,68454.0,63435.0,217.0,437.919870733822,Delhi,South East,"Chief Metropolitan Magistrate, South-East, Saket"
+11.0,23.0,2.0,2353.0,2332.0,217.0,306.3434819897084,Orissa,Kandhamal,"District & Sessions Judge, Kandhamal, Phulbani"
+23.0,10.0,1.0,56860.0,42790.0,217.0,365.06716522552,Madhya Pradesh,Khandwa,DISTRICT AND SESSIONS COURT KHANDWA MP
+2.0,4.0,1.0,20806.0,19536.0,217.5,364.6954340704341,Andhra Pradesh,East Godavari,"Prl. District Court,Rajamahendravaram"
+9.0,23.0,11.0,2465.0,1173.0,218.0,387.69053708439895,Rajasthan,Pratapgarh,ACJM - TALUKACOURT CHHOTISADARI
+29.0,9.0,26.0,870.0,870.0,219.0,374.9609195402299,Telangana,Rangareddy,Addl District and Sessions Court
+13.0,18.0,3.0,72456.0,48078.0,219.0,384.62009650983816,Uttar Pradesh,Budaun,Chief Judicial Magistrate
+19.0,1.0,3.0,1006.0,1004.0,219.0,409.3217131474104,Mizoram,Aizawl,Dst. Judge and Addl. Dst. Judges
+9.0,39.0,14.0,1502.0,810.0,219.0,296.3962962962962,Rajasthan,Jodhpur District,ADJ Phalodi HQ
+15.0,1.0,8.0,25852.0,17726.0,219.0,416.8541690172628,Uttarakhand,Nainital,haldwani_acjm
+9.0,18.0,13.0,3284.0,3166.0,219.0,383.6522425773847,Rajasthan,Jhunjhunu,ADJ-Khetri Taluka HQ
+9.0,23.0,6.0,12307.0,7006.0,220.0,430.91121895518125,Rajasthan,Pratapgarh,CJM ACJM-PGH ACJM-ARND JM AJM JJB COURT PRATAPGARH
+9.0,11.0,6.0,10889.0,6612.0,220.0,406.0087719298246,Rajasthan,Hanumangarh,CJM ACJM MJM AMJM-Hanumangarh District HQ
+23.0,41.0,1.0,25276.0,17851.0,220.0,379.703658058372,Madhya Pradesh,Mandla,DISTRICT AND SESSIONS COURT MANDLA MP
+12.0,4.0,8.0,113.0,113.0,221.0,538.8407079646016,Jammu and Kashmir,Anantnag,Chief Judicial Civil Magistrate
+18.0,1.0,1.0,4385.0,4267.0,221.0,393.4806655730021,Chhattisgarh,Korba,District and Sessions Judge Korba
+20.0,2.0,6.0,1928.0,1889.0,221.0,318.7861302276337,Tripura,North Tripura,District And Sessions Judge
+11.0,12.0,3.0,1507.0,1406.0,221.5,343.6216216216216,Orissa,Jharsuguda,"District And Sessions Judge,Jharsuguda"
+20.0,10.0,1.0,976.0,956.0,222.0,318.8702928870293,Tripura,Khowai Tripura,"District and Sessions Judge Establishment, Khowai"
+23.0,18.0,1.0,17854.0,13608.0,223.0,414.98295120517344,Madhya Pradesh,Barwani,DISTRICT AND SESSIONS COURT BARWANI MP
+9.0,3.0,16.0,1259.0,1184.0,223.5,352.0236486486486,Rajasthan,Dausa,ADJ-Lalsot Court Complex
+9.0,33.0,7.0,2586.0,2334.0,224.0,450.74078834618683,Rajasthan,Churu,DJ ADJ RAJGARGH COURT COMPLEX CHURU
+12.0,8.0,2.0,1678.0,1671.0,224.0,324.91023339317775,Jammu and Kashmir,Budgam,Principal District Judge
+26.0,10.0,2.0,49417.0,46455.0,225.0,370.87090732967386,Delhi,South,"Chief Metropolitan Magistrate, South, Saket"
+23.0,28.0,1.0,20335.0,15008.0,226.0,477.240605010661,Madhya Pradesh,Vidisha,DISTRICT AND SESSIONS COURT VIDISHA MP
+9.0,13.0,13.0,10542.0,9455.0,226.0,444.9279746166049,Rajasthan,Bharatpur,DJ ADJ - Bharatpur District HQ
+9.0,7.0,44.0,2068.0,1727.0,227.0,342.59293572669367,Rajasthan,Ganganagar,ACJM - PADAMPUR TALUKA
+9.0,26.0,23.0,3944.0,1226.0,227.5,377.64763458401313,Rajasthan,Sirohi,ACJM Sheoganj Taluka
+9.0,31.0,30.0,2887.0,1165.0,228.0,334.7845493562232,Rajasthan,Bhilwara,ACJM GANGAPUR CRIMINAL CASES
+9.0,20.0,18.0,865.0,841.0,229.0,336.4375743162901,Rajasthan,Kota,ACJMRENT - Kota HQ
+10.0,16.0,1.0,1147.0,971.0,229.0,328.19052523171985,Tamil Nadu,The Nilgiris,"District court, The Nilgiris"
+5.0,6.0,7.0,5098.0,3918.0,229.0,373.9022460439,Himachal Pradesh,Mandi,"Cheif Judicial Magistrate, TC Sundernagar"
+12.0,3.0,3.0,1476.0,1467.0,229.0,373.8616223585548,Jammu and Kashmir,Baramulla,Principal District Judge
+11.0,4.0,2.0,8703.0,8217.0,229.0,354.04016064257036,Orissa,Ganjam,"District Civil and  Sessions Court, Berhampur"
+33.0,2.0,2.0,160.0,158.0,229.5,324.4620253164557,Ladakh,Leh,Principal District Judge
+12.0,1.0,4.0,2535.0,2452.0,230.0,440.53955954323004,Jammu and Kashmir,Kathua,Chief Judicial Magistrate
+9.0,2.0,30.0,1937.0,1903.0,231.0,392.5853914871256,Rajasthan,Alwar,ADJ - Tijara
+16.0,6.0,13.0,324.0,321.0,232.0,377.3239875389408,West Bengal,Coochbehar,"Additional District & Sessions Judge , Mathabhanga"
+4.0,5.0,1.0,22583.0,22556.0,232.0,338.49835963823375,Kerala,Kozhikode,"District and Sessions Court, Kozhikode"
+18.0,4.0,1.0,11209.0,10571.0,232.0,378.84949389840136,Chhattisgarh,Surguja,District and Sessions Court Surguja CG
+15.0,5.0,3.0,1732.0,1725.0,232.0,375.09101449275363,Uttarakhand,Dehradun,ADJ_Rishikesh
+1.0,23.0,10.0,90622.0,79389.0,232.0,360.4574185340537,Maharashtra,Mumbai CMM Courts,ADDL. CHIEF METROPOLITAN MAGISTRATE COURT
+16.0,18.0,18.0,2628.0,2596.0,232.5,443.00577812018486,West Bengal,Purba Bardhaman,Additional district and Sessions Judge
+20.0,5.0,5.0,5102.0,5068.0,233.0,361.7202052091555,Tripura,Unakoti  Tripura,Chief Judicial Magistrate
+18.0,6.0,1.0,16867.0,15525.0,233.0,533.6067632850242,Chhattisgarh,Raigarh,District and Sessions Court Raigarh
+9.0,19.0,34.0,1682.0,1637.0,233.0,374.85888821014055,Rajasthan,Pali,ADJ-Jaitaran Taluka Court
+2.0,4.0,31.0,1622.0,1620.0,233.5,329.61728395061726,Andhra Pradesh,East Godavari,"III ADDL.JFCM COURT,RAJAHMUNDRY"
+5.0,6.0,2.0,4164.0,2546.0,234.0,353.1087981146897,Himachal Pradesh,Mandi,"Cheif Judicial Magistrate, TC Sarkaghat"
+9.0,8.0,40.0,3153.0,1875.0,234.0,358.59946666666673,Rajasthan,Merta (Nagaur),ACJM-Parbatsar Taluka HQ(criminal)
+17.0,24.0,18.0,1864.0,1862.0,235.0,551.202470461869,Gujarat,Junagadh,visavadar_addldj Court
+12.0,22.0,2.0,1300.0,1295.0,235.0,346.66949806949805,Jammu and Kashmir,Kishtwar,Principal District Judge
+13.0,8.0,3.0,79199.0,69333.0,235.0,414.70449857932016,Uttar Pradesh,Ghaziabad,Chief Judicial Magistrate
+23.0,3.0,1.0,15299.0,11374.0,235.0,447.73808686477935,Madhya Pradesh,Hoshangabad,DISTRICT AND SESSION COURT HOSHANGABAD MP
+12.0,3.0,12.0,224.0,212.0,235.5,588.561320754717,Jammu and Kashmir,Baramulla,ChiefJudicial Magistrate
+9.0,7.0,27.0,5439.0,2882.0,235.5,373.90180430256765,Rajasthan,Ganganagar,ACJM JM -Raisingnagar Taluka
+10.0,7.0,8.0,4002.0,3429.0,236.0,440.12452610090406,Tamil Nadu,Kanniyakumari,CJM and JM Courts
+12.0,4.0,5.0,295.0,294.0,236.0,730.3707482993198,Jammu and Kashmir,Anantnag,Cheif Judicial Magistrate
+9.0,8.0,12.0,5322.0,2955.0,237.0,422.70795262267336,Rajasthan,Merta (Nagaur),ACJM JM-Merta District HQ
+10.0,12.0,5.0,15658.0,9849.0,238.0,406.8963346532643,Tamil Nadu,Salem,CJM Establishment
+4.0,7.0,5.0,7043.0,6461.0,238.0,325.4507042253521,Kerala,Idukki,Chief Judicial Magistrate Court Thodupuzha
+9.0,1.0,12.0,7243.0,4388.0,238.5,426.65086599817687,Rajasthan,Rajsamand,CJM ACJM JM-Rajsamand District HQ
+6.0,3.0,4.0,38708.0,38660.0,239.0,393.9887221934816,Assam,Sivasagar,Chief Judicial Magistrate Court
+18.0,2.0,1.0,16914.0,16661.0,240.0,378.976652061701,Chhattisgarh,Bilaspur,"District and Sessions Judge, Bilaspur"
+7.0,8.0,5.0,6043.0,5054.0,240.0,427.4871388998813,Jharkhand,Lohardaga,"Chief Judicial Magistrate, Lohardaga"
+16.0,8.0,9.0,1935.0,1932.0,240.5,420.7536231884058,West Bengal,Birbhum,ADJ
+16.0,14.0,7.0,2759.0,2553.0,241.0,343.13474343909127,West Bengal,North  Twenty Four Parganas,basirhat ADJ
+2.0,11.0,6.0,11621.0,11491.0,242.0,443.71682186058655,Andhra Pradesh,Krishna,"Prl. District Court, Krishna, Machilipatnam"
+5.0,11.0,1.0,1954.0,1903.0,242.0,378.5801366263794,Himachal Pradesh,Shimla,"Additional Chief Judicial Magistrate, Theog"
+14.0,4.0,9.0,2715.0,2451.0,243.0,387.4006527947776,Haryana,Bhiwani,bwnsiwanicjm
+9.0,8.0,26.0,3872.0,2276.0,243.5,358.2495606326889,Rajasthan,Merta (Nagaur),ADJ-Didwana Taluka HQ
+9.0,6.0,18.0,4366.0,1653.0,244.0,401.1361161524501,Rajasthan,Bikaner,ACJM Nokha Court
+6.0,22.0,1.0,1904.0,1846.0,244.5,387.6950162513543,Assam,Kokrajhar,District and Sessions Judge
+9.0,8.0,39.0,2278.0,2191.0,245.0,398.82108626198084,Rajasthan,Merta (Nagaur),ADJ-Parbatsar Taluka HQ
+22.0,3.0,9.0,12236.0,8961.0,245.0,446.483093404754,Punjab,Rupnagar,"Chief Judicial Magistrate, Rupnagar"
+6.0,27.0,3.0,521.0,486.0,245.0,248.7880658436214,Assam,Baksa,Chief Judicial Magistrate
+15.0,6.0,2.0,1700.0,1327.0,246.0,387.39412207987937,Uttarakhand,Uttarkashi,District and  Sessions Judge Uttarkashi
+1.0,29.0,1.0,24524.0,24438.0,246.0,473.04394794991407,Maharashtra,Osmanabad,PRINCIPAL DISTRICT  AND SESSIONS COURT OSMANABAD
+22.0,15.0,5.0,1932.0,1676.0,246.0,441.82637231503577,Punjab,SBS Nagar,Chief Judicial Magistarte
+11.0,27.0,13.0,179.0,179.0,246.0,291.10614525139664,Orissa,Anugul,Addl.District and Sessions Judge
+23.0,1.0,1.0,113089.0,78762.0,246.0,555.6732561387471,Madhya Pradesh,Jabalpur,DISTRICT AND SESSIONS COURT JABALPUR MP
+16.0,1.0,3.0,6986.0,6705.0,246.0,422.18344519015665,West Bengal,Malda,"Chief Judicial Magistrate, Malda"
+9.0,22.0,27.0,3077.0,1321.0,246.0,342.80620741862225,Rajasthan,Jhalawar,ACJM - Chomehla Jhalawar District
+9.0,10.0,6.0,11263.0,5864.0,247.0,427.5080150068212,Rajasthan,Bundi,CJM ACJM JM - Bundi HQ
+5.0,11.0,9.0,1222.0,1089.0,247.0,460.0330578512397,Himachal Pradesh,Shimla,District and Sessions Judge Rohru
+9.0,36.0,12.0,7109.0,4599.0,247.0,466.34377038486633,Rajasthan,Sawai Madhopur,ACJM JM - Gangapur City Taluka
+4.0,7.0,1.0,11480.0,11247.0,247.0,334.26051391482173,Kerala,Idukki,District and sessions court Thodupuzha
+18.0,23.0,2.0,7228.0,4261.0,248.0,491.6134710161934,Chhattisgarh,Balodabazar,CHIEF JUDICIAL MAGISTRATE EST.
+9.0,33.0,8.0,3845.0,2573.0,248.0,483.3190827827439,Rajasthan,Churu,CJM ACJM JM CRIMINAL CASES RAJGARH COURT COMPLEX C
+4.0,12.0,1.0,12010.0,11910.0,249.0,471.4812762384551,Kerala,Pathanamthitta,DISTRICT AND SESSIONS COURT PATHANAMTHITTA
+1.0,10.0,1.0,8192.0,8098.0,249.0,543.7841442331438,Maharashtra,Bhandara,DISTRICT  SESSIONS COURT BHANDARA
+4.0,1.0,4.0,6733.0,6180.0,250.0,457.9226537216828,Kerala,Kasaragod,CHIEF JUDICIAL MAGISTRATE COURT KASARAGOD
+9.0,26.0,8.0,3619.0,1755.0,251.0,412.80398860398867,Rajasthan,Sirohi,CJM ACJM JM-Sirohi District HQ
+10.0,25.0,9.0,2520.0,1241.0,251.0,312.2610797743755,Tamil Nadu,Tiruvarur,"Principal District Court, Tiruvarur"
+4.0,15.0,4.0,8302.0,7845.0,251.0,330.8433397068196,Kerala,Kollam,CJM Court
+4.0,10.0,7.0,4138.0,3867.0,251.0,335.44168606154636,Kerala,Kottayam,"Chief Judicial Magistrate Court, Kottayam"
+8.0,6.0,13.0,313.0,306.0,252.0,484.202614379085,Bihar,Begusarai,Teghra CJM Division
+9.0,32.0,12.0,493.0,438.0,252.5,284.2990867579909,Rajasthan,Jaiselmer,ADJ Pokran Taluka HQ
+23.0,50.0,1.0,252512.0,181244.0,253.0,453.0638697005142,Madhya Pradesh,Bhopal,DISTRICT AND SESSIONS COURT BHOPAL
+16.0,2.0,4.0,9050.0,8850.0,253.0,465.0541242937853,West Bengal,Hooghly,"CHIEF JUDICIAL MAGISTRATE,HOOGHLY"
+4.0,9.0,4.0,4357.0,4342.0,253.0,399.21165361584525,Kerala,Thiruvananthapuram,Chief Judicial Magistrate  Court  Trivandrum
+9.0,30.0,35.0,1984.0,831.0,253.0,362.280385078219,Rajasthan,Chittorgarh,ACJM RAWATBHATA TALUKA
+13.0,57.0,9.0,3671.0,3659.0,254.0,559.8420333424433,Uttar Pradesh,Saharanpur,"Add. Cheif Judicial Magistrate, Deoband Saharanpur"
+9.0,29.0,11.0,5002.0,2091.0,255.0,388.26637972262085,Rajasthan,Karauli,ACJM JM- TALUKA HINDAUN
+12.0,11.0,5.0,318.0,317.0,255.0,614.8391167192431,Jammu and Kashmir,Kupwara,Principal District Judge
+14.0,8.0,5.0,23323.0,21591.0,256.0,341.99754527349364,Haryana,Jhajjar,CHIEF JUDICIAL MAGISTRATE BAHADURGARH
+23.0,42.0,1.0,28524.0,21370.0,256.0,555.3409452503511,Madhya Pradesh,Ratlam,DISTRICT AND SESSIONS COURT RATLAM MP
+23.0,16.0,1.0,13313.0,10899.0,257.0,522.5020644095789,Madhya Pradesh,Mandleshwar,DISTRICT AND SESSIONS COURT MANDLESHWAR MP
+13.0,33.0,4.0,11519.0,8920.0,257.0,489.154596412556,Uttar Pradesh,Etawah,Chief Judicial Magistrate
+15.0,2.0,6.0,825.0,822.0,258.0,393.9598540145985,Uttarakhand,Pauri Garhwal,Addl. District and Sessions Judge
+12.0,8.0,5.0,104.0,101.0,258.0,636.5841584158416,Jammu and Kashmir,Budgam,Chief Judicial civil Magistrate
+9.0,35.0,9.0,14263.0,6862.0,258.5,419.39915476537453,Rajasthan,Sikar,CJM ACJM JM SIKAR DISTRICT HQ
+11.0,8.0,5.0,2493.0,2471.0,259.0,360.47713476325373,Orissa,Khurda,"Addl. District and Sessions Court,Khurda"
+11.0,10.0,3.0,359.0,337.0,259.0,444.59940652818983,Orissa,Kalahandi,"Chief Judicial Magistrate,Kalahandi"
+7.0,4.0,4.0,5966.0,5313.0,260.0,542.2386598908338,Jharkhand,West Singhbhum at Chaibasa,Chief Judicial Magistrate
+9.0,38.0,21.0,4225.0,2141.0,260.0,395.7141522652966,Rajasthan,Jaipur District,ACJM JM-Shahpura
+13.0,41.0,3.0,2085.0,2063.0,260.0,446.01114881240915,Uttar Pradesh,Deoria,Chief Judicial Magistrate
+9.0,7.0,38.0,2422.0,2084.0,261.0,465.3349328214972,Rajasthan,Ganganagar,Adj -Suratgarh Taluka
+6.0,10.0,4.0,36230.0,35482.0,262.0,455.8666929710839,Assam,Nagaon,Chief Judicial Magistrate
+13.0,70.0,2.0,12980.0,12713.0,262.0,431.02021552741286,Uttar Pradesh,Jalaun,District and Sessions Court
+1.0,9.0,2.0,151874.0,121797.0,262.0,490.3299588659819,Maharashtra,Nagpur,"Chief Judicial Magistrate,Nagpur"
+11.0,13.0,3.0,4437.0,4334.0,262.5,508.68643285648363,Orissa,Keonjhar,"Chief Judicial Magistrate, Keonjhar"
+10.0,4.0,8.0,3076.0,2786.0,262.5,462.5563531945442,Tamil Nadu,Theni,Chief Judicial Magistrate Court Theni
+10.0,28.0,3.0,8659.0,7779.0,263.0,533.2577452114667,Tamil Nadu,Puducherry,Chief Judicial Magistrate Establishment
+9.0,33.0,14.0,2489.0,1374.0,263.0,407.54148471615713,Rajasthan,Churu,CJM ACJM JM TARANAGAR COURT COMPLEX CHURU
+23.0,5.0,1.0,11481.0,6821.0,263.0,523.5381908811024,Madhya Pradesh,Umaria,DISTRICT AND SESSIONS COURT UMARIA
+13.0,4.0,3.0,27959.0,26905.0,264.0,484.84820665303846,Uttar Pradesh,Hardoi,Chief Judicial Magistate
+23.0,36.0,1.0,39282.0,32032.0,264.0,443.4280719280719,Madhya Pradesh,Tikamgarh,DISTRICT AND SESSIONS COURT TIKAMGARH MP
+9.0,7.0,23.0,1751.0,1344.0,264.0,396.72172619047615,Rajasthan,Ganganagar,ADJ -Karanpur Taluka
+11.0,7.0,5.0,969.0,961.0,264.0,359.9791883454734,Orissa,Dhenkanal,"Additional District and Sessions Judge, Knagar"
+14.0,4.0,6.0,32475.0,27418.0,265.0,405.7127069808155,Haryana,Bhiwani,bwncjm
+18.0,10.0,4.0,1433.0,1386.0,265.5,496.7633477633478,Chhattisgarh,Rajnandgaon,Additional District And Sessions Court Dongargarh
+16.0,11.0,6.0,433.0,433.0,266.0,364.0092378752887,West Bengal,Howrah,Additional District And Sessions Judge
+9.0,11.0,23.0,6472.0,2966.0,266.0,515.0515846257586,Rajasthan,Hanumangarh,ACJM MJM-NOHAR TALUKA HQ
+1.0,32.0,1.0,5089.0,5071.0,266.0,462.3947939262473,Maharashtra,Ratnagiri,PRINCIPAL DISTRICT  SESSIONS JUDGE RATNAGIRI.
+23.0,23.0,1.0,29642.0,23164.0,268.0,478.2594543256778,Madhya Pradesh,Shivpuri,DISTRICT AND SESSIONS COURT SHIVPURI MP
+23.0,15.0,1.0,42303.0,33041.0,268.0,524.6719832934839,Madhya Pradesh,Morena,DISTRICT AND SESSIONS COURT MORENA MP
+23.0,34.0,1.0,68436.0,40046.0,268.0,524.9631423862558,Madhya Pradesh,Katni,DISTRICT AND SESSIONS COURT KATNI MP
+9.0,30.0,27.0,2137.0,1238.0,268.5,469.9628432956382,Rajasthan,Chittorgarh,ACJM JM CRIMINAL BADISADRI TALUKA
+9.0,5.0,15.0,4716.0,2168.0,269.0,418.1171586715867,Rajasthan,Tonk,ACJM JM - Malpura Taluka
+23.0,11.0,1.0,22238.0,15856.0,269.0,467.54761604439966,Madhya Pradesh,Shahdol,DISTRICT AND SESSIONS COURT SHAHDOL MP
+15.0,9.0,3.0,20544.0,18849.0,270.0,416.04801315719664,Uttarakhand,Haridwar,Chief Judicial Magistrate
+9.0,35.0,13.0,9038.0,4763.0,270.0,525.9884526558891,Rajasthan,Sikar,ACJM NEEMKATHANA TALUKA HQ
+9.0,19.0,14.0,3297.0,1664.0,270.0,443.47235576923083,Rajasthan,Pali,ACJM JM-Sojat Taluka
+7.0,9.0,5.0,31855.0,20141.0,271.0,483.8591430415571,Jharkhand,Dhanbad,Chief Judicial Magistrate
+4.0,12.0,4.0,4009.0,3190.0,271.0,423.8783699059561,Kerala,Pathanamthitta,CHIEF JUDICIAL MAGISTRATE COURT PATHANAMTHITTA
+6.0,9.0,6.0,4057.0,3951.0,271.0,369.7509491268033,Assam,Bongaigaon,Chief Judicial Magistrate
+9.0,31.0,22.0,1398.0,1117.0,271.0,392.3876454789615,Rajasthan,Bhilwara,ACJM JM- MANDAL COURT
+9.0,39.0,15.0,3475.0,834.0,273.0,430.2182254196643,Rajasthan,Jodhpur District,ACJM JM Phalodi Criminal
+23.0,7.0,1.0,19107.0,11439.0,273.0,435.3365678818079,Madhya Pradesh,Panna,DISTRICT AND SESSIONS COURT PANNA MP
+9.0,1.0,27.0,4414.0,3113.0,273.0,421.7523289431417,Rajasthan,Rajsamand,ACJM JM-Nathdwara Taluka
+9.0,35.0,24.0,2135.0,2013.0,273.0,484.55489319423754,Rajasthan,Sikar,ADJ SHRIMADHOPUR TALUKA HQ
+5.0,2.0,16.0,1937.0,1408.0,273.5,620.6605113636364,Himachal Pradesh,Kangra,"Additional Chief Judicial Magistrate, Nurpur"
+23.0,2.0,1.0,32951.0,20320.0,274.0,452.2136318897638,Madhya Pradesh,Narsinghpur,DISTRICT AND SESSIONS COURT NARSINGHPUR
+10.0,17.0,4.0,5158.0,2713.0,275.0,437.7062292664946,Tamil Nadu,Thanjavur,"III ADDL. DISTRICT COURT,THANJAVUR at PATTUKOTTAI"
+29.0,2.0,3.0,103723.0,102961.0,276.0,485.77667272073893,Telangana,Hyderabad,Chief Metropolitan Magistrate
+23.0,47.0,1.0,318572.0,240275.0,276.0,500.9985058786807,Madhya Pradesh,Indore,DISTRICT AND SESSIONS COURT INDORE
+10.0,20.0,7.0,1869.0,1868.0,277.5,391.3656316916488,Tamil Nadu,Cuddalore,"Additional District Judge III,Virudhachalam,"
+13.0,23.0,3.0,8858.0,6625.0,278.0,465.14128301886785,Uttar Pradesh,Lalitpur,Chief Judicial Magistrate
+29.0,9.0,1.0,31323.0,31157.0,278.0,482.1518438874089,Telangana,Rangareddy,Prl.District and Sessions Court
+18.0,6.0,2.0,17779.0,11744.0,278.0,600.2752895095367,Chhattisgarh,Raigarh,Chief Judicial Magistrate
+10.0,11.0,16.0,9074.0,6182.0,279.0,492.9239728243287,Tamil Nadu,Vellore,"Chief Judicial Magistrate, Vellore"
+9.0,6.0,14.0,16620.0,536.0,279.0,380.46641791044783,Rajasthan,Bikaner,ACJM Railway
+9.0,9.0,13.0,20456.0,11883.0,280.0,443.4705040814609,Rajasthan,Udaipur,CJM ACJM JM-Udaipur District HQ
+17.0,21.0,15.0,6814.0,6785.0,280.0,393.6875460574797,Gujarat,Bhavnagar,mahuva_addldj Court
+10.0,1.0,7.0,3286.0,3190.0,280.5,432.17586206896556,Tamil Nadu,Dharmapuri,"Chief Judicial Magistrate Court,Dharmapuri"
+9.0,12.0,22.0,194.0,194.0,281.0,380.05154639175265,Rajasthan,Baran,CJ - Atru Taluka
+26.0,8.0,2.0,72056.0,69901.0,281.0,498.0201856911918,Delhi,Central,"Chief Metropolitan Magistrate, Central, THC"
+12.0,1.0,2.0,2892.0,2884.0,281.5,392.96012482662974,Jammu and Kashmir,Kathua,Principal District Judge
+18.0,12.0,2.0,10315.0,6241.0,282.0,417.85595257170326,Chhattisgarh,Mahasamund,Chief Judicial Magistrate
+15.0,9.0,6.0,6921.0,6823.0,282.0,422.6889931115345,Uttarakhand,Haridwar,Additional District and Session Judge
+9.0,29.0,6.0,6931.0,3340.0,282.0,452.12814371257485,Rajasthan,Karauli,CJM ACJM JM AJM-Karauli District HQ
+16.0,7.0,10.0,1060.0,1057.0,282.0,463.9394512771996,West Bengal,Paschim Medinpur,pmgarbacjm
+9.0,35.0,22.0,3284.0,1269.0,283.0,427.4491725768322,Rajasthan,Sikar,ACJM DANTARAMGARH TALUKA HQ
+9.0,18.0,11.0,4073.0,2579.0,283.0,563.2826677006592,Rajasthan,Jhunjhunu,ACJM-Nawalgarh Taluka HQ (CRI.)
+29.0,1.0,10.0,2320.0,2125.0,283.0,453.464,Telangana,Adilabad,"IIIADDITIONAL DISTRICT AND SESSIONS COURT,ASIFABAD"
+15.0,4.0,4.0,25462.0,22111.0,283.0,422.1155985708471,Uttarakhand,Udham Singh Nagar,usnagar_cjm
+16.0,14.0,13.0,7672.0,7621.0,285.0,466.0144338013383,West Bengal,North  Twenty Four Parganas,Barrackpore Addl. District & Sessions Judge
+9.0,8.0,41.0,720.0,720.0,285.5,402.7,Rajasthan,Merta (Nagaur),ACJM-Parbatsar Taluka HQ(civil)
+16.0,18.0,19.0,5712.0,5674.0,286.0,548.3577722946775,West Bengal,Purba Bardhaman,Additional Chief Judicial Magistrate
+12.0,2.0,2.0,2983.0,2969.0,286.0,411.44425732569886,Jammu and Kashmir,Udhampur,"Pr. District Judge , Udhampur"
+4.0,1.0,1.0,9698.0,9675.0,286.0,402.39834625323,Kerala,Kasaragod,PRINCIPAL DISTRICT AND SESSIONS COURT
+33.0,1.0,3.0,168.0,154.0,286.0,538.1558441558442,Ladakh,Kargil,Chief Judicial Magistrate
+18.0,12.0,1.0,6347.0,5755.0,287.0,393.57619461337964,Chhattisgarh,Mahasamund,District and Sessions Court Mahasamund
+12.0,15.0,7.0,397.0,397.0,287.0,643.8312342569269,Jammu and Kashmir,Doda,Principal District Judge
+11.0,12.0,4.0,309.0,306.0,287.0,403.562091503268,Orissa,Jharsuguda,"Chief Judicial Magistrate,Jharsuguda"
+12.0,11.0,2.0,1157.0,1150.0,289.0,369.0130434782609,Jammu and Kashmir,Kupwara,Principal District Judge
+8.0,34.0,4.0,5464.0,5248.0,289.0,795.9009146341464,Bihar,Bhagalpur,District and Sessional Judge Div.
+11.0,17.0,6.0,434.0,413.0,289.0,582.6949152542372,Orissa,Balangir,Additional District Judge Patnagarh
+9.0,8.0,23.0,316.0,312.0,289.0,412.7628205128205,Rajasthan,Merta (Nagaur),ACJM Degana Taluka HQ civil
+18.0,11.0,1.0,2198.0,2130.0,289.0,418.6610328638497,Chhattisgarh,Koriya,District and Sessions judge
+17.0,37.0,9.0,2933.0,2933.0,289.0,248.22604841459253,Gujarat,Gir Somnath at Veraval,ADJ Kodinar
+9.0,11.0,14.0,4860.0,1941.0,290.0,452.86038124678004,Rajasthan,Hanumangarh,ACJM-Sangaria HQ
+20.0,1.0,4.0,7755.0,7704.0,291.0,458.20885254413287,Tripura,West Tripura,"District and Sessions Judge Establishment,Agartala"
+9.0,14.0,29.0,146.0,146.0,292.0,451.541095890411,Rajasthan,Ajmer,ACJM-KISHANGARH TALUKA (CIVIL)
+1.0,28.0,1.0,18969.0,15913.0,292.0,498.55828567837614,Maharashtra,Latur,"District  and Sessions Court, Latur"
+9.0,35.0,12.0,1685.0,1610.0,292.5,476.6093167701864,Rajasthan,Sikar,ADJ NEEMKATHANA TALUKA HQ
+10.0,13.0,1.0,136498.0,119565.0,293.0,438.85977501777273,Tamil Nadu,Chennai,"CITY CIVIL and SESSIONS COURT, Chennai-600 104."
+15.0,8.0,2.0,1217.0,1093.0,294.0,426.01738334858186,Uttarakhand,Chamoli,District and Sessions Judge
+13.0,26.0,3.0,38936.0,37844.0,294.0,488.123348483247,Uttar Pradesh,Muzaffarnagar,chief Judicial Magistrate
+9.0,30.0,19.0,3626.0,2338.0,294.0,531.136869118905,Rajasthan,Chittorgarh,ACJM-NIMBHERA TALUKA
+17.0,37.0,3.0,11250.0,11239.0,294.0,426.68627102055336,Gujarat,Gir Somnath at Veraval,Additional District Court Una
+1.0,1.0,7.0,5003.0,4975.0,295.0,588.4966834170855,Maharashtra,Nandurbar,Additional District  And Sessions Court Shahada
+5.0,2.0,4.0,2196.0,1915.0,295.0,463.09660574412527,Himachal Pradesh,Kangra,"Additional Chief Judicial Magistrate, Kangra"
+9.0,12.0,17.0,3333.0,1721.0,295.0,458.42068564787917,Rajasthan,Baran,ACJM - Shahbad Taluka
+9.0,2.0,20.0,1924.0,1866.0,295.5,370.11575562700966,Rajasthan,Alwar,ADJ Court Laxmangarh
+20.0,1.0,8.0,10123.0,9533.0,296.0,488.1873492080143,Tripura,West Tripura,"Chief Judicial Magistrate Establishment, Agartala"
+6.0,2.0,5.0,12782.0,12591.0,297.0,458.9455960606783,Assam,Tinsukia,Chief Judicial Magistrate
+6.0,5.0,4.0,18776.0,18476.0,298.0,446.3392509201126,Assam,Lakhimpur,Chief Judicial Magistrate
+23.0,19.0,1.0,17472.0,13424.0,298.0,625.6086114421931,Madhya Pradesh,Shajapur,DISTRICT AND SESSIONS COURT SHAJAPUR MP
+18.0,2.0,2.0,63059.0,19889.0,299.0,516.0992508421741,Chhattisgarh,Bilaspur,CJM Court Bilaspur
+18.0,10.0,6.0,2056.0,2049.0,300.0,530.4509516837481,Chhattisgarh,Rajnandgaon,"Additional District And Sessions Court,Khairagarh"
+9.0,7.0,24.0,3310.0,1496.0,300.5,438.677807486631,Rajasthan,Ganganagar,ACJM JM -Karanpur Taluka
+9.0,22.0,23.0,1545.0,996.0,302.0,500.4628514056225,Rajasthan,Jhalawar,ADJ - Bhawanimandi Jhalawar District
+23.0,25.0,1.0,18753.0,14541.0,302.0,529.9737982257067,Madhya Pradesh,Sehore,DISTRICT AND SESSIONS COURT SEHORE MP
+20.0,5.0,6.0,875.0,852.0,302.5,439.07042253521126,Tripura,Unakoti  Tripura,Addl District And Sessions Judge Court Kamalpur
+9.0,31.0,38.0,1758.0,1149.0,303.0,386.644908616188,Rajasthan,Bhilwara,ACJM  & JM Shahpura Criminal Cases
+10.0,24.0,14.0,2107.0,2100.0,303.0,392.1861904761905,Tamil Nadu,Erode,"Additional District Court, Gobichettpalayam"
+26.0,6.0,2.0,107588.0,107247.0,303.0,389.09829645584495,Delhi,South West,"Chief Metropolitan Magistrate, South-West, DWK"
+12.0,3.0,4.0,1992.0,1937.0,304.0,588.9024264326277,Jammu and Kashmir,Baramulla,Chief Judicial Magistrate
+23.0,30.0,1.0,20903.0,16734.0,305.0,502.0160750567706,Madhya Pradesh,Guna,DISTRICT AND SESSIONS COURT GUNA MP
+13.0,57.0,3.0,34778.0,33735.0,306.0,466.86056024899966,Uttar Pradesh,Saharanpur,Cheif Judicial Magistrate
+23.0,9.0,1.0,12804.0,8723.0,306.0,475.34345981886963,Madhya Pradesh,Jhabua,DISTRICT AND SESSIONS COURT JHABUA MP
+16.0,2.0,14.0,2925.0,2875.0,306.0,458.1492173913044,West Bengal,Hooghly,ADDL. DISTRICT & SESSIONS JUDGE
+6.0,8.0,5.0,20110.0,20032.0,306.5,520.5704872204473,Assam,Darrang,Chief Judicial Magistrate
+9.0,32.0,7.0,4365.0,1318.0,307.0,521.2276176024279,Rajasthan,Jaiselmer,ACJM-Pokran ACJM HQ
+4.0,15.0,14.0,24677.0,24555.0,309.0,442.95744247607416,Kerala,Kollam,Court of the Judicial Magistrate of 1st Class 1
+9.0,19.0,18.0,5856.0,1824.0,310.0,634.4194078947369,Rajasthan,Pali,ACJM JM-Sumerpur Taluka
+7.0,3.0,5.0,12795.0,9241.0,310.0,630.3322151282329,Jharkhand,Koderma,Chief Judicial Magistrate Koderma
+6.0,18.0,1.0,3752.0,3709.0,310.0,436.12321380425993,Assam,Goalpara,District and Sessions Judge
+12.0,9.0,3.0,334.0,327.0,311.0,557.9480122324159,Jammu and Kashmir,Reasi,Chief Judicial Magistrate
+9.0,9.0,48.0,387.0,384.0,313.0,433.1484375,Rajasthan,Udaipur,ADJ-Kherwara Taluka
+1.0,28.0,11.0,3276.0,3229.0,313.0,583.5568287395479,Maharashtra,Latur,Additional District  Addl. Sessions Court Udgir
+9.0,23.0,9.0,2613.0,1736.0,313.5,424.48732718894007,Rajasthan,Pratapgarh,ACJM - TALUKACOURT DHARIYAWAD
+10.0,20.0,4.0,8813.0,5827.0,314.0,499.4216577998971,Tamil Nadu,Cuddalore,"Chief Judicial Magistrate Court,Cuddalore"
+9.0,5.0,21.0,5256.0,2980.0,314.0,586.8973154362416,Rajasthan,Tonk,ACJM JM - Uniara Taluka
+26.0,4.0,2.0,22703.0,21631.0,314.0,562.7289538162822,Delhi,North,"Chief Metropolitan Magistrate, North, RHC"
+12.0,3.0,9.0,234.0,229.0,314.0,544.7554585152839,Jammu and Kashmir,Baramulla,Chief Judicial Cvil MAgistrate
+4.0,2.0,4.0,3352.0,2979.0,314.0,550.0057066129574,Kerala,Ernakulam,Chief Judicial Magistrate
+1.0,8.0,2.0,54907.0,51048.0,315.0,408.4293410123805,Maharashtra,Wardha,"COURT OF CHIEF JUDICIAL MAGISTRATE, WARDHA."
+16.0,9.0,6.0,2709.0,2699.0,315.0,514.5450166728418,West Bengal,Purba Medinipur,Addl. District & Session Judge
+6.0,16.0,3.0,22920.0,22833.0,316.0,581.4709849778827,Assam,Dhubri,Chief Judicial Magistrate
+9.0,12.0,13.0,4355.0,2219.0,316.0,585.5146462370437,Rajasthan,Baran,ACJM Mangrol
+12.0,12.0,2.0,603.0,602.0,316.5,471.86212624584715,Jammu and Kashmir,Poonch,Pr Distt judge
+9.0,33.0,20.0,2713.0,1673.0,317.0,444.6790197250448,Rajasthan,Churu,CJM ACJM JM SARDARSHAHAR COURT COMPLEX
+10.0,32.0,3.0,4252.0,4240.0,318.0,491.2665094339623,Tamil Nadu,Tiruvallur,"Additional District and Sessions Judge -IV,Ponneri"
+29.0,2.0,18.0,376.0,376.0,318.0,401.67287234042567,Telangana,Hyderabad,V ADDL. CMM
+16.0,20.0,15.0,3878.0,2718.0,318.5,573.8811626195733,West Bengal,South Twenty Four Parganas,Additional Chief Judicial Magistrate Establishment
+9.0,30.0,13.0,2733.0,1878.0,318.5,443.4110756123536,Rajasthan,Chittorgarh,ACJM JM-Kapasan Taluka
+17.0,31.0,20.0,4303.0,4284.0,319.0,431.68907563025215,Gujarat,Vadodara,Addl District Court - Savli
+9.0,18.0,12.0,576.0,559.0,319.0,412.9051878354204,Rajasthan,Jhunjhunu,ACJM-Nawalgarh Taluka HQ (CIV.)
+9.0,19.0,21.0,1203.0,1147.0,319.0,485.333914559721,Rajasthan,Pali,ADJ-Bali Taluka
+9.0,19.0,35.0,4070.0,1530.0,319.0,429.4843137254902,Rajasthan,Pali,ACJM JM-Jaitaran Taluka Court
+20.0,11.0,5.0,989.0,964.0,319.0,469.85062240663905,Tripura,Dhalai Tripura,Addl District And Sessions Judge Court Kamalpur
+23.0,40.0,1.0,45041.0,32796.0,319.0,571.6970972069764,Madhya Pradesh,Dewas,DISTRICT AND SESSIONS COURT DEWAS MP
+9.0,2.0,44.0,1625.0,1610.0,320.0,518.2229813664596,Rajasthan,Alwar,ADJ-Rajgarh HQ
+16.0,6.0,3.0,7071.0,3012.0,320.0,456.49568393094285,West Bengal,Coochbehar,"Chief Judicial Magistrate , Cooch Behar"
+16.0,20.0,8.0,7208.0,6212.0,322.0,439.94172569220876,West Bengal,South Twenty Four Parganas,Additional Chief Judicial Magistrate Establishment
+21.0,2.0,1.0,150.0,143.0,322.0,615.9370629370629,Meghalaya,West Garo Hills,District and Sessions Judge Tura
+11.0,13.0,7.0,2190.0,2183.0,322.0,382.2913421896472,Orissa,Keonjhar,"Chief Judicial Magistrate,Barbil"
+9.0,8.0,27.0,130.0,126.0,323.0,411.71428571428567,Rajasthan,Merta (Nagaur),ACJM-Didwana Taluka HQ
+9.0,39.0,10.0,2336.0,570.0,323.0,432.3824561403509,Rajasthan,Jodhpur District,ACJM Bilara Criminal Cases
+16.0,22.0,1.0,1799.0,1664.0,324.0,435.90204326923083,West Bengal,Nadia,"Addl.District Judge, Kalyani"
+11.0,4.0,16.0,1134.0,1124.0,324.5,496.6120996441282,Orissa,Ganjam,"Additional District Judge, Aska"
+5.0,9.0,8.0,818.0,795.0,327.0,422.67044025157236,Himachal Pradesh,Kinnaur,"Chief Judicial Magistrate, Reckong Peo"
+16.0,7.0,7.0,398.0,391.0,327.0,520.1176470588234,West Bengal,Paschim Medinpur,acjm
+9.0,7.0,14.0,28968.0,15165.0,327.0,544.9368282228817,Rajasthan,Ganganagar,CJM ACJM JM -Shri Ganganagar District HQ
+29.0,4.0,1.0,16388.0,16289.0,329.0,458.0489901160293,Telangana,Khammam,"Prl  District and Sessions Judge, Khammam"
+32.0,1.0,1.0,7755.0,7420.0,329.0,549.8932614555256,DNH at Silvasa,Silvassa,PRINCIPAL DISTRICT AND SESSIONS COURT AT SILVASSA
+23.0,39.0,1.0,19563.0,16306.0,330.0,549.0411504967498,Madhya Pradesh,Chhatarpur,DISTRICT AND SESSIONS COURT CHHATARPUR MP
+6.0,19.0,3.0,11368.0,10660.0,330.0,485.9088180112569,Assam,Golaghat,GLT_CJM_ESTT
+12.0,12.0,3.0,1653.0,1651.0,330.0,587.1708055723802,Jammu and Kashmir,Poonch,Chief JudiciaL MAGISTRATE
+4.0,6.0,1.0,14826.0,14221.0,330.0,578.8081710146965,Kerala,Alappuzha,"District and Sessions Court, Alappuzha"
+18.0,3.0,8.0,1518.0,1309.0,331.0,526.1642475171886,Chhattisgarh,Raipur,Cheif judicial Magistrate Gariyaband
+9.0,4.0,32.0,9860.0,5620.0,331.0,434.01423487544486,Rajasthan,Jaipur Metro,CMM ACMM MM BASSI COURT COMPLEX
+11.0,31.0,3.0,3702.0,3457.0,331.0,472.07839166907723,Orissa,Malkangiri,"Chief Judicial Magistrate, Malkangiri"
+18.0,2.0,8.0,1785.0,1773.0,332.0,537.7963902989284,Chhattisgarh,Bilaspur,ADJ Court Pendra Road
+12.0,14.0,2.0,785.0,785.0,332.0,470.5694267515924,Jammu and Kashmir,Ramban,Principal District Judge
+6.0,21.0,2.0,14649.0,13953.0,333.0,499.95133663011535,Assam,Hailakandi,Chief Judicial Magistrate
+13.0,48.0,8.0,1055.0,1046.0,333.0,804.2418738049713,Uttar Pradesh,Bulandshahr,Addl. chief Judicial Magistrate Anoopshahr
+9.0,26.0,15.0,1476.0,741.0,334.0,615.6950067476382,Rajasthan,Sirohi,ACJM Mount Abu Taluka
+16.0,17.0,6.0,2484.0,2474.0,334.0,545.9547291835083,West Bengal,Darjeeling,Additional District  Sessions Judge 1 st Court
+23.0,26.0,1.0,30131.0,20947.0,335.0,523.2561703346541,Madhya Pradesh,Balaghat,DISTRICT AND SESSIONS COURT BALAGHAT MP
+14.0,12.0,5.0,4457.0,3794.0,335.5,525.8568792830786,Haryana,Rohtak,rohmehamcjm
+16.0,19.0,9.0,861.0,836.0,335.5,458.3265550239234,West Bengal,Bankura,"Addl. District Judge, Bishnupur"
+17.0,24.0,20.0,111.0,111.0,336.0,693.2252252252252,Gujarat,Junagadh,vanthali_addldj Court
+6.0,25.0,6.0,103.0,103.0,336.0,559.1650485436893,Assam,Chirang,Additional District and Sessions Judge
+9.0,1.0,22.0,3165.0,1266.0,336.5,498.8191153238546,Rajasthan,Rajsamand,ACJM-Bhim Taluka
+9.0,32.0,11.0,1985.0,1902.0,337.0,340.322818086225,Rajasthan,Jaiselmer,ADJ - Jaisalmer ADJ  HQ
+29.0,8.0,2.0,691.0,690.0,337.0,499.072463768116,Telangana,Nizamabad,VII Addl Dist Sessions Court Bodhan
+9.0,4.0,31.0,20498.0,20490.0,338.0,398.6021473889703,Rajasthan,Jaipur Metro I,CMM ACMM Nagar Nigam Court Complex Jaipur Metro
+13.0,47.0,8.0,907.0,907.0,338.0,526.7585446527012,Uttar Pradesh,Bijnor,Additional District and Session Judge
+12.0,19.0,2.0,2633.0,2630.0,338.5,553.4163498098859,Jammu and Kashmir,Jammu,Principal District Judge
+9.0,3.0,13.0,4432.0,1617.0,339.0,511.7285095856524,Rajasthan,Dausa,ACJM JM-Bandikui Court Complex
+9.0,22.0,17.0,1431.0,1321.0,339.0,420.97956093868277,Rajasthan,Jhalawar,ADJ - Aklera Jhalawar District
+9.0,39.0,19.0,3126.0,687.0,339.0,452.02765647743803,Rajasthan,Jodhpur District,ACJM JM Criminal - Pipar
+5.0,9.0,6.0,1303.0,1036.0,339.0,520.0366795366796,Himachal Pradesh,Kinnaur,"Chief Judicial Magistrate, Ani"
+10.0,29.0,1.0,2509.0,1928.0,339.5,462.54927385892114,Tamil Nadu,Sivagangai,DISTRICT COURT
+13.0,59.0,7.0,595.0,594.0,339.5,560.4494949494948,Uttar Pradesh,Siddharthnagar,Additional District and Session Judge Bansi
+9.0,31.0,33.0,1910.0,1281.0,340.0,482.70335675253716,Rajasthan,Bhilwara,ACJM GULABPURA CIVIL AND CRIMINAL CASES
+16.0,12.0,18.0,8997.0,8868.0,340.0,481.18414524131714,West Bengal,Murshidabad,Additional Chief Judicial Magistrate
+6.0,27.0,1.0,133.0,133.0,340.0,442.6992481203008,Assam,Baksa,District and Sessions Judge
+18.0,21.0,3.0,2558.0,2545.0,341.0,622.7772102161099,Chhattisgarh,Surajpur,District and Sessions Judge Surajpur
+29.0,10.0,1.0,14327.0,14281.0,341.0,500.06337091240107,Telangana,Warangal,"District Courts, Warangal District"
+9.0,24.0,6.0,10542.0,6446.0,342.0,535.5013962147068,Rajasthan,Dungarpur,CJ ACJM JM AMJM JJB Dungarpur HQ
+13.0,42.0,3.0,21601.0,14930.0,342.0,505.8875418620228,Uttar Pradesh,Mau,Chief Judicial Magistrate
+2.0,10.0,15.0,2988.0,2988.0,342.5,526.7085006693441,Andhra Pradesh,Kurnool,"III Addl.District Court Complex,Nandyal"
+23.0,6.0,1.0,16100.0,10943.0,343.0,521.215662980901,Madhya Pradesh,Dindori,DISTRICT AND SESSIONS COURT DINDORI
+1.0,28.0,13.0,3112.0,3097.0,344.0,474.96415886341623,Maharashtra,Latur,"Additional District and Sessions Court, Ahmedpur."
+18.0,20.0,1.0,2570.0,2559.0,344.0,537.0031262211802,Chhattisgarh,Bemetara,"District and Sessions Court, Bemetara"
+29.0,1.0,20.0,113.0,113.0,345.0,412.01769911504425,Telangana,Adilabad,"VI Addl. District and Sessions Judge, Adilabad"
+13.0,24.0,3.0,77449.0,67956.0,345.0,504.28099064100303,Uttar Pradesh,Lucknow,Chief Judicial Magistrate Lucknow
+13.0,74.0,1.0,1056.0,1040.0,345.0,583.8288461538461,Uttar Pradesh,Sambhal at Chandausi,Addl. District and Sessions Court Chandausi
+12.0,6.0,3.0,3352.0,2547.0,345.0,582.8276403612092,Jammu and Kashmir,Pulwama,Chief Judicial Magistrate
+4.0,5.0,24.0,2760.0,2759.0,345.0,425.9144617615077,Kerala,Kozhikode,Additional District and Sessions Court III
+29.0,8.0,13.0,8910.0,8899.0,345.0,536.0810203393638,Telangana,Nizamabad,"Prl. District And Sessions Judge Court,Nizambad"
+12.0,3.0,8.0,479.0,356.0,346.0,832.4157303370787,Jammu and Kashmir,Baramulla,Chief Judicial Magistrate
+23.0,49.0,1.0,25621.0,19447.0,347.0,508.1783822697589,Madhya Pradesh,Burhanpur,DISTRICT AND SESSIONS COURT BURHANPUR MP
+16.0,7.0,13.0,1895.0,1808.0,347.0,660.8672566371681,West Bengal,Paschim Medinpur,pmghatalacjmdb
+9.0,38.0,15.0,5853.0,2591.0,348.0,485.11810111925905,Rajasthan,Jaipur District,ACJM JM-Sambhar Lake
+9.0,3.0,9.0,6745.0,1644.0,349.0,622.8150851581509,Rajasthan,Dausa,ACJM JM Sikrai Court Complex
+9.0,30.0,24.0,1837.0,1083.0,350.0,470.18190212373037,Rajasthan,Chittorgarh,ACJM JM CRIMINAL BEGUN TALUKA
+9.0,7.0,33.0,4331.0,3735.0,350.0,519.6567603748326,Rajasthan,Ganganagar,ACJM - ANUPGARH TALUKA
+16.0,2.0,11.0,4741.0,4510.0,350.0,520.3512195121951,West Bengal,Hooghly,"ADDITIONAL CHIEF JUDICIAL MAGISTRATE,SERAMPORE"
+13.0,40.0,3.0,23859.0,22607.0,350.0,601.0298580085814,Uttar Pradesh,Kanshi Ram Nagar,Chief Judicial Magistrate
+10.0,1.0,6.0,1669.0,1664.0,350.5,480.5540865384616,Tamil Nadu,Dharmapuri,"Principal District and Sessions Court,Dharmapuri"
+27.0,1.0,3.0,79478.0,72625.0,351.0,424.99717728055083,Chandigarh,Chandigarh,CHIEF JUDICIAL MAGISTRATE CHANDIGARH
+4.0,2.0,52.0,1228.0,1221.0,351.0,404.08026208026206,Kerala,Ernakulam,Additional District and Sessions Court-POCSO
+1.0,13.0,2.0,26715.0,23758.0,352.0,512.3874063473356,Maharashtra,Chandrapur,"Chief Judicial Magistrate, Chandrapur"
+9.0,6.0,22.0,4740.0,1407.0,353.0,451.30632551528066,Rajasthan,Bikaner,ACJM Loonkaransar Court
+33.0,1.0,2.0,139.0,139.0,353.0,496.5827338129496,Ladakh,Kargil,Principal District Judge
+18.0,17.0,1.0,1905.0,1884.0,353.5,571.0031847133757,Chhattisgarh,Dantewada,"District and Sessions Court,Dantewada"
+12.0,11.0,3.0,1643.0,1503.0,354.0,611.7079174983368,Jammu and Kashmir,Kupwara,Chief Judicial Magistrate
+13.0,55.0,2.0,12779.0,12279.0,354.0,581.465998859842,Uttar Pradesh,Raebareli,District and Session Judge
+10.0,5.0,4.0,6703.0,6676.0,354.0,476.1643199520671,Tamil Nadu,Namakkal,Principal District Judge
+9.0,5.0,10.0,6538.0,2472.0,354.0,523.0978964401295,Rajasthan,Tonk,CJM ACJM JM - Tonk HQ
+14.0,17.0,7.0,1719.0,1578.0,355.5,594.1875792141952,Haryana,Rewari,rwrbawalcjm
+26.0,5.0,2.0,25727.0,24789.0,356.0,556.6456896203962,Delhi,North West,"Chief Metropolitan Magistrate, North-West, RHC"
+9.0,14.0,21.0,4417.0,3517.0,356.0,516.4193915268695,Rajasthan,Ajmer,ACJM JM-KEKRI TALUKA CRIMINAL
+9.0,14.0,27.0,2055.0,1956.0,356.5,495.8721881390593,Rajasthan,Ajmer,ADJ-KISHANGARH TALUKA (CRIMINAL AND CIVIL)
+9.0,12.0,10.0,12714.0,7654.0,357.0,583.0517376535145,Rajasthan,Baran,CJM ACJM JM - Baran HQ
+9.0,20.0,15.0,41954.0,16905.0,357.0,608.1123927832002,Rajasthan,Kota,CJM ACJM JM - Kota HQ
+20.0,3.0,9.0,2303.0,2262.0,357.0,492.3227232537577,Tripura,SouthTripura,"District Judge Court, South Tripura,Belonia"
+11.0,20.0,5.0,3072.0,2885.0,357.0,420.9025996533795,Orissa,Sonepur,chief judicial magistrate court biramaharajpur
+8.0,7.0,3.0,7153.0,6925.0,358.0,519.1540794223827,Bihar,Banka,C J M Division
+23.0,24.0,1.0,16984.0,14135.0,358.0,572.4741422002122,Madhya Pradesh,Raisen,DISTRICT AND SESSIONS COURT RAISEN MP
+11.0,27.0,5.0,568.0,562.0,358.5,472.1814946619217,Orissa,Anugul,"Additional District and Sessions Judge,Talcher"
+1.0,10.0,2.0,15642.0,15550.0,359.0,488.93890675241164,Maharashtra,Bhandara,CHIEF  JUDICIAL MAGISTRATE BHANDARA
+23.0,38.0,1.0,25440.0,17719.0,359.0,554.6770698120662,Madhya Pradesh,Dhar,DISTRICT AND SESSIONS COURT DHAR MP
+1.0,27.0,2.0,31406.0,24872.0,359.0,521.1902541009972,Maharashtra,Beed,CHIEF JUDICIAL MAGISTRATE BEED.
+9.0,14.0,28.0,6787.0,3809.0,359.0,566.8758204253086,Rajasthan,Ajmer,ACJM JM-KISHANGARH TALUKA (CRIMINAL)
+9.0,7.0,26.0,2581.0,1666.0,360.0,441.6458583433374,Rajasthan,Ganganagar,ADJ -Raisingnagar Taluka
+11.0,20.0,3.0,5709.0,5669.0,360.0,480.1257717410478,Orissa,Sonepur,"Chief Judicial Magistrate,Sonepur"
+9.0,8.0,32.0,7696.0,3540.0,360.0,591.9129943502825,Rajasthan,Merta (Nagaur),ACJM MJM-Makrana Taluka HQ
+4.0,11.0,6.0,6561.0,4304.0,360.5,440.4179832713755,Kerala,Malappuram,"Chief Judicial Magistrates Court, Manjeri"
+2.0,4.0,3.0,22828.0,22806.0,361.0,519.2504604051567,Andhra Pradesh,East Godavari,III Addl. District And Sessions Court
+9.0,35.0,18.0,4838.0,3102.0,361.5,605.8568665377176,Rajasthan,Sikar,ACJM FATEHPUR TALUKA HQ
+9.0,27.0,5.0,4244.0,1037.0,362.0,551.5959498553518,Rajasthan,Balotra Barmer,ACJM JM-Balotra District HQ
+11.0,23.0,3.0,3924.0,3905.0,365.0,444.34775928297057,Orissa,Kandhamal,"Chief Judicial Magistrate, Kandhamal, Phulbani"
+7.0,17.0,3.0,23609.0,18629.0,365.0,680.9516345482849,Jharkhand,Daltonganj,Chief Judicial Magistrate Palamau
+11.0,9.0,3.0,9775.0,7990.0,365.0,446.5749687108886,Orissa,Gajapati,"Chief Judicial Magistrate, Gajapati"
+23.0,45.0,1.0,76942.0,61118.0,365.0,617.1081514447462,Madhya Pradesh,Ujjain,DISTRICT AND SESSIONS COURT UJJAIN MP
+9.0,26.0,12.0,2174.0,2093.0,365.0,454.97945532728136,Rajasthan,Sirohi,ADJ Aburoad Taluka
+23.0,17.0,1.0,17679.0,12591.0,366.0,663.9917401318403,Madhya Pradesh,Neemuch,DISTRICT AND SESSIONS COURT NEEMUCH MP
+9.0,11.0,7.0,274.0,270.0,366.0,514.162962962963,Rajasthan,Hanumangarh,CJM ACJM-Hanumangarh District HQ
+1.0,11.0,4.0,16764.0,16334.0,366.0,546.2489286151584,Maharashtra,Gondia,"Chief Judicial Magistrate, Gondia"
+20.0,6.0,3.0,7416.0,7360.0,367.0,529.1918478260869,Tripura,Gomati District,"Chief Judicial Magistrate, Gomati Dist., Udaipur"
+23.0,27.0,1.0,32611.0,24675.0,367.0,658.988166160081,Madhya Pradesh,Damoh,DISTRICT AND SESSIONS COURT DAMOH MP
+2.0,11.0,1.0,23228.0,23215.0,367.0,555.0192978677579,Andhra Pradesh,Krishna,"II Additional District Judge, Vijayawada"
+11.0,32.0,2.0,3748.0,3725.0,367.0,577.0582550335571,Orissa,Nabarangpur,"Chief Judicial Magistrate, Nabrangpur"
+12.0,7.0,4.0,1662.0,1632.0,368.0,651.7585784313726,Jammu and Kashmir,Ganderbal,Chief Judicial Magistrate
+10.0,20.0,1.0,4398.0,4394.0,368.0,505.00455166135634,Tamil Nadu,Cuddalore,Principal District Judge Cuddalore.
+10.0,4.0,13.0,1101.0,1101.0,368.0,508.1998183469573,Tamil Nadu,Theni,"Additional District Court,Periyakulam"
+9.0,14.0,36.0,6543.0,1922.0,368.0,543.1233090530699,Rajasthan,Ajmer,ACJM JM-NASIRABAD TALUKA (CRIMINAL)
+9.0,22.0,10.0,7349.0,2319.0,369.0,542.5907718844329,Rajasthan,Jhalawar,CJM ACJM JM - Jhalawar District HQ
+7.0,22.0,4.0,37354.0,35822.0,369.0,726.2189436659038,Jharkhand,Ranchi,Chief Judicial Magistrate Establishment Ranchi
+9.0,3.0,5.0,8823.0,2485.0,369.0,531.6812877263582,Rajasthan,Dausa,CJM ACJM JM - Dausa District HQ
+2.0,21.0,17.0,216.0,216.0,369.5,514.6203703703703,Andhra Pradesh,Vizianagaram,II Additional District and Sessions Court PVP
+20.0,2.0,9.0,4070.0,4008.0,370.0,528.87624750499,Tripura,North Tripura,Chief Judicial Magistrate
+1.0,32.0,2.0,12216.0,8295.0,371.0,501.5614225437009,Maharashtra,Ratnagiri,CHIEF JUDICIAL MAGISTRATE COURT RATNAGIRI.
+23.0,22.0,1.0,13113.0,10705.0,371.0,548.8416627744045,Madhya Pradesh,Anuppur,DISTRICT AND SESSIONS COURT ANUPPUR MP
+16.0,12.0,14.0,5228.0,4933.0,371.0,560.71660247314,West Bengal,Murshidabad,Addl. Cheif Judicial Magistrate
+12.0,22.0,3.0,1294.0,1289.0,371.0,519.6726144297905,Jammu and Kashmir,Kishtwar,Chief Judicial Magistrate
+10.0,10.0,22.0,2753.0,2502.0,371.5,556.169864108713,Tamil Nadu,Viluppuram,Chief Judicial Magistrate
+16.0,7.0,3.0,14204.0,11730.0,372.0,602.2699062233588,West Bengal,Paschim Medinpur,"chiefjudicialmagistrate,medinipur"
+2.0,7.0,1.0,10870.0,10865.0,372.0,499.9709157846296,Andhra Pradesh,Kadapa,"District and Sessions Courts, Kadapa"
+10.0,21.0,6.0,3450.0,3048.0,372.0,513.0249343832021,Tamil Nadu,Ramanathapuram,"PDJ,ADJ and FTMCourts, Ramanathapuram"
+9.0,14.0,22.0,173.0,167.0,372.0,573.4790419161677,Rajasthan,Ajmer,ACJM KEKRI TALUKA (CIVIL))
+9.0,21.0,2.0,9162.0,7548.0,372.0,524.6160572337043,Rajasthan,Jalore,DJ - Jalore District HQ
+18.0,5.0,7.0,120.0,110.0,373.5,532.6272727272727,Chhattisgarh,Dhamtari,Additional District And Sessions Camp Court Kurud
+1.0,14.0,2.0,34169.0,32690.0,374.0,516.4698072805138,Maharashtra,Yavatmal,"Chief Judicial Magistrate, Yavatmal"
+9.0,31.0,26.0,5182.0,2185.0,374.0,469.27276887871847,Rajasthan,Bhilwara,ACJM/JM MANDALGARH CRIMINAL CASES
+18.0,3.0,2.0,121778.0,48204.0,374.0,640.1029375155589,Chhattisgarh,Raipur,"Chief Judicial Magistrate, Raipur"
+4.0,2.0,5.0,28652.0,28530.0,375.0,500.54560112162636,Kerala,Ernakulam,Additional Chief Judicial Magistrate
+2.0,2.0,26.0,1743.0,1743.0,375.0,442.8175559380378,Andhra Pradesh,Ananthapur,"VI Addl.District Judge Court, Gooty"
+11.0,31.0,1.0,176.0,157.0,375.0,553.4394904458599,Orissa,Malkangiri,Additional District and Sessions Judge Malkangiri
+11.0,22.0,3.0,266.0,266.0,375.0,528.8571428571429,Orissa,Nayagarh,"Chief Judicial Magistrate, Nayagarh"
+10.0,18.0,5.0,5865.0,5863.0,376.0,528.7692307692306,Tamil Nadu,Coimbatore,"principal district court, coimbatore"
+12.0,12.0,5.0,265.0,263.0,376.0,614.8022813688212,Jammu and Kashmir,Poonch,Chief Judicial civil Magistrate
+4.0,3.0,1.0,19052.0,19035.0,377.0,632.6862621486734,Kerala,Kannur,"District and Sessions Court, Thalassery"
+10.0,27.0,2.0,5356.0,5102.0,377.0,517.0417483339867,Tamil Nadu,Dindigul,Principal District and Sessions Court
+9.0,6.0,11.0,14755.0,9252.0,377.0,532.8363597060095,Rajasthan,Bikaner,CJM ACJM JM - Bikaner District HQ
+9.0,25.0,7.0,17578.0,8452.0,378.0,615.5186938002839,Rajasthan,Banswara,CJM ACJM JM AJM JJB Banswara District HQ
+2.0,23.0,20.0,5418.0,5414.0,379.0,561.6771333579609,Andhra Pradesh,West Godavari,IX Additional District and Sessions Court
+11.0,2.0,4.0,2777.0,2618.0,380.0,506.84148204736437,Orissa,Kendrapada,"Chief Judicial Magistrate, Kendrapara"
+16.0,20.0,5.0,1098.0,1061.0,380.0,565.2723845428841,West Bengal,South Twenty Four Parganas,Additional District Judge Establishment
+13.0,76.0,2.0,1653.0,1647.0,380.0,693.1299332119004,Uttar Pradesh,Shamli,"chief judicial magistrate,shamli"
+1.0,4.0,2.0,17268.0,16437.0,381.0,522.1968729086816,Maharashtra,Buldhana,CHIEF JUDICIAL MAGISTRATE BULDANA.
+13.0,34.0,6.0,2488.0,2385.0,383.0,660.1358490566038,Uttar Pradesh,Kushinagar,Addl. Chief Judicial Magistrate Kasia
+10.0,13.0,17.0,12264.0,12134.0,383.0,731.1431514751938,Tamil Nadu,Chennai,"Chief Metropolitan Magistratre Court, Egmore, Ch-8"
+18.0,16.0,3.0,1365.0,1335.0,384.0,656.3003745318352,Chhattisgarh,Jashpur,Additional District and Sessions Judge Kunkuri
+10.0,3.0,26.0,245.0,245.0,384.0,566.1346938775512,Tamil Nadu,Tirunelveli,"Additional District - Sessions Court, Tenkasi"
+9.0,9.0,34.0,2064.0,1284.0,385.0,489.708722741433,Rajasthan,Udaipur,ACJM Vallabhnagar Taluka
+9.0,19.0,10.0,6069.0,3537.0,385.0,634.9742719819055,Rajasthan,Pali,CJM ACJM(Cr) ACJM(P) JM CRIMINAL-PALI DISTRICT HQ
+9.0,39.0,11.0,189.0,187.0,386.0,562.24064171123,Rajasthan,Jodhpur District,ACJM Bilara Civil Cases
+9.0,8.0,19.0,220.0,220.0,387.0,682.8727272727273,Rajasthan,Merta (Nagaur),CJM ACJM-Nagaur Taluka HQ
+15.0,4.0,8.0,21119.0,17478.0,387.0,582.3122210779267,Uttarakhand,Udham Singh Nagar,kashipur_acjm
+9.0,12.0,26.0,5172.0,2710.0,387.0,555.7391143911439,Rajasthan,Baran,ACJM Chhabra Taluka
+9.0,22.0,18.0,4445.0,1670.0,387.5,563.9449101796407,Rajasthan,Jhalawar,ACJM JM - Aklera Jhalawar District
+16.0,24.0,8.0,5167.0,5093.0,388.0,580.6885921853525,West Bengal,Paschim Bardhaman,District and Sessions Judge Court Asansol
+11.0,16.0,2.0,850.0,830.0,388.0,517.7096385542169,Orissa,Sundargarh,District and Sessions Judge Court Sundargarh
+8.0,17.0,7.0,3762.0,3568.0,388.0,552.9798206278026,Bihar,Darbhanga,"Chief Judicial Magistrate Division, Benipur"
+1.0,19.0,3.0,94349.0,70395.0,389.0,530.6046594218341,Maharashtra,Aurangabad,"CHIEF JUDICIAL MAGISTRATE,AURANGABAD"
+2.0,3.0,1.0,8377.0,8374.0,390.0,574.74038691187,Andhra Pradesh,Chittoor,PRINCIPAL DISTRICT AND SESSIONS JUDGE CHITTOOR
+9.0,20.0,28.0,4759.0,2475.0,390.0,559.6141414141414,Rajasthan,Kota,ACJM JM - Ramganjmandi taluka
+1.0,3.0,3.0,53936.0,47689.0,391.0,503.78045251525515,Maharashtra,Jalgaon,"CHIEF JUDICIAL MAGISTRATE, JALGAON"
+9.0,19.0,22.0,2507.0,1059.0,392.0,529.4409820585458,Rajasthan,Pali,ACJM JM-Bali Taluka
+11.0,18.0,3.0,6456.0,6344.0,394.0,543.2131147540982,Orissa,Bhadrak,"Chief Judicial Magistrate,Bhadrak"
+6.0,22.0,3.0,3568.0,3474.0,395.5,558.934081750144,Assam,Kokrajhar,Chief Judicial Magistrate
+8.0,4.0,4.0,21547.0,20105.0,396.0,622.6768465555832,Bihar,Saran at Chapra,"CJM Division,Saran at Chapra"
+7.0,19.0,5.0,14304.0,12222.0,396.0,693.4248077237767,Jharkhand,Latehar,Cheif Judical  Magistrate
+3.0,17.0,1.0,275.0,274.0,396.5,415.6642335766424,Karnataka,CHIKKAMAGALURU,PRL.DISTRICT AND SESSIONS JUDGE
+2.0,17.0,22.0,1403.0,1401.0,397.0,539.4025695931476,Andhra Pradesh,Prakasham,"VI Addl District and Sessions Court, Markapur"
+29.0,9.0,27.0,1047.0,1047.0,398.0,657.6007640878701,Telangana,Rangareddy,Addl District and Sessions Court
+11.0,6.0,4.0,8948.0,7848.0,399.5,566.0751783893986,Orissa,Koraput,"Chief Judicial Magistrate, Jeypore"
+9.0,7.0,42.0,4361.0,1896.0,399.5,558.9472573839662,Rajasthan,Ganganagar,ACJM-Sadulsahar Taluka
+6.0,13.0,4.0,18858.0,17193.0,400.0,663.1184202873263,Assam,Cachar,Chief Judicial Magistrate Court
+9.0,33.0,17.0,4348.0,2304.0,400.0,541.8454861111112,Rajasthan,Churu,CJM ACJM JM SUJANGARH COURT COMPLEX
+26.0,9.0,2.0,39122.0,38392.0,403.0,588.4590018753908,Delhi,West,"Chief Metropolitan Magistrate, West, THC"
+8.0,5.0,4.0,18058.0,16202.0,405.0,619.9833971114678,Bihar,Katihar,C J M Division
+16.0,20.0,6.0,15007.0,13896.0,405.0,647.0764968336211,West Bengal,South Twenty Four Parganas,Chief Judicial Magistrate Establishment
+16.0,10.0,7.0,3860.0,2960.0,405.0,618.5138513513514,West Bengal,Purulia,ACJM Raghunathpur
+10.0,22.0,21.0,232.0,232.0,405.5,712.2370689655173,Tamil Nadu,Tiruvannamalai,"Additional District Court,Arni"
+2.0,20.0,1.0,24471.0,24451.0,406.0,612.8912109934154,Andhra Pradesh,Visakapatnam,PRINCIPAL DISTRICT  AND SESSIONS JUDGE COURT
+9.0,8.0,20.0,9782.0,4307.0,406.0,604.8729974460182,Rajasthan,Merta (Nagaur),CJM ACJM MJM AMJM-Nagaur Taluka HQ
+10.0,22.0,1.0,2029.0,1348.0,406.0,621.6721068249258,Tamil Nadu,Tiruvannamalai,"Principal District and Sessions Court,TVM"
+26.0,1.0,2.0,16619.0,16067.0,407.0,581.0618659363912,Delhi,North East,"Chief Metropolitan Magistrate, North-East, KKD"
+11.0,19.0,3.0,4499.0,4446.0,407.0,547.7109761583447,Orissa,Jajpur,"Chief Judicial Magistrate, Jajpur"
+17.0,26.0,16.0,7785.0,7717.0,407.0,583.2213295322016,Gujarat,kachchh at Bhuj,anjar_adj Court
+12.0,12.0,4.0,395.0,389.0,407.0,727.0642673521851,Jammu and Kashmir,Poonch,Chief Judicial Magistrate
+16.0,4.0,3.0,3933.0,3830.0,408.0,737.6276762402089,West Bengal,Jalpaiguri,Chief Judicial Magistrate
+2.0,10.0,1.0,10305.0,10304.0,408.0,545.7132181677018,Andhra Pradesh,Kurnool,"Prl.District and Sessions Court Complex,Kurnool"
+9.0,14.0,10.0,33315.0,13350.0,409.0,536.8533333333334,Rajasthan,Ajmer,CJM ACJM JM-Ajmer District HQ
+9.0,38.0,20.0,1938.0,1832.0,409.5,618.9224890829694,Rajasthan,Jaipur District,ADJ-Shahpura
+18.0,22.0,1.0,1652.0,1636.0,409.5,589.1907090464548,Chhattisgarh,Kondagaon,District And Sessions Court Kondagaon
+7.0,20.0,2.0,21780.0,12970.0,410.0,730.7046260601387,Jharkhand,Garhwa,"Chief Judicial Magistrate , Garhwa"
+11.0,13.0,6.0,978.0,965.0,411.0,560.1720207253886,Orissa,Keonjhar,"Chief Judicial Magistrate,Anandpur"
+10.0,2.0,5.0,7397.0,5937.0,411.0,533.5383190163382,Tamil Nadu,Pudukkottai,PRINCIPAL DISTRICT COURT
+8.0,2.0,3.0,11022.0,10970.0,411.0,556.9109389243391,Bihar,Kaimur at Bhabhua,C J M Division
+9.0,9.0,30.0,814.0,799.0,413.0,619.9724655819774,Rajasthan,Udaipur,ACJM - Mavli Taluka
+10.0,28.0,7.0,1265.0,1264.0,414.0,514.2721518987341,Tamil Nadu,Puducherry,District and  Sessions Court
+16.0,14.0,15.0,3676.0,3656.0,414.5,644.1091356673961,West Bengal,North  Twenty Four Parganas,"Addl. Chief Judicial Magistrate, Bongaon"
+8.0,6.0,8.0,114.0,114.0,415.0,956.9561403508773,Bihar,Begusarai,CJM Division
+9.0,18.0,3.0,12566.0,6419.0,416.0,648.8043308926624,Rajasthan,Jhunjhunu,CJM ACJM JM - Jhunjhunu District HQ
+12.0,18.0,3.0,954.0,953.0,416.0,675.5802728226653,Jammu and Kashmir,Bandipora,Chief Judicial Magistrate
+1.0,41.0,17.0,1098.0,1098.0,417.0,674.5664845173043,Maharashtra,Mah State Cooperative Appellat,"THE DISTRICT CO-OPERATIVE COURT, SATARA"
+1.0,23.0,6.0,56627.0,51838.0,418.0,576.1539797060071,Maharashtra,Mumbai CMM Courts,"ADDL. CHIEF METROPOLITAN MAGISTRATE, ANDHERI"
+23.0,37.0,1.0,31749.0,19395.0,418.0,608.4785253931426,Madhya Pradesh,Betul,DISTRICT AND SESSIONS COURT BETUL MP
+9.0,30.0,20.0,186.0,186.0,418.5,736.6075268817204,Rajasthan,Chittorgarh,ACJM-SD NIMBHERA TALUKA
+1.0,23.0,3.0,18795.0,14652.0,419.0,614.4608927108927,Maharashtra,Mumbai CMM Courts,"ADDL. CHIEF METROPOLITAN MAGISTRATE COURT, GIRGAON"
+1.0,1.0,1.0,11262.0,8828.0,419.0,538.9816492976892,Maharashtra,Nandurbar,Chief Judcial Magistrate Nandurbar
+10.0,12.0,2.0,5208.0,5200.0,420.0,514.7130769230769,Tamil Nadu,Salem,Pdj Establishment
+1.0,28.0,2.0,26451.0,21583.0,421.0,553.9704396979104,Maharashtra,Latur,"Chief Judicial Magistrate, Latur"
+9.0,31.0,37.0,1544.0,1258.0,421.0,521.9904610492846,Rajasthan,Bhilwara,ADJ Shahpura Criminal & Civil Cases
+1.0,26.0,2.0,41462.0,36093.0,422.0,571.9565566730391,Maharashtra,Ahmednagar,"Chief Judicial Magistrate, Ahmednagar"
+16.0,14.0,8.0,7930.0,7112.0,422.0,587.3087739032621,West Bengal,North  Twenty Four Parganas,basirhat ACJM
+10.0,11.0,4.0,1147.0,1146.0,422.5,578.3568935427575,Tamil Nadu,Vellore,"ADDITIONAL DISTRICT AND SESSIONS JUDGE, RANIPET"
+10.0,23.0,3.0,4734.0,2135.0,423.0,514.3882903981265,Tamil Nadu,Perambalur,"CJM, JM, AMC JM Courts, PERAMBALUR."
+9.0,14.0,20.0,1434.0,1404.0,423.5,546.2877492877493,Rajasthan,Ajmer,ADJ-KEKRI TALUKA
+1.0,17.0,2.0,22101.0,19872.0,424.0,555.5881139291465,Maharashtra,Parbhani,CHIEF JUDICIAL MAGISTRATE COURT PARBHANI.
+7.0,24.0,1.0,1218.0,1197.0,425.0,842.1695906432749,Jharkhand,KHUNTI,Principal District and Sessions Judge Khunti
+12.0,18.0,2.0,632.0,632.0,425.0,547.9367088607595,Jammu and Kashmir,Bandipora,Principal District Judge
+12.0,21.0,2.0,831.0,810.0,425.5,719.0802469135804,Jammu and Kashmir,Samba,Principal District Judge
+10.0,6.0,5.0,1244.0,1244.0,426.0,523.1446945337619,Tamil Nadu,Nagapattinam,"Principal District Court,Nagapattinam"
+16.0,18.0,10.0,2072.0,2055.0,426.0,616.3201946472018,West Bengal,Purba Bardhaman,burkaladjdb
+9.0,13.0,14.0,15475.0,12075.0,426.0,619.5507246376811,Rajasthan,Bharatpur,CJM ACJM JM - Bharatpur District HQ
+18.0,24.0,1.0,1948.0,1936.0,426.5,598.5857438016529,Chhattisgarh,Mungeli,Civil Court Mungeli
+23.0,14.0,1.0,13650.0,9822.0,427.0,617.4108124618206,Madhya Pradesh,Rajgarh,DISTRICT AND SESSIONS COURT RAJGARH MP
+23.0,33.0,1.0,28434.0,13870.0,427.0,674.3118240807497,Madhya Pradesh,Seoni,DISTRICT AND SESSIONS COURT SEONI MP
+12.0,3.0,6.0,358.0,353.0,427.0,623.4022662889519,Jammu and Kashmir,Baramulla,Additional District Judge
+9.0,2.0,39.0,1904.0,1792.0,427.5,556.3521205357143,Rajasthan,Alwar,ACJM JM-Kishangarh Bas HQ
+16.0,4.0,9.0,6976.0,6073.0,428.0,635.1211921620287,West Bengal,Jalpaiguri,Additional Chief Judicial Magistrate
+2.0,3.0,19.0,1744.0,1744.0,429.5,616.9552752293578,Andhra Pradesh,Chittoor,"II Additional District Court, Madanapalle"
+16.0,12.0,8.0,1246.0,1244.0,429.5,571.032154340836,West Bengal,Murshidabad,Additional District & Session Judge
+12.0,3.0,7.0,601.0,601.0,430.0,779.8752079866888,Jammu and Kashmir,Baramulla,Chief Judicial Magistrate
+1.0,23.0,1.0,44471.0,39321.0,431.0,564.0120800590015,Maharashtra,Mumbai CMM Courts,"CMM COURT, ESPLANADE COURT, MUMBAI"
+18.0,9.0,2.0,15131.0,8355.0,432.0,641.2617594254938,Chhattisgarh,Kawardha,Chief Judcial Magistrate and JMFC Kawardha
+3.0,16.0,7.0,2400.0,2399.0,432.0,490.2009170487703,Karnataka,UDUPI,ADDL.DISTRICT AND SESSIONS JUDGE-SIT AT KUNDAPURA
+1.0,35.0,12.0,25177.0,16708.0,433.0,624.9145918123055,Maharashtra,Sangli,CHIEF JUDICIAL MAGISTRATE SANGLI
+9.0,2.0,45.0,2465.0,2256.0,433.5,525.8417553191489,Rajasthan,Alwar,ACJM JM-Rajgarh HQ
+6.0,20.0,3.0,20014.0,19919.0,434.0,665.422460966916,Assam,Barpeta,Chief Judicial Magistrate
+3.0,11.0,13.0,3291.0,3290.0,434.0,564.0446808510637,Karnataka,HAVERI,"II Addl District and Sessions Judge,Ranebennur"
+22.0,18.0,10.0,3458.0,3261.0,435.0,574.7847286108556,Punjab,Hoshiarpurr,CHIEF JUDICIAL MAGISTRATE MUKERIAN TALUKA
+9.0,3.0,17.0,6237.0,1883.0,435.0,742.0069038767923,Rajasthan,Dausa,ACJM-Lalsot Court Complex
+18.0,11.0,2.0,2750.0,2730.0,435.5,636.992673992674,Chhattisgarh,Koriya,Chief judicial megistrate Baikunthpur
+26.0,3.0,2.0,24498.0,23003.0,436.0,630.9365734904143,Delhi,East,"Chief Metropolitan Magistrate, East, KKD"
+29.0,2.0,25.0,1508.0,1507.0,436.0,521.3576642335767,Telangana,Hyderabad,VI  Addl Metropolitan Sessions Court  Secunderabad
+10.0,14.0,5.0,726.0,726.0,436.5,505.6528925619835,Tamil Nadu,Virudhunagar,"Additional District Court, Virudhunagar"
+11.0,14.0,9.0,6411.0,6396.0,437.5,668.067698561601,Orissa,Jagatsinghpur,"Chief Judicial Magistrate, Jagatsinghpur"
+13.0,48.0,9.0,193.0,193.0,438.0,796.0569948186528,Uttar Pradesh,Bulandshahr,Addl. District and Sessions Judge Anoopshahr
+16.0,4.0,6.0,414.0,408.0,438.0,634.656862745098,West Bengal,Jalpaiguri,Additional District  and Sessions Judge  Malbazar
+9.0,34.0,3.0,7396.0,3421.0,438.0,657.1616486407484,Rajasthan,Dholpur,CJM ACJM JM - Dholpur District HQ
+4.0,8.0,4.0,7384.0,5531.0,439.0,538.7007774362683,Kerala,Palakkad,CHIEF JUDICIAL MAGISTRATE COURT  PALAKKAD
+9.0,14.0,14.0,3927.0,3850.0,441.0,627.7859740259739,Rajasthan,Ajmer,ADJ-BEAWAR TALUKA (CIVIL AND CRIMINAL)
+9.0,2.0,17.0,28897.0,19738.0,441.0,633.9667139527813,Rajasthan,Alwar,CJM ACJM JM-Alwar District HQ
+6.0,23.0,2.0,645.0,609.0,441.0,632.9753694581282,Assam,Kamrup,District and Sessions Judge
+15.0,1.0,13.0,752.0,747.0,441.0,610.9812583668005,Uttarakhand,Nainital,Ramnagar_adj
+29.0,8.0,14.0,224.0,224.0,442.0,624.2366071428571,Telangana,Nizamabad,IX Addl District and Sessions Judge Court
+15.0,5.0,12.0,1908.0,1892.0,442.5,607.276955602537,Uttarakhand,Dehradun,ADJ_Vikasnagar
+9.0,39.0,16.0,989.0,989.0,443.0,527.2588473205258,Rajasthan,Jodhpur District,ACJM Phalodi Civil
+13.0,74.0,2.0,10855.0,10658.0,444.0,626.6330455995496,Uttar Pradesh,Sambhal at Chandausi,Addl. Chief Judicial Magistrate Chandausi
+17.0,24.0,19.0,2039.0,2038.0,444.5,702.2350343473994,Gujarat,Junagadh,Additional District Court Keshod
+20.0,10.0,2.0,2620.0,2613.0,445.0,605.881745120551,Tripura,Khowai Tripura,"Chief Judicial Magistrate Establishment, Khowai"
+8.0,15.0,4.0,5648.0,5637.0,446.0,608.7762994500621,Bihar,Jamui,CJM Division
+10.0,31.0,4.0,2078.0,2062.0,447.0,555.3472356935015,Tamil Nadu,Kancheepuram,"District and Sessions Judge, Kancheepuram"
+6.0,25.0,2.0,963.0,963.0,449.0,528.2596053997923,Assam,Chirang,Chief Judicial Magistrate Establishment
+6.0,12.0,4.0,16893.0,15302.0,450.0,614.3143379950334,Assam,Karimganj,Chief Judicial Magistrate Court Complex
+23.0,32.0,1.0,29914.0,23377.0,452.0,666.4872310390555,Madhya Pradesh,Satna,DISTRICT AND SESSIONS COURT SATNA MP
+23.0,35.0,1.0,29354.0,23185.0,452.0,656.9961181798578,Madhya Pradesh,Mandsaur,DISTRICT AND SESSIONS COURT MANDSAUR MP
+9.0,3.0,12.0,1231.0,1206.0,452.0,604.2545605306799,Rajasthan,Dausa,ADJ-Bandikui Court Complex
+1.0,34.0,3.0,35635.0,34567.0,452.0,613.4099574738913,Maharashtra,Kolhapur,Chief Judicial Magistrate Kolhapur
+9.0,13.0,12.0,2375.0,2018.0,453.0,661.5837462834488,Rajasthan,Bharatpur,ACJM JM - Bayana Taluka
+16.0,9.0,7.0,4958.0,4653.0,454.0,720.3333333333335,West Bengal,Purba Medinipur,Addl. Chief Judicial Magistrate
+29.0,2.0,24.0,18739.0,18612.0,455.0,656.7607457554267,Telangana,Hyderabad,X Addl Chief Metropolitan Magistrate  Secunderabad
+9.0,3.0,21.0,312.0,299.0,455.0,565.2040133779265,Rajasthan,Dausa,ADJ - Mahwa Court Complex
+12.0,8.0,3.0,1703.0,1669.0,456.0,693.4104254044338,Jammu and Kashmir,Budgam,Chief Judicial Magistrate
+9.0,38.0,14.0,3309.0,2805.0,456.0,595.1818181818181,Rajasthan,Jaipur District,DJ ADJ-Sambhar Lake
+9.0,35.0,32.0,528.0,451.0,457.0,746.5565410199556,Rajasthan,Sikar,ADJ FATEHPUR TALUKA HQ
+9.0,38.0,13.0,7272.0,5455.0,458.0,634.3098075160402,Rajasthan,Jaipur District,CJM ACJM JM_Jaipur District HQ
+8.0,25.0,3.0,10969.0,10879.0,458.0,719.3380825443517,Bihar,Kishanganj,CJM DIVISION
+29.0,7.0,4.0,1449.0,1449.0,458.0,619.8122843340235,Telangana,Nalgonda,VIII ADJ COURT MIRYALAGUDA
+29.0,5.0,24.0,1275.0,1253.0,459.0,511.2889066241021,Telangana,Mahabubnagar,Additional District and Sessions Court Wanaparthy
+20.0,6.0,2.0,3712.0,3707.0,460.0,519.9716752090641,Tripura,Gomati District,"District Court,Gomati Dist. Udaipur"
+29.0,3.0,16.0,1083.0,1083.0,461.0,609.2991689750693,Telangana,Karimnagar,II Addl District and Sessions court Jagtial
+10.0,10.0,10.0,1380.0,1380.0,461.5,511.322463768116,Tamil Nadu,Viluppuram,"Additional District and Sessions Court,Kallakurich"
+18.0,25.0,3.0,2307.0,2261.0,462.0,638.8938522777532,Chhattisgarh,Balrampur Ramanujganj,Distt and Sessions Court Ramanujganj
+10.0,10.0,28.0,479.0,477.0,462.0,570.6310272536688,Tamil Nadu,Viluppuram,"Additional District Court No.2, Tindivanam"
+4.0,15.0,21.0,1921.0,1919.0,463.0,540.9228764981762,Kerala,Kollam,wakf tribunal
+2.0,11.0,5.0,38357.0,37780.0,463.0,614.560878771837,Andhra Pradesh,Krishna,"Chief Metropolitan Magistrate, Vijayawada"
+6.0,6.0,7.0,1540.0,1520.0,463.0,647.3171052631578,Assam,Sonitpur,Addl District and Sessions Judge
+9.0,31.0,32.0,1663.0,1317.0,463.0,524.0265755504936,Rajasthan,Bhilwara,ADDITIONAL DISTRICT SESSION JUDGE GULABPURA
+9.0,8.0,22.0,5616.0,3130.0,464.0,691.6632587859425,Rajasthan,Merta (Nagaur),ACJM Degana Taluka HQ criminal
+9.0,27.0,10.0,11316.0,4030.0,464.0,569.2722084367247,Rajasthan,Balotra Barmer,CJM-ACJM-JM-AJM-Barmer
+23.0,12.0,1.0,15839.0,11408.0,464.5,669.7004733520338,Madhya Pradesh,Sheopur,DISTRICT AND SESSIONS COURT SHEOPUR MP
+9.0,2.0,26.0,2772.0,2764.0,464.5,615.6476121562953,Rajasthan,Alwar,ADJ - Behror
+1.0,5.0,2.0,39617.0,37537.0,465.0,654.9875323014626,Maharashtra,Akola,Chief Judicial Magistrate
+29.0,6.0,1.0,6414.0,6380.0,466.0,589.1042319749216,Telangana,Medak,Prl Dist and Sessions Court  Medak at Sangareddy
+9.0,12.0,8.0,5211.0,4962.0,466.0,636.0143087464731,Rajasthan,Baran,DJ ADJ - Baran HQ
+18.0,1.0,2.0,16170.0,8907.0,467.0,677.3264847872458,Chhattisgarh,Korba,Chief Judicial Magistrate  Korba
+12.0,20.0,3.0,1293.0,1266.0,467.0,720.0608214849921,Jammu and Kashmir,Kulgam,Chief Judicial Magistrate
+10.0,24.0,20.0,1692.0,1692.0,471.0,627.2866430260048,Tamil Nadu,Erode,"IV-ADDITIONAL DISTRICT COURT, BHAVANI"
+9.0,2.0,38.0,2193.0,2147.0,471.0,605.2119236143457,Rajasthan,Alwar,ADJ Kishangarh Bas Court Complex
+18.0,13.0,2.0,7288.0,5002.0,472.0,560.3674530187925,Chhattisgarh,Kanker,Chief Judicial Magistrate
+6.0,8.0,2.0,3345.0,3319.0,472.0,617.9792106056041,Assam,Darrang,District and Sessions Judge
+9.0,19.0,11.0,371.0,362.0,472.5,685.1988950276243,Rajasthan,Pali,CJM ACJM(Cr) ACJM(P) CIVIL-PALI DISTRICT HQ
+1.0,7.0,2.0,45118.0,40254.0,473.0,656.549212500621,Maharashtra,Amravati,CHIEF JUDICIAL MAGISTRATE COURT
+11.0,3.0,3.0,3589.0,3537.0,473.0,512.3740458015267,Orissa,Nuapada,"Chief Judicial Magistrate, Nuapada"
+11.0,4.0,3.0,3191.0,1645.0,473.0,617.6899696048633,Orissa,Ganjam,"Chief Judicial Magistrate, Ganjam"
+2.0,21.0,1.0,6215.0,6213.0,474.0,566.890552068244,Andhra Pradesh,Vizianagaram,PRINCIPAL DISTRICT JUDGE COURT VIZIANAGARAM
+18.0,10.0,2.0,24613.0,13310.0,474.0,695.2879038317054,Chhattisgarh,Rajnandgaon,Chief Judicial Magistrate Rajnandgaon
+9.0,14.0,15.0,16319.0,9381.0,474.0,650.9986142202324,Rajasthan,Ajmer,ACJM JM-BEAWAR TALUKA (CRIMINAL)
+13.0,19.0,3.0,26098.0,25821.0,474.0,662.1598698733587,Uttar Pradesh,Kanpur Nagar,Chief Metropolitan Magistrate
+8.0,13.0,3.0,19835.0,19725.0,475.0,644.4226108998732,Bihar,Rohtas Sasaram,C.J.M. Division (Criminal Side)
+18.0,3.0,7.0,646.0,643.0,475.0,567.9300155520996,Chhattisgarh,Raipur,2Additional district judge Gariyaband
+10.0,23.0,5.0,658.0,658.0,476.5,596.8480243161094,Tamil Nadu,Perambalur,"Prl.DM and Addl.DM COURT, PERAMBALUR."
+15.0,5.0,2.0,98810.0,85378.0,477.0,550.2779287404251,Uttarakhand,Dehradun,CJM_Dehradun
+6.0,26.0,1.0,367.0,362.0,477.0,855.1436464088397,Assam,Karbi Anglong,District and Sessions Judge
+22.0,18.0,6.0,13597.0,12758.0,478.0,687.0496159272614,Punjab,Hoshiarpurr,CHIEF JUDICIAL MAGISTRATE HOSHIARPUR
+7.0,10.0,4.0,19825.0,10016.0,483.0,748.8394568690095,Jharkhand,Giridih,Chief Judicial Magistrate Courts Giridih
+15.0,16.0,2.0,124.0,124.0,485.0,712.6935483870967,Uttarakhand,Rudraprayag,CHIEF JUDICIAL MAGISTRATE
+11.0,17.0,3.0,4421.0,4349.0,485.0,542.4633249022763,Orissa,Balangir,"Chief Judicial Magistrate,Bolangir"
+1.0,20.0,3.0,39940.0,39333.0,485.0,703.6355477588793,Maharashtra,Nashik,CHIEF JUDICIAL MAGISTRATE NASHIK.
+13.0,48.0,11.0,212.0,212.0,485.5,726.1698113207547,Uttar Pradesh,Bulandshahr,"Addl. District and Sessions Judge, Khurja"
+26.0,2.0,2.0,25136.0,23331.0,486.0,661.2702841712743,Delhi,Shahdara,"Chief Metropolitan Magistrate, Shahdara, KKD"
+2.0,20.0,6.0,2479.0,2479.0,486.0,646.3929003630496,Andhra Pradesh,Visakapatnam,"X Addl District and Session Judges Court, AKP"
+16.0,8.0,14.0,1278.0,1048.0,487.0,749.3654580152672,West Bengal,Birbhum,BOLPUR ACJM COURT
+9.0,5.0,18.0,4230.0,1487.0,487.0,612.2851378614662,Rajasthan,Tonk,ACJM JM - Newai Taluka
+10.0,20.0,18.0,849.0,849.0,487.0,606.7408716136631,Tamil Nadu,Cuddalore,"Additional District Judge-II,Chidhambaram"
+15.0,1.0,7.0,2621.0,2610.0,489.0,650.2072796934866,Uttarakhand,Nainital,haldwani_adj
+9.0,13.0,9.0,1662.0,1598.0,490.0,620.9881101376719,Rajasthan,Bharatpur,ADJ - Bayana Taluka
+9.0,31.0,12.0,15057.0,6536.0,492.0,645.186811505508,Rajasthan,Bhilwara,CJM ACJM JM - Bhilwara District HQ
+9.0,18.0,20.0,2218.0,1037.0,492.0,767.6441658630665,Rajasthan,Jhunjhunu,ACJM Udaipurwati
+11.0,16.0,3.0,5203.0,4916.0,494.0,601.5240032546786,Orissa,Sundargarh,Chief Judicial Magistrate Court Sundargarh
+9.0,2.0,21.0,3027.0,2112.0,494.5,595.5142045454545,Rajasthan,Alwar,ACJM JM - Laxmangarh
+4.0,2.0,47.0,462.0,462.0,494.5,535.5995670995671,Kerala,Ernakulam,"ADDL. DISTRICT  AND SESSIONS COURT, MUVATTUPUZHA"
+1.0,23.0,9.0,47678.0,42938.0,496.0,661.523312683404,Maharashtra,Mumbai CMM Courts,"ADDL. CHIEF METROPOLITAN MAGISTRATES COURT, KURLA"
+13.0,47.0,9.0,6888.0,6865.0,497.0,690.446030589949,Uttar Pradesh,Bijnor,Additional Chief Judicial Magistrate
+14.0,23.0,7.0,3528.0,3229.0,497.0,577.0687519355837,Haryana,Palwal,"Chief Judicial Magistrate,Hathin"
+10.0,2.0,6.0,5865.0,4646.0,498.5,699.5996556177357,Tamil Nadu,Pudukkottai,CHIEF JUDICIAL MAGISTRATE COURT
+11.0,15.0,4.0,3547.0,3302.0,498.5,783.3924894003633,Orissa,Puri,Chief Judicial Magistrate Puri
+2.0,23.0,6.0,1942.0,1942.0,505.0,688.8661174047372,Andhra Pradesh,West Godavari,III ADDL DISTRICT COURT BHIMAVARAM
+9.0,9.0,25.0,1484.0,1429.0,505.0,594.5654303708887,Rajasthan,Udaipur,ADJ - Salumber Taluka
+4.0,8.0,17.0,5849.0,5849.0,506.0,591.5259018635663,Kerala,Palakkad,Addl District  Sessions Court  MACT  Ottapalam
+5.0,1.0,6.0,547.0,462.0,506.0,859.469696969697,Himachal Pradesh,Hamirpur,"ADDITIONAL CHIEF JUDICIAL MAGISTRATE, NADAUN"
+9.0,1.0,26.0,1935.0,1743.0,506.0,645.1870338496843,Rajasthan,Rajsamand,ADJ-Nathdwara Taluka
+1.0,23.0,15.0,19807.0,18097.0,508.0,783.2294855500912,Maharashtra,Mumbai CMM Courts,"ADDL.CHIEF METROPOLITAN MAGISTRATE, DADAR, MUMBAI."
+4.0,2.0,32.0,3158.0,3158.0,508.0,591.8448385053831,Kerala,Ernakulam,Vth Addl District Court
+7.0,14.0,3.0,7557.0,5514.0,508.5,776.411498005078,Jharkhand,Pakur,Chief Judicial Magistrate Pakur
+9.0,3.0,22.0,3752.0,1596.0,509.5,675.5194235588973,Rajasthan,Dausa,ACJM JM - Mahwa Court Complex
+9.0,13.0,29.0,5221.0,4160.0,510.0,699.6487980769231,Rajasthan,Bharatpur,ACJM JM - Deeg Taluka Criminal
+16.0,10.0,5.0,16080.0,4084.0,512.0,809.6537708129284,West Bengal,Purulia,Chief Judicial Magistrate
+9.0,13.0,8.0,4701.0,2665.0,513.0,793.106191369606,Rajasthan,Bharatpur,ACJM - Nadbai Taluka
+9.0,22.0,24.0,4109.0,1609.0,513.0,612.9906774394034,Rajasthan,Jhalawar,ACJM JM - Bhawanimandi Jhalawar District
+4.0,10.0,19.0,9598.0,9598.0,515.0,540.1303396540947,Kerala,Kottayam,"MACT / ADDL. DISTRICT AND SESSIONS COURT, PALA"
+2.0,11.0,28.0,628.0,628.0,516.0,608.843949044586,Andhra Pradesh,Krishna,"XVI Addl  District Judges Court, Nandigama"
+4.0,4.0,10.0,6491.0,6489.0,519.0,640.9392818616119,Kerala,Thrissur,Addl. Dist. and Sessions Court/MACT Irinjalakuda
+29.0,7.0,24.0,395.0,395.0,521.0,810.5215189873418,Telangana,Nalgonda,II Addl District Judge Court Suryapet
+9.0,21.0,4.0,186.0,184.0,521.0,742.4402173913044,Rajasthan,Jalore,CJM ACJM1 ACJM2 CIVIL-JALORE DISTRICT HQ
+21.0,4.0,3.0,1266.0,280.0,521.0,684.2642857142857,Meghalaya,East Garo Hills,Chief Judicial Magistrate Williamnagar
+9.0,14.0,16.0,238.0,228.0,522.5,610.6359649122808,Rajasthan,Ajmer,ACJM-BEAWAR TALUKA (CIVIL)
+9.0,2.0,31.0,2298.0,1951.0,524.0,727.1419784725783,Rajasthan,Alwar,ACJM JM - Tijara
+9.0,4.0,15.0,107355.0,79301.0,524.0,668.9816647961565,Rajasthan,Jaipur Metro,CMM ACMM MM Jaipur Metro HQ
+16.0,8.0,3.0,6840.0,4954.0,525.0,714.298748486072,West Bengal,Birbhum,cjm
+9.0,12.0,19.0,3191.0,1754.0,526.0,731.827251995439,Rajasthan,Baran,ACJM - Chhipabarod Taluka
+12.0,13.0,3.0,1603.0,1547.0,529.0,813.4182288299935,Jammu and Kashmir,Rajouri,"Chief Judicial Magistrate ,Rajouri"
+11.0,7.0,3.0,3052.0,3010.0,529.0,585.7033222591363,Orissa,Dhenkanal,Chief Judicial Magistrate Dhenkanal
+1.0,2.0,2.0,33449.0,25124.0,530.5,665.2710953669798,Maharashtra,Dhule,"CHIEF JUDICIAL MAGISTRATE COURT, DHULE"
+1.0,18.0,2.0,23796.0,21759.0,533.0,673.4539271106207,Maharashtra,Jalna,CHIEF JUDICIAL MAGISTRATE COURT JALNA
+6.0,1.0,8.0,49367.0,48152.0,533.0,712.6237954809769,Assam,Kamrup Metro,"Chief Judicial Magistrate,Kamrup"
+2.0,5.0,23.0,2606.0,2605.0,534.0,724.0057581573897,Andhra Pradesh,Guntur,"Addl District Judges Court, Narasaraopet"
+10.0,32.0,21.0,2271.0,2261.0,534.0,652.8160106147723,Tamil Nadu,Tiruvallur,Additional District and Sessions Court-II
+2.0,23.0,23.0,808.0,808.0,537.5,773.2450495049505,Andhra Pradesh,West Godavari,ADDITIONAL DISTRICT COURT TANUKU
+11.0,26.0,12.0,308.0,298.0,538.5,738.4093959731543,Orissa,Mayurbhanj,Additional District and Sessions Judge
+16.0,11.0,5.0,33797.0,10953.0,539.0,708.2927964941111,West Bengal,Howrah,Chief Judicial Magistrate
+16.0,2.0,9.0,4885.0,4328.0,540.0,696.6404805914972,West Bengal,Hooghly,"ADDITIONAL CHIEF JUDICIAL MAGISTRATE , CHANDERNAGO"
+29.0,7.0,1.0,8559.0,8554.0,540.0,677.6739537058686,Telangana,Nalgonda,PDJ COURT NALGONDA
+2.0,5.0,17.0,2165.0,2165.0,541.0,631.4725173210162,Andhra Pradesh,Guntur,DISTRICT COURT TENALI
+8.0,10.0,3.0,20643.0,19965.0,541.0,857.1301277235161,Bihar,Motihari,CJM Division
+1.0,31.0,7.0,4691.0,4671.0,544.0,783.0152001712695,Maharashtra,Satara,ADDITIONAL DISTRICT AND SESSIONS JUDGE KARAD
+16.0,12.0,5.0,16866.0,13671.0,544.0,685.8458781362007,West Bengal,Murshidabad,"Cheif Judicial Magistrate,Murshidabad"
+11.0,26.0,2.0,2398.0,2389.0,545.0,663.1063206362495,Orissa,Mayurbhanj,District and Sessions Judge Court
+1.0,29.0,2.0,17217.0,14985.0,546.0,676.4072739406072,Maharashtra,Osmanabad,CHIEF JUDICIAL MAGISTRATE COURT OSMANABAD.
+3.0,25.0,8.0,273.0,273.0,546.0,750.8168498168499,Karnataka,KODAGU,II Addl DISTRICT AND SESSIONS COURT VIRAJPET
+16.0,24.0,2.0,3250.0,3231.0,547.0,746.6162178891983,West Bengal,Paschim Bardhaman,Additional District And Session Judge
+9.0,1.0,31.0,3274.0,1301.0,548.0,808.2444273635664,Rajasthan,Rajsamand,ACJM-Deogarh Taluka
+4.0,5.0,12.0,1154.0,1108.0,548.5,607.5974729241877,Kerala,Kozhikode,Additional District and Sessions Court
+11.0,8.0,4.0,14212.0,14091.0,549.0,709.8422397274858,Orissa,Khurda,"Chief Judicial Magistrate, khurda, BBSR"
+13.0,21.0,3.0,13729.0,4817.0,550.0,682.2293958895577,Uttar Pradesh,Ballia,Chief Judicial Magistrate
+11.0,26.0,5.0,269.0,269.0,550.0,599.4832713754648,Orissa,Mayurbhanj,Addl. District and Sessions Judge
+26.0,7.0,2.0,35985.0,34547.0,553.0,684.1836917822097,Delhi,New Delhi,"Chief Metropolitan Magistrate, New Delhi, PHC"
+8.0,3.0,3.0,9373.0,9339.0,553.0,731.8008352071956,Bihar,Samastipur,"Chief Judicial Magistrate, Samastipur"
+6.0,25.0,1.0,690.0,689.0,554.0,567.8272859216255,Assam,Chirang,District And Session Judge Establishment
+11.0,26.0,3.0,5871.0,5841.0,554.0,662.0308166409861,Orissa,Mayurbhanj,Chief Judicial Magistrate
+8.0,3.0,6.0,2475.0,2449.0,554.0,652.9403838301347,Bihar,Samastipur,C J M Division Dalsinghsarai
+16.0,20.0,16.0,2839.0,2831.0,556.0,731.7160014129283,West Bengal,South Twenty Four Parganas,Additional District Judge Estd.
+2.0,11.0,23.0,1704.0,1704.0,557.0,664.8356807511738,Andhra Pradesh,Krishna,"XV ADDITIONAL DISTRICT AND SESSIONS COURT, NUZVID"
+9.0,20.0,35.0,629.0,627.0,558.0,819.8835725677831,Rajasthan,Kota,"ACJM,Sangod"
+15.0,4.0,11.0,1012.0,1009.0,558.0,659.3359762140733,Uttarakhand,Udham Singh Nagar,khatima_adj
+16.0,19.0,5.0,533.0,511.0,560.0,670.5792563600783,West Bengal,Bankura,"Addl. District Judge, Khatra"
+12.0,13.0,2.0,809.0,809.0,560.0,757.6353522867737,Jammu and Kashmir,Rajouri,"Principal District Judge,Rajouri"
+9.0,24.0,18.0,166.0,166.0,561.0,875.5602409638554,Rajasthan,Dungarpur,ADJ Sagwara Taluka
+4.0,8.0,1.0,19021.0,19014.0,561.0,637.7098453770906,Kerala,Palakkad,DISTRICT AND SESSIONS COURT PALAKKAD
+8.0,29.0,3.0,14917.0,14164.0,561.5,939.2768285794972,Bihar,Siwan,CJM Division
+9.0,13.0,30.0,945.0,936.0,562.0,667.3600427350427,Rajasthan,Bharatpur,ACJM- Nagar Taluka Civil
+16.0,25.0,2.0,2398.0,2383.0,565.0,815.5107007973143,West Bengal,Jhargram,cjm
+16.0,21.0,4.0,10408.0,5926.0,565.5,734.1788727640904,West Bengal,North Dinajpur,Chief Judicial Magistrate Raiganj
+16.0,20.0,20.0,5746.0,3578.0,566.0,831.8292342090554,West Bengal,South Twenty Four Parganas,Additional Chief Judicial Magistrate
+6.0,23.0,4.0,2330.0,2329.0,567.0,726.5869471876342,Assam,Kamrup,Chief Judicial Magistrate
+8.0,26.0,2.0,15327.0,14544.0,567.0,772.4489823982399,Bihar,Buxar,CJM Division
+13.0,60.0,7.0,932.0,932.0,568.0,634.9259656652359,Uttar Pradesh,Sonbhadra,Additional District  and Session  Judge  Obra
+13.0,76.0,8.0,3063.0,3054.0,575.0,858.4643091028161,Uttar Pradesh,Shamli,"Additional district and session judge, kairana"
+9.0,21.0,7.0,3415.0,1928.0,575.5,846.4673236514521,Rajasthan,Jalore,ACJM-JM BHINMAL TALUKA
+14.0,19.0,6.0,8232.0,8016.0,577.0,662.937000998004,Haryana,Nuh,Chief Judicial Magistrate
+2.0,19.0,1.0,7358.0,7357.0,578.0,704.0936523039283,Andhra Pradesh,Srikakulam,"Prl. District Court, Srikakulam"
+9.0,7.0,32.0,2453.0,2049.0,578.0,669.2240117130308,Rajasthan,Ganganagar,ADJ - ANUPGARH TALUKA
+9.0,13.0,25.0,3457.0,2921.0,579.0,756.1629578911331,Rajasthan,Bharatpur,ACJM JM - Weir Taluka
+9.0,18.0,14.0,6139.0,4380.0,582.0,802.3091324200914,Rajasthan,Jhunjhunu,ACJM MJM-Khetri Taluka HQ (CRI.)
+11.0,1.0,3.0,1539.0,1533.0,583.0,721.2941943900847,Orissa,Cuttack,"Chief Judicial Magistrate, Cuttack"
+8.0,24.0,3.0,20627.0,20497.0,583.0,772.3502463775187,Bihar,Araria,CJM DIVISION
+16.0,19.0,2.0,6710.0,5389.0,585.0,741.3716830580812,West Bengal,Bankura,Chief Judicial Magistrate
+29.0,3.0,1.0,10566.0,10565.0,585.0,712.7209654519639,Telangana,Karimnagar,Prl. District and Sessions Court
+8.0,35.0,4.0,829.0,818.0,588.0,912.216381418093,Bihar,Gaya,CJM Division
+11.0,30.0,3.0,6495.0,5954.0,588.0,833.5189788377562,Orissa,Deogarh,"Chief Judicial Magistrate, Deogarh"
+8.0,11.0,3.0,11614.0,10651.0,589.0,788.1743498263073,Bihar,Munger,C J M Division
+10.0,26.0,15.0,882.0,882.0,590.0,687.8945578231293,Tamil Nadu,Krishnagiri,"Additional District Court, Hosur"
+18.0,24.0,2.0,6440.0,4119.0,590.0,773.0803593105122,Chhattisgarh,Mungeli,CJM Mungeli
+2.0,3.0,23.0,103.0,103.0,591.0,776.5922330097087,Andhra Pradesh,Chittoor,"XI Addl.District Court Complex, Piler"
+23.0,46.0,1.0,42428.0,33636.0,593.0,834.4409561184445,Madhya Pradesh,Rewa,DISTRICT AND SESSIONS COURT REWA MP
+16.0,2.0,15.0,7772.0,4116.0,595.5,795.601797862002,West Bengal,Hooghly,ADDL. CHIEF JUDICIAL MAGISTRATE
+8.0,23.0,3.0,23425.0,21829.0,599.0,858.2512254340556,Bihar,Gopalganj,CJM Division
+11.0,1.0,19.0,166.0,163.0,602.0,970.3374233128833,Orissa,Cuttack,"A.D.J.,Salipur"
+15.0,4.0,7.0,1761.0,1756.0,602.5,758.1719817767654,Uttarakhand,Udham Singh Nagar,kashipur_adj
+9.0,28.0,17.0,34230.0,28106.0,607.0,779.9409734576249,Rajasthan,Jodhpur Metro,CJM ACJM JM Jodhpur Metro HQ
+11.0,21.0,3.0,9732.0,9526.0,608.5,756.8798026453917,Orissa,Rayagada,"Chief Judicial Magistrate, Rayagada"
+11.0,4.0,19.0,981.0,920.0,609.0,695.2554347826087,Orissa,Ganjam,"Additional District Judge, Bhanjanagar,ganjam"
+16.0,20.0,12.0,7571.0,5203.0,611.0,841.991351143571,West Bengal,South Twenty Four Parganas,Additional Chief Judicial Magistrate
+8.0,9.0,1.0,462.0,462.0,611.0,1001.5952380952381,Bihar,Purnea,CJM Division
+13.0,57.0,8.0,345.0,345.0,613.0,797.1188405797102,Uttar Pradesh,Saharanpur,"Addl. District Sessions Judge, Deoband, Saharanpur"
+8.0,6.0,6.0,1379.0,1368.0,614.0,799.1769005847954,Bihar,Begusarai,CJM Division
+13.0,76.0,9.0,22751.0,21972.0,614.0,867.6759967231021,Uttar Pradesh,Shamli,"additional chief judicial magistrate, kairana"
+9.0,21.0,3.0,8701.0,5658.0,617.0,745.6648992576883,Rajasthan,Jalore,CJM ACJM1 ACJM2 JM CRIMINAL-JALORE DISTRICT HQ
+8.0,6.0,3.0,31667.0,30804.0,618.5,837.6958836514739,Bihar,Begusarai,CJM Division
+18.0,20.0,2.0,6566.0,3971.0,619.0,804.8446235205237,Chhattisgarh,Bemetara,"Chief Judicial Magistrate, Bemetara"
+8.0,21.0,3.0,8618.0,8610.0,622.5,884.6329849012776,Bihar,Saharsa,CJM Division
+16.0,12.0,7.0,9101.0,8363.0,624.0,827.3888556738012,West Bengal,Murshidabad,Addl Chief Judicial Magistrate
+9.0,2.0,27.0,3900.0,3739.0,625.0,834.4814121422841,Rajasthan,Alwar,ACJM - Behror
+11.0,13.0,9.0,2325.0,2183.0,626.0,750.2203389830509,Orissa,Keonjhar,"Chief Judicial Magistrate, Champua"
+29.0,6.0,11.0,1707.0,1702.0,627.0,747.542303172738,Telangana,Medak,"IV Addl District and Sessions Court, Siddipet"
+23.0,21.0,1.0,20194.0,17752.0,628.0,840.8058810274898,Madhya Pradesh,Sidhi,DISTRICT AND SESSIONS COURT SIDHI MP
+16.0,17.0,8.0,2863.0,2846.0,630.0,855.1444132115248,West Bengal,Darjeeling,Additional Chief Judicial Magistrate
+12.0,21.0,3.0,1209.0,932.0,633.5,886.3669527896996,Jammu and Kashmir,Samba,Chief Judicial Magistrate
+16.0,22.0,18.0,6679.0,3464.0,639.0,886.7699191685913,West Bengal,Nadia,Addl. Chief Judicial Magistrate ranaghat
+2.0,3.0,5.0,9636.0,9632.0,640.0,815.7694144518273,Andhra Pradesh,Chittoor,ADDITIONAL DISTRICT JUDGE
+2.0,7.0,14.0,1086.0,1086.0,642.0,774.5662983425415,Andhra Pradesh,Kadapa,"V Additional District Judge Court, Rayachoty"
+2.0,15.0,1.0,12195.0,12179.0,643.0,757.987355283685,Andhra Pradesh,Nellore,"District and Sessions Courts, Nellore"
+8.0,28.0,1.0,8503.0,8449.0,645.0,857.7906261095987,Bihar,Bettiah,C J M Bettiah Division
+9.0,18.0,22.0,647.0,534.0,646.0,804.9494382022473,Rajasthan,Jhunjhunu,ACJM PILANI TALUKA
+11.0,11.0,3.0,376.0,374.0,647.5,802.2352941176471,Orissa,Sambalpur,"Chief Judicial Magistrate,Sambalpur"
+7.0,6.0,5.0,12333.0,6147.0,653.0,922.9079225638524,Jharkhand,Godda,Chief Judicial Magistrate Courts
+16.0,19.0,10.0,2919.0,2908.0,654.0,817.1220770288858,West Bengal,Bankura,"Additional Chief Judicial Magistrate, Bishnupur"
+6.0,9.0,10.0,116.0,116.0,655.0,670.7241379310344,Assam,Bongaigaon,Additional District and Sessions Judge
+20.0,3.0,8.0,4946.0,4882.0,655.0,787.0270380991395,Tripura,SouthTripura,"Chief Judicial Magistrate, South Tripura, Belonia"
+9.0,13.0,31.0,4659.0,3436.0,656.0,903.6236903376018,Rajasthan,Bharatpur,ACJM - Nagar Taluka Criminal
+11.0,29.0,1.0,1906.0,1895.0,659.0,774.9150395778363,Orissa,Bargarh,"District and Sessions Judge Court, Bargarh"
+9.0,40.0,7.0,64641.0,52075.0,661.0,813.8320883341335,Rajasthan,Jaipur Metro II,CMM ACMM Jaipur Metro HQ II
+16.0,22.0,2.0,4194.0,3927.0,665.0,956.7112299465241,West Bengal,Nadia,Addl. Chief Judicial Magistrate
+16.0,6.0,18.0,319.0,318.0,669.0,902.3427672955977,West Bengal,Coochbehar,"Addl. Chief Judicial Magistrate , Mekhliganj"
+29.0,10.0,8.0,894.0,894.0,670.0,800.6856823266219,Telangana,Warangal,VI Addl District and Session Judge Mahabubabad
+10.0,33.0,20.0,6053.0,6044.0,672.0,779.5531105228325,Tamil Nadu,Tiruppur,"Principal District court, Tiruppur"
+4.0,5.0,38.0,418.0,418.0,672.5,709.2248803827753,Kerala,Kozhikode,"Additional District Court (POCSO Act ), Kozhikode"
+18.0,22.0,2.0,2333.0,1946.0,673.0,804.3129496402878,Chhattisgarh,Kondagaon,Cheif Judicial Magistrate
+11.0,11.0,11.0,285.0,284.0,674.5,685.0246478873238,Orissa,Sambalpur,"Additional District Judge,Kuchinda"
+13.0,75.0,1.0,1416.0,1415.0,675.0,921.773851590106,Uttar Pradesh,Chandauli,District and Sessions Judge
+16.0,6.0,7.0,4099.0,2150.0,680.5,856.6283720930232,West Bengal,Coochbehar,"Addl. Chief Judicial Magistrate , Dinhata"
+8.0,27.0,2.0,13751.0,12483.0,688.0,907.689497716895,Bihar,Nawada,CJM DIVISION
+2.0,4.0,6.0,1973.0,1973.0,688.0,853.0866700456157,Andhra Pradesh,East Godavari,"II Addl. Dist. and Sessions Court, Amalapuram"
+7.0,11.0,2.0,37230.0,23285.0,693.0,923.9176293751343,Jharkhand,East Singhbhum at Jamshedpur,"Chief Judicial Magistrate Courts, Jamshedpur"
+8.0,3.0,9.0,3623.0,3608.0,700.5,815.1225055432373,Bihar,Samastipur,C J M Division Rosera
+10.0,32.0,22.0,3662.0,3662.0,702.0,781.6750409612234,Tamil Nadu,Tiruvallur,Additional District and Sessions Court-III
+16.0,22.0,6.0,12773.0,8364.0,703.0,976.5261836441892,West Bengal,Nadia,Chief Judicial Magistrate
+9.0,6.0,28.0,309.0,291.0,703.0,913.6013745704468,Rajasthan,Bikaner,ADJ Camp Court Dungargarh
+18.0,4.0,2.0,14482.0,11754.0,706.5,890.5680619363621,Chhattisgarh,Surguja,Judicial Magistrate  Court Surguja CG
+10.0,33.0,17.0,2879.0,2873.0,709.0,800.9425687434738,Tamil Nadu,Tiruppur,"III Additional District Judge, Dharapuram"
+18.0,23.0,6.0,3418.0,2180.0,709.5,931.4697247706422,Chhattisgarh,Balodabazar,CHIEF JUDICIAL MAGISTRATE EST.
+16.0,11.0,10.0,9877.0,5259.0,710.0,966.8037649743297,West Bengal,Howrah,Additinal Chief Judicial Magistrate Uluberia
+8.0,22.0,3.0,8831.0,8813.0,711.0,922.3135141268581,Bihar,Supaul,CJM Division
+8.0,18.0,5.0,5874.0,5862.0,712.0,838.4228932105084,Bihar,Madhubani,C J M Division
+8.0,17.0,4.0,16907.0,10546.0,714.0,826.7415133699982,Bihar,Darbhanga,CJM Division
+9.0,34.0,9.0,2677.0,2122.0,719.0,856.9646559849199,Rajasthan,Dholpur,ACJM JM - Dholpur Bari HQ
+29.0,10.0,15.0,274.0,274.0,719.5,915.1788321167884,Telangana,Warangal,V Addl  District Court
+13.0,23.0,7.0,245.0,245.0,722.0,975.5224489795917,Uttar Pradesh,Lalitpur,Addl. Chief Judicial Magistrate Mehroni
+4.0,2.0,38.0,3003.0,3003.0,723.0,828.1834831834833,Kerala,Ernakulam,Addl District and Sessions Court N.Paravur
+2.0,5.0,32.0,718.0,718.0,724.0,819.2479108635097,Andhra Pradesh,Guntur,X ADDL. DISTRICT COURT
+12.0,19.0,3.0,5983.0,5859.0,725.0,1001.6784434203787,Jammu and Kashmir,Jammu,Chief Judicial Magistrate
+2.0,20.0,10.0,987.0,987.0,728.0,851.853090172239,Andhra Pradesh,Visakapatnam,XIII ADDITIONAL DISTRICT JUDGE COURT AT GAJUWAKA
+17.0,28.0,13.0,654.0,650.0,729.5,968.3153846153847,Gujarat,Patan,ADDL. DISTRICT COURT RADHANPUR
+13.0,69.0,7.0,296.0,294.0,730.0,962.6326530612243,Uttar Pradesh,Kannauj,Chief Judicial Magistrate
+16.0,22.0,13.0,2821.0,2568.0,734.0,1014.4061526479753,West Bengal,Nadia,tehacjmdb
+10.0,21.0,15.0,267.0,237.0,738.0,881.1012658227849,Tamil Nadu,Ramanathapuram,"Additional District Court,Paramakudi"
+2.0,10.0,6.0,1707.0,1706.0,739.0,855.4830011723329,Andhra Pradesh,Kurnool,"II ADDITIONAL DISTRICT JUDGE, COURT"
+8.0,14.0,3.0,8526.0,8103.0,740.0,896.299148463532,Bihar,Khagaria,CJM Division
+16.0,9.0,3.0,11299.0,8713.0,740.0,943.3370825203717,West Bengal,Purba Medinipur,"Chief Judicial Magistrate, Tamluk"
+16.0,9.0,12.0,5278.0,3978.0,747.0,966.655354449472,West Bengal,Purba Medinipur,"Addl. Chief Judicial Magistrate, Haldia"
+9.0,12.0,21.0,1906.0,1059.0,749.0,849.2540132200189,Rajasthan,Baran,JM - Atru Taluka
+2.0,19.0,13.0,432.0,432.0,749.0,847.8587962962962,Andhra Pradesh,Srikakulam,"VI Addl.District and Sessions Judge Court, Sompeta"
+10.0,17.0,18.0,198.0,198.0,761.0,757.9090909090909,Tamil Nadu,Thanjavur,"Additional District Court, Kumbakonam"
+16.0,8.0,10.0,6461.0,6443.0,762.0,973.8581406177246,West Bengal,Birbhum,ACJM
+16.0,6.0,14.0,595.0,595.0,762.0,956.4050420168068,West Bengal,Coochbehar,"Addl. Chief Judicial Magistrate , Mathabhanga"
+16.0,24.0,1.0,4930.0,4929.0,764.0,921.9446135118684,West Bengal,Paschim Bardhaman,Additional Chief Judicial magistrate
+4.0,6.0,21.0,3836.0,3836.0,764.5,861.774504692388,Kerala,Alappuzha,ADDL.DISTRICT AND SESSIONS COURT-I MAVELIKARA
+23.0,48.0,1.0,10172.0,8001.0,770.0,945.9203849518809,Madhya Pradesh,Ashoknagr,DISTRICT AND SESSIONS COURT ASHOKNAGAR MP
+9.0,9.0,26.0,2624.0,1415.0,772.0,945.0600706713781,Rajasthan,Udaipur,ACJM - Salumber Taluka
+20.0,9.0,2.0,2628.0,2623.0,774.0,961.4868471216164,Tripura,Sepahijala Tripura,"Chief Judicial Magistrate Establishment, Sonamora"
+9.0,4.0,30.0,4994.0,4845.0,777.0,895.3382868937049,Rajasthan,Jaipur Metro,CMM ACMM MM Mini Secretariat Jaipur
+16.0,14.0,11.0,6988.0,6626.0,781.5,976.7020827044977,West Bengal,North  Twenty Four Parganas,Barrackpore Addl. Chief Judicial Magistrate
+2.0,23.0,13.0,1456.0,1456.0,783.5,944.2259615384617,Andhra Pradesh,West Godavari,X ADDL DISTRICT COURT NARSAPUR
+16.0,7.0,19.0,1563.0,1090.0,785.0,982.1339449541284,West Bengal,Paschim Medinpur,pmdantanacjm
+8.0,20.0,3.0,5767.0,5743.0,790.0,973.9451506181438,Bihar,Sheikhpura,"CJM Division, Sheikhpura"
+11.0,5.0,3.0,4962.0,4926.0,797.0,1002.4486398700772,Orissa,Balasore,Chief Judicial Magistrate
+13.0,48.0,12.0,850.0,830.0,805.0,874.7048192771083,Uttar Pradesh,Bulandshahr,"addl. Chief Judicial Magistrate, Khurja"
+8.0,30.0,3.0,7763.0,7751.0,808.0,1050.3180234808412,Bihar,Nalanda,CJM Division
+2.0,20.0,11.0,6125.0,6096.0,812.5,931.4670275590552,Andhra Pradesh,Visakapatnam,CHIEF METROPOLITAN MAGISTRATE COURT
+9.0,11.0,25.0,417.0,352.0,817.5,804.03125,Rajasthan,Hanumangarh,ACJM-NOHAR TALUKA HQ
+9.0,2.0,50.0,156.0,156.0,818.5,995.8397435897436,Rajasthan,Alwar,ADJ Bansur HQ
+23.0,31.0,1.0,18086.0,11009.0,826.0,966.2520664910527,Madhya Pradesh,Singrauli,DISTRICT AND SESSIONS COURT SINGRAULI MP
+16.0,6.0,11.0,1163.0,795.0,834.0,977.611320754717,West Bengal,Coochbehar,"Addl. Chief Judicial Magistrate , Tufanganj"
+12.0,4.0,7.0,360.0,355.0,835.0,1124.1830985915492,Jammu and Kashmir,Anantnag,Chief Judicial  Magistrate
+8.0,30.0,5.0,1117.0,1106.0,840.5,1264.1817359855334,Bihar,Nalanda,CJM Division
+8.0,22.0,5.0,313.0,313.0,841.0,1172.185303514377,Bihar,Supaul,Birpur CJM Division
+8.0,1.0,9.0,1945.0,1905.0,845.0,1120.9984251968503,Bihar,Patna,"CJM Division, Taluka Court, Patna City"
+8.0,19.0,3.0,4851.0,4842.0,852.0,1028.3052457662122,Bihar,Lakhisarai,CJM Division
+4.0,9.0,22.0,871.0,867.0,854.0,977.3990772779699,Kerala,Thiruvananthapuram,Addl District and Sessions Court Neyyattinkara
+7.0,24.0,3.0,1996.0,1579.0,856.0,968.6130462317924,Jharkhand,KHUNTI,Cheif Judicial Magistrate Khunti
+12.0,4.0,11.0,127.0,127.0,861.0,1355.763779527559,Jammu and Kashmir,Anantnag,Chief Judicial Magistrate
+2.0,7.0,27.0,784.0,784.0,861.5,995.7551020408164,Andhra Pradesh,Kadapa,"III Additional District Judge Court, Rajampet"
+8.0,12.0,3.0,10169.0,7179.0,870.0,1002.8647443933696,Bihar,Madhepura,CJMMdpDB
+2.0,10.0,30.0,815.0,815.0,872.0,968.4846625766874,Andhra Pradesh,Kurnool,"V Addl.District Court Complex,Allagadda"
+15.0,9.0,14.0,349.0,349.0,872.0,1104.7363896848137,Uttarakhand,Haridwar,Additional Chief Judicial Magistrate
+13.0,10.0,9.0,200.0,200.0,874.5,1012.59,Uttar Pradesh,Lakhimpur,District and Sessions Judge
+9.0,40.0,23.0,1229.0,1170.0,880.0,1065.3982905982905,Rajasthan,Jaipur Metro II,CMM MINI SECRETARIAT JAIPUR METRO II
+13.0,75.0,2.0,911.0,911.0,893.0,1019.9066959385292,Uttar Pradesh,Chandauli,Chief Judicial Magistrate
+12.0,1.0,5.0,211.0,193.0,900.0,1200.6891191709844,Jammu and Kashmir,Kathua,Chief Judicial Magistrate
+11.0,29.0,9.0,272.0,271.0,927.0,1021.0922509225093,Orissa,Bargarh,Addl. District and Sessions Judge Padampur
+8.0,9.0,3.0,32643.0,31878.0,948.0,1065.2230378317336,Bihar,Purnea,CJM DIVISION
+8.0,10.0,4.0,920.0,816.0,959.5,1210.6458333333333,Bihar,Motihari,Sikrahna CJM Division
+2.0,11.0,19.0,1698.0,1698.0,964.0,1089.9358068315669,Andhra Pradesh,Krishna,"XI Addl District Court, GUDIVADA"
+2.0,4.0,22.0,1137.0,1137.0,965.0,1010.8698328935795,Andhra Pradesh,East Godavari,XII Addl. District and Sessions Judges court
+9.0,40.0,14.0,1047.0,1047.0,976.0,1051.367717287488,Rajasthan,Jaipur Metro II,CMM ACMM JDA JAIPUR METRO II
+8.0,36.0,2.0,725.0,723.0,981.0,1376.359612724758,Bihar,Jehanabad,CJM Division
+12.0,19.0,6.0,139.0,139.0,988.0,1373.8705035971225,Jammu and Kashmir,Jammu,Chief Judicial Magistrate
+13.0,65.0,8.0,728.0,728.0,992.5,1217.9436813186812,Uttar Pradesh,Hathras,Chief Judicial Magistrate Sadabad
+8.0,34.0,5.0,2721.0,2708.0,999.0,1222.7769571639587,Bihar,Bhagalpur,Cheif Judicial Magistrate Division
+2.0,4.0,34.0,122.0,122.0,999.5,1080.770491803279,Andhra Pradesh,East Godavari,"VII ADDL. DISTRICT AND SESSIONS COURT, PEDDAPURAM"
+2.0,7.0,15.0,2094.0,2094.0,1001.5,1147.6914995224452,Andhra Pradesh,Kadapa,"II Additional District  Court, Proddatur"
+9.0,21.0,9.0,3842.0,2288.0,1012.0,1110.7132867132866,Rajasthan,Jalore,ACJM JM SANCHORE TALUKA
+8.0,16.0,2.0,12356.0,12065.0,1015.0,1151.8501450476585,Bihar,Aurangabad,C J M Division
+8.0,39.0,2.0,1993.0,1993.0,1016.0,1302.606623181134,Bihar,Vaishali,CJM Division
+29.0,7.0,8.0,233.0,232.0,1039.0,1198.8491379310346,Telangana,Nalgonda,V Addl District and Sessions Judge Court
+11.0,29.0,2.0,7877.0,7226.0,1042.5,1021.5765292001108,Orissa,Bargarh,"Chief Judicial Magistrate , Bargarh"
+8.0,18.0,3.0,16296.0,16292.0,1053.5,1134.4616989933709,Bihar,Madhubani,CJM Division
+11.0,8.0,6.0,3581.0,3565.0,1058.0,1158.0681626928472,Orissa,Khurda,"Chief Judicial Magistrate,Khurda"
+29.0,1.0,25.0,147.0,147.0,1077.0,1180.3537414965986,Telangana,Adilabad,VII Addl. District and Sessions Judge Court
+8.0,35.0,2.0,1198.0,1198.0,1077.5,1401.397328881469,Bihar,Gaya,CJM Division
+8.0,13.0,6.0,4055.0,4052.0,1098.5,1170.4106614017771,Bihar,Rohtas Sasaram,C.J.M. Div
+8.0,38.0,5.0,1338.0,1337.0,1110.0,1262.845923709798,Bihar,Muzaffarpur,CJM Division (West)
+4.0,9.0,5.0,1679.0,1679.0,1112.0,1251.3787969029186,Kerala,Thiruvananthapuram,Addl Chief Judicial Magistrate Trivandrum
+8.0,16.0,4.0,2257.0,2255.0,1117.0,1259.2106430155209,Bihar,Aurangabad,C J M Division
+8.0,34.0,2.0,3344.0,3342.0,1125.5,1240.5957510472772,Bihar,Bhagalpur,naucjmdivision
+10.0,6.0,16.0,149.0,149.0,1149.0,1300.711409395973,Tamil Nadu,Nagapattinam,"Additional District Court, Mayiladuthurai"
+9.0,2.0,61.0,153.0,153.0,1156.0,1325.0849673202615,Rajasthan,Alwar,ADJ Mundawar HQ
+2.0,15.0,10.0,957.0,957.0,1158.0,1305.2800417972833,Andhra Pradesh,Nellore,VII Addl. District and Session Court
+9.0,2.0,54.0,143.0,143.0,1171.0,1382.9020979020981,Rajasthan,Alwar,ACJM JM BHIWADI HQ
+15.0,16.0,5.0,112.0,112.0,1181.5,990.8928571428572,Uttarakhand,Rudraprayag,CHIEF JUDICIAL MAGISTRATE UKHIMATH
+21.0,5.0,2.0,171.0,148.0,1183.0,1227.7162162162165,Meghalaya,Ri Bhoi,District and Sessions Judge Nongpoh
+9.0,11.0,20.0,174.0,173.0,1184.0,1213.78612716763,Rajasthan,Hanumangarh,ACJM-BHADRA TALUKA HQ
+10.0,17.0,19.0,2643.0,1803.0,1195.0,1218.8624514697724,Tamil Nadu,Thanjavur,"Chief Judicial Magistrate Court, Kumbakonam"
+21.0,5.0,1.0,162.0,162.0,1244.5,1357.91975308642,Meghalaya,Ri Bhoi,Chief Judicial Magistrate Nongpoh
+9.0,22.0,33.0,321.0,321.0,1260.0,1396.4641744548287,Rajasthan,Jhalawar,ACJM GN Jhalarapatan Jhalawar District
+8.0,33.0,2.0,1006.0,1004.0,1295.0,1431.3924302788846,Bihar,Bhojpur,CJM Division
+9.0,38.0,34.0,1067.0,899.0,1310.0,1439.515016685206,Rajasthan,Jaipur District,ADJ-Kotputli
+8.0,18.0,8.0,1061.0,1061.0,1311.0,1448.5400565504242,Bihar,Madhubani,Benipatti CJM Div.
+8.0,38.0,2.0,2554.0,2554.0,1313.5,1462.3649177760376,Bihar,Muzaffarpur,CJM Division
+8.0,12.0,5.0,587.0,587.0,1329.0,1430.2316865417374,Bihar,Madhepura,Uda-Kishunganj CJM Division
+8.0,1.0,12.0,1298.0,1298.0,1366.5,1459.1633281972265,Bihar,Patna,Barh CJM Div.
+8.0,31.0,4.0,365.0,365.0,1388.0,1187.5205479452056,Bihar,Sitamarhi,Pupri CJM Division
+8.0,36.0,5.0,426.0,426.0,1391.0,1566.075117370892,Bihar,Jehanabad,Arwal CJM Division
+9.0,22.0,31.0,226.0,226.0,1413.0,1592.4823008849555,Rajasthan,Jhalawar,ACJM Manoharthana Jhalawar District
+8.0,37.0,2.0,476.0,476.0,1414.0,1470.0441176470588,Bihar,Sheohar,Sheohar CJM Div.
+9.0,39.0,2.0,454.0,453.0,1428.0,1402.7637969094924,Rajasthan,Jodhpur District,CJM ACJM JM-Jodhpur District HQ
+18.0,21.0,4.0,6047.0,5105.0,1554.0,1516.113222331048,Chhattisgarh,Surajpur,Chief Judicial Magistrate Surajpur
+11.0,27.0,3.0,8747.0,8607.0,1569.0,1591.6506332055303,Orissa,Anugul,"Chief Judicial Magistrate, Anugul"
+8.0,17.0,9.0,311.0,311.0,1629.0,1659.0771704180065,Bihar,Darbhanga,Biraul CJM Division
+8.0,1.0,11.0,153.0,153.0,1750.0,1714.0261437908496,Bihar,Patna,Barh D.J Div.
+9.0,38.0,35.0,412.0,411.0,1827.0,1781.30900243309,Rajasthan,Jaipur District,ACJM JM-Kotputli
+8.0,9.0,8.0,292.0,292.0,1926.0,1810.2739726027398,Bihar,Purnea,CJM Division
+8.0,6.0,11.0,385.0,385.0,1927.0,2053.0675324675326,Bihar,Begusarai,Balia CJM Division
+8.0,1.0,15.0,170.0,170.0,2320.0,2099.605882352941,Bihar,Patna,Masaurhi CJM Div.

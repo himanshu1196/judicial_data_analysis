@@ -1,0 +1,39 @@
+state_code,state_name,district_name,dist_code,court_no,court_name
+10,Tamil Nadu,Chennai,13,17,Chief Metropolitan Magistratre Court Egmore Ch-8
+1,Maharashtra,Mumbai CMM Courts,23,1,CMM COURT ESPLANADE COURT MUMBAI
+9,Rajasthan,Jaipur Metro,4,15,CMM ACMM MM Jaipur Metro HQ
+9,Rajasthan,Jaipur Metro,4,30,CMM ACMM MM Mini Secretariat Jaipur
+9,Rajasthan,Jaipur Metro I,4,31,CMM ACMM Nagar Nigam Court Complex Jaipur Metro
+9,Rajasthan,Jaipur Metro,4,32,CMM ACMM MM BASSI COURT COMPLEX
+9,Rajasthan,Jaipur Metro II,40,7,CMM ACMM Jaipur Metro HQ II
+9,Rajasthan,Jaipur Metro II,40,14,CMM ACMM JDA JAIPUR METRO II
+9,Rajasthan,Jaipur Metro II,40,23,CMM MINI SECRETARIAT JAIPUR METRO II
+9,Rajasthan,Jaipur Metro,4,31,CMM ACMM Nagar Nigam Court Complex Jaipur Metro
+9,Rajasthan,Jaipur Metro I,4,32,CMM ACMM MM BASSI COURT COMPLEX
+9,Rajasthan,Jaipur Metro II,40,2,CMM ACMM MM CHOMU COURT COMPLEX II
+2,Andhra Pradesh,Krishna,11,5,Chief Metropolitan Magistrate Vijayawada
+2,Andhra Pradesh,Visakapatnam,20,11,CHIEF METROPOLITAN MAGISTRATE COURT
+3,Karnataka,BENGALURU,20,2,Chief Metropolitan Magistrate Court
+13,Uttar Pradesh,Kanpur Nagar,19,3,Chief Metropolitan Magistrate
+26,Delhi,North East,1,2,Chief Metropolitan Magistrate North-East KKD
+26,Delhi,Shahdara,2,2,Chief Metropolitan Magistrate Shahdara KKD
+26,Delhi,East,3,2,Chief Metropolitan Magistrate East KKD
+26,Delhi,North,4,2,Chief Metropolitan Magistrate North RHC
+26,Delhi,North West,5,2,Chief Metropolitan Magistrate North-West RHC
+26,Delhi,South West,6,2,Chief Metropolitan Magistrate South-West DWK
+26,Delhi,New Delhi,7,2,Chief Metropolitan Magistrate New Delhi PHC
+26,Delhi,Central,8,2,Chief Metropolitan Magistrate Central THC
+26,Delhi,West,9,2,Chief Metropolitan Magistrate West THC
+26,Delhi,South,10,2,Chief Metropolitan Magistrate South Saket
+26,Delhi,South East,11,2,Chief Metropolitan Magistrate South-East Saket
+29,Telangana,Hyderabad,2,3,Chief Metropolitan Magistrate
+1,Maharashtra,Mumbai CMM Courts,23,3,ADDL. CHIEF METROPOLITAN MAGISTRATE COURT GIRGAON
+1,Maharashtra,Mumbai CMM Courts,23,6,ADDL. CHIEF METROPOLITAN MAGISTRATE ANDHERI
+1,Maharashtra,Mumbai CMM Courts,23,9,ADDL. CHIEF METROPOLITAN MAGISTRATES COURT KURLA
+1,Maharashtra,Mumbai CMM Courts,23,10,ADDL. CHIEF METROPOLITAN MAGISTRATE COURT
+1,Maharashtra,Mumbai CMM Courts,23,15,ADDL.CHIEF METROPOLITAN MAGISTRATE DADAR MUMBAI.
+9,Rajasthan,Jaipur Metro,4,24,ACMM RAILWAY JAIPUR METRO
+9,Rajasthan,Jaipur Metro II,40,19,ACMM RAILWAY JAIPUR METRO II
+29,Telangana,Hyderabad,2,18,V ADDL. CMM
+3,Karnataka,BENGALURU,20,8,AddlChief Metropolitan Magistrate Court Bengaluru
+29,Telangana,Hyderabad,2,24,X Addl Chief Metropolitan Magistrate  Secunderabad

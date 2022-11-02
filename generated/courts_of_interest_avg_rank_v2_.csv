@@ -1,0 +1,31 @@
+state_code,dist_code,court_no,avg_yearly_rank,state_name,district_name,court_name
+10,8,9,16.8,Tamil Nadu,Tiruchirappalli,Principal District and Session Court Establishment
+10,9,5,22.8,Tamil Nadu,Thoothukudi,"Principal District court complex, Thoothukudi"
+3,22,1,26.25,Karnataka,MANDYA,PRL. DISTRICT AND SESSIONS JUDGE
+10,3,12,30.8,Tamil Nadu,Tirunelveli,"PDJ, I ADJ, Mahila, III ADJ, IV ADJ Tirunelveli"
+17,35,1,32.88,Gujarat,Valsad,valsad_district Court
+17,36,1,45.66,Gujarat,Porbandar,"DISTRICT AND SESSIONS COURT, PORBANDAR"
+3,16,1,59.88,Karnataka,UDUPI,PRL. DISTRICT AND SESSIONS JUDGE
+3,11,1,65.88,Karnataka,HAVERI,Prl District and Sessions Judge
+3,18,1,70.44,Karnataka,TUMAKURU,Prl. District and Sessions Judge
+3,28,1,70.88,Karnataka,RAMANAGARAM,PRL.DISTRICT AND SESSIONS JUDGE
+6,19,1,78.25,Assam,Golaghat,GLT_DJ_ESTT
+17,32,1,81.0,Gujarat,Navsari,navsari_district Court
+13,50,3,81.0,Uttar Pradesh,Gonda,CJM
+4,2,1,81.22,Kerala,Ernakulam,"DISTRICT AND SESSIONS COURT, ERNAKULAM"
+3,14,1,84.55,Karnataka,DAVANGERE,PRL DISTRICT AND SESSION JUDGE
+16,8,10,1439.5,West Bengal,Birbhum,ACJM
+13,76,9,1452.0,Uttar Pradesh,Shamli,"additional chief judicial magistrate, kairana"
+16,6,14,1459.66,West Bengal,Coochbehar,"Addl. Chief Judicial Magistrate , Mathabhanga"
+16,19,10,1459.75,West Bengal,Bankura,"Additional Chief Judicial Magistrate, Bishnupur"
+16,25,2,1462.75,West Bengal,Jhargram,cjm
+16,24,2,1464.5,West Bengal,Paschim Bardhaman,Additional District And Session Judge
+16,24,1,1466.0,West Bengal,Paschim Bardhaman,Additional Chief Judicial magistrate
+3,25,8,1467.0,Karnataka,KODAGU,II Addl DISTRICT AND SESSIONS COURT VIRAJPET
+16,6,11,1467.5,West Bengal,Coochbehar,"Addl. Chief Judicial Magistrate , Tufanganj"
+9,39,2,1482.75,Rajasthan,Jodhpur District,CJM ACJM JM-Jodhpur District HQ
+16,22,2,1484.25,West Bengal,Nadia,Addl. Chief Judicial Magistrate
+16,14,11,1484.5,West Bengal,North  Twenty Four Parganas,Barrackpore Addl. Chief Judicial Magistrate
+2,15,10,1487.66,Andhra Pradesh,Nellore,VII Addl. District and Session Court
+9,40,14,1502.0,Rajasthan,Jaipur Metro II,CMM ACMM JDA JAIPUR METRO II
+13,76,8,1529.0,Uttar Pradesh,Shamli,"Additional district and session judge, kairana"

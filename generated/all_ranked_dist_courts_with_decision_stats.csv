@@ -1,0 +1,1045 @@
+,state_code,dist_code,court_no,state_name,district_name,court_name,median_decision_days
+0,1,1,3,Maharashtra,Nandurbar,DISTRICT AND SESSIONS COURT,144.0
+1,1,1,7,Maharashtra,Nandurbar,Additional District  And Sessions Court Shahada,308.0
+2,1,2,1,Maharashtra,Dhule,DISTRICT AND SESSIONS COURT,174.0
+3,1,3,2,Maharashtra,Jalgaon,DISTRICT AND SESSIONS COURT JALGAON,41.0
+4,1,3,5,Maharashtra,Jalgaon,DISTRICT COURT 1 AND ADDL. SESSIONS COURT,197.0
+5,1,4,1,Maharashtra,Buldhana,DISTRICT COURT,77.0
+6,1,4,14,Maharashtra,Buldhana,District Judge and Addl. Sessions Judge,27.0
+7,1,5,1,Maharashtra,Akola,Principal District and Sessions Judge,104.0
+8,1,5,5,Maharashtra,Akola,District Judge - 1,148.0
+9,1,7,1,Maharashtra,Amravati,DISTRICT  AND SESSIONS COURT AMRAVATI,121.0
+10,1,7,6,Maharashtra,Amravati,COURT OF DISTRICT JUDGE-1 ACHALPUR,55.0
+11,1,8,1,Maharashtra,Wardha,DISTRICT AND SESSIONS COURT WARDHA.,53.0
+12,1,9,1,Maharashtra,Nagpur,DISTRICT  AND  SESSIONS COURT NAGPUR,135.0
+13,1,10,1,Maharashtra,Bhandara,DISTRICT  SESSIONS COURT BHANDARA,270.0
+14,1,11,3,Maharashtra,Gondia,DISTRICT COURT,225.0
+15,1,12,1,Maharashtra,Gadchiroli,DISTRICT AND SESSIONS COURT GADCHIROLI.,54.0
+16,1,13,1,Maharashtra,Chandrapur,DISTRICT AND SESSIONS COURT CHANDRAPUR MAH.,122.0
+17,1,13,13,Maharashtra,Chandrapur,District Judge-1 and ASJ Warora,9.0
+18,1,14,1,Maharashtra,Yavatmal,District and Sessions Court,112.0
+19,1,14,6,Maharashtra,Yavatmal,Court of District Judge-1 and A.S.J. Darwha,104.0
+20,1,14,12,Maharashtra,Yavatmal,DISTRICT JUDGE-1 And ADDL. SESSIONS JUDGE,113.0
+21,1,14,17,Maharashtra,Yavatmal,DISTRICT  SESSIONS COURT PUSAD,23.0
+22,1,15,2,Maharashtra,Nanded,DISTRICT  AND SESSIONS COURT NANDED,168.0
+23,1,15,16,Maharashtra,Nanded,DIST. JUDGE-1  ADDL. SESSIONS JUDGE BILOLI,217.0
+24,1,15,20,Maharashtra,Nanded,COURT OF DISTRICT JUDGE-1 BHOKAR,238.0
+25,1,15,23,Maharashtra,Nanded,District Judge -1 Kandhar Camp at Mukhed,100.5
+26,1,17,1,Maharashtra,Parbhani,DISTRICT  SESSIONS COURT PARBHANI.,164.0
+27,1,17,4,Maharashtra,Parbhani,District Judge 1 and Addl.Sessions Court,18.0
+28,1,4,9,Maharashtra,Buldhana,DIST.JUDGE-I  ADDITIONAL SESSIONS JUDGE,61.0
+29,1,17,7,Maharashtra,Parbhani,District Judge 1 and Addl.Sessions Court,21.0
+30,1,17,10,Maharashtra,Parbhani,District Judge 1 and Addl.Sessins Court,115.0
+31,1,18,1,Maharashtra,Jalna,District  and Sessions Court Jalna,125.0
+32,1,19,4,Maharashtra,Aurangabad,DISTRICT AND SESSIONS COURT AURANGABAD.,87.0
+33,1,20,1,Maharashtra,Nashik,DISTRICT AND SESSIONS COURT NASHIK.,199.0
+34,1,20,7,Maharashtra,Nashik,DISTRICT COURT,145.0
+35,1,20,9,Maharashtra,Nashik,ADDITIONAL DISTRICT AND SESSIONS COURT,177.0
+36,1,21,1,Maharashtra,Thane,DISTRICT AND SESSIONS COURT,77.0
+37,1,21,23,Maharashtra,Thane,District Judge-1,91.0
+38,1,21,25,Maharashtra,Thane,ADDL.DIST.  SESSIONS COURT KALYAN,48.0
+39,1,21,28,Maharashtra,Thane,ADDIL. DISTRICT AND SESSEIONS COURT PALGHAR,104.0
+40,1,24,1,Maharashtra,Raigad,DISTRICT COURT RAIGAD-ALIBAG,66.0
+41,1,24,14,Maharashtra,Raigad,DISTRICT AND ADDITIONAL SESSIONS COURT MANGAON,246.0
+42,1,25,1,Maharashtra,Pune,DISTRICT AND SESSIONS COURT PUNE MAHARASHTRA,80.0
+43,1,25,4,Maharashtra,Pune,ADDITIONAL DISTRICT AND SESSIONS COURT BARAMATI,39.0
+44,1,26,1,Maharashtra,Ahmednagar,District and Sessions Court,140.0
+45,1,26,9,Maharashtra,Ahmednagar,District  And Sessions Court,236.0
+46,1,26,20,Maharashtra,Ahmednagar,DISTRICT  SESSIONS COURT SHRIRAMPUR,287.0
+47,1,27,1,Maharashtra,Beed,DIST.AND SESSION COURT BEED,187.0
+48,1,27,9,Maharashtra,Beed,DISTRICT JUDGE-1  ADDL.SESSIONS COURT AMBAJOGAI.,70.0
+49,1,27,13,Maharashtra,Beed,DIST JUDGE-1 AND ADDL. SESSIONS JUDGE MAJALGAON,116.0
+50,1,28,1,Maharashtra,Latur,District  and Sessions Court,308.0
+51,1,28,11,Maharashtra,Latur,Additional District  Addl. Sessions Court Udgir,240.0
+52,1,28,12,Maharashtra,Latur,Additional District and Sessions Court Nilanga,385.0
+53,1,28,13,Maharashtra,Latur,Additional District and Sessions Court,335.0
+54,1,29,1,Maharashtra,Osmanabad,PRINCIPAL DISTRICT  AND SESSIONS COURT,246.0
+55,1,29,6,Maharashtra,Osmanabad,COURT OF THE DIST. JUDGE-1,428.0
+56,1,29,15,Maharashtra,Osmanabad,DISTRICT  AND ADDITIONAL SESSIONS JUDGE BHOOM,260.0
+57,1,30,1,Maharashtra,Solapur,DISTRICT COURT SOLAPUR,67.0
+58,1,30,12,Maharashtra,Solapur,District and Sessions Court,125.0
+59,1,30,17,Maharashtra,Solapur,District Court,147.0
+60,1,31,1,Maharashtra,Satara,DISTRICT  SESSIONS COURT SATARA.,217.0
+61,1,31,7,Maharashtra,Satara,ADDITIONAL DISTRICT AND SESSIONS JUDGE KARAD,546.0
+62,1,31,17,Maharashtra,Satara,District and Sessions Court,64.0
+63,1,32,1,Maharashtra,Ratnagiri,PRINCIPAL DISTRICT  SESSIONS JUDGE RATNAGIRI.,332.0
+64,1,32,8,Maharashtra,Ratnagiri,District Court-1 Addl. Session Court,258.0
+65,1,33,1,Maharashtra,Sindhudurg,District and Sessions Court Sindhudurg,186.0
+66,1,34,7,Maharashtra,Kolhapur,DISTRICT JUDGE-1  ADDL SESSIONS COURT,376.0
+67,1,34,11,Maharashtra,Kolhapur,DISTRICT COURT,54.0
+68,1,34,12,Maharashtra,Kolhapur,District Court 1 and ASJ Jaysingpur,298.0
+69,1,35,9,Maharashtra,Sangli,DISTRICT AND ADDITIONAL SESSIONS COURT ISLAMPUR,199.0
+70,1,35,13,Maharashtra,Sangli,DISTRICT AND SESSIONS COURT SANGLI,142.0
+71,1,36,1,Maharashtra,Washim,Principal District and Sessions Court,161.0
+72,1,36,9,Maharashtra,Washim,Additional District and Sessions Court,95.0
+73,1,41,17,Maharashtra,Mah State Cooperative Appellat,THE DISTRICT CO-OPERATIVE,423.0
+74,2,2,1,Andhra Pradesh,Ananthapur,District Court Complex,93.0
+75,2,2,16,Andhra Pradesh,Ananthapur,II Addl.District Judges Court,98.0
+76,2,2,26,Andhra Pradesh,Ananthapur,VI Addl.District Judge Court,379.0
+77,2,3,1,Andhra Pradesh,Chittoor,PRINCIPAL DISTRICT AND SESSIONS JUDGE,393.0
+78,2,3,5,Andhra Pradesh,Chittoor,ADDITIONAL DISTRICT JUDGE,609.0
+79,2,3,19,Andhra Pradesh,Chittoor,II Additional District Court,428.0
+80,2,4,1,Andhra Pradesh,East Godavari,Prl. District Court,221.0
+81,2,4,6,Andhra Pradesh,East Godavari,II Addl. Dist. and Sessions Court,689.5
+82,2,4,22,Andhra Pradesh,East Godavari,XII Addl. District and Sessions Judges,964.5
+83,2,4,34,Andhra Pradesh,East Godavari,VII ADDL. DISTRICT AND SESSIONS COURT,1003.0
+84,2,5,1,Andhra Pradesh,Guntur,District Court,124.0
+85,2,5,17,Andhra Pradesh,Guntur,DISTRICT COURT TENALI,541.0
+86,2,5,23,Andhra Pradesh,Guntur,Addl District Judges Court,533.0
+87,2,5,32,Andhra Pradesh,Guntur,X ADDL. DISTRICT COURT,657.0
+88,2,7,1,Andhra Pradesh,Kadapa,District and Sessions Courts,365.0
+89,2,7,14,Andhra Pradesh,Kadapa,V Additional District Judge Court,642.0
+90,2,7,15,Andhra Pradesh,Kadapa,II Additional District  Court,991.5
+91,2,7,27,Andhra Pradesh,Kadapa,III Additional District Judge Court,851.0
+92,2,10,1,Andhra Pradesh,Kurnool,Prl.District and Sessions Court,410.0
+93,2,10,6,Andhra Pradesh,Kurnool,II ADDITIONAL DISTRICT JUDGE,724.0
+94,2,10,15,Andhra Pradesh,Kurnool,III Addl.District Court Complex,374.0
+95,2,10,30,Andhra Pradesh,Kurnool,V Addl.District Court Complex,849.0
+96,2,11,1,Andhra Pradesh,Krishna,II Additional District Judge,383.0
+97,2,11,6,Andhra Pradesh,Krishna,Prl. District Court,252.0
+98,2,11,19,Andhra Pradesh,Krishna,XI Addl District Court,964.0
+99,2,11,23,Andhra Pradesh,Krishna,XV ADDITIONAL DISTRICT AND SESSIONS COURT,557.0
+100,2,15,1,Andhra Pradesh,Nellore,District and Sessions Courts,641.0
+101,2,15,10,Andhra Pradesh,Nellore,VII Addl. District and Session Court,1158.0
+102,2,17,1,Andhra Pradesh,Prakasham,PRL. DISTRICT JUDGE COURT,66.0
+103,2,17,22,Andhra Pradesh,Prakasham,VI Addl District and Sessions Court,397.0
+104,2,19,1,Andhra Pradesh,Srikakulam,Prl. District Court,584.0
+105,2,19,13,Andhra Pradesh,Srikakulam,VI Addl.District and Sessions Judge Court,743.0
+106,2,20,1,Andhra Pradesh,Visakapatnam,PRINCIPAL DISTRICT  AND SESSIONS JUDGE,402.0
+107,2,20,6,Andhra Pradesh,Visakapatnam,X Addl District and Session Judges Court,485.0
+108,2,20,10,Andhra Pradesh,Visakapatnam,XIII ADDITIONAL DISTRICT JUDGE COURT AT,741.5
+109,2,20,24,Andhra Pradesh,Visakapatnam,Additional District Court,497.0
+110,2,21,1,Andhra Pradesh,Vizianagaram,PRINCIPAL DISTRICT JUDGE COURT,484.0
+111,2,21,17,Andhra Pradesh,Vizianagaram,II Additional District and Sessions Court,369.5
+112,2,23,1,Andhra Pradesh,West Godavari,Principal District and Sessions Court,183.0
+113,2,23,6,Andhra Pradesh,West Godavari,III ADDL DISTRICT COURT BHIMAVARAM,504.0
+114,2,23,13,Andhra Pradesh,West Godavari,X ADDL DISTRICT COURT NARSAPUR,784.0
+115,2,23,20,Andhra Pradesh,West Godavari,IX Additional District and Sessions,374.0
+116,2,23,23,Andhra Pradesh,West Godavari,ADDITIONAL DISTRICT COURT TANUKU,481.0
+117,3,1,1,Karnataka,BELAGAVI,Prl.  District and Session Judge,139.0
+118,3,2,1,Karnataka,BAGALKOT,PRL. DISTRICT AND SESSION JUDGE,21.0
+119,3,3,1,Karnataka,VIJAYAPURA,PRL. DISTRICT AND SESSIONS COURT,43.0
+120,3,4,1,Karnataka,KALABURAGI,Prl Dist and Sessions Court Kalaburagi,30.0
+121,3,5,1,Karnataka,BIDAR,District and Sessions Court,83.0
+122,3,6,1,Karnataka,RAICHUR,PRL DISTRICT AND SESSIONS JUDGE,70.0
+123,3,8,1,Karnataka,GADAG,Prl District and Sessions Judge,39.0
+124,3,9,1,Karnataka,DHARWAD,PRL. DISTRICT AND SESSIONS JUDGE,37.0
+125,3,10,1,Karnataka,UTTARA KANNADA,PRL. DISTRICT AND SESSIONS JUDGE COURT,22.0
+126,3,10,18,Karnataka,UTTARA KANNADA,1st ADDL. Dist AND SESSIONS JUDGE,258.5
+127,3,11,1,Karnataka,HAVERI,Prl District and Sessions Judge,10.0
+128,3,11,13,Karnataka,HAVERI,II Addl District and Sessions Judge,432.0
+129,3,12,1,Karnataka,BALLARI,PRL DISTRICT AND SESSIONS JUDGE,42.0
+130,3,12,16,Karnataka,BALLARI,III ADDL DISTRICT AND SESSIONS JUDGE,39.0
+131,3,13,1,Karnataka,CHITRADURGA,Prl. District and Sessions Judge,29.0
+132,3,14,1,Karnataka,DAVANGERE,PRL DISTRICT AND SESSION JUDGE,21.0
+133,3,15,1,Karnataka,SHIVAMOGGA,Prl. District and Sessions Judge.,17.0
+134,3,16,1,Karnataka,UDUPI,PRL. DISTRICT AND SESSIONS JUDGE,16.0
+135,3,16,7,Karnataka,UDUPI,ADDL.DISTRICT AND SESSIONS JUDGE-SIT AT KUNDAPURA,351.5
+136,3,17,1,Karnataka,CHIKKAMAGALURU,PRL.DISTRICT AND SESSIONS JUDGE,50.0
+137,3,18,1,Karnataka,TUMAKURU,Prl. District and Sessions Judge,19.0
+138,3,18,22,Karnataka,TUMAKURU,V Addl. District and Sessions Judge,38.0
+139,3,18,23,Karnataka,TUMAKURU,IV Addl. District and Sessions Court,29.5
+140,3,19,1,Karnataka,KOLAR,PRL.DISTRICT AND SESSIONS JUDGE,22.0
+141,3,21,1,Karnataka,BENGALURU RURAL,PRL. DISTRICT AND SESSION JUDGE,27.0
+142,3,21,5,Karnataka,BENGALURU RURAL,IV ADDL. DISTRICT AND SESSIONS JUDGE,39.0
+143,3,21,13,Karnataka,BENGALURU RURAL,III Addl. District and Sessions Judge,18.0
+144,3,21,18,Karnataka,BENGALURU RURAL,V ADDITIONAL DIST  SESSIONS JUDGE,17.0
+145,3,22,1,Karnataka,MANDYA,PRL. DISTRICT AND SESSIONS JUDGE,11.0
+146,3,22,18,Karnataka,MANDYA,III ADL DISTRICT AND SESSIONS JUDGE,20.0
+147,3,23,1,Karnataka,HASSAN,Prl.District and Sessions Judge,43.0
+148,3,24,9,Karnataka,DAKSHINA KANNADA,V ADDL.DISTRICT AND SESSIONS JUDGE,131.0
+149,3,24,17,Karnataka,DAKSHINA KANNADA,PRL. DISTRICT  AND SESSIONS JUDGE,41.0
+150,3,25,1,Karnataka,KODAGU,PRL. DISTRICT AND SESSIONS JUDGE,22.0
+151,3,25,8,Karnataka,KODAGU,II Addl DISTRICT AND SESSIONS COURT VIRAJPET,278.0
+152,3,26,3,Karnataka,MYSURU,PRL. DISTRICT AND SESSIONS JUDGE,96.0
+153,3,27,8,Karnataka,CHAMRAJNAGAR,ADDL. DISTRICT AND SESSIONS COURT,170.0
+154,3,29,1,Karnataka,CHIKKABALLAPUR,Prl. District and Sessions Court,23.0
+155,3,29,7,Karnataka,CHIKKABALLAPUR,II ADDL DISTRICT AND SESSIONS,26.0
+156,4,1,1,Kerala,Kasaragod,PRINCIPAL DISTRICT AND SESSIONS COURT,303.0
+157,4,2,1,Kerala,Ernakulam,DISTRICT AND SESSIONS COURT,15.0
+158,4,2,32,Kerala,Ernakulam,Vth Addl District Court,520.0
+159,4,2,38,Kerala,Ernakulam,Addl District and Sessions Court N.Paravur,729.0
+160,4,2,52,Kerala,Ernakulam,Additional District and Sessions Court-POCSO,342.5
+161,4,3,1,Kerala,Kannur,District and Sessions Court,384.5
+162,4,4,1,Kerala,Thrissur,DISTRICT COURT ESTABLISHMENT,86.0
+163,4,4,10,Kerala,Thrissur,Addl. Dist. and Sessions Court/MACT Irinjalakuda,648.0
+164,4,5,1,Kerala,Kozhikode,District and Sessions Court,245.0
+165,4,5,12,Kerala,Kozhikode,Additional District and Sessions Court,554.0
+166,4,5,24,Kerala,Kozhikode,Additional District and Sessions Court III,343.0
+167,4,6,1,Kerala,Alappuzha,District and Sessions Court,363.0
+168,4,6,21,Kerala,Alappuzha,ADDL.DISTRICT AND SESSIONS COURT-I MAVELIKARA,780.0
+169,4,7,1,Kerala,Idukki,District and sessions court Thodupuzha,246.0
+170,4,8,1,Kerala,Palakkad,DISTRICT AND SESSIONS COURT PALAKKAD,580.0
+171,4,8,17,Kerala,Palakkad,Addl District  Sessions Court  MACT  Ottapalam,506.0
+172,4,9,1,Kerala,Thiruvananthapuram,District and Sessions Court,139.0
+173,4,9,22,Kerala,Thiruvananthapuram,Addl District and Sessions Court,788.5
+174,4,10,19,Kerala,Kottayam,MACT / ADDL. DISTRICT AND SESSIONS COURT,515.0
+175,4,11,1,Kerala,Malappuram,District and Sessions Court,107.0
+176,4,12,1,Kerala,Pathanamthitta,DISTRICT AND SESSIONS COURT PATHANAMTHITTA,248.0
+177,4,13,1,Kerala,Lakshadweep,District and Sessions Court,912.0
+178,4,16,1,Kerala,Wayanad,DISTRICT COURT,202.0
+179,5,1,1,Himachal Pradesh,Hamirpur,DISTRICT AND SESSIONS COURT HAMIRPUR,209.0
+180,5,2,1,Himachal Pradesh,Kangra,District and Sessions Court,212.0
+181,5,4,1,Himachal Pradesh,Una,District and Sessions Judge,161.0
+182,5,5,1,Himachal Pradesh,Solan,District and Sessions Court,182.0
+183,5,5,11,Himachal Pradesh,Solan,District  & Sessions Judge,258.0
+184,5,6,17,Himachal Pradesh,Mandi,District and Sessions Court,137.0
+185,5,7,1,Himachal Pradesh,Bilaspur,District and Sessions Court,79.0
+186,5,7,2,Himachal Pradesh,Bilaspur,Addl. District and Session Court,238.5
+187,5,8,1,Himachal Pradesh,Chamba,District and Sessions Judge Chamba,104.0
+188,5,9,2,Himachal Pradesh,Kinnaur,District  and Sessions Judge,157.0
+189,5,10,1,Himachal Pradesh,Kullu,District and Session Judge,82.0
+190,5,11,9,Himachal Pradesh,Shimla,District and Sessions Judge Rohru,400.0
+191,5,11,10,Himachal Pradesh,Shimla,District and Sessions Judge Shimla,135.0
+192,6,1,4,Assam,Kamrup Metro,Dist Judge and Addl Dist Judges,28.0
+193,6,2,2,Assam,Tinsukia,District and Sessions Judge,30.0
+194,6,3,8,Assam,Sivasagar,Addl Dist and Sessions Judge,88.0
+195,6,4,2,Assam,Morigaon,District and Sessions Judge,24.0
+196,6,5,2,Assam,Lakhimpur,District and Sessions Judge,19.0
+197,6,6,2,Assam,Sonitpur,District and Sessions Judge Sonitpur Tezpur,175.0
+198,6,6,7,Assam,Sonitpur,Addl District and Sessions Judge,470.0
+199,6,7,2,Assam,Dibrugarh,District and Sessions Judge,131.0
+200,6,8,2,Assam,Darrang,District and Sessions Judge,453.5
+201,6,9,3,Assam,Bongaigaon,District And Sessions Judge,252.0
+202,6,10,2,Assam,Nagaon,District and Sessions Judge,15.0
+203,6,10,8,Assam,Nagaon,Addl. District and Sessions Judge FTC,97.5
+204,6,11,2,Assam,Jorhat,District and Sessions Judge,112.0
+205,6,12,1,Assam,Karimganj,District and Sessions Judge Court Karimganj,190.0
+206,6,13,1,Assam,Cachar,District And Sessions Judge Court,23.0
+207,6,15,1,Assam,Nalbari,District and Sessions Judge,31.0
+208,6,16,1,Assam,Dhubri,District and Sessions Judge,131.0
+209,6,16,8,Assam,Dhubri,Additional District and Sessions Judge,126.5
+210,6,17,1,Assam,Dhemaji,District and Sessions Judge,62.5
+211,6,18,1,Assam,Goalpara,District and Sessions Judge,445.0
+212,6,20,1,Assam,Barpeta,District and Sessions Judge,16.0
+213,6,21,1,Assam,Hailakandi,District and Sessions Judge,92.0
+214,6,22,1,Assam,Kokrajhar,District and Sessions Judge,288.0
+215,6,23,2,Assam,Kamrup,District and Sessions Judge,444.0
+216,6,23,6,Assam,Kamrup,Additional District and Sessions Judge Rangia,132.0
+217,6,24,3,Assam,Udalguri,District And Sessions Court,70.0
+218,6,25,6,Assam,Chirang,Additional District and Sessions Judge,336.0
+219,6,26,1,Assam,Karbi Anglong,District and Sessions Judge,475.5
+220,6,27,1,Assam,Baksa,District and Sessions Judge,331.0
+221,7,1,2,Jharkhand,Bokaro,Principal District and  Sessions Judge,31.0
+222,7,2,2,Jharkhand,Dumka,District and Sessions Courts,38.0
+223,7,3,1,Jharkhand,Koderma,Principal District  Sessions Judge,28.0
+224,7,4,2,Jharkhand,West Singhbhum at Chaibasa,District And Sessions Court,30.0
+225,7,5,1,Jharkhand,Gumla,District and Sessions Court,41.0
+226,7,6,2,Jharkhand,Godda,District and Sessions Courts,35.0
+227,7,7,2,Jharkhand,Hazaribagh,Principal District & Sessions Judge Hazaribag,29.0
+228,7,8,4,Jharkhand,Lohardaga,Principal District Judge,59.0
+229,7,9,4,Jharkhand,Dhanbad,District and Sessions Judge Dhanbad,26.0
+230,7,10,1,Jharkhand,Giridih,District And Sessions Courts Giridih,31.0
+231,7,11,1,Jharkhand,East Singhbhum at Jamshedpur,District and Sessions Courts,35.0
+232,7,12,1,Jharkhand,Jamtara,District and Sessions Courts,29.0
+233,7,14,1,Jharkhand,Pakur,DISTRICT AND SESSIONS COURT PAKUR,19.0
+234,7,15,1,Jharkhand,Seraikella,District And Sessions Court,25.0
+235,7,17,1,Jharkhand,Daltonganj,Principal District and Sessions Judge Palamau,45.0
+236,7,18,1,Jharkhand,Simdega,District And Sessions Court,150.0
+237,7,19,1,Jharkhand,Latehar,District and Sessions Courts,25.0
+238,7,20,1,Jharkhand,Garhwa,Principal District Judge,42.0
+239,7,21,1,Jharkhand,Sahibganj,Principal District Judge Espb,56.0
+240,7,23,1,Jharkhand,RAMGARH,District and Sessions Judge Courts,47.0
+241,1,34,1,Maharashtra,Kolhapur,DISTRICT AND SESSIONS COURT KOLHAPUR,216.0
+242,7,24,1,Jharkhand,KHUNTI,Principal District and Sessions Judge Khunti,481.0
+243,8,3,2,Bihar,Samastipur,District and Sessions Judge,37.0
+244,8,17,5,Bihar,Darbhanga,District Sessions Judge Sub-Division,22.0
+245,8,18,4,Bihar,Madhubani,District & Sessions Judge,88.0
+246,8,31,1,Bihar,Sitamarhi,District and Sessions Judge,21.0
+247,8,33,1,Bihar,Bhojpur,District and Sessional Judge Div.,25.0
+248,8,34,4,Bihar,Bhagalpur,District and Sessional Judge Div.,343.0
+249,8,35,1,Bihar,Gaya,District and Sessions Judge Div.,19.0
+250,8,36,1,Bihar,Jehanabad,District and Sessional Judge Div.,27.0
+251,9,1,11,Rajasthan,Rajsamand,DJ ADJ-Rajsamand District HQ,98.0
+252,9,2,11,Rajasthan,Alwar,DJ ADJ-Alwar District HQ,259.0
+253,9,2,12,Rajasthan,Alwar,LABOUR-Alwar District HQ,1416.0
+254,9,3,20,Rajasthan,Dausa,POCSO-Dausa District HQ,49.0
+255,9,6,8,Rajasthan,Bikaner,DJ ADJ - Bikaner District HQ,148.0
+256,9,7,11,Rajasthan,Ganganagar,DJ ADJ -Shri Ganganagar District HQ,197.0
+257,9,7,12,Rajasthan,Ganganagar,WA Cases -Shri Ganganagar District HQ,74.0
+258,9,8,11,Rajasthan,Merta (Nagaur),DJ-Merta District HQ,421.0
+259,9,9,12,Rajasthan,Udaipur,DJ ADJ-Udaipur District HQ,225.0
+260,9,9,18,Rajasthan,Udaipur,Labor-Udaipur District HQ,871.5
+261,9,9,21,Rajasthan,Udaipur,WAC-Udaipur District HQ,240.0
+262,9,9,22,Rajasthan,Udaipur,Rent-Udaipur Districe HQ,335.0
+263,9,11,2,Rajasthan,Hanumangarh,DJ ADJ-Hanumangarh District HQ,157.0
+264,9,13,13,Rajasthan,Bharatpur,DJ ADJ - Bharatpur District HQ,347.0
+265,9,13,16,Rajasthan,Bharatpur,SPCL COURT - Bharatpur District HQ,394.0
+266,9,13,18,Rajasthan,Bharatpur,LABOUR - Bharatpur District HQ,1312.5
+267,9,14,9,Rajasthan,Ajmer,DJ ADJ-Ajmer District HQ,208.0
+268,9,14,13,Rajasthan,Ajmer,Labor-Ajmer District HQ,473.0
+269,9,18,2,Rajasthan,Jhunjhunu,DJ ADJ - Jhunjhunu District HQ,309.0
+270,9,22,17,Rajasthan,Jhalawar,ADJ - Aklera Jhalawar District,467.0
+271,9,22,23,Rajasthan,Jhalawar,ADJ - Bhawanimandi Jhalawar District,738.0
+272,9,23,3,Rajasthan,Pratapgarh,DJ ADJ COURT PRATAPGARH DISTRICT HQ,97.0
+273,9,24,5,Rajasthan,Dungarpur,DJ ADJ Dungarpur District HQ,76.0
+274,9,25,6,Rajasthan,Banswara,DJ ADJ Banswara District HQ,163.0
+275,9,25,20,Rajasthan,Banswara,POCSO Banswara District HQ,119.5
+276,9,26,7,Rajasthan,Sirohi,DJ ADJ-Sirohi District HQ,247.0
+277,9,27,4,Rajasthan,Balotra Barmer,DJ ADJ-Balotra District HQ,439.0
+278,9,29,5,Rajasthan,Karauli,DJ ADJ-Karauli District HQ,325.0
+279,9,30,6,Rajasthan,Chittorgarh,DJ ADJ - Chittorgarh District HQ,221.0
+280,9,31,11,Rajasthan,Bhilwara,DJ/ADJ - Bhilwara District HQ,379.0
+281,9,31,19,Rajasthan,Bhilwara,WA - Bhilwara District HQ,492.5
+282,9,31,32,Rajasthan,Bhilwara,ADDITIONAL DISTRICT SESSION JUDGE GULABPURA,549.5
+283,9,32,4,Rajasthan,Jaiselmer,DJ-Jaisalmer District HQ,114.0
+284,9,32,17,Rajasthan,Jaiselmer,Fam-Jaisalmer District HQ,492.0
+285,9,33,22,Rajasthan,Churu,DJ ADJ DISTRICT HQ CHURU,220.5
+286,9,34,2,Rajasthan,Dholpur,DJ ADJ - Dholpur District HQ,274.0
+287,9,34,6,Rajasthan,Dholpur,SPCL - Dholpur District HQ,630.0
+288,9,35,8,Rajasthan,Sikar,District  & Sessions Judge Sikar HQ,256.0
+289,9,38,9,Rajasthan,Jaipur District,DJ ADJ-Jaipur District HQ,467.0
+290,9,38,12,Rajasthan,Jaipur District,Print Statn_CBI Cases_JPR District HQ,518.0
+291,9,38,14,Rajasthan,Jaipur District,DJ ADJ-Sambhar Lake,610.5
+292,9,38,20,Rajasthan,Jaipur District,ADJ-Shahpura,612.5
+293,9,38,34,Rajasthan,Jaipur District,ADJ-Kotputli,1316.5
+294,9,39,1,Rajasthan,Jodhpur District,DJ ADJ-Jodhpur District HQ,230.5
+295,9,39,14,Rajasthan,Jodhpur District,ADJ Phalodi HQ,377.0
+296,10,1,2,Tamil Nadu,Dharmapuri,District Munsif cum Judicial,898.5
+297,10,1,3,Tamil Nadu,Dharmapuri,District Munsif Court,1108.0
+298,10,1,6,Tamil Nadu,Dharmapuri,Principal District and Sessions,458.0
+299,10,1,9,Tamil Nadu,Dharmapuri,District Munsif Court,602.0
+300,10,1,10,Tamil Nadu,Dharmapuri,District Munsif Court,885.5
+301,10,1,17,Tamil Nadu,Dharmapuri,Special District Court to Deal with MCOP,842.0
+302,10,1,20,Tamil Nadu,Dharmapuri,District Munsif Court,1395.0
+303,10,2,5,Tamil Nadu,Pudukkottai,PRINCIPAL DISTRICT COURT,472.0
+304,10,2,8,Tamil Nadu,Pudukkottai,DISTRICT MUNSIF COURT,605.0
+305,10,2,10,Tamil Nadu,Pudukkottai,District Munsif Court,1291.0
+306,10,2,14,Tamil Nadu,Pudukkottai,District Munsif Court,1042.0
+307,10,3,6,Tamil Nadu,Tirunelveli,Principal District Munsif cum Judicial,828.0
+308,10,3,16,Tamil Nadu,Tirunelveli,II Additional District Court (PCR),19.0
+309,10,3,17,Tamil Nadu,Tirunelveli,Principal District Munsif Court,684.0
+310,10,3,19,Tamil Nadu,Tirunelveli,Principal District Munsif Court,1238.0
+311,10,3,21,Tamil Nadu,Tirunelveli,Additional District Munsif Court,1757.0
+312,10,3,22,Tamil Nadu,Tirunelveli,Principal District Munsif Court,580.0
+313,10,3,26,Tamil Nadu,Tirunelveli,Additional District - Sessions Court,387.0
+314,2,4,3,Andhra Pradesh,East Godavari,III Addl. District And Sessions Court,365.5
+315,10,3,31,Tamil Nadu,Tirunelveli,Principal District Munsif Court,767.5
+316,10,3,32,Tamil Nadu,Tirunelveli,District Munsif Court,894.0
+317,10,4,7,Tamil Nadu,Theni,Principal District Court Theni,166.0
+318,10,4,9,Tamil Nadu,Theni,District Munsif Court Theni,441.0
+319,10,4,13,Tamil Nadu,Theni,Additional District Court,414.5
+320,10,4,15,Tamil Nadu,Theni,District Munsif Court,680.5
+321,10,4,16,Tamil Nadu,Theni,District Munsif Court,574.5
+322,10,4,20,Tamil Nadu,Theni,District Munsif Court,885.0
+323,10,4,22,Tamil Nadu,Theni,District Munsif Court,801.0
+324,10,5,3,Tamil Nadu,Namakkal,District Munsif,868.0
+325,10,5,8,Tamil Nadu,Namakkal,District Munsif,571.0
+326,10,5,11,Tamil Nadu,Namakkal,Principal District Munsif,652.0
+327,10,6,3,Tamil Nadu,Nagapattinam,District Munsif Court,639.0
+328,10,6,5,Tamil Nadu,Nagapattinam,Principal District Court,492.0
+329,10,6,8,Tamil Nadu,Nagapattinam,District Munsif Court,680.5
+330,10,6,11,Tamil Nadu,Nagapattinam,Principal District Munsif Court,322.0
+331,10,6,16,Tamil Nadu,Nagapattinam,Additional District Court,1183.0
+332,10,7,4,Tamil Nadu,Kanniyakumari,Principal District Munsif Court,604.0
+333,10,7,5,Tamil Nadu,Kanniyakumari,Principal District Munsiff Court,618.0
+334,10,7,7,Tamil Nadu,Kanniyakumari,Principal District and Sessions Court,6.0
+335,10,7,11,Tamil Nadu,Kanniyakumari,Principal District Munsif,731.0
+336,10,7,13,Tamil Nadu,Kanniyakumari,Principal Dist.Munsiff,895.0
+337,10,7,23,Tamil Nadu,Kanniyakumari,District Munsif Court,1317.0
+338,10,8,2,Tamil Nadu,Tiruchirappalli,District Munsif Court,224.5
+339,10,8,4,Tamil Nadu,Tiruchirappalli,District Munsif Court Establishment,617.0
+340,10,8,5,Tamil Nadu,Tiruchirappalli,District Munsif Court Establishment,203.0
+341,10,8,9,Tamil Nadu,Tiruchirappalli,Principal District and Session Court,9.0
+342,10,8,16,Tamil Nadu,Tiruchirappalli,District Munsif Courts Establishment,588.0
+343,10,8,21,Tamil Nadu,Tiruchirappalli,Principal District Munsif Court,248.0
+344,10,9,3,Tamil Nadu,Thoothukudi,District Munsif Court Complex,553.5
+345,10,9,5,Tamil Nadu,Thoothukudi,Principal District court complex,6.0
+346,10,9,8,Tamil Nadu,Thoothukudi,Principal District Musif court complex,489.5
+347,10,9,11,Tamil Nadu,Thoothukudi,District Munsif Court,526.0
+348,10,9,17,Tamil Nadu,Thoothukudi,District Munsif Court,592.5
+349,10,9,20,Tamil Nadu,Thoothukudi,District Munsif Court,445.0
+350,10,10,2,Tamil Nadu,Viluppuram,Principal District Munsif,357.0
+351,10,10,4,Tamil Nadu,Viluppuram,Principal District Munsif,694.0
+352,10,10,6,Tamil Nadu,Viluppuram,Principal District Munsif Court,883.0
+353,10,10,10,Tamil Nadu,Viluppuram,Additional District and Sessions,493.0
+354,10,10,11,Tamil Nadu,Viluppuram,Principal District Munsif,416.5
+355,10,10,16,Tamil Nadu,Viluppuram,District Munsif Court,767.0
+356,10,10,17,Tamil Nadu,Viluppuram,Principal District Court Villupuram,285.0
+357,10,10,23,Tamil Nadu,Viluppuram,Principal District Munsif Villupuram,803.0
+358,10,10,27,Tamil Nadu,Viluppuram,Additional District Court No.1,15.0
+359,10,10,28,Tamil Nadu,Viluppuram,Additional District Court No.2,456.5
+360,10,10,31,Tamil Nadu,Viluppuram,Principal District Munsif,893.0
+361,10,11,4,Tamil Nadu,Vellore,ADDITIONAL DISTRICT AND SESSIONS JUDGE,471.0
+362,10,11,5,Tamil Nadu,Vellore,Principal District Munsif,531.0
+363,10,11,6,Tamil Nadu,Vellore,Addl Dist and Sess Court,32.0
+364,10,11,7,Tamil Nadu,Vellore,District Munsif Court,276.0
+365,10,11,10,Tamil Nadu,Vellore,District Munsif,344.0
+366,10,11,11,Tamil Nadu,Vellore,Distrcit Munsif,665.0
+367,10,11,12,Tamil Nadu,Vellore,Principal District Court,214.0
+368,10,11,15,Tamil Nadu,Vellore,Principal District Munsif Court,533.0
+369,10,11,19,Tamil Nadu,Vellore,District Munsif,575.0
+370,10,11,23,Tamil Nadu,Vellore,Principal District Munsif Court,651.0
+371,10,11,27,Tamil Nadu,Vellore,DISTRICT MUNSIF,393.0
+372,10,11,36,Tamil Nadu,Vellore,District Munsif,959.0
+373,10,12,9,Tamil Nadu,Salem,District Munsif Court,1117.0
+374,10,12,16,Tamil Nadu,Salem,Special District MCOP Court,503.0
+375,10,12,18,Tamil Nadu,Salem,District Munsif,1841.5
+376,10,12,21,Tamil Nadu,Salem,Additional District Court (Fast Track),626.0
+377,10,12,24,Tamil Nadu,Salem,District Munsif,1443.0
+378,10,14,5,Tamil Nadu,Virudhunagar,Additional District Court,475.5
+379,10,14,8,Tamil Nadu,Virudhunagar,Principal District Court,432.0
+380,10,14,11,Tamil Nadu,Virudhunagar,Principal District Munsif Court,581.0
+381,10,14,13,Tamil Nadu,Virudhunagar,District Musif Court,682.0
+382,10,14,15,Tamil Nadu,Virudhunagar,District Munsif Court,358.0
+383,10,14,18,Tamil Nadu,Virudhunagar,Principal District Munisf Court,1578.5
+384,10,15,3,Tamil Nadu,Madurai,Principal District Judge,10.0
+385,10,15,4,Tamil Nadu,Madurai,II Addl District Judge for CBI,1273.0
+386,10,15,7,Tamil Nadu,Madurai,District Munsif Taluk,779.5
+387,10,15,10,Tamil Nadu,Madurai,III Addl District Judge forPCR,514.5
+388,10,15,12,Tamil Nadu,Madurai,Principal District Munsif,560.0
+389,10,15,14,Tamil Nadu,Madurai,District Munsif Court Thirumangalam,1054.0
+390,10,15,15,Tamil Nadu,Madurai,District Munsif Court Complex,967.5
+391,10,15,19,Tamil Nadu,Madurai,District Munsif Court,818.0
+392,10,15,22,Tamil Nadu,Madurai,Spl District Judge for MCOP cases,554.5
+393,10,16,1,Tamil Nadu,The Nilgiris,District court,345.5
+394,10,16,2,Tamil Nadu,The Nilgiris,District Munsif Court,336.5
+395,10,16,7,Tamil Nadu,The Nilgiris,District Munsif Cum Judicial,399.0
+396,10,16,10,Tamil Nadu,The Nilgiris,District Munsif Court,661.5
+397,10,17,3,Tamil Nadu,Thanjavur,I ADD DISTRICT COURT(PCR),187.0
+398,10,17,4,Tamil Nadu,Thanjavur,III ADDL. DISTRICT COURT,578.0
+399,10,17,8,Tamil Nadu,Thanjavur,DISTRICT MUNSIF COURT,465.0
+400,10,17,12,Tamil Nadu,Thanjavur,DISTRICT MUNSIF COURT,573.5
+401,10,17,13,Tamil Nadu,Thanjavur,SPL DISTRICT COURT MCOP TRIPUNAL ,336.0
+402,10,17,18,Tamil Nadu,Thanjavur,Additional District Court,609.0
+403,10,17,22,Tamil Nadu,Thanjavur,Principal District Munsif court,977.0
+404,10,17,23,Tamil Nadu,Thanjavur,District Munsif Court,707.0
+405,10,18,17,Tamil Nadu,Coimbatore,PRINCIPAL DISTRICT MUNSIF COURT,727.0
+406,10,18,20,Tamil Nadu,Coimbatore,DISTRICT MUNSIF,611.0
+407,10,18,23,Tamil Nadu,Coimbatore,DISTRICT MUNSIF,237.0
+408,10,19,2,Tamil Nadu,Karur,The Principal District Court,211.0
+409,10,19,5,Tamil Nadu,Karur,The Principal District Munsif Court,594.0
+410,10,19,9,Tamil Nadu,Karur,District Munsif Court,796.0
+411,10,20,1,Tamil Nadu,Cuddalore,Principal District Judge Cuddalore.,467.0
+412,10,20,7,Tamil Nadu,Cuddalore,Additional District Judge III,348.0
+413,10,20,12,Tamil Nadu,Cuddalore,District Munsif Court,707.5
+414,10,20,16,Tamil Nadu,Cuddalore,Principal District Munsif,620.0
+415,10,20,18,Tamil Nadu,Cuddalore,Additional District Judge-II,626.5
+416,10,20,19,Tamil Nadu,Cuddalore,Principal  District Munsif,504.0
+417,10,20,24,Tamil Nadu,Cuddalore,Principal District Munsif Court,478.0
+418,10,21,3,Tamil Nadu,Ramanathapuram,District Munsif Cum Judicial,541.0
+419,10,21,5,Tamil Nadu,Ramanathapuram,District Munsif Court,974.0
+420,10,21,9,Tamil Nadu,Ramanathapuram,District Munsif,575.0
+421,10,21,13,Tamil Nadu,Ramanathapuram,District Munsif Court,610.5
+422,10,21,15,Tamil Nadu,Ramanathapuram,Additional District Court,739.5
+423,10,22,1,Tamil Nadu,Tiruvannamalai,Principal District and Sessions Court,728.5
+424,10,22,8,Tamil Nadu,Tiruvannamalai,District Munsif Court,1136.0
+425,10,22,9,Tamil Nadu,Tiruvannamalai,Principal District Munsif Court,648.0
+426,10,22,11,Tamil Nadu,Tiruvannamalai,District Munsif Court,713.5
+427,10,22,15,Tamil Nadu,Tiruvannamalai,District Munsif Court,1017.0
+428,10,22,17,Tamil Nadu,Tiruvannamalai,Principal District Munsif,695.5
+429,10,22,21,Tamil Nadu,Tiruvannamalai,Additional District Court,405.5
+430,10,22,22,Tamil Nadu,Tiruvannamalai,District Munsif Court,918.0
+431,10,23,2,Tamil Nadu,Perambalur,Prl. DISTRICT AND SESSIONS COURT AND MAHILA,194.0
+432,10,24,2,Tamil Nadu,Erode,District Munsif,438.5
+433,10,24,3,Tamil Nadu,Erode,Principal District Court,199.0
+434,10,24,6,Tamil Nadu,Erode,Principal District Munsif,336.0
+435,10,24,14,Tamil Nadu,Erode,Additional District Court,308.0
+436,10,24,16,Tamil Nadu,Erode,District Munsif,818.0
+437,10,24,20,Tamil Nadu,Erode,IV-ADDITIONAL DISTRICT COURT,597.0
+438,10,24,22,Tamil Nadu,Erode,Principal District Munsif,238.5
+439,10,24,24,Tamil Nadu,Erode,1 Additional District Munsif Court,756.0
+440,10,24,25,Tamil Nadu,Erode,Special District Court MCOP Establishment,336.5
+441,10,25,6,Tamil Nadu,Tiruvarur,District Munsif Court,466.5
+442,10,25,9,Tamil Nadu,Tiruvarur,Principal District Court,341.0
+443,10,25,12,Tamil Nadu,Tiruvarur,District Munsif Court,422.0
+444,10,25,14,Tamil Nadu,Tiruvarur,District  Munsif,421.0
+445,10,26,2,Tamil Nadu,Krishnagiri,Principal District Judge,218.0
+446,10,26,4,Tamil Nadu,Krishnagiri,District Munsif,521.5
+447,10,26,10,Tamil Nadu,Krishnagiri,District Munsif cum Judicial,36.5
+448,10,26,15,Tamil Nadu,Krishnagiri,Additional District Court,592.0
+449,10,26,18,Tamil Nadu,Krishnagiri,District Munsif cum Judicial,137.0
+450,10,26,19,Tamil Nadu,Krishnagiri,District Munsif Court,902.0
+451,10,27,2,Tamil Nadu,Dindigul,Principal District and Sessions Court,414.0
+452,10,27,5,Tamil Nadu,Dindigul,Principal District munsif Court,764.5
+453,10,27,6,Tamil Nadu,Dindigul,District Munsiff Court,763.0
+454,10,27,9,Tamil Nadu,Dindigul,District Munsif,517.0
+455,10,27,10,Tamil Nadu,Dindigul,District Munsif cum Judicial,934.5
+456,10,27,12,Tamil Nadu,Dindigul,District Munsif court,621.0
+457,10,27,19,Tamil Nadu,Dindigul,Additional District Court(FTC),255.0
+458,10,27,22,Tamil Nadu,Dindigul,Principal District Munsif Court,2491.5
+459,10,28,2,Tamil Nadu,Puducherry,Principal District Court Establishment,561.0
+460,10,28,5,Tamil Nadu,Puducherry,Principal District Munsif Establishment,164.0
+461,10,28,7,Tamil Nadu,Puducherry,District and  Sessions Court,492.0
+462,10,29,3,Tamil Nadu,Sivagangai,District Munsif Court,639.5
+463,3,7,1,Karnataka,KOPPAL,Prl.District and Sessions Court Koppal,46.0
+464,10,29,12,Tamil Nadu,Sivagangai,DISTRICT MUNSIF COURT,540.0
+465,10,30,4,Tamil Nadu,Ariyalur,Principal_District_Court_ Establisment_Ariyalur,48.0
+466,10,30,7,Tamil Nadu,Ariyalur,Principal_District_Munsif_Court_Ariyalur,1063.0
+467,10,30,8,Tamil Nadu,Ariyalur,District_Munsif_Court_Jayankondam,643.5
+468,10,31,4,Tamil Nadu,Kancheepuram,District and Sessions Judge,622.0
+469,10,31,7,Tamil Nadu,Kancheepuram,Principal District Munsif,920.5
+470,10,31,8,Tamil Nadu,Kancheepuram,Principal District Court,293.0
+471,10,31,11,Tamil Nadu,Kancheepuram,District Munsif Court,810.5
+472,10,31,13,Tamil Nadu,Kancheepuram,Principal District Munsif,680.0
+473,10,31,18,Tamil Nadu,Kancheepuram,District Munsif Court,678.0
+474,10,32,5,Tamil Nadu,Tiruvallur,District Munsif Court,1396.0
+475,10,32,8,Tamil Nadu,Tiruvallur,District Munsif Court,805.5
+476,10,32,12,Tamil Nadu,Tiruvallur,District Munsif Court,884.5
+477,10,32,15,Tamil Nadu,Tiruvallur,District Munsif cum Judicial,745.0
+478,10,32,19,Tamil Nadu,Tiruvallur,Principal District and Sessions Court,301.0
+479,10,32,21,Tamil Nadu,Tiruvallur,Additional District and Sessions Court-II,504.5
+480,10,32,24,Tamil Nadu,Tiruvallur,Principal District Munsif,693.0
+481,10,33,1,Tamil Nadu,Tiruppur,District Munsif Court,521.5
+482,10,33,2,Tamil Nadu,Tiruppur,District Munsif Court,472.0
+483,10,33,6,Tamil Nadu,Tiruppur,District Munsif Court,410.0
+484,10,33,9,Tamil Nadu,Tiruppur,District Munsif Court,187.0
+485,10,33,14,Tamil Nadu,Tiruppur,District Munsif Court,616.0
+486,10,33,17,Tamil Nadu,Tiruppur,III Additional District Judge,683.0
+487,10,33,19,Tamil Nadu,Tiruppur,District Munsif Court,248.0
+488,10,33,20,Tamil Nadu,Tiruppur,Principal District court,655.5
+489,11,1,4,Orissa,Cuttack,District and Sessions Court,85.0
+490,11,1,7,Orissa,Cuttack,Addl. District and Sessions Judge,129.0
+491,11,2,2,Orissa,Kendrapada,District and Sessions Judge,333.0
+492,11,3,2,Orissa,Nuapada,District and  Sessions Judge Court Nuapada,235.0
+493,11,4,2,Orissa,Ganjam,District Civil and  Sessions Court,351.0
+494,11,4,16,Orissa,Ganjam,Additional District Judge,342.0
+495,11,4,19,Orissa,Ganjam,Additional District Judge,760.0
+496,11,5,2,Orissa,Balasore,District  and Sessions Judge,25.0
+497,11,6,3,Orissa,Koraput,District and Sessions Judge,36.0
+498,11,6,6,Orissa,Koraput,Addl District and Sessions Jugde,29.0
+499,11,7,2,Orissa,Dhenkanal,District and Sessions Judge Dhenkanal,256.0
+500,11,7,5,Orissa,Dhenkanal,Additional District and Sessions Judge,270.0
+501,11,8,2,Orissa,Khurda,District and Sessions Court,81.0
+502,11,8,5,Orissa,Khurda,Addl. District and Sessions Court,486.0
+503,11,9,2,Orissa,Gajapati,District and Session Judge,120.0
+504,11,10,4,Orissa,Kalahandi,District and Sessions Judge,208.5
+505,11,10,8,Orissa,Kalahandi,Additional District  and Sessions Judge,426.5
+506,11,11,2,Orissa,Sambalpur,District and Sessions Judge ,19.0
+507,11,11,8,Orissa,Sambalpur,Additional District & Session Judge,1190.0
+508,11,11,11,Orissa,Sambalpur,Additional District Judge,692.0
+509,11,12,3,Orissa,Jharsuguda,District And Sessions Judge,230.0
+510,11,13,2,Orissa,Keonjhar,District and Sessions Judge,318.0
+511,11,13,8,Orissa,Keonjhar,Additional District and Session Judge,40.0
+512,11,13,11,Orissa,Keonjhar,Addl. District and Sessions Judge,13.0
+513,11,14,3,Orissa,Jagatsinghpur,Dist and Sessions Judge court Jagatsinghpur,220.0
+514,11,15,3,Orissa,Puri,District and Sessions Judge Puri,77.5
+515,11,15,14,Orissa,Puri,Additional District and Sessions Judge,28.0
+516,11,16,2,Orissa,Sundargarh,District and Sessions Judge Court Sundargarh,777.0
+517,11,17,2,Orissa,Balangir,District & Sessions Judge,81.0
+518,11,17,6,Orissa,Balangir,Additional District Judge Patnagarh,289.0
+519,11,17,8,Orissa,Balangir,Additional District Judge,419.0
+520,11,17,11,Orissa,Balangir,Additional District Judge,37.0
+521,11,18,2,Orissa,Bhadrak,District and Sessions Judge,19.0
+522,11,19,2,Orissa,Jajpur,District and Sessions Judge,301.0
+523,11,20,2,Orissa,Sonepur,District and  Sessions Judge,16.0
+524,11,21,2,Orissa,Rayagada,District and Sessions Court,84.0
+525,11,22,4,Orissa,Nayagarh,District & Sessions Judge Court,27.0
+526,11,26,2,Orissa,Mayurbhanj,District and Sessions Judge Court,575.0
+527,11,26,5,Orissa,Mayurbhanj,Addl. District and Sessions Judge,648.0
+528,11,26,12,Orissa,Mayurbhanj,Additional District and Sessions Judge,538.5
+529,11,27,2,Orissa,Anugul,District and Sessions Judge,85.0
+530,11,27,5,Orissa,Anugul,Additional District and Sessions Judge,541.0
+531,11,29,1,Orissa,Bargarh,District and Sessions Judge Court,749.0
+532,11,29,9,Orissa,Bargarh,Addl. District and Sessions Judge Padampur,927.0
+533,11,30,1,Orissa,Deogarh,District and Sessions Judge,68.0
+534,11,31,1,Orissa,Malkangiri,Additional District and Sessions Judge Malkangiri,479.0
+535,11,32,1,Orissa,Nabarangpur,District and Sessions Court ,145.5
+536,12,1,2,Jammu and Kashmir,Kathua,Principal District Judge,438.0
+537,12,2,2,Jammu and Kashmir,Udhampur,Pr. District Judge ,404.0
+538,12,3,3,Jammu and Kashmir,Baramulla,Principal District Judge,370.5
+539,12,3,6,Jammu and Kashmir,Baramulla,Additional District Judge,427.0
+540,12,4,2,Jammu and Kashmir,Anantnag,Principal District Judge,206.0
+541,12,6,2,Jammu and Kashmir,Pulwama,Principal District Judge,216.0
+542,12,7,3,Jammu and Kashmir,Ganderbal,Principal District Judge,299.0
+543,12,8,2,Jammu and Kashmir,Budgam,Principal District Judge,273.0
+544,12,9,2,Jammu and Kashmir,Reasi,Principal District Judge,395.0
+545,12,10,2,Jammu and Kashmir,Shopian,Principal District Judge Shopian,406.0
+546,12,11,2,Jammu and Kashmir,Kupwara,Principal District Judge,320.5
+547,12,11,5,Jammu and Kashmir,Kupwara,Principal District Judge,257.0
+548,12,12,2,Jammu and Kashmir,Poonch,Pr Distt judge,368.0
+549,12,13,2,Jammu and Kashmir,Rajouri,Principal District Judge,503.0
+550,12,14,2,Jammu and Kashmir,Ramban,Principal District Judge,324.5
+551,12,15,2,Jammu and Kashmir,Doda,Principal District Judge,363.0
+552,12,15,7,Jammu and Kashmir,Doda,Principal District Judge,302.0
+553,12,18,2,Jammu and Kashmir,Bandipora,Principal District Judge,420.0
+554,12,19,2,Jammu and Kashmir,Jammu,Principal District Judge,364.0
+555,12,20,2,Jammu and Kashmir,Kulgam,Principal District Judge,333.0
+556,12,22,2,Jammu and Kashmir,Kishtwar,Principal District Judge,270.0
+557,13,1,2,Uttar Pradesh,Allahabad,District and Sessions Judge,128.0
+558,13,2,2,Uttar Pradesh,Bareilly,District and  Sessions Judge,72.0
+559,13,3,2,Uttar Pradesh,Gorakhpur,District and Sessions Judge,48.0
+560,13,4,2,Uttar Pradesh,Hardoi,District and Session Judge,191.0
+561,13,5,2,Uttar Pradesh,Chitrakoot,District and Sessions Judge,46.0
+562,13,6,2,Uttar Pradesh,Meerut,District and Sessions Judge,227.0
+563,13,7,2,Uttar Pradesh,Bahraich,District and Sessions Judge Bahraich,118.0
+564,13,8,2,Uttar Pradesh,Ghaziabad,District Sessions Judge,30.0
+565,13,9,2,Uttar Pradesh,Fatehpur,District and Session Court,38.0
+566,13,10,2,Uttar Pradesh,Lakhimpur,District and Sessions Judge,49.0
+567,13,10,9,Uttar Pradesh,Lakhimpur,District and Sessions Judge,830.0
+568,13,11,2,Uttar Pradesh,Shravasti,District and Sessions Judge,33.0
+569,13,12,2,Uttar Pradesh,Jaunpur,District  and Sessions Judge,57.0
+570,13,13,2,Uttar Pradesh,Pilibhit,District and Sessions Judge,73.0
+571,13,14,2,Uttar Pradesh,Mainpuri,District  Session Judge,307.0
+572,3,27,1,Karnataka,CHAMRAJNAGAR,Prl. District and Sessions Judge,43.0
+573,13,15,2,Uttar Pradesh,Ambedkar Nagar,District and  Sessions Judge,62.0
+574,13,16,2,Uttar Pradesh,Sitapur,District and Sessions Judge,37.0
+575,13,17,2,Uttar Pradesh,Auraiya,District and Sessions Judge,112.0
+576,13,18,2,Uttar Pradesh,Budaun,District and Session Judge,72.0
+577,13,19,2,Uttar Pradesh,Kanpur Nagar,District and Sessions Judge,367.0
+578,13,20,2,Uttar Pradesh,Gautam Buddha Nagar,District and Session Judge,21.0
+579,13,21,2,Uttar Pradesh,Ballia,District and Sessions Judge,291.0
+580,13,23,2,Uttar Pradesh,Lalitpur,District and Sessions Judge,174.0
+581,13,24,2,Uttar Pradesh,Lucknow,District and Sessions Judge Lucknow,80.0
+582,13,25,2,Uttar Pradesh,Etah,District And Sessions Judge,105.5
+583,13,26,2,Uttar Pradesh,Muzaffarnagar,District and Session judge,50.0
+584,13,27,2,Uttar Pradesh,Varanasi,District and Sessions Judge,309.0
+585,13,28,2,Uttar Pradesh,Ghazipur,District and Sessions Judge,165.0
+586,13,29,2,Uttar Pradesh,Firozabad,District And Sessions Judge,53.0
+587,13,30,2,Uttar Pradesh,Agra,District Judge,95.0
+588,13,31,2,Uttar Pradesh,Pratapgarh,District and session judge,48.0
+589,3,28,1,Karnataka,RAMANAGARAM,PRL.DISTRICT AND SESSIONS JUDGE,18.0
+590,13,33,2,Uttar Pradesh,Etawah,District and Sessions Judge,267.0
+591,13,34,2,Uttar Pradesh,Kushinagar,District and Sessions Court,82.0
+592,13,35,2,Uttar Pradesh,Jyotiba Phule Nagar,District and Sessions Judge,42.0
+593,13,36,2,Uttar Pradesh,Barabanki,District and Sessions Judge,184.0
+594,13,38,2,Uttar Pradesh,Mahoba,District Session Judge,71.0
+595,13,39,2,Uttar Pradesh,Banda,District and Sessions Judge,83.0
+596,13,40,2,Uttar Pradesh,Kanshi Ram Nagar,District and Sessions Judge,131.0
+597,13,41,2,Uttar Pradesh,Deoria,District and Sessions Judge,522.0
+598,13,42,2,Uttar Pradesh,Mau,District and Sessions Judge,161.0
+599,13,43,2,Uttar Pradesh,Aligarh,District and Session Judge,127.0
+600,13,44,2,Uttar Pradesh,Azamgarh,District and Sessions Judge,153.0
+601,13,45,2,Uttar Pradesh,Baghpat,District and Session Judge,209.0
+602,13,46,2,Uttar Pradesh,Basti,District and Session Judge,193.0
+603,13,47,2,Uttar Pradesh,Bijnor,District and Session Judge,95.0
+604,13,47,8,Uttar Pradesh,Bijnor,Additional District and Session Judge,338.0
+605,13,48,2,Uttar Pradesh,Bulandshahr,District and Sessions Court,65.0
+606,13,48,9,Uttar Pradesh,Bulandshahr,Addl. District and Sessions Judge,438.0
+607,13,48,11,Uttar Pradesh,Bulandshahr,Addl. District and Sessions Judge,481.0
+608,13,49,2,Uttar Pradesh,Faizabad,District and session Judge Faizabad,190.0
+609,13,50,2,Uttar Pradesh,Gonda,District Judge Establishment,87.0
+610,3,30,1,Karnataka,YADGIR.,District and Sessions Judge,16.0
+611,13,52,2,Uttar Pradesh,Maharajganj,District and Sessions Judge,38.0
+612,13,53,2,Uttar Pradesh,Mathura,District and Session Judge,94.0
+613,13,55,2,Uttar Pradesh,Raebareli,District and Session Judge,476.0
+614,13,56,2,Uttar Pradesh,Rampur,District and Sessions Judge,58.0
+615,13,57,2,Uttar Pradesh,Saharanpur,District and Sessions Judge,100.0
+616,13,57,8,Uttar Pradesh,Saharanpur,Addl. District Sessions Judge,573.0
+617,13,58,2,Uttar Pradesh,Shahjahanpur,District and Sessions Judge,83.0
+618,13,59,2,Uttar Pradesh,Siddharthnagar,District and Session Judge,201.0
+619,13,59,7,Uttar Pradesh,Siddharthnagar,Additional District and Session Judge,262.0
+620,13,60,2,Uttar Pradesh,Sonbhadra,District & Session Judge,57.0
+621,13,60,7,Uttar Pradesh,Sonbhadra,Additional District  and Session  Judge  Obra,564.0
+622,13,61,2,Uttar Pradesh,Sultanpur,District  Sessions Judge,163.0
+623,13,62,2,Uttar Pradesh,Unnao,District & session Judge,75.0
+624,13,63,2,Uttar Pradesh,Farrukhabad,District & Sessions Judge,143.0
+625,13,64,2,Uttar Pradesh,Hamirpur,District and Sessions Judge,76.0
+626,13,65,2,Uttar Pradesh,Hathras,District and Sessions Judge,212.0
+627,13,67,2,Uttar Pradesh,Balrampur,District and  Session Judge,125.0
+628,13,68,2,Uttar Pradesh,Mirzapur,District and Sessions Judge,133.0
+629,13,69,2,Uttar Pradesh,Kannauj,District and Sessions Judge,255.0
+630,13,70,2,Uttar Pradesh,Jalaun,District and Sessions Court,438.0
+631,13,71,2,Uttar Pradesh,Santkabir Nagar,District and Sessions Judge,111.0
+632,13,73,1,Uttar Pradesh,Hapur,District and Session Court Hapur,29.0
+633,13,74,1,Uttar Pradesh,Sambhal at Chandausi,Addl. District and Sessions Court,349.5
+634,13,74,7,Uttar Pradesh,Sambhal at Chandausi,District and Sessions Court,26.0
+635,13,75,1,Uttar Pradesh,Chandauli,District and Sessions Judge,622.0
+636,13,76,1,Uttar Pradesh,Shamli,District and session judge,195.0
+637,13,76,8,Uttar Pradesh,Shamli,Additional district and session judge,575.0
+638,14,2,1,Haryana,Sirsa,District and Sessions Courts,104.0
+639,14,3,1,Haryana,Ambala,District and Sessions Court,183.0
+640,14,6,1,Haryana,Gurugram,District and Sessions Court,168.0
+641,14,9,1,Haryana,Jind,District and Sessions Court,186.0
+642,14,10,1,Haryana,Kurukshetra,District  and Sessions Court,161.0
+643,14,12,1,Haryana,Rohtak,District and Sessions Court Rohtak,152.0
+644,14,16,1,Haryana,Kaithal,District & Session Judge,168.0
+645,14,18,1,Haryana,Panipat,District and Sessions Court Panipat,185.0
+646,15,2,2,Uttarakhand,Pauri Garhwal,District and Sessions Judge,238.5
+647,15,2,6,Uttarakhand,Pauri Garhwal,Addl. District and Sessions Judge,292.0
+648,15,3,2,Uttarakhand,Tehri Garhwal,District and Sessions Judge,158.0
+649,15,6,2,Uttarakhand,Uttarkashi,District and  Sessions Judge Uttarkashi,258.0
+650,15,7,2,Uttarakhand,Almora,District and Session Judge,136.0
+651,15,8,2,Uttarakhand,Chamoli,District and Sessions Judge,369.0
+652,15,9,1,Uttarakhand,Haridwar,District and Sessions Judge,256.0
+653,15,9,6,Uttarakhand,Haridwar,Additional District and Session Judge,287.0
+654,15,13,2,Uttarakhand,Champawat,District and Sessions Judge,75.0
+655,15,14,2,Uttarakhand,Bageshwar,District and Session Judge,64.0
+656,15,15,2,Uttarakhand,Pithoragarh,District And Sessions Judge,263.5
+657,16,1,2,West Bengal,Malda,District and Sessions Judge,21.0
+658,4,10,1,Kerala,Kottayam,District and Sessions Court,152.0
+659,16,2,10,West Bengal,Hooghly,ADDITIONAL DISTRICT AND SESSIONS JUDGE,183.0
+660,16,2,14,West Bengal,Hooghly,ADDL. DISTRICT & SESSIONS JUDGE,306.0
+661,16,4,6,West Bengal,Jalpaiguri,Additional District  and Sessions Judge,438.0
+662,16,4,8,West Bengal,Jalpaiguri,Addl Dist  and Sessions Judge Court,212.0
+663,16,6,2,West Bengal,Coochbehar,District and Sessions Judge ,19.0
+664,16,6,13,West Bengal,Coochbehar,Additional District & Sessions Judge ,195.5
+665,16,7,2,West Bengal,Paschim Medinpur,district and session judge,36.0
+666,16,8,2,West Bengal,Birbhum,District and Sessions Judges,236.0
+667,16,9,2,West Bengal,Purba Medinipur,District and Sessions Judge,183.0
+668,16,9,6,West Bengal,Purba Medinipur,Addl. District & Session Judge,411.0
+669,16,9,10,West Bengal,Purba Medinipur,Addl District and Seesion Judge,174.0
+670,16,10,2,West Bengal,Purulia,District and Session Judge Purulia,68.0
+671,16,11,2,West Bengal,Howrah,District and Sessions Judge,185.0
+672,16,11,6,West Bengal,Howrah,Additional District And Sessions Judge,263.0
+673,16,11,9,West Bengal,Howrah,Additional District Judge Uluberia,39.0
+674,16,12,2,West Bengal,Murshidabad,District and Session Judge,34.0
+675,16,12,6,West Bengal,Murshidabad,Addl District and Session Judge,19.0
+676,4,15,19,Kerala,Kollam,District and sessions court,36.0
+677,16,12,11,West Bengal,Murshidabad,Additional District and Sessions Judge,184.0
+678,16,12,15,West Bengal,Murshidabad,Additional District and sessions Judge,110.0
+679,16,14,3,West Bengal,North  Twenty Four Parganas,Barasat District Judge,261.0
+680,16,14,13,West Bengal,North  Twenty Four Parganas,Barrackpore Addl. District &,231.0
+681,16,17,2,West Bengal,Darjeeling,District and Sessions Judge Court,71.0
+682,16,17,6,West Bengal,Darjeeling,Additional District  Sessions Judge 1 st Court,357.0
+683,16,17,18,West Bengal,Darjeeling,Additional District and Sessions Judge,87.0
+684,16,18,2,West Bengal,Purba Bardhaman,District and Sessions Judge,171.5
+685,16,18,18,West Bengal,Purba Bardhaman,Additional district and Sessions Judge,233.5
+686,16,19,1,West Bengal,Bankura,District and Sessions Judge ,272.0
+687,16,19,5,West Bengal,Bankura,Addl. District Judge,605.0
+688,16,19,9,West Bengal,Bankura,Addl. District Judge,334.0
+689,16,20,1,West Bengal,South Twenty Four Parganas,District and Sessions Judge,252.0
+690,16,20,5,West Bengal,South Twenty Four Parganas,Additional District Judge,364.0
+691,16,20,7,West Bengal,South Twenty Four Parganas,Additional District Judge,112.0
+692,16,20,11,West Bengal,South Twenty Four Parganas,Additional District and,18.0
+693,16,20,16,West Bengal,South Twenty Four Parganas,Additional District Judge,570.0
+694,16,20,19,West Bengal,South Twenty Four Parganas,Additional District Judge,195.5
+695,16,21,1,West Bengal,North Dinajpur,District and Sessions Judge Raiganj,22.0
+696,16,21,5,West Bengal,North Dinajpur,Additional District Judge Islampur,18.0
+697,16,22,1,West Bengal,Nadia,Addl.District Judge,325.0
+698,16,22,5,West Bengal,Nadia,District and Sessions Judge,28.0
+699,16,22,15,West Bengal,Nadia,Addl.District Judge,671.0
+700,16,22,16,West Bengal,Nadia,Addl. District and Sessions Judge Ranaghat,212.0
+701,16,22,17,West Bengal,Nadia,Fast Track Court addl. District and Sessions judge,374.0
+702,16,23,4,West Bengal,kalimpong,District and sessions Judge court,194.0
+703,16,24,2,West Bengal,Paschim Bardhaman,Additional District And Session Judge,552.5
+704,16,24,8,West Bengal,Paschim Bardhaman,District and Sessions Judge Court,407.5
+705,17,11,1,Gujarat,GANDHINAGAR,Gandhinagar District,16.0
+706,17,11,7,Gujarat,GANDHINAGAR,Kalol Additional District Court,42.0
+707,17,13,1,Gujarat,Ahmedabad,AHMEDABAD DISTRICT COURT,25.0
+708,17,13,18,Gujarat,Ahmedabad,ADDL DISTRICT COURT,8.0
+709,17,14,1,Gujarat,SURAT,District Court,12.0
+710,17,15,1,Gujarat,Mahesana,DISTRICT COURT,35.0
+711,17,16,1,Gujarat,RAJKOT,DISTRICT COURT - RAJKOT,93.0
+712,17,16,19,Gujarat,RAJKOT,Addl. District Court - Gondal,23.0
+713,17,16,21,Gujarat,RAJKOT,Jetpur Additional Dist. Court,145.0
+714,17,16,22,Gujarat,RAJKOT,Addl. District Court - Dhoraji,53.0
+715,17,17,1,Gujarat,Amreli,DISTRICT AND SESSIONS COURT AMRELI,65.0
+716,17,17,14,Gujarat,Amreli,ADDI DISTRICT COURT RAJULA,205.0
+717,17,18,1,Gujarat,Anand,DISTRICT COURT,54.0
+718,17,18,12,Gujarat,Anand,PETLAD DISTRICT COURT,77.5
+719,17,19,1,Gujarat,Banaskanth at Palanpur,DISTRICT AND SESSION COURT PALANPUR,22.0
+720,17,19,18,Gujarat,Banaskanth at Palanpur,ADDITIONAL DISTRICT COURT DEESA,26.0
+721,17,20,1,Gujarat,Bharuch,DISTRICT COURT,44.0
+722,17,20,11,Gujarat,Bharuch,Additional District Court,20.0
+723,17,21,1,Gujarat,Bhavnagar,bhavnagar_district Court,33.0
+724,17,22,1,Gujarat,Dahod,dahod_district,96.0
+725,17,23,1,Gujarat,Jamnagar,DISTRICT AND SESSIONS COURT,32.0
+726,17,24,1,Gujarat,Junagadh,DISTRICT COURT,138.0
+727,17,24,19,Gujarat,Junagadh,Additional District Court Keshod,441.0
+728,17,25,1,Gujarat,Kheda at Nadiad,DISTRICT COURT,73.0
+729,17,26,1,Gujarat,kachchh at Bhuj,District and Sessions Court Bhuj,53.0
+730,17,27,1,Gujarat,Panchmahal at Godhra,District Court,118.0
+731,17,27,17,Gujarat,Panchmahal at Godhra,Addl District Court,150.0
+732,17,28,1,Gujarat,Patan,DISTRICT AND SESSIONS COURT PATAN,27.0
+733,17,28,13,Gujarat,Patan,ADDL. DISTRICT COURT RADHANPUR,729.5
+734,17,29,1,Gujarat,Sabarkantha at Himmatnagar,DISTRICT AND SESSIONS COURT,27.0
+735,17,29,18,Gujarat,Sabarkantha at Himmatnagar,ADDITIONAL DISTRICT AND SESSIONS,10.0
+736,17,30,1,Gujarat,Surendranagar,District Court,100.0
+737,17,30,15,Gujarat,Surendranagar,Additional District Court,119.0
+738,17,31,1,Gujarat,Vadodara,vadodara_district Court,30.0
+739,17,31,20,Gujarat,Vadodara,Addl District Court - Savli,312.0
+740,17,32,1,Gujarat,Navsari,navsari_district Court,14.0
+741,17,33,1,Gujarat,Narmada,DISTRICT COURT,68.0
+742,17,34,1,Gujarat,Tapi,tapi_district Court,17.5
+743,17,35,1,Gujarat,Valsad,valsad_district Court,6.0
+744,17,36,1,Gujarat,Porbandar,DISTRICT AND SESSIONS COURT,7.0
+745,17,37,1,Gujarat,Gir Somnath at Veraval,District Court Veraval,153.0
+746,17,37,3,Gujarat,Gir Somnath at Veraval,Additional District Court Una,289.0
+747,17,38,7,Gujarat,Aravalli at Modasa,Principal District Court Arvalli,20.0
+748,17,39,1,Gujarat,MORBI,District  Court - Morbi,13.0
+749,17,40,1,Gujarat,Devbhumi Dwarka at Khambhaliya,DISTRICT COURT DEVBHUMI DWARKA,46.0
+750,17,41,1,Gujarat,Chhota Udepur,DISTRICT COURT,21.0
+751,17,42,3,Gujarat,Mahisagar at Lunawada,DISTRICT COURT,26.0
+752,18,1,1,Chhattisgarh,Korba,District and Sessions Judge Korba,269.0
+753,18,2,1,Chhattisgarh,Bilaspur,District and Sessions Judge,278.0
+754,18,3,1,Chhattisgarh,Raipur,District and Sessions Court,171.0
+755,18,3,7,Chhattisgarh,Raipur,2Additional district judge Gariyaband,475.5
+756,18,4,1,Chhattisgarh,Surguja,District and Sessions Court Surguja CG,258.0
+757,6,3,2,Assam,Sivasagar,District and Sessions Judge Court,50.0
+758,18,5,1,Chhattisgarh,Dhamtari,District and Sessions Court Dhamtari,143.0
+759,18,5,7,Chhattisgarh,Dhamtari,Additional District And Sessions Camp Court,421.0
+760,18,6,1,Chhattisgarh,Raigarh,District and Sessions Court Raigarh,241.0
+761,18,6,5,Chhattisgarh,Raigarh,Addl District and session court,166.5
+762,18,6,10,Chhattisgarh,Raigarh,Addl. District and Sessions Judge,26.0
+763,18,7,1,Chhattisgarh,Durg,District and Sessions Court,128.0
+764,18,9,1,Chhattisgarh,Kawardha,District and Session Judge Kabirdham,123.0
+765,18,10,1,Chhattisgarh,Rajnandgaon,District And Sessions Judge Rajnandgaon,146.0
+766,18,10,4,Chhattisgarh,Rajnandgaon,Additional District And Sessions Court,265.5
+767,18,10,6,Chhattisgarh,Rajnandgaon,Additional District And Sessions,300.0
+768,18,11,1,Chhattisgarh,Koriya,District and Sessions judge,298.0
+769,18,11,4,Chhattisgarh,Koriya,Add. District  And Sessions Judge Manendragarh,434.0
+770,18,12,1,Chhattisgarh,Mahasamund,District and Sessions Court Mahasamund,287.0
+771,18,12,4,Chhattisgarh,Mahasamund,Additional District and Sessions court,157.0
+772,18,13,1,Chhattisgarh,Kanker,District And Sessions Judge,203.0
+773,18,13,3,Chhattisgarh,Kanker,Additional District And Session Judge,117.0
+774,18,16,1,Chhattisgarh,Jashpur,District And Sessions Judge Jashpur,140.0
+775,18,16,3,Chhattisgarh,Jashpur,Additional District and Sessions Judge Kunkuri,384.0
+776,18,16,9,Chhattisgarh,Jashpur,Additional District Judge Pathalgaon,3537.0
+777,18,17,1,Chhattisgarh,Dantewada,District and Sessions Court,353.5
+778,18,18,1,Chhattisgarh,Janjgir,DISTRICT AND SESSION COURT JANJGIR,124.0
+779,18,18,5,Chhattisgarh,Janjgir,ADD. DISTRICT AND SESSION COURT SAKTI,143.0
+780,18,19,1,Chhattisgarh,Balod,District and Sessions Court,171.0
+781,18,20,1,Chhattisgarh,Bemetara,District and Sessions Court,345.0
+782,18,21,3,Chhattisgarh,Surajpur,District and Sessions Judge Surajpur,333.0
+783,18,22,1,Chhattisgarh,Kondagaon,District And Sessions Court Kondagaon,409.0
+784,18,23,1,Chhattisgarh,Balodabazar,DISTRICT AND SESSION JUDGE EST.,117.0
+785,18,23,5,Chhattisgarh,Balodabazar,DISTRICT AND SESSION JUDGE EST.,217.0
+786,18,25,3,Chhattisgarh,Balrampur Ramanujganj,Distt and Sessions Court,461.5
+787,19,2,2,Mizoram,Lunglei,District Judge & Addl. Dist. Judges,161.0
+788,20,1,4,Tripura,West Tripura,District and Sessions Judge,365.0
+789,20,5,6,Tripura,Unakoti  Tripura,Addl District And Sessions Judge Court,302.5
+790,20,6,2,Tripura,Gomati District,District Court,445.0
+791,20,9,1,Tripura,Sepahijala Tripura,District and Sessions Judge,265.0
+792,20,9,7,Tripura,Sepahijala Tripura,Addl. District and Sessions Judge,1822.0
+793,20,10,1,Tripura,Khowai Tripura,District and Sessions Judge Establishment,208.0
+794,20,11,5,Tripura,Dhalai Tripura,Addl District And Sessions Judge Court,319.0
+795,20,11,8,Tripura,Dhalai Tripura,District and Sessions Judge Establishment,1427.0
+796,21,1,2,Meghalaya,East Khasi Hills,District  Sessions Judge Shillong,50.0
+797,21,1,3,Meghalaya,East Khasi Hills,Asst District Judge,8.0
+798,21,2,1,Meghalaya,West Garo Hills,District and Sessions Judge Tura,322.0
+799,21,3,3,Meghalaya,West Jaintia Hills,District and Session Court,1163.0
+800,21,4,1,Meghalaya,East Garo Hills,District and Sessions Judge Williamnagar,897.5
+801,21,5,2,Meghalaya,Ri Bhoi,District and Sessions Judge Nongpoh,1183.0
+802,22,1,1,Punjab,Ludhiana,District and Sessions Courts,78.0
+803,22,2,1,Punjab,Jalandhar,DISTRICT AND SESSIONS COURT JALANDHAR,86.0
+804,22,4,1,Punjab,Fatehgarh Sahib,District and Sessions Court,83.0
+805,22,9,1,Punjab,Faridkot,District and Sessions Courts,105.0
+806,22,11,1,Punjab,Kapurthala,District and Sessions Courts,91.0
+807,22,15,1,Punjab,SBS Nagar,DISTRICT and SESSIONS COURT SBS NAGAR,104.0
+808,22,17,1,Punjab,Bathinda,District and Sessions Courts,109.0
+809,22,18,3,Punjab,Hoshiarpurr,DISTRICT AND SESSIONS COURT HOSHIARPUR,137.0
+810,22,19,1,Punjab,Sangrur,District and Sessions Court,76.0
+811,22,21,1,Punjab,Pathankot,DISTRICT AND SESSIONS COURTS,190.0
+812,22,24,1,Punjab,Mohali,District and Sessions Courts,143.0
+813,22,26,1,Punjab,Fazilka,District and Sessions Courts,108.0
+814,23,1,1,Madhya Pradesh,Jabalpur,DISTRICT AND SESSIONS COURT JABALPUR MP,321.0
+815,23,2,1,Madhya Pradesh,Narsinghpur,DISTRICT AND SESSIONS COURT NARSINGHPUR,247.0
+816,23,3,1,Madhya Pradesh,Hoshangabad,DISTRICT AND SESSION COURT HOSHANGABAD MP,342.0
+817,23,3,7,Madhya Pradesh,Hoshangabad,LINK COURT PACHMARI DISTRICT HOSHANGABAD,1294.5
+818,23,4,1,Madhya Pradesh,Harda,DISTRICT AND SESSIONS COURT HARDA MP,369.0
+819,23,5,1,Madhya Pradesh,Umaria,DISTRICT AND SESSIONS COURT UMARIA,420.0
+820,23,6,1,Madhya Pradesh,Dindori,DISTRICT AND SESSIONS COURT DINDORI,371.0
+821,23,7,1,Madhya Pradesh,Panna,DISTRICT AND SESSIONS COURT PANNA MP,250.0
+822,23,8,1,Madhya Pradesh,Alirajpur,DISTRICT AND SESSIONS COURT ALIRAJPUR MP,225.0
+823,23,9,1,Madhya Pradesh,Jhabua,DISTRICT AND SESSIONS COURT JHABUA MP,350.0
+824,23,10,1,Madhya Pradesh,Khandwa,DISTRICT AND SESSIONS COURT KHANDWA MP,225.0
+825,23,11,1,Madhya Pradesh,Shahdol,DISTRICT AND SESSIONS COURT SHAHDOL MP,283.0
+826,6,20,8,Assam,Barpeta,Addl. District and Sessions Judge,189.5
+827,23,12,1,Madhya Pradesh,Sheopur,DISTRICT AND SESSIONS COURT SHEOPUR MP,413.0
+828,23,13,1,Madhya Pradesh,Datia,DISTRICT AND SESSIONS COURT DATIA MP,185.0
+829,23,14,1,Madhya Pradesh,Rajgarh,DISTRICT AND SESSIONS COURT RAJGARH MP,354.0
+830,23,15,1,Madhya Pradesh,Morena,DISTRICT AND SESSIONS COURT MORENA MP,286.0
+831,23,16,1,Madhya Pradesh,Mandleshwar,DISTRICT AND SESSIONS COURT MANDLESHWAR MP,284.0
+832,23,17,1,Madhya Pradesh,Neemuch,DISTRICT AND SESSIONS COURT NEEMUCH MP,420.0
+833,23,18,1,Madhya Pradesh,Barwani,DISTRICT AND SESSIONS COURT BARWANI MP,221.0
+834,23,19,1,Madhya Pradesh,Shajapur,DISTRICT AND SESSIONS COURT SHAJAPUR MP,335.0
+835,23,20,1,Madhya Pradesh,Chhindwara,DISTRICT AND SESSIONS COURT CHHINDWARA MP,288.0
+836,23,21,1,Madhya Pradesh,Sidhi,DISTRICT AND SESSIONS COURT SIDHI MP,426.0
+837,23,22,1,Madhya Pradesh,Anuppur,DISTRICT AND SESSIONS COURT ANUPPUR MP,390.0
+838,23,23,1,Madhya Pradesh,Shivpuri,DISTRICT AND SESSIONS COURT SHIVPURI MP,296.0
+839,23,24,1,Madhya Pradesh,Raisen,DISTRICT AND SESSIONS COURT RAISEN MP,325.0
+840,23,25,1,Madhya Pradesh,Sehore,DISTRICT AND SESSIONS COURT SEHORE MP,285.0
+841,23,26,1,Madhya Pradesh,Balaghat,DISTRICT AND SESSIONS COURT BALAGHAT MP,332.0
+842,23,27,1,Madhya Pradesh,Damoh,DISTRICT AND SESSIONS COURT DAMOH MP,318.0
+843,23,28,1,Madhya Pradesh,Vidisha,DISTRICT AND SESSIONS COURT VIDISHA MP,235.0
+844,23,29,1,Madhya Pradesh,Bhind,DISTRICT AND SESSIONS COURT BHIND MP,196.0
+845,23,30,1,Madhya Pradesh,Guna,DISTRICT AND SESSIONS COURT GUNA MP,311.0
+846,23,31,1,Madhya Pradesh,Singrauli,DISTRICT AND SESSIONS COURT SINGRAULI MP,748.0
+847,23,32,1,Madhya Pradesh,Satna,DISTRICT AND SESSIONS COURT SATNA MP,415.0
+848,23,33,1,Madhya Pradesh,Seoni,DISTRICT AND SESSIONS COURT SEONI MP,462.0
+849,23,34,1,Madhya Pradesh,Katni,DISTRICT AND SESSIONS COURT KATNI MP,338.0
+850,23,35,1,Madhya Pradesh,Mandsaur,DISTRICT AND SESSIONS COURT MANDSAUR MP,496.0
+851,23,36,1,Madhya Pradesh,Tikamgarh,DISTRICT AND SESSIONS COURT TIKAMGARH MP,252.0
+852,23,37,1,Madhya Pradesh,Betul,DISTRICT AND SESSIONS COURT BETUL MP,291.0
+853,23,38,1,Madhya Pradesh,Dhar,DISTRICT AND SESSIONS COURT DHAR MP,350.0
+854,23,39,1,Madhya Pradesh,Chhatarpur,DISTRICT AND SESSIONS COURT CHHATARPUR MP,340.0
+855,23,40,1,Madhya Pradesh,Dewas,DISTRICT AND SESSIONS COURT DEWAS MP,397.0
+856,23,41,1,Madhya Pradesh,Mandla,DISTRICT AND SESSIONS COURT MANDLA MP,280.0
+857,23,42,1,Madhya Pradesh,Ratlam,DISTRICT AND SESSIONS COURT RATLAM MP,295.0
+858,23,43,1,Madhya Pradesh,Sagar,DISTRICT AND SESSIONS COURT SAGAR MP,186.0
+859,23,44,1,Madhya Pradesh,Gwalior,DISTRICT AND SESSIONS COURT GWALIOR MP,229.0
+860,23,45,1,Madhya Pradesh,Ujjain,DISTRICT AND SESSIONS COURT UJJAIN MP,340.0
+861,23,46,1,Madhya Pradesh,Rewa,DISTRICT AND SESSIONS COURT REWA MP,391.0
+862,23,47,1,Madhya Pradesh,Indore,DISTRICT AND SESSIONS COURT INDORE,271.0
+863,23,48,1,Madhya Pradesh,Ashoknagr,DISTRICT AND SESSIONS COURT ASHOKNAGAR MP,757.0
+864,23,49,1,Madhya Pradesh,Burhanpur,DISTRICT AND SESSIONS COURT BURHANPUR MP,350.0
+865,23,50,1,Madhya Pradesh,Bhopal,DISTRICT AND SESSIONS COURT BHOPAL,179.0
+866,24,1,2,Sikkim,Namchi,ESTABLISHMENT OF DISTRICT AND SESSIONS JUDGE (S),30.0
+867,25,1,1,Manipur,Imphal East,Court of District and Session,81.0
+868,25,2,1,Manipur,Imphal West,Court of District and  Session Judge,74.0
+869,25,6,1,Manipur,Churachandpur,District and Sessions Judge,66.0
+870,26,1,1,Delhi,North East,District and Sessions Judge,103.0
+871,26,2,1,Delhi,Shahdara,District and Sessions Judge,50.0
+872,26,3,1,Delhi,East,District and Sessions Judge,162.0
+873,26,4,1,Delhi,North,District and Sessions Judge,92.0
+874,26,5,1,Delhi,North West,District and Sessions Judge,99.0
+875,26,6,1,Delhi,South West,District and Sessions Judge,93.0
+876,26,7,1,Delhi,New Delhi,District and Sessions Judge,87.0
+877,26,8,1,Delhi,Central,District and Sessions Judge,165.0
+878,26,9,1,Delhi,West,District and Sessions Judge,141.0
+879,26,10,1,Delhi,South,District and Sessions Judge,179.0
+880,26,11,1,Delhi,South East,District and Sessions Judge,129.0
+881,27,1,1,Chandigarh,Chandigarh,DISTRICT AND SESSIONS COURT CHANDIGARH,126.0
+882,29,1,1,Telangana,Adilabad,District and Sessions Courts,21.0
+883,29,1,10,Telangana,Adilabad,IIIADDITIONAL DISTRICT AND SESSIONS COURT,282.0
+884,29,3,1,Telangana,Karimnagar,Prl. District and Sessions Court,589.0
+885,29,3,16,Telangana,Karimnagar,II Addl District and Sessions court Jagtial,465.0
+886,29,3,24,Telangana,Karimnagar,IX Addl District and Sessions Court Sircilla,1366.0
+887,29,4,1,Telangana,Khammam,Prl  District and Sessions Judge,331.0
+888,29,4,10,Telangana,Khammam,V Addl. District and Sessions Judge FTC,514.0
+889,29,5,1,Telangana,Mahabubnagar,Prl.District Court,219.0
+890,29,5,18,Telangana,Mahabubnagar,III Addl District and Sessions Court FTC,297.0
+891,29,5,24,Telangana,Mahabubnagar,Additional District and Sessions Court,460.0
+892,29,5,25,Telangana,Mahabubnagar,IV Addl DistandSessoins Court FTC,1011.0
+893,29,6,1,Telangana,Medak,Prl Dist and Sessions Court  Medak at Sangareddy,463.0
+894,29,6,11,Telangana,Medak,IV Addl District and Sessions Court,625.0
+895,29,6,12,Telangana,Medak,VIII ADDL DISTRICT AND SESSIONS JUDGE MEDAK,922.0
+896,29,7,8,Telangana,Nalgonda,V Addl District and Sessions Judge Court,964.0
+897,29,7,24,Telangana,Nalgonda,II Addl District Judge Court Suryapet,521.0
+898,29,8,2,Telangana,Nizamabad,VII Addl Dist Sessions Court Bodhan,325.5
+899,29,8,13,Telangana,Nizamabad,Prl. District And Sessions Judge Court,387.0
+900,29,8,14,Telangana,Nizamabad,IX Addl District and Sessions Judge Court,442.0
+901,29,9,1,Telangana,Rangareddy,Prl.District and Sessions Court,340.0
+902,29,9,15,Telangana,Rangareddy,XII Additional District And Sessions Court,1276.0
+903,29,9,27,Telangana,Rangareddy,Addl District and Sessions Court,398.0
+904,29,10,1,Telangana,Warangal,District Courts,353.0
+905,29,10,8,Telangana,Warangal,VI Addl District and Session Judge Mahabubabad,666.0
+906,29,10,15,Telangana,Warangal,V Addl  District Court,708.0
+907,30,1,1,Goa,North Goa,DISTRICT AND SESSIONS COURT PANAJI,215.0
+908,30,2,1,Goa,South Goa,DISTRICT AND SESSIONS COURT MARGAO,184.0
+909,31,1,1,Diu and Daman,Diu,DISTRICT AND SESSIONS COURT,54.0
+910,31,2,1,Diu and Daman,Daman,DISTRICT AND SESSIONS COURT,78.0
+911,32,1,1,DNH at Silvasa,Silvassa,PRINCIPAL DISTRICT AND SESSIONS COURT AT,327.0
+912,1,3,20,Maharashtra,Jalgaon,District and Additional Session Court,87.5
+913,2,3,23,Andhra Pradesh,Chittoor,XI Addl.District Court Complex,584.0
+914,2,11,28,Andhra Pradesh,Krishna,XVI Addl  District Judges Court,515.0
+915,3,3,10,Karnataka,VIJAYAPURA,VACATION DISTRICT JUDGE.,13.0
+916,3,19,11,Karnataka,KOLAR,VACATION DISTRICT JUDGE,16.0
+917,6,2,9,Assam,Tinsukia,Addl. District and Sessions Judge,400.0
+918,9,2,48,Rajasthan,Alwar,POCSO-Alwar District HQ,79.0
+919,9,27,15,Rajasthan,Balotra Barmer,POCSO-Balotra District HQ,266.5
+920,9,35,34,Rajasthan,Sikar,POCSO SIKAR DISTRICT HQ,15.0
+921,14,1,1,Haryana,Karnal,District and Sessions Courts,187.0
+922,14,4,12,Haryana,Bhiwani,DISTRICT AND SESSIONS COURTS,138.5
+923,15,9,13,Uttarakhand,Haridwar,Additional District and Sessions Judge,1635.5
+924,1,19,14,Maharashtra,Aurangabad,DISTRICT AND ADDITIONAL SESSIONS COURT,106.0
+925,1,26,24,Maharashtra,Ahmednagar,24DISTRICT  AND SESSIONS COURT NEWASA,317.0
+926,3,1,28,Karnataka,BELAGAVI,Vacation District Court,21.0
+927,3,5,11,Karnataka,BIDAR,VACATION DISTRICT JUDGE  BIDAR,24.0
+928,3,7,9,Karnataka,KOPPAL,Vacation District Court,13.0
+929,5,9,3,Himachal Pradesh,Kinnaur,District & Sessions judge,428.0
+930,9,14,44,Rajasthan,Ajmer,COMMERCIAL COURT-Ajmer District HQ,93.0
+931,12,16,2,Jammu and Kashmir,Leh,Principal District Judge,265.0
+932,12,17,2,Jammu and Kashmir,Kargil,Principal District Judge,213.0
+933,18,24,1,Chhattisgarh,Mungeli,District and Sessions Court Mungeli,427.0
+934,29,1,25,Telangana,Adilabad,VII Addl. District and Sessions Judge Court,1075.5
+935,33,1,2,Ladakh,Kargil,Principal District Judge,352.5
+936,33,2,2,Ladakh,Leh,Principal District Judge,302.0
+937,4,2,47,Kerala,Ernakulam,ADDL. DISTRICT  AND SESSIONS COURT,494.5
+938,4,5,38,Kerala,Kozhikode,Additional District Court (POCSO Act ),664.0
+939,6,9,10,Assam,Bongaigaon,Additional District and Sessions Judge,489.0
+940,6,28,1,Assam,Dima Hasao,District and Sessions Judge,101.0
+941,9,7,48,Rajasthan,Ganganagar,POCSO -Sri Ganganagar District HQ,6.0
+942,9,19,39,Rajasthan,Pali,POCSO-PALI DISTRICT HQ,763.0
+943,9,28,22,Rajasthan,Jodhpur Metro,POCSO-Jodhpur Metro District HQ,7.0
+944,9,29,18,Rajasthan,Karauli,POCSO-Karauli District HQ,71.0
+945,9,32,13,Rajasthan,Jaiselmer,POCSO-Jaisalmer District HQ,172.0
+946,9,38,26,Rajasthan,Jaipur District,POCSO Jaipur District HQ,607.0
+947,11,21,7,Orissa,Rayagada,Additional District Judge,228.5
+948,15,16,1,Uttarakhand,Rudraprayag,DISTRICT & SESSIONS JUDGE,474.0
+949,16,6,10,West Bengal,Coochbehar,Addl. District & Sessions Judge ,194.5
+950,22,23,1,Punjab,Tarn Taran,District and Sessions Courts,104.0
+951,24,3,4,Sikkim,Gyalshing,ESTABLISHMENT OF DISTRICT AND SESSIONS JUDGE,42.0
+952,25,3,1,Manipur,Bishnupur,Court of District and Session,71.0
+953,25,4,1,Manipur,Thoubal,Court of District and Sessions Judge,69.0
+954,29,1,20,Telangana,Adilabad,VI Addl. District and Sessions Judge,341.5
+955,29,1,23,Telangana,Adilabad,II Addl. Dist. and Sessions FTC Court Mancherial,723.0
+956,1,8,11,Maharashtra,Wardha,DISTRICT AND SESSIONS COURT,21.0
+957,1,25,24,Maharashtra,Pune,ADDL. DISTRICT COURT,119.0
+958,1,30,21,Maharashtra,Solapur,Additional District Court,164.0
+959,6,25,1,Assam,Chirang,District And Session Judge Establishment,552.5
+960,9,6,25,Rajasthan,Bikaner,POCSO Bikaner District HQ,2.0
+961,9,21,15,Rajasthan,Jalore,POCSO-Jalore District HQ,107.0
+962,9,27,22,Rajasthan,Balotra Barmer,FC-Balotra District HQ,476.0
+963,9,33,27,Rajasthan,Churu,POCSO-CHURU District HQ,23.5
+964,10,32,31,Tamil Nadu,Tiruvallur,Special District Court for MCOP Cases,372.0
+965,11,27,13,Orissa,Anugul,Addl.District and Sessions Judge,246.0
+966,16,6,17,West Bengal,Coochbehar,Additional District and Sessions Judge,215.0
+967,16,22,9,West Bengal,Nadia,Addl. District Judge,187.0
+968,17,19,19,Gujarat,Banaskanth at Palanpur,Additional District Court  DEODAR,116.0
+969,17,43,1,Gujarat,BOTAD,botad_district,153.0
+970,21,7,1,Meghalaya,West Khasi Hills,District And Sessions Judge,1643.0
+971,24,2,4,Sikkim,Mangan,ESTABLISHMENT OF DISTRICT AND SESSIONS JUDGE NORTH,38.0
+972,25,5,1,Manipur,Senapati,Court of District and Sessions,88.0
+973,4,15,21,Kerala,Kollam,Addl.District and Sessions Court-III,465.5
+974,9,13,32,Rajasthan,Bharatpur,POCSO-Bharatpur District HQ,11.0
+975,9,38,27,Rajasthan,Jaipur District,ADJ-dudu,644.0
+976,22,13,1,Punjab,Mansa,District and Sessions Courts,57.0
+977,9,5,28,Rajasthan,Tonk,POCSO-Tonk District HQ,8.5
+978,9,11,26,Rajasthan,Hanumangarh,POCSO-Hanumangarh District HQ,7.5
+979,10,7,22,Tamil Nadu,Kanniyakumari,Additional District Court,1118.0
+980,3,7,11,Karnataka,KOPPAL,Addl District and Sessions Court,912.0
+981,11,23,9,Orissa,Kandhamal,Addl.District & Sessions Judge,31.0
+982,14,11,1,Haryana,Narnaul,District and Sessions Courts,187.0
+983,23,20,5,Madhya Pradesh,Chhindwara,ADD. DISTRICT AND SESSION COURT CHORAI,766.5
+984,6,24,4,Assam,Udalguri,Additional District And Sessions Judge,-1.0
+985,9,1,32,Rajasthan,Rajsamand,POCSO-Rajsamand District HQ,84.0
+986,9,8,42,Rajasthan,Merta (Nagaur),POCSO-Merta District HQ,65.0
+987,9,9,49,Rajasthan,Udaipur,POCSO-Udaipur District HQ,14.5
+988,9,12,28,Rajasthan,Baran,POCSO-Baran District HQ,68.0
+989,9,14,45,Rajasthan,Ajmer,POCSO-Ajmer District HQ,117.5
+990,9,22,29,Rajasthan,Jhalawar,POCSO - Jhalawar District HQ,99.0
+991,9,23,14,Rajasthan,Pratapgarh,POCSO-PRATAPGARH DISTRICT HQ,40.0
+992,9,24,17,Rajasthan,Dungarpur,POCSO-Dungarpur District HQ,62.0
+993,9,26,25,Rajasthan,Sirohi,POCSO-Sirohi District HQ,30.0
+994,9,30,38,Rajasthan,Chittorgarh,POCSO-Chittorgarh District HQ,37.0
+995,9,31,42,Rajasthan,Bhilwara,POCSO- Bhilwara District HQ,118.0
+996,9,34,16,Rajasthan,Dholpur,POCSO-Dholpur District HQ,385.0
+997,9,38,38,Rajasthan,Jaipur District,ADJ - Chomu,215.0
+998,9,39,25,Rajasthan,Jodhpur District,POCSO-Jodhpur District HQ,90.0
+999,10,31,15,Tamil Nadu,Kancheepuram,District Munsif,586.5
+1000,15,7,10,Uttarakhand,Almora,Additional District Judge Ranikhet,192.0
+1001,17,19,23,Gujarat,Banaskanth at Palanpur,ADDITIONAL DISTRICT COURT,38.0
+1002,9,21,2,Rajasthan,Jalore,DJ - Jalore District HQ,433.5
+1003,10,5,4,Tamil Nadu,Namakkal,Principal District Judge,380.0
+1004,10,5,7,Tamil Nadu,Namakkal,Principal District Munsif,725.0
+1005,10,8,17,Tamil Nadu,Tiruchirappalli,Special District Court MCOP cases,852.0
+1006,10,10,19,Tamil Nadu,Viluppuram,Special District Court VIllupuram,393.0
+1007,10,12,26,Tamil Nadu,Salem,District Munsif,1891.0
+1008,10,17,1,Tamil Nadu,Thanjavur,PRINCIPAL DISTRICT COURT,12.0
+1009,10,18,5,Tamil Nadu,Coimbatore,principal district court,382.0
+1010,10,26,12,Tamil Nadu,Krishnagiri,Special District Court for MCOP,26.0
+1011,10,29,1,Tamil Nadu,Sivagangai,DISTRICT COURT,505.0
+1012,10,32,3,Tamil Nadu,Tiruvallur,Additional District and Sessions Judge,331.0
+1013,10,32,10,Tamil Nadu,Tiruvallur,District Munsif Judge,885.0
+1014,10,32,17,Tamil Nadu,Tiruvallur,Principal District Munsif Court,990.5
+1015,10,32,22,Tamil Nadu,Tiruvallur,Additional District and Sessions Court-III,708.0
+1016,11,23,2,Orissa,Kandhamal,District & Sessions Judge,237.5
+1017,11,24,2,Orissa,Boudh,District & Sessions Judge,36.0
+1018,12,21,2,Jammu and Kashmir,Samba,Principal District Judge,490.0
+1019,13,22,2,Uttar Pradesh,Bhadohi SR Nagar,District and Session Judge,116.0
+1020,13,51,2,Uttar Pradesh,Kanpur Dehat,District & Session Judge,82.0
+1021,13,54,2,Uttar Pradesh,Moradabad,District & Session Court Moradabad,90.0
+1022,13,66,2,Uttar Pradesh,Jhansi,District & Sessions Judge,229.0
+1023,14,5,1,Haryana,Faridabad,District and Sessions Courts,188.0
+1024,14,7,2,Haryana,Hisar,District and Sessions Courts,271.0
+1025,14,8,1,Haryana,Jhajjar,District and Sessions Courts,231.0
+1026,14,13,1,Haryana,Sonepat,District and Sessions Judge Sonipat,212.0
+1027,14,14,1,Haryana,Panchkula,DISTRICT AND  SESSIONS COURT PANCHKULA,164.0
+1028,14,15,1,Haryana,Fatehabad,District  and Sessions Courts,93.0
+1029,14,17,1,Haryana,Rewari,District and Sessions Courts,189.0
+1030,16,2,3,West Bengal,Hooghly,DISTRICT SESSION JUDGE,27.0
+1031,16,2,7,West Bengal,Hooghly,ADDITIONAL DISTRICT & SESSIONS JUDGE,21.0
+1032,16,4,2,West Bengal,Jalpaiguri,District & Session Judge,28.0
+1033,16,6,6,West Bengal,Coochbehar,Addl. District & Sessions Judge ,27.0
+1034,16,12,8,West Bengal,Murshidabad,Additional District & Session Judge,496.0
+1035,18,15,1,Chhattisgarh,Bastar,District Court Bastar at Jagdalpur,182.0
+1036,20,2,6,Tripura,North Tripura,District And Sessions Judge,212.0
+1037,20,3,9,Tripura,SouthTripura,District Judge Court,357.0
+1038,20,5,2,Tripura,Unakoti  Tripura,The District and Sessions Judge,175.0
+1039,22,3,1,Punjab,Rupnagar,District and Sessions Court,125.0
+1040,22,16,1,Punjab,Barnala,District & Sessions Court,97.0
+1041,24,4,2,Sikkim,Gangtok,District and  Sessions Court,32.0
+1042,29,9,26,Telangana,Rangareddy,Addl District and Sessions Court,336.0
+1043,9,31,17,Rajasthan,Bhilwara,LABOUR BHILWARA DISTRICT HQ,1448.0

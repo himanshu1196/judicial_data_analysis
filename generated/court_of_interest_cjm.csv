@@ -1,0 +1,31 @@
+state_code,dist_code,court_no,total_cases,total_valid_cases,median_decision_days,mean_decision_days,state_name,district_name,court_name
+13.0,2.0,10.0,619.0,539.0,5.0,247.58441558441558,Uttar Pradesh,Bareilly,acjmnerbly
+10.0,29.0,11.0,9054.0,8780.0,7.0,163.7389521640091,Tamil Nadu,Sivagangai,CHIEF JUDICIAL MAGISTRATE
+13.0,64.0,3.0,12152.0,11388.0,12.0,173.89866526167896,Uttar Pradesh,Hamirpur,Chief Judicial Magistrate
+13.0,27.0,9.0,17212.0,8091.0,15.0,55.34383883327153,Uttar Pradesh,Varanasi,ACJM NR
+13.0,50.0,3.0,29856.0,25589.0,16.0,419.55394896244485,Uttar Pradesh,Gonda,CJM
+13.0,49.0,3.0,36895.0,34198.0,16.0,212.08529738581203,Uttar Pradesh,Faizabad,CJM court Faizabad
+13.0,36.0,3.0,53179.0,49982.0,16.0,138.01840662638548,Uttar Pradesh,Barabanki,Chief Judicial Magistrate
+13.0,73.0,4.0,20387.0,19921.0,18.0,376.9707344008835,Uttar Pradesh,Hapur,Chief Judicial Magistrate
+13.0,31.0,5.0,60647.0,58835.0,19.0,226.02843545508625,Uttar Pradesh,Pratapgarh,Chief Judicial Magistrate
+12.0,15.0,3.0,1549.0,1329.0,19.0,120.35816403310758,Jammu and Kashmir,Doda,Chief Judicial Magistrate
+16.0,18.0,3.0,9496.0,9169.0,19.0,304.53648162285964,West Bengal,Purba Bardhaman,CHIEF JUDICIAL MAGISTRATE
+13.0,38.0,3.0,16978.0,13278.0,21.0,155.76336797710502,Uttar Pradesh,Mahoba,Chief Judicial Magistrate
+10.0,5.0,5.0,31802.0,24834.0,22.0,290.05315293549165,Tamil Nadu,Namakkal,Chief Judicial Magistrate
+13.0,66.0,3.0,72007.0,55460.0,22.0,213.77861521817528,Uttar Pradesh,Jhansi,Chief Judicial Magistrate
+16.0,17.0,3.0,4857.0,3975.0,24.0,227.79899371069183,West Bengal,Darjeeling,Chief Judicial Magistrate
+8.0,38.0,2.0,2554.0,2554.0,1313.5,1462.3649177760376,Bihar,Muzaffarpur,CJM Division
+8.0,12.0,5.0,587.0,587.0,1329.0,1430.2316865417374,Bihar,Madhepura,Uda-Kishunganj CJM Division
+8.0,1.0,12.0,1298.0,1298.0,1366.5,1459.1633281972265,Bihar,Patna,Barh CJM Div.
+8.0,31.0,4.0,365.0,365.0,1388.0,1187.5205479452056,Bihar,Sitamarhi,Pupri CJM Division
+8.0,36.0,5.0,426.0,426.0,1391.0,1566.075117370892,Bihar,Jehanabad,Arwal CJM Division
+9.0,22.0,31.0,226.0,226.0,1413.0,1592.4823008849555,Rajasthan,Jhalawar,ACJM Manoharthana Jhalawar District
+8.0,37.0,2.0,476.0,476.0,1414.0,1470.0441176470588,Bihar,Sheohar,Sheohar CJM Div.
+9.0,39.0,2.0,454.0,453.0,1428.0,1402.7637969094924,Rajasthan,Jodhpur District,CJM ACJM JM-Jodhpur District HQ
+18.0,21.0,4.0,6047.0,5105.0,1554.0,1516.113222331048,Chhattisgarh,Surajpur,Chief Judicial Magistrate Surajpur
+11.0,27.0,3.0,8747.0,8607.0,1569.0,1591.6506332055303,Orissa,Anugul,"Chief Judicial Magistrate, Anugul"
+8.0,17.0,9.0,311.0,311.0,1629.0,1659.0771704180065,Bihar,Darbhanga,Biraul CJM Division
+9.0,38.0,35.0,412.0,411.0,1827.0,1781.30900243309,Rajasthan,Jaipur District,ACJM JM-Kotputli
+8.0,9.0,8.0,292.0,292.0,1926.0,1810.2739726027398,Bihar,Purnea,CJM Division
+8.0,6.0,11.0,385.0,385.0,1927.0,2053.0675324675326,Bihar,Begusarai,Balia CJM Division
+8.0,1.0,15.0,170.0,170.0,2320.0,2099.605882352941,Bihar,Patna,Masaurhi CJM Div.

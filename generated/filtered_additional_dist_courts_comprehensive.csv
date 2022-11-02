@@ -1,0 +1,386 @@
+state_code,state_name,district_name,dist_code,court_no,court_name
+1,Maharashtra,Nandurbar,1,7,Additional District  And Sessions Court Shahada
+1,Maharashtra,Nashik,20,9,ADDITIONAL DISTRICT AND SESSIONS COURT MALEGAON
+1,Maharashtra,Thane,21,25,ADDL.DIST.  SESSIONS COURT KALYAN
+1,Maharashtra,Thane,21,28,ADDIL. DISTRICT AND SESSEIONS COURT PALGHAR
+1,Maharashtra,Pune,25,4,ADDITIONAL DISTRICT AND SESSIONS COURT BARAMATI
+1,Maharashtra,Latur,28,11,Additional District  Addl. Sessions Court Udgir
+1,Maharashtra,Latur,28,12,Additional District and Sessions Court Nilanga
+1,Maharashtra,Latur,28,13,Additional District and Sessions Court Ahmedpur.
+1,Maharashtra,Satara,31,7,ADDITIONAL DISTRICT AND SESSIONS JUDGE KARAD
+1,Maharashtra,Washim,36,9,Additional District and Sessions Court Mangrulpir
+2,Andhra Pradesh,Ananthapur,2,16,II Addl.District Judges Court Hindupur
+2,Andhra Pradesh,Ananthapur,2,26,VI Addl.District Judge Court Gooty
+2,Andhra Pradesh,Chittoor,3,5,ADDITIONAL DISTRICT JUDGE
+2,Andhra Pradesh,Chittoor,3,19,II Additional District Court Madanapalle
+2,Andhra Pradesh,East Godavari,4,3,III Addl. District And Sessions Court
+2,Andhra Pradesh,East Godavari,4,6,II Addl. Dist. and Sessions Court Amalapuram
+2,Andhra Pradesh,East Godavari,4,22,XII Addl. District and Sessions Judges court
+2,Andhra Pradesh,East Godavari,4,34,VII ADDL. DISTRICT AND SESSIONS COURT PEDDAPURAM
+2,Andhra Pradesh,Guntur,5,23,Addl District Judges Court Narasaraopet
+2,Andhra Pradesh,Guntur,5,32,X ADDL. DISTRICT COURT
+2,Andhra Pradesh,Kadapa,7,14,V Additional District Judge Court Rayachoty
+2,Andhra Pradesh,Kadapa,7,15,II Additional District  Court Proddatur
+2,Andhra Pradesh,Kadapa,7,27,III Additional District Judge Court Rajampet
+2,Andhra Pradesh,Kurnool,10,6,II ADDITIONAL DISTRICT JUDGE COURT
+2,Andhra Pradesh,Kurnool,10,15,III Addl.District Court Complex Nandyal
+2,Andhra Pradesh,Kurnool,10,30,V Addl.District Court Complex Allagadda
+2,Andhra Pradesh,Krishna,11,1,II Additional District Judge Vijayawada
+2,Andhra Pradesh,Krishna,11,19,XI Addl District Court GUDIVADA
+2,Andhra Pradesh,Krishna,11,23,XV ADDITIONAL DISTRICT AND SESSIONS COURT NUZVID
+2,Andhra Pradesh,Nellore,15,10,VII Addl. District and Session Court
+2,Andhra Pradesh,Prakasham,17,22,VI Addl District and Sessions Court Markapur
+2,Andhra Pradesh,Srikakulam,19,13,VI Addl.District and Sessions Judge Court Sompeta
+2,Andhra Pradesh,Visakapatnam,20,6,X Addl District and Session Judges Court AKP
+2,Andhra Pradesh,Visakapatnam,20,10,XIII ADDITIONAL DISTRICT JUDGE COURT AT GAJUWAKA
+2,Andhra Pradesh,Visakapatnam,20,24,Additional District Court Chodavaram
+2,Andhra Pradesh,Vizianagaram,21,17,II Additional District and Sessions Court PVP
+2,Andhra Pradesh,West Godavari,23,6,III ADDL DISTRICT COURT BHIMAVARAM
+2,Andhra Pradesh,West Godavari,23,13,X ADDL DISTRICT COURT NARSAPUR
+2,Andhra Pradesh,West Godavari,23,20,IX Additional District and Sessions Court
+2,Andhra Pradesh,West Godavari,23,23,ADDITIONAL DISTRICT COURT TANUKU
+3,Karnataka,UTTARA KANNADA,10,18,1st ADDL. Dist AND SESSIONS JUDGE SITTING AT SIRSI
+3,Karnataka,HAVERI,11,13,II Addl District and Sessions Judge Ranebennur
+3,Karnataka,BALLARI,12,16,III ADDL DISTRICT AND SESSIONS JUDGE HOSAPETE
+3,Karnataka,UDUPI,16,7,ADDL.DISTRICT AND SESSIONS JUDGE-SIT AT KUNDAPURA
+3,Karnataka,TUMAKURU,18,22,V Addl. District and Sessions Judge Tiptur
+3,Karnataka,TUMAKURU,18,23,IV Addl. District and Sessions Court Madhugiri
+3,Karnataka,BENGALURU RURAL,21,5,IV ADDL. DISTRICT AND SESSIONS JUDGE DODBALLAPUR
+3,Karnataka,BENGALURU RURAL,21,13,III Addl. District and Sessions Judge  ANEKAL
+3,Karnataka,BENGALURU RURAL,21,18,V ADDITIONAL DIST  SESSIONS JUDGE  DEVANAHALLI.
+3,Karnataka,MANDYA,22,18,III ADL DISTRICT AND SESSIONS JUDGE SRPATTANA
+3,Karnataka,DAKSHINA KANNADA,24,9,V ADDL.DISTRICT AND SESSIONS JUDGE PUTTUR
+3,Karnataka,KODAGU,25,8,II Addl DISTRICT AND SESSIONS COURT VIRAJPET
+3,Karnataka,CHAMRAJNAGAR,27,8,ADDL. DISTRICT AND SESSIONS COURT Kollegal
+3,Karnataka,CHIKKABALLAPUR,29,7,II ADDL DISTRICT AND SESSIONS COURT CHINTAMANI
+4,Kerala,Ernakulam,2,32,Vth Addl District Court
+4,Kerala,Ernakulam,2,38,Addl District and Sessions Court N.Paravur
+4,Kerala,Ernakulam,2,52,Additional District and Sessions Court-POCSO
+4,Kerala,Thrissur,4,10,Addl. Dist. and Sessions Court/MACT Irinjalakuda
+4,Kerala,Kozhikode,5,12,Additional District and Sessions Court
+4,Kerala,Kozhikode,5,24,Additional District and Sessions Court III
+4,Kerala,Alappuzha,6,21,ADDL.DISTRICT AND SESSIONS COURT-I MAVELIKARA
+4,Kerala,Palakkad,8,17,Addl District  Sessions Court  MACT  Ottapalam
+4,Kerala,Thiruvananthapuram,9,22,Addl District and Sessions Court Neyyattinkara
+4,Kerala,Kottayam,10,19,MACT / ADDL. DISTRICT AND SESSIONS COURT PALA
+5,Himachal Pradesh,Bilaspur,7,2,Addl. District and Session Court Ghumarwin
+6,Assam,Kamrup Metro,1,4,Dist Judge and Addl Dist Judges
+6,Assam,Sivasagar,3,8,Addl Dist and Sessions Judge
+6,Assam,Sonitpur,6,7,Addl District and Sessions Judge
+6,Assam,Nagaon,10,8,Addl. District and Sessions Judge FTC
+6,Assam,Dhubri,16,8,Additional District and Sessions Judge
+6,Assam,Barpeta,20,8,Addl. District and Sessions Judge
+6,Assam,Kamrup,23,6,Additional District and Sessions Judge Rangia
+6,Assam,Chirang,25,6,Additional District and Sessions Judge
+9,Rajasthan,Bhilwara,31,32,ADDITIONAL DISTRICT SESSION JUDGE GULABPURA
+10,Tamil Nadu,Tirunelveli,3,16,II Additional District Court (PCR) Tirunelveli
+10,Tamil Nadu,Tirunelveli,3,26,Additional District - Sessions Court Tenkasi
+10,Tamil Nadu,Theni,4,13,Additional District Court Periyakulam
+10,Tamil Nadu,Nagapattinam,6,16,Additional District Court Mayiladuthurai
+10,Tamil Nadu,Viluppuram,10,10,Additional District and Sessions Court Kallakurich
+10,Tamil Nadu,Viluppuram,10,27,Additional District Court No.1 Tindivanam
+10,Tamil Nadu,Viluppuram,10,28,Additional District Court No.2 Tindivanam
+10,Tamil Nadu,Vellore,11,4,ADDITIONAL DISTRICT AND SESSIONS JUDGE RANIPET
+10,Tamil Nadu,Vellore,11,6,Addl Dist and Sess Court Tirupattur
+10,Tamil Nadu,Virudhunagar,14,5,Additional District Court Virudhunagar
+10,Tamil Nadu,Thanjavur,17,4,III ADDL. DISTRICT COURT THANJAVUR at PATTUKOTTAI
+10,Tamil Nadu,Thanjavur,17,18,Additional District Court Kumbakonam
+10,Tamil Nadu,Cuddalore,20,7,Additional District Judge III Virudhachalam 
+10,Tamil Nadu,Cuddalore,20,18,Additional District Judge-II Chidhambaram
+10,Tamil Nadu,Ramanathapuram,21,15,Additional District Court Paramakudi
+10,Tamil Nadu,Tiruvannamalai,22,21,Additional District Court Arni
+10,Tamil Nadu,Perambalur,23,5,Prl.DM and Addl.DM COURT PERAMBALUR.
+10,Tamil Nadu,Erode,24,14,Additional District Court Gobichettpalayam
+10,Tamil Nadu,Erode,24,20,IV-ADDITIONAL DISTRICT COURT BHAVANI
+10,Tamil Nadu,Krishnagiri,26,15,Additional District Court Hosur
+10,Tamil Nadu,Dindigul,27,19,Additional District Court(FTC) Palani
+10,Tamil Nadu,Tiruvallur,32,3,Additional District and Sessions Judge -IV Ponneri
+10,Tamil Nadu,Tiruvallur,32,21,Additional District and Sessions Court-II
+10,Tamil Nadu,Tiruvallur,32,22,Additional District and Sessions Court-III
+10,Tamil Nadu,Tiruppur,33,17,III Additional District Judge Dharapuram
+11,Orissa,Cuttack,1,7,Addl. District and Sessions Judge Athagarh
+11,Orissa,Ganjam,4,16,Additional District Judge Aska
+11,Orissa,Ganjam,4,19,Additional District Judge Bhanjanagar ganjam
+11,Orissa,Koraput,6,6,Addl District and Sessions Jugde Koraput
+11,Orissa,Dhenkanal,7,5,Additional District and Sessions Judge Knagar
+11,Orissa,Khurda,8,5,Addl. District and Sessions Court Khurda
+11,Orissa,Kalahandi,10,8,Additional District  and Sessions Judge Dharamgarh
+11,Orissa,Sambalpur,11,8,Additional District & Session Judge Sambalpur
+11,Orissa,Sambalpur,11,11,Additional District Judge Kuchinda
+11,Orissa,Keonjhar,13,8,Additional District and Session Judge Champua
+11,Orissa,Keonjhar,13,11,Addl. District and Sessions Judge Anandapur
+11,Orissa,Puri,15,14,Additional District and Sessions Judge Nimapada
+11,Orissa,Balangir,17,6,Additional District Judge Patnagarh
+11,Orissa,Balangir,17,8,Additional District Judge Titilagarh
+11,Orissa,Balangir,17,11,Additional District Judge Kantabanji
+11,Orissa,Mayurbhanj,26,5,Addl. District and Sessions Judge
+11,Orissa,Mayurbhanj,26,12,Additional District and Sessions Judge
+11,Orissa,Anugul,27,5,Additional District and Sessions Judge Talcher
+11,Orissa,Bargarh,29,9,Addl. District and Sessions Judge Padampur
+11,Orissa,Malkangiri,31,1,Additional District and Sessions Judge Malkangiri
+12,Jammu and Kashmir,Baramulla,3,6,Additional District Judge
+13,Uttar Pradesh,Bijnor,47,8,Additional District and Session Judge
+13,Uttar Pradesh,Bulandshahr,48,9,Addl. District and Sessions Judge Anoopshahr
+13,Uttar Pradesh,Bulandshahr,48,11,Addl. District and Sessions Judge Khurja
+13,Uttar Pradesh,Saharanpur,57,8,Addl. District Sessions Judge Deoband Saharanpur
+13,Uttar Pradesh,Siddharthnagar,59,7,Additional District and Session Judge Bansi
+13,Uttar Pradesh,Sonbhadra,60,7,Additional District  and Session  Judge  Obra
+13,Uttar Pradesh,Sambhal at Chandausi,74,1,Addl. District and Sessions Court Chandausi
+13,Uttar Pradesh,Shamli,76,8,Additional district and session judge kairana
+15,Uttarakhand,Pauri Garhwal,2,6,Addl. District and Sessions Judge
+15,Uttarakhand,Haridwar,9,6,Additional District and Session Judge
+16,West Bengal,Hooghly,2,7,ADDITIONAL DISTRICT & SESSIONS JUDGE  CHANDERNAGOR
+16,West Bengal,Hooghly,2,10,ADDITIONAL DISTRICT AND SESSIONS JUDGE SERAMPORE
+16,West Bengal,Hooghly,2,14,ADDL. DISTRICT & SESSIONS JUDGE
+16,West Bengal,Jalpaiguri,4,6,Additional District  and Sessions Judge  Malbazar
+16,West Bengal,Jalpaiguri,4,8,Addl Dist  and Sessions Judge Court
+16,West Bengal,Coochbehar,6,6,Addl. District & Sessions Judge  Dinhata
+16,West Bengal,Coochbehar,6,13,Additional District & Sessions Judge  Mathabhanga
+16,West Bengal,Purba Medinipur,9,6,Addl. District & Session Judge
+16,West Bengal,Purba Medinipur,9,10,Addl District and Seesion Judge Haldia
+16,West Bengal,Howrah,11,6,Additional District And Sessions Judge
+16,West Bengal,Howrah,11,9,Additional District Judge Uluberia
+16,West Bengal,Murshidabad,12,6,Addl District and Session Judge
+16,West Bengal,Murshidabad,12,8,Additional District & Session Judge
+16,West Bengal,Murshidabad,12,11,Additional District and Sessions Judge Kandi MSD
+16,West Bengal,Murshidabad,12,15,Additional District and sessions Judge
+16,West Bengal,North  Twenty Four Parganas,14,13,Barrackpore Addl. District & Sessions Judge
+16,West Bengal,Darjeeling,17,6,Additional District  Sessions Judge 1 st Court
+16,West Bengal,Darjeeling,17,18,Additional District and Sessions Judge
+16,West Bengal,Purba Bardhaman,18,18,Additional district and Sessions Judge
+16,West Bengal,Bankura,19,5,Addl. District Judge Khatra
+16,West Bengal,Bankura,19,9,Addl. District Judge Bishnupur
+16,West Bengal,South Twenty Four Parganas,20,5,Additional District Judge Establishment
+16,West Bengal,South Twenty Four Parganas,20,7,Additional District Judge Establishment
+16,West Bengal,South Twenty Four Parganas,20,11,Additional District and Sessions Judge
+16,West Bengal,South Twenty Four Parganas,20,16,Additional District Judge Estd.
+16,West Bengal,South Twenty Four Parganas,20,19,Additional District Judge Establishment
+16,West Bengal,North Dinajpur,21,5,Additional District Judge Islampur
+16,West Bengal,Nadia,22,1,Addl.District Judge Kalyani
+16,West Bengal,Nadia,22,15,Addl.District Judge FTC
+16,West Bengal,Nadia,22,16,Addl. District and Sessions Judge Ranaghat
+16,West Bengal,Paschim Bardhaman,24,2,Additional District And Session Judge
+17,Gujarat,GANDHINAGAR,11,7,Kalol Additional District Court
+17,Gujarat,Ahmedabad,13,18,ADDL DISTRICT COURT VIRAMGAM
+17,Gujarat,SURAT,14,19,bardoli_addldj Court
+17,Gujarat,RAJKOT,16,19,Addl. District Court - Gondal
+17,Gujarat,RAJKOT,16,21,Jetpur Additional Dist. Court
+17,Gujarat,RAJKOT,16,22,Addl. District Court - Dhoraji
+17,Gujarat,Banaskanth at Palanpur,19,18,ADDITIONAL DISTRICT COURT DEESA
+17,Gujarat,Bharuch,20,11,Additional District Court Ankleshwar
+17,Gujarat,Bhavnagar,21,15,mahuva_addldj Court
+17,Gujarat,Dahod,22,12,llimkheda_addldj
+17,Gujarat,Junagadh,24,18,visavadar_addldj Court
+17,Gujarat,Junagadh,24,19,Additional District Court Keshod
+17,Gujarat,Junagadh,24,20,vanthali_addldj Court
+17,Gujarat,Panchmahal at Godhra,27,17,Addl District Court Halol
+17,Gujarat,Patan,28,13,ADDL. DISTRICT COURT RADHANPUR
+17,Gujarat,Sabarkantha at Himmatnagar,29,18,ADDITIONAL DISTRICT AND SESSIONS COURT AT IDAR
+17,Gujarat,Surendranagar,30,15,Additional District Court Dhrangadhra
+17,Gujarat,Vadodara,31,20,Addl District Court - Savli
+17,Gujarat,Navsari,32,9,ahwa_addldj Court
+17,Gujarat,Gir Somnath at Veraval,37,3,Additional District Court Una
+18,Chhattisgarh,Raipur,3,7,2Additional district judge Gariyaband
+18,Chhattisgarh,Dhamtari,5,7,Additional District And Sessions Camp Court Kurud
+18,Chhattisgarh,Raigarh,6,5,Addl District and session court
+18,Chhattisgarh,Raigarh,6,10,Addl. District and Sessions Judge Gharghoda
+18,Chhattisgarh,Rajnandgaon,10,4,Additional District And Sessions Court Dongargarh
+18,Chhattisgarh,Rajnandgaon,10,6,Additional District And Sessions Court Khairagarh
+18,Chhattisgarh,Mahasamund,12,4,Additional District and Sessions court
+18,Chhattisgarh,Kanker,13,3,Additional District And Session Judge
+18,Chhattisgarh,Jashpur,16,3,Additional District and Sessions Judge Kunkuri
+18,Chhattisgarh,Jashpur,16,9,Additional District Judge Pathalgaon
+19,Mizoram,Aizawl,1,3,Dst. Judge and Addl. Dst. Judges
+19,Mizoram,Lunglei,2,2,District Judge & Addl. Dist. Judges
+20,Tripura,Unakoti  Tripura,5,6,Addl District And Sessions Judge Court Kamalpur
+20,Tripura,Sepahijala Tripura,9,7,Addl. District and Sessions Judge Bishalgarh
+20,Tripura,Dhalai Tripura,11,5,Addl District And Sessions Judge Court Kamalpur
+29,Telangana,Adilabad,1,10,IIIADDITIONAL DISTRICT AND SESSIONS COURT ASIFABAD
+29,Telangana,Karimnagar,3,16,II Addl District and Sessions court Jagtial
+29,Telangana,Karimnagar,3,24,IX Addl District and Sessions Court Sircilla
+29,Telangana,Khammam,4,10,V Addl. District and Sessions Judge FTC
+29,Telangana,Mahabubnagar,5,18,III Addl District and Sessions Court FTC
+29,Telangana,Mahabubnagar,5,24,Additional District and Sessions Court Wanaparthy
+29,Telangana,Mahabubnagar,5,25,IV Addl DistandSessoins Court FTC Nagarkurnool
+29,Telangana,Medak,6,11,IV Addl District and Sessions Court Siddipet
+29,Telangana,Medak,6,12,VIII ADDL DISTRICT AND SESSIONS JUDGE MEDAK
+29,Telangana,Nalgonda,7,8,V Addl District and Sessions Judge Court
+29,Telangana,Nalgonda,7,24,II Addl District Judge Court Suryapet
+29,Telangana,Nizamabad,8,2,VII Addl Dist Sessions Court Bodhan
+29,Telangana,Nizamabad,8,14,IX Addl District and Sessions Judge Court
+29,Telangana,Rangareddy,9,15,XII Additional District And Sessions Court
+29,Telangana,Rangareddy,9,26,Addl District and Sessions Court
+29,Telangana,Rangareddy,9,27,Addl District and Sessions Court
+29,Telangana,Warangal,10,8,VI Addl District and Session Judge Mahabubabad
+29,Telangana,Warangal,10,15,V Addl  District Court
+2,Andhra Pradesh,Chittoor,3,23,XI Addl.District Court Complex Piler
+2,Andhra Pradesh,Krishna,11,28,XVI Addl  District Judges Court Nandigama
+6,Assam,Tinsukia,2,9,Addl. District and Sessions Judge
+6,Assam,Barpeta,20,8,Addl. District & Sessions Judge
+10,Tamil Nadu,Tiruvallur,32,3,Additional District and Sessions Court -IV Ponneri
+10,Tamil Nadu,Tiruvallur,32,22,Additional District and Sessions Court-III Poonamallee
+15,Uttarakhand,Haridwar,9,13,Additional District and Sessions Judge
+16,West Bengal,Hooghly,2,7,ADDITIONAL DISTRICT and SESSIONS JUDGE  CHANDERNAGOR
+16,West Bengal,Coochbehar,6,6,Addl. District and Sessions Judge  Dinhata
+2,Andhra Pradesh,West Godavari,23,20,IX Additional District and Sessions Court Kovvur
+16,West Bengal,Murshidabad,12,8,Additional District and Session Judge
+17,Gujarat,Mahesana,15,15,visnagar_addldj Court
+29,Telangana,Adilabad,1,25,VII Addl. District and Sessions Judge Court
+4,Kerala,Ernakulam,2,47,ADDL. DISTRICT  AND SESSIONS COURT MUVATTUPUZHA
+4,Kerala,Kozhikode,5,38,Additional District Court (POCSO Act ) Kozhikode
+6,Assam,Bongaigaon,9,10,Additional District and Sessions Judge
+11,Orissa,Rayagada,21,7,Additional District Judge Gunupur
+16,West Bengal,Coochbehar,6,10,Addl. District & Sessions Judge  Tufanganj
+29,Telangana,Adilabad,1,20,VI Addl. District and Sessions Judge Adilabad
+29,Telangana,Adilabad,1,23,II Addl. Dist. and Sessions FTC Court Mancherial
+1,Maharashtra,Pune,25,24,ADDL. DISTRICT COURT KHED
+1,Maharashtra,Solapur,30,21,Additional District Court Barshi
+2,Andhra Pradesh,East Godavari,4,3,III Addl. District And Sessions Court Kakinada
+11,Orissa,Anugul,27,13,Addl.District and Sessions Judge
+16,West Bengal,Coochbehar,6,17,Additional District and Sessions Judge Mekhliganj
+16,West Bengal,Nadia,22,9,Addl. District Judge
+17,Gujarat,Banaskanth at Palanpur,19,19,Additional District Court  DEODAR
+4,Kerala,Kollam,15,21,Addl.District and Sessions Court-III
+10,Tamil Nadu,Kanniyakumari,7,22,Additional District Court
+3,Karnataka,KOPPAL,7,11,Addl District and Sessions Court
+11,Orissa,Kandhamal,23,9,Addl.District & Sessions Judge Balliguda
+6,Assam,Udalguri,24,4,Additional District And Sessions Judge
+15,Uttarakhand,Almora,7,10,Additional District Judge Ranikhet
+17,Gujarat,Banaskanth at Palanpur,19,23,ADDITIONAL DISTRICT COURT THARAD
+29,Telangana,Rangareddy,9,26,Addl District and Sessions Court Kukatpally
+3,Karnataka,SHIVAMOGGA,15,13,V ADJ SHIVAMOGGA SITTING AT SAGARA
+3,Karnataka,SHIVAMOGGA,15,18,IV ADJ Shivamogga sitting at Bhadravathi
+3,Karnataka,RAMANAGARAM,28,7,II ADJ RAMANAGARA SITTING AT KANAKAPURA
+9,Rajasthan,Rajsamand,1,11,DJ ADJ-Rajsamand District HQ
+9,Rajasthan,Rajsamand,1,26,ADJ-Nathdwara Taluka
+9,Rajasthan,Alwar,2,11,DJ ADJ-Alwar District HQ
+9,Rajasthan,Alwar,2,20,ADJ Court Laxmangarh
+9,Rajasthan,Alwar,2,26,ADJ - Behror
+9,Rajasthan,Alwar,2,30,ADJ - Tijara
+9,Rajasthan,Alwar,2,38,ADJ Kishangarh Bas Court Complex
+9,Rajasthan,Alwar,2,44,ADJ-Rajgarh HQ
+9,Rajasthan,Alwar,2,50,ADJ Bansur HQ
+9,Rajasthan,Alwar,2,61,ADJ Mundawar HQ
+9,Rajasthan,Dausa,3,4,DJ ADJ MACT - Dausa District HQ
+9,Rajasthan,Dausa,3,12,ADJ-Bandikui Court Complex
+9,Rajasthan,Dausa,3,16,ADJ-Lalsot Court Complex
+9,Rajasthan,Dausa,3,21,ADJ - Mahwa Court Complex
+9,Rajasthan,Jaipur Metro,4,14,DJ ADJ Jaipur Metro HQ
+9,Rajasthan,Tonk,5,7,DJ ADJ - Tonk HQ
+9,Rajasthan,Tonk,5,14,ADJ - Malpura Taluka
+9,Rajasthan,Bikaner,6,8,DJ ADJ - Bikaner District HQ
+9,Rajasthan,Bikaner,6,28,ADJ Camp Court Dungargarh
+9,Rajasthan,Ganganagar,7,11,DJ ADJ -Shri Ganganagar District HQ
+9,Rajasthan,Ganganagar,7,23,ADJ -Karanpur Taluka
+9,Rajasthan,Ganganagar,7,26,ADJ -Raisingnagar Taluka
+9,Rajasthan,Ganganagar,7,32,ADJ - ANUPGARH TALUKA
+9,Rajasthan,Ganganagar,7,38,Adj -Suratgarh Taluka
+9,Rajasthan,Merta (Nagaur),8,18,ADJ-Nagaur Taluka HQ
+9,Rajasthan,Merta (Nagaur),8,26,ADJ-Didwana Taluka HQ
+9,Rajasthan,Merta (Nagaur),8,39,ADJ-Parbatsar Taluka HQ
+9,Rajasthan,Udaipur,9,12,DJ ADJ-Udaipur District HQ
+9,Rajasthan,Udaipur,9,25,ADJ - Salumber Taluka
+9,Rajasthan,Udaipur,9,48,ADJ-Kherwara Taluka
+9,Rajasthan,Bundi,10,5,DJ ADJ - Bundi HQ
+9,Rajasthan,Hanumangarh,11,2,DJ ADJ-Hanumangarh District HQ
+9,Rajasthan,Hanumangarh,11,13,ADJ-Sangaria HQ
+9,Rajasthan,Hanumangarh,11,18,ADJ-BHADRA TALUKA HQ
+9,Rajasthan,Hanumangarh,11,22,ADJ-NOHAR TALUKA HQ
+9,Rajasthan,Baran,12,8,DJ ADJ - Baran HQ
+9,Rajasthan,Baran,12,25,ADJ Chhabra Taluka
+9,Rajasthan,Bharatpur,13,9,ADJ - Bayana Taluka
+9,Rajasthan,Bharatpur,13,13,DJ ADJ - Bharatpur District HQ
+9,Rajasthan,Bharatpur,13,26,ADJ - Deeg Taluka
+9,Rajasthan,Ajmer,14,9,DJ ADJ-Ajmer District HQ
+9,Rajasthan,Ajmer,14,14,ADJ-BEAWAR TALUKA (CIVIL AND CRIMINAL)
+9,Rajasthan,Ajmer,14,20,ADJ-KEKRI TALUKA
+9,Rajasthan,Ajmer,14,27,ADJ-KISHANGARH TALUKA (CRIMINAL AND CIVIL)
+9,Rajasthan,Jhunjhunu,18,2,DJ ADJ - Jhunjhunu District HQ
+9,Rajasthan,Jhunjhunu,18,13,ADJ-Khetri Taluka HQ
+9,Rajasthan,Jhunjhunu,18,19,ADJ-CHIRAWA HQ
+9,Rajasthan,Pali,19,9,DJ ADJ SCST-PALI DISTRICT HQ
+9,Rajasthan,Pali,19,13,ADJ -Sojat Taluka
+9,Rajasthan,Pali,19,17,ADJ-Sumerpur Taluka
+9,Rajasthan,Pali,19,21,ADJ-Bali Taluka
+9,Rajasthan,Pali,19,34,ADJ-Jaitaran Taluka Court
+9,Rajasthan,Kota,20,8,DJ ADJ - Kota HQ
+9,Rajasthan,Kota,20,27,ADJ - Ramganjmandi Taluka
+9,Rajasthan,Jalore,21,6,ADJ-BHINMAL TALUKA
+9,Rajasthan,Jhalawar,22,7,DJ ADJ MACT - Jhalawar District HQ
+9,Rajasthan,Jhalawar,22,17,ADJ - Aklera Jhalawar District
+9,Rajasthan,Jhalawar,22,23,ADJ - Bhawanimandi Jhalawar District
+9,Rajasthan,Pratapgarh,23,3,DJ ADJ COURT PRATAPGARH DISTRICT HQ
+9,Rajasthan,Dungarpur,24,5,DJ ADJ Dungarpur District HQ
+9,Rajasthan,Banswara,25,6,DJ ADJ Banswara District HQ
+9,Rajasthan,Sirohi,26,7,DJ ADJ-Sirohi District HQ
+9,Rajasthan,Sirohi,26,12,ADJ Aburoad Taluka
+9,Rajasthan,Balotra Barmer,27,4,DJ ADJ-Balotra District HQ
+9,Rajasthan,Balotra Barmer,27,8,ADJ-Barmer
+9,Rajasthan,Jodhpur Metro,28,10,DJ ADJ Jodhpur Metro HQ
+9,Rajasthan,Karauli,29,5,DJ ADJ-Karauli District HQ
+9,Rajasthan,Karauli,29,10,ADJ 1 ADJ 2- TALUKA HINDAUN
+9,Rajasthan,Chittorgarh,30,6,DJ ADJ - Chittorgarh District HQ
+9,Rajasthan,Chittorgarh,30,18,ADJ-NIMBHERA TALUKA
+9,Rajasthan,Bhilwara,31,11,DJ/ADJ - Bhilwara District HQ
+9,Rajasthan,Bhilwara,31,37,ADJ Shahpura Criminal & Civil Cases
+9,Rajasthan,Jaiselmer,32,12,ADJ Pokran Taluka HQ
+9,Rajasthan,Churu,33,7,DJ ADJ RAJGARGH COURT COMPLEX CHURU
+9,Rajasthan,Churu,33,11,DJ ADJ RATANGARH COURT COMPLEX CHURU
+9,Rajasthan,Churu,33,16,DJ ADJ SUJANGARH COURT COMPLEX
+9,Rajasthan,Churu,33,22,DJ ADJ DISTRICT HQ CHURU
+9,Rajasthan,Dholpur,34,2,DJ ADJ - Dholpur District HQ
+9,Rajasthan,Sikar,35,12,ADJ NEEMKATHANA TALUKA HQ
+9,Rajasthan,Sikar,35,24,ADJ SHRIMADHOPUR TALUKA HQ
+9,Rajasthan,Sikar,35,32,ADJ FATEHPUR TALUKA HQ
+9,Rajasthan,Sawai Madhopur,36,6,DJ ADJ - Sawai Madhopur HQ
+9,Rajasthan,Sawai Madhopur,36,11,ADJ - Gangapur City Taluka
+9,Rajasthan,Jaipur District,38,9,DJ ADJ-Jaipur District HQ
+9,Rajasthan,Jaipur District,38,14,DJ ADJ-Sambhar Lake
+9,Rajasthan,Jaipur District,38,20,ADJ-Shahpura
+9,Rajasthan,Jaipur District,38,34,ADJ-Kotputli
+9,Rajasthan,Jodhpur District,39,1,DJ ADJ-Jodhpur District HQ
+9,Rajasthan,Jodhpur District,39,14,ADJ Phalodi HQ
+9,Rajasthan,Jaipur Metro II,40,6,DJ ADJ Jaipur Metro HQ II
+10,Tamil Nadu,Tirunelveli,3,12,PDJ I ADJ Mahila III ADJ IV ADJ Tirunelveli
+10,Tamil Nadu,Ramanathapuram,21,6,PDJ ADJ and FTMCourts Ramanathapuram
+11,Orissa,Cuttack,1,19,A.D.J. Salipur
+11,Orissa,Ganjam,4,13,ADJ Chatrapur
+11,Orissa,Sundargarh,16,6,adj court bonai
+11,Orissa,Sundargarh,16,9,adj court rourkela
+15,Uttarakhand,Nainital,1,7,haldwani_adj
+15,Uttarakhand,Nainital,1,13,Ramnagar_adj
+15,Uttarakhand,Udham Singh Nagar,4,7,kashipur_adj
+15,Uttarakhand,Udham Singh Nagar,4,11,khatima_adj
+15,Uttarakhand,Dehradun,5,3,ADJ_Rishikesh
+15,Uttarakhand,Dehradun,5,12,ADJ_Vikasnagar
+16,West Bengal,Paschim Medinpur,7,6,adj
+16,West Bengal,Birbhum,8,9,ADJ
+16,West Bengal,Birbhum,8,13,BOLPUR ADJ COURT
+16,West Bengal,Purulia,10,6,ADJ Raghunathpur
+16,West Bengal,South Dinajpur,13,2,DJ and ADJ Courts at Balurghat
+16,West Bengal,South Dinajpur,13,6,ADJ Court Buniadpur
+16,West Bengal,North  Twenty Four Parganas,14,7,basirhat ADJ
+16,West Bengal,North  Twenty Four Parganas,14,14,ADJ Bongaon
+16,West Bengal,Purba Bardhaman,18,10,burkaladjdb
+16,West Bengal,Nadia,22,12,tehadjdb
+17,Gujarat,kachchh at Bhuj,26,15,gandhidham_adj Court
+17,Gujarat,kachchh at Bhuj,26,16,anjar_adj Court
+18,Chhattisgarh,Bilaspur,2,8,ADJ Court Pendra Road
+29,Telangana,Khammam,4,16,IV ADJ COURT  ( F.T.C )
+29,Telangana,Nalgonda,7,4,VIII ADJ COURT MIRYALAGUDA
+9,Rajasthan,Jaipur Metro I,4,14,DJ ADJ Jaipur Metro HQ
+9,Rajasthan,Dholpur,34,15,ADJ-Bari Taluka
+10,Tamil Nadu,Ramanathapuram,21,6,PDJ and ADJ Ramanathapuram
+16,West Bengal,Paschim Medinpur,7,12,pmghataladjdb
+9,Rajasthan,Dungarpur,24,18,ADJ Sagwara Taluka
+9,Rajasthan,Jalore,21,2,DJ ADJ- Jalore District HQ
+9,Rajasthan,Jaipur District,38,27,ADJ-dudu
+17,Gujarat,Gir Somnath at Veraval,37,9,ADJ Kodinar
+9,Rajasthan,Bharatpur,13,42,ADJ-Kaman Taluka
+9,Rajasthan,Jaiselmer,32,11,ADJ - Jaisalmer ADJ  HQ
+9,Rajasthan,Merta Nagaur,8,26,ADJ-Didwana Taluka HQ
+9,Rajasthan,Ganganagar,7,47,ADJ- GHARSHANA TALUKA
+9,Rajasthan,Jaipur District,38,38,ADJ - Chomu
+17,Gujarat,Amreli,17,16,ADJ COURT DHARI
+3,Karnataka,UTTARA KANNADA,10,18,1st ADDL. Dist AND SESSIONS JUDGE SITTING AT SIRSI
+18,Chhattisgarh,Raipur,3,7,2Additional district judge Gariyaband

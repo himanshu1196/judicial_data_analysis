@@ -1,0 +1,584 @@
+state_code,state_name,district_name,dist_code,court_no,court_name
+1,Maharashtra,Nandurbar,1,1,Chief Judcial Magistrate Nandurbar
+1,Maharashtra,Dhule,2,2,CHIEF JUDICIAL MAGISTRATE COURT DHULE
+1,Maharashtra,Jalgaon,3,3,CHIEF JUDICIAL MAGISTRATE JALGAON
+1,Maharashtra,Buldhana,4,2,CHIEF JUDICIAL MAGISTRATE BULDANA.
+1,Maharashtra,Akola,5,2,Chief Judicial Magistrate
+1,Maharashtra,Amravati,7,2,CHIEF JUDICIAL MAGISTRATE COURT
+1,Maharashtra,Wardha,8,2,COURT OF CHIEF JUDICIAL MAGISTRATE WARDHA.
+1,Maharashtra,Nagpur,9,2,Chief Judicial Magistrate Nagpur
+1,Maharashtra,Bhandara,10,2,CHIEF  JUDICIAL MAGISTRATE BHANDARA
+1,Maharashtra,Gondia,11,4,Chief Judicial Magistrate Gondia
+1,Maharashtra,Gadchiroli,12,2,CHIEF JUDICIAL MAGISTRATE GADCHIROLI
+1,Maharashtra,Chandrapur,13,2,Chief Judicial Magistrate Chandrapur
+1,Maharashtra,Yavatmal,14,2,Chief Judicial Magistrate Yavatmal
+1,Maharashtra,Parbhani,17,2,CHIEF JUDICIAL MAGISTRATE COURT PARBHANI.
+1,Maharashtra,Jalna,18,2,CHIEF JUDICIAL MAGISTRATE COURT JALNA
+1,Maharashtra,Aurangabad,19,3,CHIEF JUDICIAL MAGISTRATE AURANGABAD
+1,Maharashtra,Nashik,20,3,CHIEF JUDICIAL MAGISTRATE NASHIK.
+1,Maharashtra,Thane,21,2,C.J.M. COURT THANE
+1,Maharashtra,Raigad,24,2,Chief Judicial Magistrate Raigad-Alibag
+1,Maharashtra,Ahmednagar,26,2,Chief Judicial Magistrate Ahmednagar
+1,Maharashtra,Beed,27,2,CHIEF JUDICIAL MAGISTRATE BEED.
+1,Maharashtra,Latur,28,2,Chief Judicial Magistrate Latur
+1,Maharashtra,Osmanabad,29,2,CHIEF JUDICIAL MAGISTRATE COURT OSMANABAD.
+1,Maharashtra,Satara,31,3,Chief Judicial Magistrate Satara
+1,Maharashtra,Ratnagiri,32,2,CHIEF JUDICIAL MAGISTRATE COURT RATNAGIRI.
+1,Maharashtra,Sindhudurg,33,2,CHIEF JUDICIAL MAGISTRATE SINDHUDURG
+1,Maharashtra,Kolhapur,34,3,Chief Judicial Magistrate Kolhapur
+1,Maharashtra,Sangli,35,12,CHIEF JUDICIAL MAGISTRATE SANGLI
+3,Karnataka,BENGALURU RURAL,21,14,CJM RURAL COURT BENGALURU
+4,Kerala,Kasaragod,1,4,CHIEF JUDICIAL MAGISTRATE COURT KASARAGOD
+4,Kerala,Ernakulam,2,4,Chief Judicial Magistrate
+4,Kerala,Kannur,3,4,CJM Court Thalassery.
+4,Kerala,Thrissur,4,4,CJM COURT THRISSUR
+4,Kerala,Kozhikode,5,11,Chief Judicial Magistrate Court Kozhikode
+4,Kerala,Alappuzha,6,5,Chief Judicial Magistrate Court  Alappuzha
+4,Kerala,Idukki,7,5,Chief Judicial Magistrate Court Thodupuzha
+4,Kerala,Palakkad,8,4,CHIEF JUDICIAL MAGISTRATE COURT  PALAKKAD
+4,Kerala,Thiruvananthapuram,9,4,Chief Judicial Magistrate  Court  Trivandrum
+4,Kerala,Kottayam,10,7,Chief Judicial Magistrate Court Kottayam
+4,Kerala,Malappuram,11,6,Chief Judicial Magistrates Court Manjeri
+4,Kerala,Pathanamthitta,12,4,CHIEF JUDICIAL MAGISTRATE COURT PATHANAMTHITTA
+4,Kerala,Kollam,15,4,CJM Court
+4,Kerala,Kollam,15,14,Court of the Judicial Magistrate of 1st Class 1
+4,Kerala,Wayanad,16,2,CJM COURT KALPETTA
+5,Himachal Pradesh,Hamirpur,1,4,CHIEF JUDICIAL MAGISTRATE HAMIRPUR H.P.
+5,Himachal Pradesh,Kangra,2,8,Chief Judicial Magistrate Kangra at Dharamshala
+5,Himachal Pradesh,Una,4,2,Chief Judicial Magistrate TC Amb
+5,Himachal Pradesh,Una,4,3,Chief Judicial Magistrate Una
+5,Himachal Pradesh,Solan,5,5,Chief Judicial Magistrate
+5,Himachal Pradesh,Solan,5,7,Chief Judicial Magistrate(CJM)
+5,Himachal Pradesh,Solan,5,8,Chief Judicial Magistrate TC Arki
+5,Himachal Pradesh,Solan,5,12,Chief Judicial Magistrate TC Kasauli
+5,Himachal Pradesh,Mandi,6,2,Cheif Judicial Magistrate TC Sarkaghat
+5,Himachal Pradesh,Mandi,6,4,Chief Judicial Magistrate TC Gohar
+5,Himachal Pradesh,Mandi,6,5,Chief Judicial Magistrate TC Karsog
+5,Himachal Pradesh,Mandi,6,7,Cheif Judicial Magistrate TC Sundernagar
+5,Himachal Pradesh,Mandi,6,9,Chief Judicial Magistrate TC Jogindernagar
+5,Himachal Pradesh,Mandi,6,19,Chief Judicial Magistrate Mandi
+5,Himachal Pradesh,Chamba,8,4,Chief Judicial Magistrate Chamba
+5,Himachal Pradesh,Kinnaur,9,4,Chief Judicial Magistrate Rampur
+5,Himachal Pradesh,Kinnaur,9,6,Chief Judicial Magistrate Ani
+5,Himachal Pradesh,Kinnaur,9,8,Chief Judicial Magistrate Reckong Peo
+5,Himachal Pradesh,Kullu,10,3,Chief Judicial magistrate Kullu
+5,Himachal Pradesh,Shimla,11,11,Chief Judicial Magistrate Shimla
+6,Assam,Kamrup Metro,1,8,Chief Judicial Magistrate Kamrup
+6,Assam,Tinsukia,2,5,Chief Judicial Magistrate
+6,Assam,Sivasagar,3,4,Chief Judicial Magistrate Court
+6,Assam,Morigaon,4,5,Chief Judicial Magistrate Morigaon
+6,Assam,Lakhimpur,5,4,Chief Judicial Magistrate
+6,Assam,Sonitpur,6,4,Chief Judicial Magistrate Sonitpur Tezpur
+6,Assam,Dibrugarh,7,4,Chief Judicial Magistrate
+6,Assam,Darrang,8,5,Chief Judicial Magistrate
+6,Assam,Bongaigaon,9,6,Chief Judicial Magistrate
+6,Assam,Nagaon,10,4,Chief Judicial Magistrate
+6,Assam,Jorhat,11,4,Chief Judicial Magistrate
+6,Assam,Karimganj,12,4,Chief Judicial Magistrate Court Complex
+6,Assam,Cachar,13,4,Chief Judicial Magistrate Court
+6,Assam,Nalbari,15,3,Chief Judicial Magistrate
+6,Assam,Dhubri,16,3,Chief Judicial Magistrate
+6,Assam,Dhemaji,17,2,Chief Judicial Magistrate
+6,Assam,Goalpara,18,3,Chief Judicial Magistrate
+6,Assam,Barpeta,20,3,Chief Judicial Magistrate
+6,Assam,Hailakandi,21,2,Chief Judicial Magistrate
+6,Assam,Kokrajhar,22,3,Chief Judicial Magistrate
+6,Assam,Kamrup,23,4,Chief Judicial Magistrate
+6,Assam,Udalguri,24,2,Chief Judicial Magistrate
+6,Assam,Chirang,25,2,Chief Judicial Magistrate Establishment
+6,Assam,Karbi Anglong,26,3,Chief Judicial Magistrate
+6,Assam,Dima Hasao,28,3,Chief Judicial Magistrate
+7,Jharkhand,Bokaro,1,3,Chief Judicial Magistrate
+7,Jharkhand,Koderma,3,5,Chief Judicial Magistrate Koderma
+7,Jharkhand,West Singhbhum at Chaibasa,4,4,Chief Judicial Magistrate
+7,Jharkhand,Godda,6,5,Chief Judicial Magistrate Courts
+7,Jharkhand,Hazaribagh,7,3,Chief Judicial Magistrate Hazaribag
+7,Jharkhand,Lohardaga,8,5,Chief Judicial Magistrate Lohardaga
+7,Jharkhand,Dhanbad,9,5,Chief Judicial Magistrate
+7,Jharkhand,Giridih,10,4,Chief Judicial Magistrate Courts Giridih
+7,Jharkhand,East Singhbhum at Jamshedpur,11,2,Chief Judicial Magistrate Courts Jamshedpur
+7,Jharkhand,Pakur,14,3,Chief Judicial Magistrate Pakur
+7,Jharkhand,Seraikella,15,2,Chief Judicial Magistrate
+7,Jharkhand,Daltonganj,17,3,Chief Judicial Magistrate Palamau
+7,Jharkhand,Simdega,18,2,Chief Judicial Magistrate
+7,Jharkhand,Latehar,19,5,Cheif Judical  Magistrate
+7,Jharkhand,Garhwa,20,2,Chief Judicial Magistrate  Garhwa
+7,Jharkhand,Ranchi,22,4,Chief Judicial Magistrate Establishment Ranchi
+7,Jharkhand,KHUNTI,24,3,Cheif Judicial Magistrate Khunti
+8,Bihar,Patna,1,9,CJM Division Taluka Court Patna City
+8,Bihar,Kaimur at Bhabhua,2,3,C J M Division
+8,Bihar,Samastipur,3,3,Chief Judicial Magistrate Samastipur
+8,Bihar,Samastipur,3,6,C J M Division Dalsinghsarai
+8,Bihar,Samastipur,3,9,C J M Division Rosera
+8,Bihar,Saran at Chapra,4,4,CJM Division Saran at Chapra
+8,Bihar,Katihar,5,4,C J M Division
+8,Bihar,Begusarai,6,3,CJM Division
+8,Bihar,Begusarai,6,6,CJM Division
+8,Bihar,Begusarai,6,8,CJM Division
+8,Bihar,Banka,7,3,C J M Division
+8,Bihar,Purnea,9,1,CJM Division
+8,Bihar,Purnea,9,3,CJM DIVISION
+8,Bihar,Purnea,9,8,CJM Division
+8,Bihar,Motihari,10,3,CJM Division
+8,Bihar,Munger,11,3,C J M Division
+8,Bihar,Madhepura,12,3,CJMMdpDB
+8,Bihar,Rohtas Sasaram,13,3,C.J.M. Division (Criminal Side)
+8,Bihar,Rohtas Sasaram,13,6,C.J.M. Div
+8,Bihar,Khagaria,14,3,CJM Division
+8,Bihar,Jamui,15,4,CJM Division
+8,Bihar,Aurangabad,16,2,C J M Division
+8,Bihar,Aurangabad,16,4,C J M Division
+8,Bihar,Darbhanga,17,4,CJM Division
+8,Bihar,Darbhanga,17,7,Chief Judicial Magistrate Division Benipur
+8,Bihar,Madhubani,18,3,CJM Division
+8,Bihar,Madhubani,18,5,C J M Division
+8,Bihar,Lakhisarai,19,3,CJM Division
+8,Bihar,Sheikhpura,20,3,CJM Division Sheikhpura
+8,Bihar,Saharsa,21,3,CJM Division
+8,Bihar,Supaul,22,3,CJM Division
+8,Bihar,Gopalganj,23,3,CJM Division
+8,Bihar,Araria,24,3,CJM DIVISION
+8,Bihar,Kishanganj,25,3,CJM DIVISION
+8,Bihar,Buxar,26,2,CJM Division
+8,Bihar,Nawada,27,2,CJM DIVISION
+8,Bihar,Bettiah,28,1,C J M Bettiah Division
+8,Bihar,Siwan,29,3,CJM Division
+8,Bihar,Nalanda,30,3,CJM Division
+8,Bihar,Nalanda,30,5,CJM Division
+8,Bihar,Bhojpur,33,2,CJM Division
+8,Bihar,Bhagalpur,34,5,Cheif Judicial Magistrate Division
+8,Bihar,Gaya,35,2,CJM Division
+8,Bihar,Gaya,35,4,CJM Division
+8,Bihar,Jehanabad,36,2,CJM Division
+8,Bihar,Muzaffarpur,38,2,CJM Division
+8,Bihar,Muzaffarpur,38,5,CJM Division (West)
+8,Bihar,Vaishali,39,2,CJM Division
+9,Rajasthan,Rajsamand,1,12,CJM ACJM JM-Rajsamand District HQ
+9,Rajasthan,Alwar,2,17,CJM ACJM JM-Alwar District HQ
+9,Rajasthan,Dausa,3,5,CJM ACJM JM - Dausa District HQ
+9,Rajasthan,Tonk,5,10,CJM ACJM JM - Tonk HQ
+9,Rajasthan,Bikaner,6,11,CJM ACJM JM - Bikaner District HQ
+9,Rajasthan,Ganganagar,7,14,CJM ACJM JM -Shri Ganganagar District HQ
+9,Rajasthan,Merta (Nagaur),8,19,CJM ACJM-Nagaur Taluka HQ
+9,Rajasthan,Merta (Nagaur),8,20,CJM ACJM MJM AMJM-Nagaur Taluka HQ
+9,Rajasthan,Udaipur,9,13,CJM ACJM JM-Udaipur District HQ
+9,Rajasthan,Bundi,10,6,CJM ACJM JM - Bundi HQ
+9,Rajasthan,Hanumangarh,11,6,CJM ACJM MJM AMJM-Hanumangarh District HQ
+9,Rajasthan,Hanumangarh,11,7,CJM ACJM-Hanumangarh District HQ
+9,Rajasthan,Baran,12,10,CJM ACJM JM - Baran HQ
+9,Rajasthan,Bharatpur,13,14,CJM ACJM JM - Bharatpur District HQ
+9,Rajasthan,Ajmer,14,10,CJM ACJM JM-Ajmer District HQ
+9,Rajasthan,Jhunjhunu,18,3,CJM ACJM JM - Jhunjhunu District HQ
+9,Rajasthan,Pali,19,10,CJM ACJM(Cr) ACJM(P) JM CRIMINAL-PALI DISTRICT HQ
+9,Rajasthan,Pali,19,11,CJM ACJM(Cr) ACJM(P) CIVIL-PALI DISTRICT HQ
+9,Rajasthan,Kota,20,15,CJM ACJM JM - Kota HQ
+9,Rajasthan,Jalore,21,3,CJM ACJM1 ACJM2 JM CRIMINAL-JALORE DISTRICT HQ
+9,Rajasthan,Jalore,21,4,CJM ACJM1 ACJM2 CIVIL-JALORE DISTRICT HQ
+9,Rajasthan,Jhalawar,22,10,CJM ACJM JM - Jhalawar District HQ
+9,Rajasthan,Pratapgarh,23,6,CJM ACJM-PGH ACJM-ARND JM AJM JJB COURT PRATAPGARH
+9,Rajasthan,Dungarpur,24,6,CJ ACJM JM AMJM JJB Dungarpur HQ
+9,Rajasthan,Banswara,25,7,CJM ACJM JM AJM JJB Banswara District HQ
+9,Rajasthan,Sirohi,26,8,CJM ACJM JM-Sirohi District HQ
+9,Rajasthan,Balotra Barmer,27,10,CJM-ACJM-JM-AJM-Barmer
+9,Rajasthan,Jodhpur Metro,28,17,CJM ACJM JM Jodhpur Metro HQ
+9,Rajasthan,Karauli,29,6,CJM ACJM JM AJM-Karauli District HQ
+9,Rajasthan,Chittorgarh,30,7,CJM ACJM JM - Chittorgarh District HQ
+9,Rajasthan,Bhilwara,31,12,CJM ACJM JM - Bhilwara District HQ
+9,Rajasthan,Jaiselmer,32,9,CJM-Jaisalmer District HQ
+9,Rajasthan,Churu,33,8,CJM ACJM JM CRIMINAL CASES RAJGARH COURT COMPLEX C
+9,Rajasthan,Churu,33,12,CJM ACJM JM RATANGARH COURT COMPLEX CHURU
+9,Rajasthan,Churu,33,14,CJM ACJM JM TARANAGAR COURT COMPLEX CHURU
+9,Rajasthan,Churu,33,17,CJM ACJM JM SUJANGARH COURT COMPLEX
+9,Rajasthan,Churu,33,20,CJM ACJM JM SARDARSHAHAR COURT COMPLEX
+9,Rajasthan,Churu,33,23,CJM ACJM JM DISTRICT HQ CHURU
+9,Rajasthan,Dholpur,34,3,CJM ACJM JM - Dholpur District HQ
+9,Rajasthan,Sikar,35,9,CJM ACJM JM SIKAR DISTRICT HQ
+9,Rajasthan,Sawai Madhopur,36,8,CJM ACJM JM - Sawai Madhopur HQ
+9,Rajasthan,Jaipur District,38,13,CJM ACJM JM_Jaipur District HQ
+9,Rajasthan,Jodhpur District,39,2,CJM ACJM JM-Jodhpur District HQ
+10,Tamil Nadu,Dharmapuri,1,7,Chief Judicial Magistrate Court Dharmapuri
+10,Tamil Nadu,Pudukkottai,2,6,CHIEF JUDICIAL MAGISTRATE COURT
+10,Tamil Nadu,Tirunelveli,3,15,CJM JM I JM II JM III JM IV JM V Tirunelveli
+10,Tamil Nadu,Theni,4,8,Chief Judicial Magistrate Court Theni
+10,Tamil Nadu,Namakkal,5,5,Chief Judicial Magistrate
+10,Tamil Nadu,Nagapattinam,6,6,Chief Judicial Magistrate Court Nagapattinam
+10,Tamil Nadu,Kanniyakumari,7,8,CJM and JM Courts
+10,Tamil Nadu,Tiruchirappalli,8,11,Chief Judicial Magistrate Court Establishment
+10,Tamil Nadu,Thoothukudi,9,6,Chief Judicial Magistrate court complex Thoothuku
+10,Tamil Nadu,Viluppuram,10,22,Chief Judicial Magistrate
+10,Tamil Nadu,Vellore,11,16,Chief Judicial Magistrate Vellore
+10,Tamil Nadu,Salem,12,5,CJM Establishment
+10,Tamil Nadu,Virudhunagar,14,9,Chief Judicial Magistrate Srivilliputtur
+10,Tamil Nadu,Madurai,15,6,Chief Judicial Magistrate
+10,Tamil Nadu,Thanjavur,17,19,Chief Judicial Magistrate Court Kumbakonam
+10,Tamil Nadu,Coimbatore,18,10,CHIEF JUDICIAL MAGISTRATE COIMBATORE
+10,Tamil Nadu,Cuddalore,20,4,Chief Judicial Magistrate Court Cuddalore
+10,Tamil Nadu,Ramanathapuram,21,7,CJM JM NO I And JM NO II Ramanathapuram
+10,Tamil Nadu,Tiruvannamalai,22,3,Chief Judicial Magistrate Tiruvannamalai
+10,Tamil Nadu,Perambalur,23,3,CJM JM AMC JM Courts PERAMBALUR.
+10,Tamil Nadu,Erode,24,4,Chief Judicial Magistrate Erode
+10,Tamil Nadu,Tiruvarur,25,10,Chief Judicial Magistrate Court Tiruvarur
+10,Tamil Nadu,Krishnagiri,26,3,Chief Judicial Magistrate Krishnagiri
+10,Tamil Nadu,Dindigul,27,3,Chief Judicial Magistrate  Dindigul
+10,Tamil Nadu,Puducherry,28,3,Chief Judicial Magistrate Establishment
+10,Tamil Nadu,Sivagangai,29,11,CHIEF JUDICIAL MAGISTRATE
+10,Tamil Nadu,Ariyalur,30,5,Chief_Judicial_Magistrate_Court_Ariyalur
+10,Tamil Nadu,Kancheepuram,31,9,Chief Judicial Magistrate Court CGL
+10,Tamil Nadu,Tiruvallur,32,20,Chief Judicial Magistrate Court Tiruvallur
+10,Tamil Nadu,Tiruppur,33,22,Chief Judicial Magistrate Court Tiruppur
+11,Orissa,Cuttack,1,3,Chief Judicial Magistrate Cuttack
+11,Orissa,Kendrapada,2,4,Chief Judicial Magistrate Kendrapara
+11,Orissa,Nuapada,3,3,Chief Judicial Magistrate Nuapada
+11,Orissa,Ganjam,4,3,Chief Judicial Magistrate Ganjam
+11,Orissa,Balasore,5,3,Chief Judicial Magistrate
+11,Orissa,Koraput,6,4,Chief Judicial Magistrate Jeypore
+11,Orissa,Dhenkanal,7,3,Chief Judicial Magistrate Dhenkanal
+11,Orissa,Khurda,8,4,Chief Judicial Magistrate khurda BBSR
+11,Orissa,Khurda,8,6,Chief Judicial Magistrate Khurda
+11,Orissa,Gajapati,9,3,Chief Judicial Magistrate Gajapati
+11,Orissa,Kalahandi,10,3,Chief Judicial Magistrate Kalahandi
+11,Orissa,Sambalpur,11,3,Chief Judicial Magistrate Sambalpur
+11,Orissa,Jharsuguda,12,4,Chief Judicial Magistrate Jharsuguda
+11,Orissa,Keonjhar,13,3,Chief Judicial Magistrate Keonjhar
+11,Orissa,Keonjhar,13,6,Chief Judicial Magistrate Anandpur
+11,Orissa,Keonjhar,13,7,Chief Judicial Magistrate Barbil
+11,Orissa,Keonjhar,13,9,Chief Judicial Magistrate Champua
+11,Orissa,Jagatsinghpur,14,9,Chief Judicial Magistrate Jagatsinghpur
+11,Orissa,Puri,15,4,Chief Judicial Magistrate Puri
+11,Orissa,Sundargarh,16,3,Chief Judicial Magistrate Court Sundargarh
+11,Orissa,Balangir,17,3,Chief Judicial Magistrate Bolangir
+11,Orissa,Bhadrak,18,3,Chief Judicial Magistrate Bhadrak
+11,Orissa,Jajpur,19,3,Chief Judicial Magistrate Jajpur
+11,Orissa,Sonepur,20,3,Chief Judicial Magistrate Sonepur
+11,Orissa,Sonepur,20,5,chief judicial magistrate court biramaharajpur
+11,Orissa,Rayagada,21,3,Chief Judicial Magistrate Rayagada
+11,Orissa,Nayagarh,22,3,Chief Judicial Magistrate Nayagarh
+11,Orissa,Kandhamal,23,3,Chief Judicial Magistrate Kandhamal Phulbani
+11,Orissa,Boudh,24,3,Chief Judicial Magistrate Boudh
+11,Orissa,Mayurbhanj,26,3,Chief Judicial Magistrate
+11,Orissa,Anugul,27,3,Chief Judicial Magistrate Anugul
+11,Orissa,Bargarh,29,2,Chief Judicial Magistrate  Bargarh
+11,Orissa,Deogarh,30,3,Chief Judicial Magistrate Deogarh
+11,Orissa,Malkangiri,31,3,Chief Judicial Magistrate Malkangiri
+11,Orissa,Nabarangpur,32,2,Chief Judicial Magistrate Nabrangpur
+12,Jammu and Kashmir,Kathua,1,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kathua,1,5,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kathua,1,6,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Kathua,1,7,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kathua,1,8,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Kathua,1,9,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kathua,1,14,Chief Judicial Civil Magistrate Bani
+12,Jammu and Kashmir,Udhampur,2,4,Chief Judicial Magistrate Udhampur
+12,Jammu and Kashmir,Baramulla,3,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,7,Chief Judicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,8,Chief Judicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,9,Chief Judicial Cvil MAgistrate
+12,Jammu and Kashmir,Baramulla,3,11,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Baramulla,3,12,ChiefJudicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,13,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Anantnag,4,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Anantnag,4,5,Cheif Judicial Magistrate
+12,Jammu and Kashmir,Anantnag,4,6,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Anantnag,4,7,Chief Judicial  Magistrate
+12,Jammu and Kashmir,Anantnag,4,8,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Anantnag,4,9,Chief Judicial Magistrate
+12,Jammu and Kashmir,Anantnag,4,10,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Anantnag,4,11,Chief Judicial Magistrate
+12,Jammu and Kashmir,Pulwama,6,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Ganderbal,7,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Budgam,8,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Budgam,8,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Budgam,8,5,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Budgam,8,10,Chief Judicial Magistrate Beerwah
+12,Jammu and Kashmir,Budgam,8,11,Chief Judicial Civil Magistrate Beerwah
+12,Jammu and Kashmir,Reasi,9,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Reasi,9,6,Chief Judicial Magistrate
+12,Jammu and Kashmir,Shopian,10,3,Chief Judicial Magistrate Shopian
+12,Jammu and Kashmir,Kupwara,11,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kupwara,11,6,Chief Judicial Magistrate
+12,Jammu and Kashmir,Poonch,12,3,Chief JudiciaL MAGISTRATE
+12,Jammu and Kashmir,Poonch,12,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Rajouri,13,3,Chief Judicial Magistrate  Rajouri
+12,Jammu and Kashmir,Rajouri,13,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Rajouri,13,5,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Ramban,14,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Ramban,14,7,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Doda,15,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Doda,15,8,Chief Judicial Magistrate
+12,Jammu and Kashmir,Bandipora,18,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Jammu,19,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Jammu,19,6,Chief Judicial Magistrate
+12,Jammu and Kashmir,Jammu,19,7,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Kulgam,20,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kulgam,20,6,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kulgam,20,7,Chief Judicial Magistratecivil
+12,Jammu and Kashmir,Samba,21,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kishtwar,22,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Allahabad,1,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Bareilly,2,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Gorakhpur,3,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Hardoi,4,3,Chief Judicial Magistate
+13,Uttar Pradesh,Chitrakoot,5,3,Cheif Judical Magistrate
+13,Uttar Pradesh,Meerut,6,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Bahraich,7,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Ghaziabad,8,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Fatehpur,9,3,Chief Judicial Magistrat
+13,Uttar Pradesh,Lakhimpur,10,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Lakhimpur,10,8,Cheif Judicial Magistrate
+13,Uttar Pradesh,Shravasti,11,3,Cheif Judicial Magistrate Shravasti
+13,Uttar Pradesh,Jaunpur,12,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Pilibhit,13,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Mainpuri,14,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Ambedkar Nagar,15,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Sitapur,16,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Auraiya,17,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Budaun,18,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Gautam Buddha Nagar,20,4,Chief Judicial Magistrate
+13,Uttar Pradesh,Ballia,21,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Bhadohi SR Nagar,22,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Lalitpur,23,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Lucknow,24,3,Chief Judicial Magistrate Lucknow
+13,Uttar Pradesh,Etah,25,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Muzaffarnagar,26,3,chief Judicial Magistrate
+13,Uttar Pradesh,Varanasi,27,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Ghazipur,28,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Firozabad,29,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Agra,30,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Agra,30,9,Cheif Judical Magistrate Railway
+13,Uttar Pradesh,Pratapgarh,31,5,Chief Judicial Magistrate
+13,Uttar Pradesh,Etawah,33,4,Chief Judicial Magistrate
+13,Uttar Pradesh,Kushinagar,34,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Jyotiba Phule Nagar,35,3,chief judicial magistrate
+13,Uttar Pradesh,Barabanki,36,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Mahoba,38,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Banda,39,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Kanshi Ram Nagar,40,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Deoria,41,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Mau,42,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Aligarh,43,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Azamgarh,44,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Baghpat,45,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Basti,46,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Bijnor,47,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Bulandshahr,48,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Faizabad,49,3,CJM court Faizabad
+13,Uttar Pradesh,Gonda,50,3,CJM
+13,Uttar Pradesh,Kanpur Dehat,51,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Maharajganj,52,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Mathura,53,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Moradabad,54,3,Chief Judicial Magistrate Moradabad
+13,Uttar Pradesh,Raebareli,55,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Rampur,56,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Saharanpur,57,3,Cheif Judicial Magistrate
+13,Uttar Pradesh,Shahjahanpur,58,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Siddharthnagar,59,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Sonbhadra,60,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Sultanpur,61,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Unnao,62,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Farrukhabad,63,3,Chief Judicial Majistrate
+13,Uttar Pradesh,Hamirpur,64,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Hathras,65,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Hathras,65,8,Chief Judicial Magistrate Sadabad
+13,Uttar Pradesh,Jhansi,66,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Balrampur,67,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Mirzapur,68,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Kannauj,69,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Kannauj,69,7,Chief Judicial Magistrate
+13,Uttar Pradesh,Jalaun,70,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Santkabir Nagar,71,3,Chief Judicial Magistrate
+13,Uttar Pradesh,Hapur,73,4,Chief Judicial Magistrate
+13,Uttar Pradesh,Chandauli,75,2,Chief Judicial Magistrate
+13,Uttar Pradesh,Shamli,76,2,chief judicial magistrate shamli
+14,Haryana,Ambala,3,2,Chief Judicial Magistrate
+14,Haryana,Ambala,3,4,Chief Judicial Magistrate
+14,Haryana,Hisar,7,4,Chief Judicial Magistrate Hisar
+14,Haryana,Hisar,7,5,Chief Judicial Magistrate
+14,Haryana,Jhajjar,8,5,CHIEF JUDICIAL MAGISTRATE BAHADURGARH
+14,Haryana,Jind,9,5,Chief Judicial Magistrate Courts Jind
+14,Haryana,Sonepat,13,5,Chief Judicial Magistrate Sonipat
+14,Haryana,Kaithal,16,4,Chief Judicial Magistrate Kaithal
+14,Haryana,Nuh,19,6,Chief Judicial Magistrate
+14,Haryana,Palwal,23,7,Chief Judicial Magistrate Hathin
+15,Uttarakhand,Pauri Garhwal,2,3,Chief Judicial Magistrate
+15,Uttarakhand,Tehri Garhwal,3,3,Chief Judicial Magistrate
+15,Uttarakhand,Dehradun,5,2,CJM_Dehradun
+15,Uttarakhand,Uttarkashi,6,3,Chief Judicial Magistrate Uttarkashi
+15,Uttarakhand,Almora,7,3,Chief Judicial Magistrate Almora
+15,Uttarakhand,Chamoli,8,3,Chief Judicial Magistrate
+15,Uttarakhand,Haridwar,9,3,Chief Judicial Magistrate
+15,Uttarakhand,Champawat,13,3,Chief Judicial Magistrate
+15,Uttarakhand,Bageshwar,14,3,Chief Judicial Magistrate
+15,Uttarakhand,Pithoragarh,15,3,Chief Judicial Magistrate
+16,West Bengal,Malda,1,3,Chief Judicial Magistrate Malda
+16,West Bengal,Hooghly,2,4,CHIEF JUDICIAL MAGISTRATE HOOGHLY
+16,West Bengal,Jalpaiguri,4,3,Chief Judicial Magistrate
+16,West Bengal,Coochbehar,6,3,Chief Judicial Magistrate  Cooch Behar
+16,West Bengal,Paschim Medinpur,7,3,chiefjudicialmagistrate medinipur
+16,West Bengal,Birbhum,8,3,cjm
+16,West Bengal,Purba Medinipur,9,3,Chief Judicial Magistrate Tamluk
+16,West Bengal,Purulia,10,5,Chief Judicial Magistrate
+16,West Bengal,Howrah,11,5,Chief Judicial Magistrate
+16,West Bengal,Murshidabad,12,5,Cheif Judicial Magistrate Murshidabad
+16,West Bengal,South Dinajpur,13,3,CJM  JM1 and JM2 Courts at Balurghat
+16,West Bengal,Darjeeling,17,3,Chief Judicial Magistrate
+16,West Bengal,Purba Bardhaman,18,3,CHIEF JUDICIAL MAGISTRATE
+16,West Bengal,Bankura,19,2,Chief Judicial Magistrate
+16,West Bengal,South Twenty Four Parganas,20,6,Chief Judicial Magistrate Establishment
+16,West Bengal,North Dinajpur,21,4,Chief Judicial Magistrate Raiganj
+16,West Bengal,Nadia,22,6,Chief Judicial Magistrate
+16,West Bengal,Paschim Bardhaman,24,3,Chief Judicial Magistrate
+16,West Bengal,Jhargram,25,2,cjm
+18,Chhattisgarh,Korba,1,2,Chief Judicial Magistrate  Korba
+18,Chhattisgarh,Bilaspur,2,2,CJM Court Bilaspur
+18,Chhattisgarh,Raipur,3,2,Chief Judicial Magistrate Raipur
+18,Chhattisgarh,Raipur,3,8,Cheif judicial Magistrate Gariyaband
+18,Chhattisgarh,Dhamtari,5,2,Chief Judicial Magistrate Dhamtari
+18,Chhattisgarh,Raigarh,6,2,Chief Judicial Magistrate
+18,Chhattisgarh,Kawardha,9,2,Chief Judcial Magistrate and JMFC Kawardha
+18,Chhattisgarh,Rajnandgaon,10,2,Chief Judicial Magistrate Rajnandgaon
+18,Chhattisgarh,Koriya,11,2,Chief judicial megistrate Baikunthpur
+18,Chhattisgarh,Mahasamund,12,2,Chief Judicial Magistrate
+18,Chhattisgarh,Kanker,13,2,Chief Judicial Magistrate
+18,Chhattisgarh,Jashpur,16,2,Chief Judicial Magistrate Court Jashpur
+18,Chhattisgarh,Dantewada,17,2,Chief Judicial Magistrate Court
+18,Chhattisgarh,Balod,19,2,CJM and Judicial Magistrate  Balod
+18,Chhattisgarh,Bemetara,20,2,Chief Judicial Magistrate Bemetara
+18,Chhattisgarh,Surajpur,21,4,Chief Judicial Magistrate Surajpur
+18,Chhattisgarh,Kondagaon,22,2,Cheif Judicial Magistrate
+18,Chhattisgarh,Balodabazar,23,2,CHIEF JUDICIAL MAGISTRATE EST.
+18,Chhattisgarh,Balodabazar,23,6,CHIEF JUDICIAL MAGISTRATE EST.
+18,Chhattisgarh,Mungeli,24,2,CJM Mungeli
+19,Mizoram,Aizawl,1,1,Chief Judicial Magistrate
+20,Tripura,West Tripura,1,8,Chief Judicial Magistrate Establishment Agartala
+20,Tripura,North Tripura,2,9,Chief Judicial Magistrate
+20,Tripura,SouthTripura,3,8,Chief Judicial Magistrate South Tripura Belonia
+20,Tripura,Unakoti  Tripura,5,5,Chief Judicial Magistrate
+20,Tripura,Gomati District,6,3,Chief Judicial Magistrate Gomati Dist. Udaipur
+20,Tripura,Sepahijala Tripura,9,2,Chief Judicial Magistrate Establishment Sonamora
+20,Tripura,Khowai Tripura,10,2,Chief Judicial Magistrate Establishment Khowai
+21,Meghalaya,East Khasi Hills,1,4,Chief Judicial Magistrate Shillong
+21,Meghalaya,West Garo Hills,2,3,Chief Judicial Magistrate
+21,Meghalaya,East Garo Hills,4,3,Chief Judicial Magistrate Williamnagar
+21,Meghalaya,Ri Bhoi,5,1,Chief Judicial Magistrate Nongpoh
+22,Punjab,Rupnagar,3,9,Chief Judicial Magistrate Rupnagar
+22,Punjab,SBS Nagar,15,4,CHIEF JUDICIAL MAGISTRATE SBS NAGAR
+22,Punjab,SBS Nagar,15,5,Chief Judicial Magistarte
+22,Punjab,Hoshiarpurr,18,6,CHIEF JUDICIAL MAGISTRATE HOSHIARPUR
+22,Punjab,Hoshiarpurr,18,8,CHIEF JUDICIAL MAGISTRATE GARHSHANKAR
+22,Punjab,Hoshiarpurr,18,10,CHIEF JUDICIAL MAGISTRATE MUKERIAN TALUKA
+24,Sikkim,Mangan,2,3,CHIEF JUDICIAL MAGISTRATE
+24,Sikkim,Gangtok,4,5,Chief Judicial Magistrate
+25,Manipur,Imphal East,1,6,Court of CJM cum JMFC Imphal East
+25,Manipur,Imphal West,2,5,Court of Chief Judicial Magistrate Imphal West
+25,Manipur,Tamenglong,9,1,Court Of CJM cum CJSD Tamenglong
+27,Chandigarh,Chandigarh,1,3,CHIEF JUDICIAL MAGISTRATE CHANDIGARH
+5,Himachal Pradesh,Kullu,10,2,Chief Judicial Magistrate  Manali
+6,Assam,Sivasagar,3,4,Chief Judicial Magistrate Establishment
+7,Jharkhand,Latehar,19,5,Cheif Judical  Magistrate Latehar
+9,Rajasthan,Banswara,25,7,CJM ACJM JM AJM Banswara District HQ
+10,Tamil Nadu,Namakkal,5,5,Chief Judicial Magistrate Court Namakkal
+12,Jammu and Kashmir,Udhampur,2,8,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Baramulla,3,16,Chief Judicial MAgistrate
+12,Jammu and Kashmir,Baramulla,3,18,Chief Judicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,19,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Srinagar,5,5,Chief Judicial Magistrate Panthachowk
+12,Jammu and Kashmir,Pulwama,6,9,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Reasi,9,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Reasi,9,5,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Reasi,9,7,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Poonch,12,5,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Rajouri,13,6,Chief Judicial Magistrate
+12,Jammu and Kashmir,Rajouri,13,8,Chief Judicial Magistrate
+12,Jammu and Kashmir,Rajouri,13,11,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Doda,15,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Leh,16,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kargil,17,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Jammu,19,4,Chief Judicial Magistrate
+15,Uttarakhand,Rudraprayag,16,2,CHIEF JUDICIAL MAGISTRATE
+18,Chhattisgarh,Raipur,3,6,Chief Judicial Megistrate Tilda
+20,Tripura,North Tripura,2,9,Chief Judicial Magistrate Estt. Dharmanagar
+20,Tripura,SouthTripura,3,8,Chief Judicial Magistrate Establishment Belonia
+21,Meghalaya,West Jaintia Hills,3,1,Chief Judicial Magistrate Jowai
+33,Ladakh,Kargil,1,3,Chief Judicial Magistrate
+10,Tamil Nadu,Tiruchirappalli,8,11,Chief Judicial Magistrate Court Establishment 
+12,Jammu and Kashmir,Kathua,1,13,Chief Judicial Magistrate Bani
+12,Jammu and Kashmir,Baramulla,3,10,Chief Judicial Magistrate
+12,Jammu and Kashmir,Anantnag,4,12,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Pulwama,6,8,Chief Judicial Magistrate
+12,Jammu and Kashmir,Budgam,8,8,Chief Judicial Magistrate
+12,Jammu and Kashmir,Budgam,8,9,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Doda,15,5,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Jammu,19,5,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Jammu,19,8,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kulgam,20,4,Chief Judicial magistrate
+18,Chhattisgarh,Jashpur,16,5,C.J. Class-2/Judicial Magistrate - I Pathalgaon
+20,Tripura,Gomati District,6,3,Chief Judicial Magistrate Establishment Udaipur
+33,Ladakh,Leh,2,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kathua,1,11,Chief Judicial Magistrate
+12,Jammu and Kashmir,Kathua,1,12,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Udhampur,2,7,Chief Judicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,14,Chief Judicial Magistrate
+12,Jammu and Kashmir,Baramulla,3,15,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Rajouri,13,7,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Rajouri,13,9,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Rajouri,13,10,Chief Judicial Magistrate
+12,Jammu and Kashmir,Rajouri,13,12,Chief Judicial Magistrate
+12,Jammu and Kashmir,Ramban,14,5,Chief Judicial Magistrate
+12,Jammu and Kashmir,Doda,15,9,Chief Judicial Magistrate
+12,Jammu and Kashmir,Doda,15,10,Chief Judicial Civil Magistrate
+18,Chhattisgarh,Surguja at Ambikapur,4,2,CHIEF JUDICIAL MAGISTRATE COURT SURGUJA CG
+12,Jammu and Kashmir,Kathua,1,10,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Baramulla,3,17,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Pulwama,6,6,Chief Judicial Magistrate Awantipora
+12,Jammu and Kashmir,Pulwama,6,7,Chief Judicial Civil Magistrate Awantipora
+12,Jammu and Kashmir,Rajouri,13,13,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Kulgam,20,5,Chief JUdicial Magistrate Civil
+15,Uttarakhand,Rudraprayag,16,5,CHIEF JUDICIAL MAGISTRATE UKHIMATH
+20,Tripura,Dhalai Tripura,11,10,Chief Judicial Magistrate Establishment Ambassa
+9,Rajasthan,Merta Nagaur,8,19,CJM ACJM-Nagaur Taluka HQ
+12,Jammu and Kashmir,Udhampur,2,5,Chief Judicial Magistrate
+12,Jammu and Kashmir,Pulwama,6,4,Chief Judicial Magistrate
+12,Jammu and Kashmir,Pulwama,6,5,Chief Judicial Civil Magistrate
+20,Tripura,Unakoti  Tripura,5,5,Chief Judicial Magistrate Kailashahar
+6,Assam,Baksa,27,3,Chief Judicial Magistrate
+12,Jammu and Kashmir,Poonch,12,7,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Jammu,19,9,Chief Judicial Civil Magistrate
+24,Sikkim,Gangtok,4,7,Chief Judicial Magistrate
+24,Sikkim,Gangtok,4,9,Chief Judicial Magistrate
+12,Jammu and Kashmir,Poonch,12,6,Chief Judicial Magistrate Surankote
+12,Jammu and Kashmir,Ramban,14,4,Chief Judicial Civil Magistrate
+12,Jammu and Kashmir,Ramban,14,6,Chief Judicial Magistrate
+10,Tamil Nadu,Kancheepuram,31,9,Chief Judicial Magistrate Court Chengalpattu
+12,Jammu and Kashmir,Udhampur,2,6,Chief Judicial civil Magistrate
+12,Jammu and Kashmir,Srinagar,5,6,Chief Judicial Civil Magistrate Panthachowk
+13,Uttar Pradesh,Sambhal at Chandausi,74,10,Chief Judicial Magistrate Sambhal at Chandausi
+14,Haryana,Jhajjar,8,4,Chief Judicial Magistrate Jhajjar
+21,Meghalaya,West Khasi Hills,7,3,Chief Judicial Magistrate
+6,Assam,Golaghat,19,3,GLT_CJM_ESTT
+8,Bihar,Patna,1,12,Barh CJM Div.
+8,Bihar,Patna,1,15,Masaurhi CJM Div.
+8,Bihar,Patna,1,17,Paliganj CJM Div.
+8,Bihar,Samastipur,3,13,Shahpur Patori CJM Div.
+8,Bihar,Katihar,5,2,Barsoi CJM Division
+8,Bihar,Begusarai,6,11,Balia CJM Division
+8,Bihar,Begusarai,6,13,Teghra CJM Division
+8,Bihar,Motihari,10,4,Sikrahna CJM Division
+8,Bihar,Madhepura,12,5,Uda-Kishunganj CJM Division
+8,Bihar,Khagaria,14,5,Gogri CJM Division
+8,Bihar,Darbhanga,17,9,Biraul CJM Division
+8,Bihar,Madhubani,18,8,Benipatti CJM Div.
+8,Bihar,Supaul,22,5,Birpur CJM Division
+8,Bihar,Sitamarhi,31,4,Pupri CJM Division
+8,Bihar,Bhagalpur,34,2,naucjmdivision
+8,Bihar,Jehanabad,36,5,Arwal CJM Division
+8,Bihar,Sheohar,37,2,Sheohar CJM Div.
+10,Tamil Nadu,Karur,19,3,The Chief Judicial Magistrate Court
+14,Haryana,Bhiwani,4,6,bwncjm
+14,Haryana,Bhiwani,4,7,bwndadricjm
+14,Haryana,Bhiwani,4,8,bwnloharucjm
+14,Haryana,Bhiwani,4,9,bwnsiwanicjm
+14,Haryana,Rohtak,12,5,rohmehamcjm
+14,Haryana,Rewari,17,7,rwrbawalcjm
+15,Uttarakhand,Nainital,1,4,nainital_cjm
+15,Uttarakhand,Udham Singh Nagar,4,4,usnagar_cjm
+16,West Bengal,North  Twenty Four Parganas,14,4,Barasat Chief Judicial Magistrate

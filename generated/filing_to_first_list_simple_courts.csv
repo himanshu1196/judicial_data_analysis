@@ -1,0 +1,31 @@
+state_code	dist_code	court_no	mean_days	median_days	state_name	district_name	court_name	median_decision_days
+9	6	25	72.68402778	30	Rajasthan	Bikaner	POCSO Bikaner District HQ	2
+17	35	1	41.33767193	4	Gujarat	Valsad	valsad_district Court	6
+10	9	5	20.36891157	4	Tamil Nadu	Thoothukudi	Principal District court complex	6
+10	7	7	66.02476752	5	Tamil Nadu	Kanniyakumari	Principal District and Sessions Court	6
+9	7	48	528.3011811	365	Rajasthan	Ganganagar	POCSO -Sri Ganganagar District HQ	6
+17	36	1	38.81811705	5	Gujarat	Porbandar	DISTRICT AND SESSIONS COURT	7
+9	28	22	471.4517134	270	Rajasthan	Jodhpur Metro	POCSO-Jodhpur Metro District HQ	7
+9	11	26	28.83243243	13	Rajasthan	Hanumangarh	POCSO-Hanumangarh District HQ	7.5
+21	1	3	43.2371134	30	Meghalaya	East Khasi Hills	Asst District Judge	8
+17	13	18	34.15487489	6	Gujarat	Ahmedabad	ADDL DISTRICT COURT	8
+9	5	28	165.8	22	Rajasthan	Tonk	POCSO-Tonk District HQ	8.5
+10	8	9	72.14202536	5	Tamil Nadu	Tiruchirappalli	Principal District and Session Court	9
+1	13	13	101.7067606	7	Maharashtra	Chandrapur	District Judge-1 and ASJ Warora	9
+17	29	18	434.9829891	216	Gujarat	Sabarkantha at Himmatnagar	ADDITIONAL DISTRICT AND SESSIONS	10
+10	15	3	60.84590233	4	Tamil Nadu	Madurai	Principal District Judge	10
+10	1	20	753.0578704	522.5	Tamil Nadu	Dharmapuri	District Munsif Court	1395
+10	32	5	515.5253333	158	Tamil Nadu	Tiruvallur	District Munsif Court	1396
+9	2	12	296.6861511	232	Rajasthan	Alwar	LABOUR-Alwar District HQ	1416
+20	11	8	1134	1134	Tripura	Dhalai Tripura	District and Sessions Judge Establishment	1427
+10	12	24	84.99564376	44	Tamil Nadu	Salem	District Munsif	1443
+9	31	17	1412.553846	1371	Rajasthan	Bhilwara	LABOUR BHILWARA DISTRICT HQ	1448
+10	14	18	590.1467492	42	Tamil Nadu	Virudhunagar	Principal District Munisf Court	1578.5
+15	9	13	1611.928571	1536	Uttarakhand	Haridwar	Additional District and Sessions Judge	1635.5
+21	7	1	1628.833333	1555	Meghalaya	West Khasi Hills	District And Sessions Judge	1643
+10	3	21	789.1826024	766	Tamil Nadu	Tirunelveli	Additional District Munsif Court	1757
+20	9	7	997.1783439	1081.5	Tripura	Sepahijala Tripura	Addl. District and Sessions Judge	1822
+10	12	18	44.02690289	33	Tamil Nadu	Salem	District Munsif	1841.5
+10	12	26	79.22259414	32	Tamil Nadu	Salem	District Munsif	1891
+10	27	22	1618.490888	1759	Tamil Nadu	Dindigul	Principal District Munsif Court	2491.5
+18	16	9	3494	3494	Chhattisgarh	Jashpur	Additional District Judge Pathalgaon	3537

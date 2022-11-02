@@ -441,7 +441,7 @@ def group_case_durations_for_each_year(state_code):
     return year_wise_case_duration_counts
 
 
-def analyze_dist_court_wise_tenures_and_productivity(state_dist_court_tuples):
+def analyze_dist_court_wise_tenures_and_productivity(state_dist_court_tuples,si=1,di=2,ci=3,savefile='generated/district_court_tenure_and_judge_stats.csv'):
     
 #     for each district_court calculate (tenure, work strength)
     
@@ -455,7 +455,7 @@ def analyze_dist_court_wise_tenures_and_productivity(state_dist_court_tuples):
     dist_court_stats = pd.DataFrame(columns = ['state_code', 'dist_code', 'court_no', 'total_judge_days', 'avg_judge_count', 'mean_tenure_days', 'median_tenure_days', 'num_judges', 'num_valid_entries'])
     
     for row in state_dist_court_tuples.itertuples():
-        s,d,c = row[1], row[2], row[3]
+        s,d,c = row[si], row[di], row[ci]
         court_data = judges_clean[judges_clean['state_code'] == s]
         court_data = court_data[court_data['dist_code'] == d]
         court_data = court_data[court_data['court_no'] == c]
@@ -463,6 +463,9 @@ def analyze_dist_court_wise_tenures_and_productivity(state_dist_court_tuples):
 #         print(null_end_date)
         court_tenure_days = []
         court_working_days = 0.0
+        min_contribution_start_date = '31-12-2018'
+        max_contribution_end_date = '01-01-2010'
+        
         for idx, row in court_data.iterrows():
             if not null_end_date[idx]:
                 if date_for_20.match(row['start_date']) and date_for_20.match(row['end_date']):
@@ -485,6 +488,11 @@ def analyze_dist_court_wise_tenures_and_productivity(state_dist_court_tuples):
                     if end_year > 2018:
                         contribution_end_date = '31-12-2018'
                     
+                    if (datetime.datetime.strptime(contribution_start_date,"%d-%m-%Y")  - datetime.datetime.strptime(min_contribution_start_date,"%d-%m-%Y")).days < 0:
+                        min_contribution_start_date = contribution_start_date
+                        
+                    if (datetime.datetime.strptime(contribution_end_date,"%d-%m-%Y")  - datetime.datetime.strptime(max_contribution_end_date,"%d-%m-%Y")).days > 0:
+                        max_contribution_end_date = contribution_end_date
                     #number of working days contributed by the judge over the period 2010-2018
                     contribution_days = (datetime.datetime.strptime(contribution_end_date,"%d-%m-%Y")  - datetime.datetime.strptime(contribution_start_date,"%d-%m-%Y")).days
             else:
@@ -499,18 +507,25 @@ def analyze_dist_court_wise_tenures_and_productivity(state_dist_court_tuples):
                     contribution_start_date = row['start_date']
                     contribution_end_date = '31-12-2018'
 
+                    
                     if start_year < 2010:
                         contribution_start_date = '01-01-2010'
                     
+                    if (datetime.datetime.strptime(contribution_start_date,"%d-%m-%Y")  - datetime.datetime.strptime(min_contribution_start_date,"%d-%m-%Y")).days < 0:
+                        min_contribution_start_date = contribution_start_date
+                        
+                    max_contribution_end_date = contribution_end_date
                     #number of working days contributed by the judge over the period 2010-2018
                     contribution_days = (datetime.datetime.strptime(contribution_end_date,"%d-%m-%Y")  - datetime.datetime.strptime(contribution_start_date,"%d-%m-%Y")).days
                     
-            court_working_days += contribution_days
+            if contribution_days > 0:
+                court_working_days += contribution_days
         
         if len(court_tenure_days) != 0:
-            dist_court_stats.loc[len(dist_court_stats.index)] = [s, d, c, court_working_days, court_working_days/(9*365), np.mean(court_tenure_days), np.median(court_tenure_days), len(court_data), len(court_tenure_days)]
+            max_contribution_period = (datetime.datetime.strptime(max_contribution_end_date,"%d-%m-%Y")  - datetime.datetime.strptime(min_contribution_start_date,"%d-%m-%Y")).days
+            dist_court_stats.loc[len(dist_court_stats.index)] = [s, d, c, court_working_days, court_working_days/(max_contribution_period), np.mean(court_tenure_days), np.median(court_tenure_days), len(court_data), len(court_tenure_days)]
     
-    dist_court_stats.to_csv('generated/district_court_tenure_and_judge_stats.csv')
+    dist_court_stats.to_csv(savefile)
     
     #plot data for analysis
     print('median of median tenures: ', np.median(dist_court_stats['median_tenure_days']))
@@ -529,7 +544,7 @@ def group_courts_by_tenure_and_strength(dist_court_stats, median_tenure, median_
     return low_tenures_low_strength, low_tenures_high_strength, high_tenures_low_strength, high_tenures_high_strength
 
 
-def get_case_stats_for_courts(state_dist_court_tuples):
+def get_case_stats_for_courts(state_dist_court_tuples, cases_base_path, sc_idx, dc_idx, cn_idx, save_file):
     date_for_20 = re.compile('^20[0-9][0-9]-..-..')
 
 #     study productivity (disposal/clearance rate, time to decision)
@@ -539,9 +554,9 @@ def get_case_stats_for_courts(state_dist_court_tuples):
     court_stats_dict = {}
     for year in years:
         print(f'Processing cases for year : {year}')
-        case_data = pd.read_csv(f'cases/_/cases_{year}.csv') #read large case data to memory
+        case_data = pd.read_csv(f'{cases_base_path}/cases_acts_{year}.csv') #read large case data to memory
         for row in state_dist_court_tuples.itertuples():
-            s,d,c = row[1], row[2], row[3]
+            s,d,c = row[sc_idx], row[dc_idx], row[cn_idx]
             #get all cases files in sdc
             court_data = case_data[case_data['state_code'] == s]
             court_data = court_data[court_data['dist_code'] == d]
@@ -570,11 +585,11 @@ def get_case_stats_for_courts(state_dist_court_tuples):
             continue
         dist_court_case_stats.loc[len(dist_court_case_stats.index)] = [sdc[0], sdc[1], sdc[2], total_cases, total_valid_cases, np.median(date_deltas), np.mean(date_deltas)]
         
-    dist_court_case_stats.to_csv('generated/district_court_case_decision_stats.csv')
+    dist_court_case_stats.to_csv(save_file)
     return dist_court_case_stats
     
     
-def analyze_dist_court_wise_case_pendency_per_year(state_dist_court_df):
+def analyze_dist_court_wise_case_pendency_per_year(state_dist_court_df, cases_base_path,sc_idx, dc_idx, cn_idx, save_file):
     date_for_20 = re.compile('^20[0-9][0-9]-..-..')
     years = [f'20{i}' for i in range(10, 19)]
     per_year_disposal_counts = {}
@@ -585,18 +600,18 @@ def analyze_dist_court_wise_case_pendency_per_year(state_dist_court_df):
         per_year_data[year] = {}
         per_year_disposal_counts[year] = {}
         for row in state_dist_court_df.itertuples():
-            key = (row[1], row[2], row[3])
+            key = (row[sc_idx], row[dc_idx], row[cn_idx])
             per_year_disposal_counts[year][key] = 0
             per_year_data[year][key] = []
     
     
     for year in years:
         print(f'Processing cases for year : {year}')
-        case_data = pd.read_csv(f'cases/_/cases_{year}.csv')
+        case_data = pd.read_csv(f'{cases_base_path}/cases_acts_{year}.csv')
         
         for row in state_dist_court_df.itertuples():
-            key = (row[1], row[2], row[3])
-            s,d,c = row[1], row[2], row[3]
+            key = (row[sc_idx], row[dc_idx], row[cn_idx])
+            s,d,c = row[sc_idx], row[dc_idx], row[cn_idx]
             
             
             court_case_data = case_data[case_data['state_code'] == s]
@@ -631,8 +646,8 @@ def analyze_dist_court_wise_case_pendency_per_year(state_dist_court_df):
 
     for year in years:
         for row in state_dist_court_df.itertuples():
-            key = (row[1], row[2], row[3])
-            s,d,c = row[1], row[2], row[3]
+            key = (row[sc_idx], row[dc_idx], row[cn_idx])
+            s,d,c = row[sc_idx], row[dc_idx], row[cn_idx]
             
             data = per_year_data[year][key]
             data[5] = per_year_disposal_counts[year][key]
@@ -643,7 +658,7 @@ def analyze_dist_court_wise_case_pendency_per_year(state_dist_court_df):
             
             dist_court_wise_pendency_rates_per_year.loc[len(dist_court_wise_pendency_rates_per_year.index)] = data
 
-    dist_court_wise_pendency_rates_per_year.to_csv('generated/dist_court_wise_pendency_rates_per_year.csv')
+    dist_court_wise_pendency_rates_per_year.to_csv(save_file)
     return dist_court_wise_pendency_rates_per_year
 
 
@@ -656,6 +671,7 @@ def analyze_dist_court_wise_tenures_by_year(state_dist_court_df):
     
     for row in state_dist_court_df.itertuples():
         s,d,c = row[1], row[2], row[3]
+#         print('checking ',s,d,c)
         court_judges = judges[judges['state_code'] == s]
         court_judges = court_judges[court_judges['dist_code'] == d]
         court_judges = court_judges[court_judges['court_no'] == c]
@@ -710,7 +726,7 @@ def analyze_dist_court_wise_tenures_by_year(state_dist_court_df):
             dist_court_wise_tenures_by_year.loc[len(dist_court_wise_tenures_by_year.index)] = [year, s, d, c, count, median, mean, weighted_mean, avg_daily_judge_count]
             
     
-    dist_court_wise_tenures_by_year.to_csv('generated/dist_court_wise_tenures_by_year.csv')
+#     dist_court_wise_tenures_by_year.to_csv('generated/dist_court_wise_tenures_by_year.csv')
     return dist_court_wise_tenures_by_year
 
 
@@ -727,25 +743,23 @@ def plotDateDeltas(caseData, title):
     plt.ylabel('Number of cases')
 
     
-def analyzeActIdsByYearState():
+def analyzeActIdsByYearState(years):
     #IPC, MV, NI
     #Criminal Cases, Motor Vehicles Act, Negotiable Items
-    years = [f'20{i}' for i in range(14,19)]
+#     years = [f'20{i}' for i in range(10,12)]
 
     date_for_20 = re.compile('^20[0-9][0-9]-*')
 
-#     ipcDf = pd.read_csv('generated/filteredIPCActs.csv')
-#     ipcDf = pd.read_csv('generated/filteredMVActs.csv')
-    ipcDf = pd.read_csv('generated/filteredNIActs.csv')
 #     act_family = 'IPC'
 #     act_family = 'MV'
-    act_family = 'NI'
+    act_family = 'IPC'
+    actFamilyDf = pd.read_csv(f'generated/filtered{act_family}Acts.csv')
     acts_sections = pd.read_csv('acts_sections.csv')
     acts_sections.drop(['section', 'bailable_ipc', 'number_sections_ipc', 'criminal'], axis = 1)
     acts_sections = acts_sections[acts_sections['ddl_case_id'].notnull()]
     acts_sections = acts_sections[acts_sections['act'].notnull()]
 
-    ipcActsSections = acts_sections.merge(ipcDf, how = 'inner', on = ['act'])
+    ipcActsSections = acts_sections.merge(actFamilyDf, how = 'inner', on = ['act'])
     del acts_sections
 
     result = pd.DataFrame(columns = ['year', 'state_code', 'act_family', 'num_cases', 'median_decision_days', 'mean_decision_days', 'A_count', 'B_count', 'C_count', 'D_count', 'E_count'])
@@ -756,12 +770,12 @@ def analyzeActIdsByYearState():
         # ddl_case_id	year	state_code	dist_code	court_no	date_of_filing	date_of_decision
         caseData.drop(['cino', 'judge_position', 'female_defendant', 'female_petitioner', 'female_adv_def', 'female_adv_pet', 'type_name', 'purpose_name', 'disp_name', 'date_first_list', 'date_last_list', 'date_next_list'], axis = 1)
 
-        ipcCases = caseData.merge(ipcActsSections, how = 'inner', on = ['ddl_case_id'])
+        actFamilyCases = caseData.merge(ipcActsSections, how = 'inner', on = ['ddl_case_id'])
         del caseData
 
-        stateCodes = ipcCases['state_code'].unique()
+        stateCodes = actFamilyCases['state_code'].unique()
         for sc in stateCodes:
-            stateCases = ipcCases[ipcCases['state_code'] == sc]
+            stateCases = actFamilyCases[actFamilyCases['state_code'] == sc]
             date_deltas = [(datetime.datetime.strptime(end_date,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days for end_date, start_date in zip(stateCases['date_of_decision'][stateCases['date_of_decision'].notnull()], stateCases['date_of_filing'][stateCases['date_of_decision'].notnull()]) if (date_for_20.match(end_date) and (datetime.datetime.strptime(end_date,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days > 0)]
 
             date_deltas = np.array(date_deltas)
@@ -773,41 +787,44 @@ def analyzeActIdsByYearState():
             if len(date_deltas) != 0:
                 result.loc[len(result.index)] = [year, sc, act_family, len(date_deltas), np.median(date_deltas), np.mean(date_deltas), aCount, bCount, cCount, dCount, eCount]
 
-#     result.to_csv('generated/ipc_case_stats_by_year_state.csv')
-#     result.to_csv('generated/mv_case_stats_by_year_state.csv')
-    result.to_csv('generated/ni_case_stats_by_year_state.csv')
+    result.to_csv(f'generated/{act_family}_case_stats_by_year_state_{years[0]}.csv')
 
     
 def analyzeActIdsByCourt():
     #IPC, MV, NI
     #Criminal Cases, Motor Vehicles Act, Negotiable Items
-    years = [f'20{i}' for i in range(14,16)]
+    years = [f'20{i}' for i in range(10,19)]
     
     date_for_20 = re.compile('^20[0-9][0-9]-*')
     
-    ipcDf = pd.read_csv('generated/filteredIPCActs.csv')
-    act_family = 'IPC'
+    act_family = 'NI'
+    actFamilyDf = pd.read_csv(f'generated/filtered{act_family}Acts.csv')
+
+    
     acts_sections = pd.read_csv('acts_sections.csv')
     acts_sections.drop(['section', 'bailable_ipc', 'number_sections_ipc', 'criminal'], axis = 1)
     acts_sections = acts_sections[acts_sections['ddl_case_id'].notnull()]
     acts_sections = acts_sections[acts_sections['act'].notnull()]
 
-    ipcActsSections = acts_sections.merge(ipcDf, how = 'inner', on = ['act'])
+    actFamilyActsSections = acts_sections.merge(actFamilyDf, how = 'inner', on = ['act'])
     del acts_sections
     
     result = pd.DataFrame(columns = ['year', 'state_code', 'dist_code', 'court_no', 'act_family', 'num_cases', 'median_decision_days', 'mean_decision_days', 'A_count', 'B_count', 'C_count', 'D_count', 'E_count'])
     
     for year in years:
+        print(f'Processing year : {year}')
         caseData = pd.read_csv(f'cases/_/cases_{year}.csv')
         # ddl_case_id	year	state_code	dist_code	court_no	date_of_filing	date_of_decision
         caseData.drop(['cino', 'judge_position', 'female_defendant', 'female_petitioner', 'female_adv_def', 'female_adv_pet', 'type_name', 'purpose_name', 'disp_name', 'date_first_list', 'date_last_list', 'date_next_list'], axis = 1)
 
-        ipcCases = caseData.merge(ipcActsSections, how = 'inner', on = ['ddl_case_id'])
+        actFamilyCases = caseData.merge(actFamilyActsSections, how = 'inner', on = ['ddl_case_id'])
+        print('Length of caseData : ', len(caseData))
+        print('Length of actFamilyCases : ', len(actFamilyCases))
         del caseData
         
-        stateCodes = ipcCases['state_code'].unique()
+        stateCodes = actFamilyCases['state_code'].unique()
         for sc in stateCodes:
-            stateCases = ipcCases[ipcCases['state_code'] == sc]
+            stateCases = actFamilyCases[actFamilyCases['state_code'] == sc]
             dist_codes = stateCases['dist_code'].unique()
             for dc in dist_codes:
                 distCases = stateCases[stateCases['dist_code'] == dc]
@@ -816,6 +833,179 @@ def analyzeActIdsByCourt():
                     courtCases = distCases[distCases['court_no'] == cn]
                     date_deltas = [(datetime.datetime.strptime(end_date,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days for end_date, start_date in zip(courtCases['date_of_decision'][courtCases['date_of_decision'].notnull()], courtCases['date_of_filing'][courtCases['date_of_decision'].notnull()]) if (date_for_20.match(end_date) and (datetime.datetime.strptime(end_date,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days > 0)]
             
+                    date_deltas = np.array(date_deltas)
+                    aCount = np.sum(date_deltas <= 1 * 365)
+                    bCount = np.sum(date_deltas <= 3 * 365) - aCount
+                    cCount = np.sum(date_deltas <= 5 * 365) - (aCount + bCount)
+                    dCount = np.sum(date_deltas <= 10 * 365) - (aCount + bCount + cCount)
+                    eCount = np.sum(date_deltas > 10 * 365)
+                    if len(date_deltas) != 0:
+                        result.loc[len(result.index)] = [year, sc, dc, cn, act_family, len(date_deltas), np.median(date_deltas), np.mean(date_deltas), aCount, bCount, cCount, dCount, eCount]
+    
+    result.to_csv(f'generated/{act_family}_case_stats_by_year_court.csv')
+    
+    
+def analyzeFilingToFirstList():
+    date_for_20 = re.compile('^20[0-9][0-9]-*')
+
+    years = [f'20{i}' for i in range(10,19)]
+    for year in years:
+
+        caseData = pd.read_csv(f'cases/_/cases_{year}.csv')
+        caseData = caseData[caseData['date_of_filing'].notnull()]
+        caseData = caseData[caseData['date_first_list'].notnull()]
+        dateDeltas = [(datetime.datetime.strptime(first_list,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days for first_list, start_date in zip(caseData['date_first_list'],
+            caseData['date_of_filing']) if (date_for_20.match(first_list) and date_for_20.match(start_date) and (datetime.datetime.strptime(first_list,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days > 0)]
+        dateDeltas = np.array(dateDeltas)
+        f = plt.figure()
+        f.set_figwidth(10)
+        f.set_figheight(10)
+        plt.hist(dateDeltas[dateDeltas < 3650], bins = 40)
+        plt.xlabel('Number of days')
+        plt.ylabel('Number of cases')
+        plt.title(f'Year : {year}')
+        print(f'Year : {year}')
+        print('median : ', np.median(dateDeltas))
+        print('mean : ', np.mean(dateDeltas))
+        plt.savefig(f'generated/first_listening_{year}.png')
+        
+
+def analyzeFilingToFirstListForCourts(courts):
+    date_for_20 = re.compile('^20[0-9][0-9]-*')
+
+    years = [f'20{i}' for i in range(10,19)]
+    filingListPerYearDf = pd.DataFrame(columns = ['year', 'state_code', 'dist_code', 'court_no', 'mean_days', 'median_days'])
+    filingListDf = pd.DataFrame(columns = ['state_code', 'dist_code', 'court_no', 'mean_days', 'median_days'])
+    
+    allDeltas = {}
+    for year in years:
+        print(f'Processing year {year}')
+        caseData = pd.read_csv(f'generated/filtered_cases/cases_acts_{year}.csv')
+        caseData = caseData[caseData['date_of_filing'].notnull()]
+        caseData = caseData[caseData['date_first_list'].notnull()]
+        
+        for idx, row in courts.iterrows():
+            court_data = caseData[caseData['state_code'] == row['state_code']]
+            court_data = court_data[court_data['dist_code'] == row['dist_code']]
+            court_data = court_data[court_data['court_no'] == row['court_no']]
+            
+            dateDeltas = [(datetime.datetime.strptime(first_list,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days for first_list, start_date in zip(court_data['date_first_list'],
+            court_data['date_of_filing']) if (date_for_20.match(first_list) and date_for_20.match(start_date) and (datetime.datetime.strptime(first_list,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days > 0)]
+            dateDeltas = np.array(dateDeltas)
+            
+            if len(dateDeltas) > 0:
+                filingListPerYearDf.loc[len(filingListPerYearDf.index)] = [year, row['state_code'], row['dist_code'], row['court_no'], np.mean(dateDeltas), np.median(dateDeltas)]
+            
+                key = (row['state_code'], row['dist_code'], row['court_no'])
+                if key not in allDeltas.keys():
+                    allDeltas[key] = list(dateDeltas)
+                else:
+                    allDeltas[key].extend(dateDeltas)
+                    
+    for idx, row in courts.iterrows():
+        key = (row['state_code'], row['dist_code'], row['court_no'])
+
+        if key in allDeltas.keys():
+            dateDeltas = allDeltas[key]
+            if len(dateDeltas) > 0:
+                filingListDf.loc[len(filingListDf.index)] = [row['state_code'], row['dist_code'], row['court_no'], np.mean(np.array(dateDeltas)), np.median(np.array(dateDeltas))]
+
+            
+    filingListDf.to_csv('generated/filingListDf_v2.csv')
+    filingListPerYearDf.to_csv('generated/filingListPerYearDf_v2.csv')
+            
+#         f = plt.figure()
+#         f.set_figwidth(10)
+#         f.set_figheight(10)
+#         plt.hist(dateDeltas[dateDeltas < 3650], bins = 40)
+#         plt.xlabel('Number of days')
+#         plt.ylabel('Number of cases')
+#         plt.title(f'Year : {year}')
+#         print(f'Year : {year}')
+#         print('median : ', np.median(dateDeltas))
+#         print('mean : ', np.mean(dateDeltas))
+#         plt.savefig(f'generated/first_listening_{year}.png')
+
+            
+    
+def getBestAndWorstCourts(caseStats, n = 15, minInstituted = 100, minDisposed = 0, minCount = 2):
+    caseStats = caseStats[caseStats['num_instituted'] > minInstituted]
+    caseStats = caseStats[caseStats['num_disposed'] > minDisposed]
+
+    years = [f'20{i}' for i in range(10,19)]
+    avgRanks = {}
+    rankSum = {}
+    yearCounts = {}
+    for year in years:
+        yearStats = caseStats[caseStats['year'] == int(year)]
+        yearStats = yearStats.sort_values(by = 'median_decision_days', ascending = True, ignore_index = True)
+        for idx, row in yearStats.iterrows():
+            key = (row['state_code'], row['dist_code'], row['court_no'])
+            if key not in rankSum.keys():
+                rankSum[key] = idx
+            else:
+                rankSum[key] = rankSum[key] + idx
+            
+            if key not in yearCounts.keys():
+                yearCounts[key] = 1
+            else:
+                yearCounts[key] = yearCounts[key] + 1
+    
+    for item in rankSum.items():
+        if yearCounts[item[0]] >= minCount:
+            avgRanks[item[0]] = item[1] / yearCounts[item[0]] # sum of ranks / number of times a key appears
+    
+    del rankSum
+    allItems = [item for item in avgRanks.items()]
+    del avgRanks
+    allItems = sorted(allItems, key = lambda x : x[1])
+    print(allItems[:n])
+    print(allItems[-n:])
+    
+    bestCourts = [t[0] for t in allItems[:n]]
+    worstCourts = [t[0] for t in allItems[-n:]]
+    return bestCourts, worstCourts
+
+def getRankedCourts(caseStats):
+    years = [f'20{i}' for i in range(10,19)]
+    rankSum = {}
+    for year in years:
+        yearStats = caseStats[caseStats['year'] == int(year)]
+        yearStats = yearStats.sort_values(by = 'median_decision_days', ascending = True)
+        for idx, row in yearStats.iterrows():
+            key = (row['state_code'], row['dist_code'], row['court_no'])
+            if key not in rankSum.keys():
+                rankSum[key] = idx
+            else:
+                rankSum[key] = rankSum[key] + idx
+    
+    allItems = [item for item in rankSum.items()]
+    del rankSum
+    allItems = sorted(allItems, key = lambda x : x[1])
+    rankedCourts = [t[0] for t in allItems]
+    return rankedCourts
+
+def analyzeCaseAgeDistributionByCourtYear(state_dist_court_df, cases_base_path,sc_idx, dc_idx, cn_idx, save_file):
+    years = [f'20{i}' for i in range(10,19)]
+    
+    date_for_20 = re.compile('^20[0-9][0-9]-*')
+    
+    result = pd.DataFrame(columns = ['year', 'state_code', 'dist_code', 'court_no', 'num_cases', 'median_decision_days', 'mean_decision_days', 'A_count', 'B_count', 'C_count', 'D_count', 'E_count'])
+    
+    for year in years:
+        print(f'Processing cases for year : {year}')
+        case_data = pd.read_csv(f'{cases_base_path}/cases_acts_{year}.csv')
+        
+        for row in state_dist_court_df.itertuples():
+            key = (row[sc_idx], row[dc_idx], row[cn_idx])
+            s,d,c = row[sc_idx], row[dc_idx], row[cn_idx]
+            
+            
+            court_case_data = case_data[case_data['state_code'] == s]
+            court_case_data = court_case_data[court_case_data['dist_code'] == d]
+            court_case_data = court_case_data[court_case_data['court_no'] == c]
+                    
+            date_deltas = [(datetime.datetime.strptime(end_date,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days for end_date, start_date in zip(court_case_data['date_of_decision'][court_case_data['date_of_decision'].notnull()], court_case_data['date_of_filing'][court_case_data['date_of_decision'].notnull()]) if (date_for_20.match(end_date) and date_for_20.match(start_date) and (datetime.datetime.strptime(end_date,"%Y-%m-%d") - datetime.datetime.strptime(start_date,"%Y-%m-%d")).days > 0)]
             date_deltas = np.array(date_deltas)
             aCount = np.sum(date_deltas <= 1 * 365)
             bCount = np.sum(date_deltas <= 3 * 365) - aCount
@@ -823,9 +1013,6 @@ def analyzeActIdsByCourt():
             dCount = np.sum(date_deltas <= 10 * 365) - (aCount + bCount + cCount)
             eCount = np.sum(date_deltas > 10 * 365)
             if len(date_deltas) != 0:
-                result.loc[len(result.index)] = [year, sc, dc, cn, act_family, len(date_deltas), np.median(date_deltas), np.mean(date_deltas), aCount, bCount, cCount, dCount, eCount]
+                result.loc[len(result.index)] = [year, s, d, c, len(date_deltas), np.median(date_deltas), np.mean(date_deltas), aCount, bCount, cCount, dCount, eCount]
     
-    result.to_csv('generated/ipc_case_stats_by_year_court.csv')
-            
-    
-            
+    result.to_csv(save_file)
